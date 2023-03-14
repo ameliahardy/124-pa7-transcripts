@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+         Our chatbot takes in movies from user input and does the following:
+        
+          - Update user rating based on user input
+          - Look into user rating in order to give recommendations 
+          - Contains a recommendation system that activates when user lists five or more movies in the database
+          - Deals with arbitrary responses / failing gracefully when there is no movie detected.
+          - The chatbot performs multi-movie sentiment analysis
+          - If the user enters a movie that isn't in the database, a clarification message prompts the user.
+          - If the chatbot finds movies with similar titles, it asks to clarify
+          - Returns the movie and sentiment to the user in a naturalistic, human sounding manner
+        
+[96mmoviebot> [0mHeyyyyyyyy girly-cat! 
+> I liked "The Notbook".
+
+[96mmoviebot> [0mOk, seems like we haven't heard of The Notbook. Can you give me another title?
+> Yes.
+
+[96mmoviebot> [0mInteresting. Please tell me more.
+> I did not like "Screm"
+
+[96mmoviebot> [0mOk, seems like we haven't heard of Screm. Can you give me another title?
+> No.
+
+[96mmoviebot> [0mOnly you are so unique to have been so brave with what you said.
+> :quit
+[96mmoviebot> [0mSee you slay-ter! 

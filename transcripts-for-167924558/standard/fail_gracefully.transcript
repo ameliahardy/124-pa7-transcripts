@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Normal mode: welcome to the BusterBot. Please rate movies here, 
+        putting movies in quotations. Remember to give your opinion and please
+        avoid giving multiple movies at once!
+        
+[96mbusterbot> [0mHow can I help you?
+> I saw "Titanic (1997)"
+
+[96mbusterbot> [0mI couldn't tell if you liked "Titanic (1997)". Can you clarify?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mbusterbot> [0mI'm sorry, I haven't heard of the movie "Dan Jurafsky and the Ten Dwarfs (2019)" before. Could you try again?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mbusterbot> [0mThat's a lot of movies, can you tell me one at a time?
+> I like "Titanic".
+
+[96mbusterbot> [0mI found more than one movie with the title "Titanic". Could you clarify?
+> I like titanic.
+
+[96mbusterbot> [0mI'm sorry, did you mention a movie?
+> I like "titanic".
+
+[96mbusterbot> [0mThere are so many versions of "titanic"! Which one are you referring to?
+> I like 10 things I hate about you.
+
+[96mbusterbot> [0mI'm sorry, did you mention a movie?
+> Howdy.
+
+[96mbusterbot> [0mI'm sorry, did you mention a movie?
+> ...
+
+[96mbusterbot> [0mI don't know if you gave me a movie, could you try again please?
+> I saw "Titanic (1220)"
+
+[96mbusterbot> [0mHmm...I don't think the movie "Titanic (1220)" is out yet for me. Do you have another?
+> :quit
+[96mbusterbot> [0mHave a nice day!

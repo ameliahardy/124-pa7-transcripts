@@ -1,0 +1,80 @@
+#########################################################################################
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES (2)
+FEATURE - Alternate/foreign titles: YES (4)
+FEATURE - Disambiguation (part 1): YES (2)
+FEATURE - Fine-grained sentiment extraction: YES (8)
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES (6)
+FEATURE - Extracting sentiment with multiple-movie input: YES (6)
+FEATURE - Disambiguation (part 2): YES (4)
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES (4)
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES (6)
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES (4)
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions (BRAN PAPINEAU AND MARIE TANO)                                     #
+#########################################################################################
+Bran Implemented the following:
+Part 2a) Find Movies by Title (starter) (6/6)
+Part 4) Collaborative Filtering (starter) (6/6)
+Process
+Chatbox theme/persona
+Failing gracefully
+Communicating sentiment and movie extracted to the user
+Speaking reasonably fluently
+Alternate/foreign titles  (see clarifications on the far right)
+Chatbot theme/persona
+Dialogue for disambiguation (Using your implementation of disambiguate and extension of find_movies_by_title)
+Creatively Debug
+
+Marie Implemented the following:
+Part 1a) Extract Titles (starter) (6/6)
+Part 2a) Find Movies by Title (starter) (6/6)
+Part 2b) Find Movies by Title - Bad Capitalization (creative) - dev (1/1)
+Part 2d) Find Movies by Title - Disambiguation (creative) - dev (1/1)
+Part 3a) Extract Sentiment (starter) (12/12)
+Part 3b) Extract Sentiment (creative) - dev (2/2)
+Part 5) Binarizing Ratings (2/2)
+Part 7) Extract Sentiment with Multiple-Movie Input (creative) - dev (2/2)
+Part 8) Disambiguate 2 (creative) - dev (2/2)
+Process
+Dialogue for disambiguation (Using your implementation of disambiguate and extension of find_movies_by_title)"
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Humans are quick to anthropomorphize chatbots, like ELIZA.
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice,
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks,
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+A possible consequence is that users are more likely to identify the outputs of such chatbot systems as infallible because they think the chatbots have knowledge and aren't just statistical representations of human language. Another consequence would be that users are more likely to confide in and provide personal information to anthropomorphized chatbots which can be dangerous if such data is sold or used for subsequent training. 
+
+Engineers can explicitly label outputs with phrases such as "This is an automated response" and remind the user that they are a chatbot as opposed to an actual human being.
+
+
+
+#########################################################################################
+# Optional: In our creative mode, all dialogue is in Shakespearean English! Not solely  #
+# the bot's intro :).                                                                   #
+#########################################################################################
+LOVE <3

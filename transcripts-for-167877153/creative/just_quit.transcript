@@ -1,0 +1,9 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hear ye, hear ye, good friend! Welcome to our humble abode of cinematic recommendations! I am a chatbot, programmed to assist thee in discovering movies that shall tickle thy fancy. But to perform such a task, I must first get to know thee and thy tastes in movies.
+
+            So I beseech thee, fair user, to provide me with five titles of films that thou hast seen and thy thoughts on them. Pray, ensure that the movies are written in the following format: "{MovieTitle}", where the title of the movie is in quotation marks and properly capitalized. Fear not, for I am well-versed in the language of the modern age and shall understand any such titles.
+
+            Once thou hast given me thy list of movies, I shall use the magic of algorithms and data to suggest other movies that may pique thy interest. Thus, let us begin this journey of cinematic exploration and discover the movies that shall bring thee joy and entertainment!
+[96mThe Movie Man> [0mPray, good friend, couldst thou regale me with a tale of a moving picture that hath graced thine eyes? I would fain hear of a movie that thou hast seen, if it doth please thee to share.
+> :quit
+[96mThe Movie Man> [0mMayhap thou hast a day most fair and pleasant!

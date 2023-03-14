@@ -1,0 +1,90 @@
+#########################################################################################
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Ely - Implemented Process(), extract_titles(), find_movies_closest_to_title(), recommend() 
+and others for both basic and creative. Worked on developing test cases.
+
+Janice - Implemented Process(), recommend(), binarize(), similarities(), and others.
+creative features of find_movies_by_title, and extract_titles(). Worked on developing 
+various test cases. 
+
+Shumann - Worked on extract_sentiment for both creative and basic. Worked on Process() 
+and disambiguation. Implemented various extensions on sentiment-related 
+functions/funtionalities.
+
+Chris - Worked on recommend(), extract_sentiment(), persona element, debugging, 
+emotions/sentiment-related functionalities and others. Developed various test cases & tested. 
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+There are many ramifications of anthropomorphizing chatbot systems. One ramification is the increase in trust with the chatbot
+due to it being more human. People with less technological knowledge (children and older individuals) will be more willing
+to trust the chatbot which could lead to further ramifications. Having more trust in these chatbots may lead individuals to
+trust any information they give and divulge private information to them. The former will lead to misinformation being spread 
+as chatbots will not be 100% accurate; however, users that have high trust in them due to their anthropomorphized features will
+take it as face value which could lead to more misinformation being spread in general. Meanwhile, the latter raises privacy concerns 
+as chatbots will most likely be collecting some data; giving out private information is a one way ticket to your identity being exposed
+online. Another ramification of anthropomorphizing chatbots is the perpetuation of biases if the chatbot mimics a certain gender or 
+race. Chatbots are limited by the information they are fed; if our chatbot isn't well trained and supposedly mimics a demographic,
+certain stereotypes and biases may come out of it. 
+
+There are many ways that engineers can ensure that users can easily distinguish chatbot responses from human ones. One important method 
+would be adding a disclaimer anytime the chatbot surfaces to respond. For example, before entering the chatbot chat, a pop up notification
+can remind users that they are interacting with an AI and not a human so that they should not trust 100% of everything it says nor to divulge 
+private information. Even though this is redundant and repetitive, this will ensure that users will have knowledge of the chatbot's true characteristics
+before interacting with it. Additionally, going on this theme of repetitive and redundant reminders, we can have the chatbot include in every response a small
+disclaimer about it being an AI or have every message it sends include a logo that indicates it as a chatbot. We can also distinguish it in the language it uses;
+humans definitely talk more casually and with a certain degree of personality that makes everyone unique; having the chatbot have a simplified, robotic personality 
+with a very mundane way of talking will also help distinguish itself as a chatbot (i.e. only responding to commands and not adding any extra talking that does not pertain 
+to the original request). These many ways of reminding the users may be redundant and repetitive; however, it is important to ensure the users always recognize
+that they are interacting with the chatbot to avoid the ramifications listed previously.
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!
+
+REFERENCE: For our vocabulary lists (e.g. COMMON_WORD, COMMON_THREE_WORD_PHRASE, etc), 
+we utilized words that were mentioned in the source COCA (Corpus of Contemporary American English (COCA)). 

@@ -1,0 +1,77 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is the SUPER MOVIEBOT. This movie bot will ask the user for an input 
+        of movies & the user's opinion on it! After 5 or more data inputs, the moviebot
+        will automatically ask the user if they want a ~JUICY~ recommendation! Enjoy!
+        
+[96mGordon Ramsey Bot> [0mHallo, mate! I'm Gordon Ramsey, your trusty movie chef. Give me some ingredients (opinions on movies), and once I have enough ingredients for the perfect dish, I'll whip you up nicely seasoned suggestions.
+> Hello!
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> I am feeling sad.
+
+[96mGordon Ramsey Bot> [0mAye, you seem gutted mate... I'm sorry about that, maybe I can cook ya some of my famous Beef Wellington? 
+> I am feeling angry.
+
+[96mGordon Ramsey Bot> [0mAye, it wasn't my intention to get you all riled up. Although I can be daft, I am just a chatbot... :( 
+> I have been feeling down lately.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> I'm so glad that I finished my exams.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> I am very angry.
+
+[96mGordon Ramsey Bot> [0mAye, it wasn't my intention to get you all riled up. Although I can be daft, I am just a chatbot... :( 
+> I am now happy.
+
+[96mGordon Ramsey Bot> [0mMm, you like "happy"! Tell me more about a movie so I can season this dish!!
+> I am ANGERED.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mGordon Ramsey Bot> [0mGive me more bloody juicy takes on any movies!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mGordon Ramsey Bot> [0mAye, it wasn't my intention to get you all riled up. Although I can be daft, I am just a chatbot... :( 
+> I'm anxious about everything.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> Colorless green ideas sleep FURIOUSLY.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_Colorless'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167992714/chatbot.py", line 263, in process
+    title_list = self.extract_titles(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167992714/chatbot.py", line 643, in extract_titles
+    matching_movies_list_1 = self.find_movies_by_title(potential_title_1)  
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167992714/chatbot.py", line 712, in find_movies_by_title
+    if re.match(alternate_pattern, pot_match) or re.match(foreign_pattern, pot_match):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 191, in match
+    return _compile(pattern, flags).match(string)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

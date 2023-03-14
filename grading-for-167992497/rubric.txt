@@ -1,0 +1,99 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Santiago Hernandez:
+I worked on the piecing together the process() function by decomposing
+the states in the chatbot and broke it down into standard and creative mode. Moreover, I
+implemented the binarize(), similarity() and recommend() functions. Proposed ideas for the
+personality of the chatbot and worked on arbitrary input and emotions.
+
+<<<<<<< HEAD
+TOMAS:
+    - Main job was working on extract_titles, find_movies_by_title with and without correct capitalisation and article handling
+, and extract_sentiment with simple and fine_grained sentiment extraction. I implemented functionality for foreign titles and akas. Also contributed to miscellanous bits throughout process
+and in the chatbot phrases etc. Also answered the ethics question.
+=======
+Tomas Pfeffer:
+Main job was working on extract_titles, find_movies_by_title with and without correct
+capitalisation and article handling, and extract_sentiment with simple and fine_grained
+sentiment extraction. I implemented functionality for foreign titles and akas.
+ Also contributed to miscellanous bits throughout process and in the
+chatbot phrases etc. Also answered the ethics question.
+>>>>>>> 71157872ce8d07262bc3c5caa2a9a94c831b8e99
+
+Cheyenne Sadeghi:
+I coded find_movies_closest_to_title and disambiguate. The way I complete find_movies_closest_to_title
+was I used a dynamic programming approach to calculate minimum distance as a separate function.
+I would make a map of all the movie titles, which I got from a regex that takes away the year and
+parentheses to just leave movie title. I then appended that title to a brand new list if it was
+smaller than the current minimum distance or if it was equal I simply appened it to the current list.
+For disambiguate I also used a regex to take away the title because I want to match it to what I
+extrapolate from what clarification I received. If the movie number associated attached with the
+title I returned it otherwise I tried to make my best guesses to what they wanted.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chatbot systems could have various important ethical and real-world implications.
+Already with chatGPT, for instance, it has become very clear that humans tend to attribute a high level of trust to outputs which have little empirical 
+basis, which creates a vector for 'attack' in that misinformation can be intentionally spread through adversarial attacks, 
+i.e. through disproportionately providing these models with biased training data to serve some political motive for example.
+Equally concering is malinformation, in which 'true' facts can be presented without a careful consideration by the]
+chatbot of providing important context. One could imagine that a chatbot would positively reinforce malicious views
+on the part of users who ask pointed and directed questions. The conflation of sophisticated chat systems with an authoritative
+trustworthy, or even omniscient, figure can lead to further issues of malinformation. For instance, children may ask these chatbots for advice
+on sensitive or age-restricted topics, and can be exposed to both incorrect and inappropriate information.
+In terms of psychogical help, as ELIZA was designed to deliver to some extent, it is problematic for people who may need serious medical attention and clinical
+diagnoses to confide in chatbots that may not only be unsecure, but also unable to notice when someone should be referred for more serious help. 
+
+A useful way to curb these issues is to introduce more doubtful language, that acknowledges the limitations of the chatbots epistemic background,
+e.g. ('might', 'may', 'possibly')
+Many chatbots are designed to sound confident, but the opposite may be more helpful, to convey the sense that they are not omniscient. 
+Chatbots should also give disclaimers whenever dealing with sensitive or high-importance topics like medical care or mental health.
+At a more advanced level, their responses could include some sort of cryptographic signature which indicates that this is a computer-generated output rather than a
+human one. 
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

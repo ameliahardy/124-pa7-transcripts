@@ -1,0 +1,58 @@
+heyyyy!(✿◠‿◠)
+Welcome to Stanford CS124's Chatbot Autograding.
+ I'm Quince (they/them)! I studied film at NYU and I'm a huge fan of French New Wave! I will be your personal movie recommender. I am interactive agent designed to find you a perfect movie. When run in creative mode, I can handle emotions related to film. Just tell me what you liked or disliked to find movies. To exit, just type :quit at any time.
+[96mQuince> [0mLet's get started! Tell me about some movies you liked or didn't like.
+> I liked "Titanic (1997)"
+
+what's the titles ['Titanic (1997)']
+what's the index [1359]
+[96mQuince> [0mGreat, so you like  Titanic (1997)(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Tell me more movies that you like!
+> I hated "Zootopia"
+
+what's the titles ['Zootopia']
+what's the index [9070]
+[96mQuince> [0mI'm sorry that you didn't enjoy ZootopiaQAQCan you tell me about another movie you like?
+> I liked "Tangled Ever After"
+
+what's the titles ['Tangled Ever After']
+what's the index [8602]
+[96mQuince> [0mGreat, so you like  Tangled Ever After(ﾉ>ω<)ﾉ Tell me more movies that you like!
+> I hated "Sleeping Beauty"
+
+what's the titles ['Sleeping Beauty']
+what's the index [1656]
+[96mQuince> [0mI'm sorry that you didn't enjoy Sleeping Beauty( ˘•́_•̀)っCan you tell me about another movie you like?
+> I liked "Mulan"
+
+what's the titles ['Mulan']
+what's the index [1472]
+[96mQuince> [0mSorry... I didn't quite get that. What are some other movies you enjoy that you can share with me?(≧◡≦)
+> yes
+
+[96mQuince> [0mUmm... I don't quite get that.Tell me about a movie you like!
+> yes
+
+[96mQuince> [0m_(┐「ε:)_I don't quite get that.Tell me about a movie you like!
+> yes
+
+[96mQuince> [0mwell... I don't quite get that.Tell me about a movie you like!
+> y
+
+[96mQuince> [0mHuh? I'm confused~I don't quite get that.Tell me about a movie you like!
+> y
+
+[96mQuince> [0mI don't quite get that.Tell me about a movie you like!
+> Yes!
+
+[96mQuince> [0mwell... I don't quite get that.Tell me about a movie you like!
+> yeah
+
+[96mQuince> [0mI don't quite get that.Tell me about a movie you like!
+> no
+
+[96mQuince> [0m(๑•́ ₃ •̀๑)I don't quite get that.Tell me about a movie you like!
+> nah
+
+[96mQuince> [0mI don't quite get that.Tell me about a movie you like!
+> :quit
+[96mQuince> [0mbye~(ﾉ´ヮ`)ﾉ*: ･ﾟ

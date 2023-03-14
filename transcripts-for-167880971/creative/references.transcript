@@ -1,0 +1,38 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+        Walley is a movie recommending chatbot! Tell him about some movies you have seen and he can give you some 
+        recommendations on what to watch next!"
+        
+[96mWalley> [0mHiya I'm Walley! What can I do for ya?
+> I liked "Blade Runner".
+
+[96mWalley> [0mBig time stuff watching Blade Runner!
+> But not "Terminator Salvation".
+
+[96mWalley> [0mI'm real confused, what's going on with Terminator Salvation. Give it another shot old sport.
+> I saw "Titanic (1997)".
+
+[96mWalley> [0mBe clear with me here, what's your opinion of Titanic (1997). Spin your answer around and send it back my way.
+> I liked it.
+
+[96mWalley> [0mCan you give a bit more information aboutI liked it.
+> I watched "Scream".
+
+[96mWalley> [0mWhat's your take on Scream. Fill me in on the deets.
+> I didn't like that movie.
+
+[96mWalley> [0mI'm not sure how to respond to that. Could you please provide me with more information?
+> I felt the same about "Zootopia".
+
+[96mWalley> [0mWhat's your take on Zootopia. Fire off another for me.
+> And also "Ex Machina".
+
+[96mWalley> [0mI'm real confused, what's going on with Ex Machina. Fire off another for me.
+> :quit
+[96mWalley> [0mWalley out!

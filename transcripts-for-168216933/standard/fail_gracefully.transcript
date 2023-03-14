@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI processed I saw "Titanic (1997)" in starter mode!! 
+ Human emotions are difficult :( Did you like or dislike  Titanic (1997). How about you tell me about another movie?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mI processed I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie. in starter mode!! 
+ I've never heard of  Dan Jurafsky and the Ten Dwarfs (2019). What's another movie you liked/disliked?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mI processed I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You". in starter mode!! 
+ Sorry I think you're talking about too many movies at once :( Tell me about just one of them!
+> I like "Titanic".
+
+[96mmoviebot> [0mI processed I like "Titanic". in starter mode!! 
+
+Ok, you liked Titanic Tell me about another movie!
+> I like titanic.
+
+[96mmoviebot> [0mI processed I like titanic. in starter mode!! 
+ Sorry I didn't quite catch any movies there. Why don't you tell me something about a movie?
+> I like "titanic".
+
+[96mmoviebot> [0mI processed I like "titanic". in starter mode!! 
+
+Ok, you liked titanic What's another movie you saw?
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mI processed I like 10 things I hate about you. in starter mode!! 
+ Sorry I didn't quite catch any movies there. Why don't you tell me something about a movie?
+> Howdy.
+
+[96mmoviebot> [0mI processed Howdy. in starter mode!! 
+ Sorry I didn't quite catch any movies there. Why don't you tell me something about a movie?
+> ...
+
+[96mmoviebot> [0mI processed ... in starter mode!! 
+ Sorry I didn't quite catch any movies there. Why don't you tell me something about a movie?
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mI processed I saw "Titanic (1220)" in starter mode!! 
+ I've never heard of  Titanic (1220). How about you tell me about another movie?
+> :quit
+[96mmoviebot> [0mHave a nice day!

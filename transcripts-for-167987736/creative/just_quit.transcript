@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mGreetings, movie seeker. Allow Yodaflix to help you navigate the galaxy of cinema and find the perfect movie, I will.
+> :quit
+[96mYodaFlix> [0mGoodbye, young Jedi. Remember, with Yodaflix's recommendations, a great movie always awaits you.

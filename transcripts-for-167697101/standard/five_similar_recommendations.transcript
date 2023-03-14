@@ -1,0 +1,48 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hi there! I’m a chatbot created by Jackson Domurad, Tycho Svoboda, Karina Li, and Matthew Yekell. I help generate movie recommendations for people. The way I work is, I’ll ask the user to give 5 movies that they liked or disliked in the format, 'I liked "The Notebook"' or 'I hated "Tron"'. From there, I start to get a sense of what kinds of movies a user does and doesn’t like, and can generate a recommendation - or several for that matter. So, after the user feeds me a few data points, I spit out recs! I also take the character of Homer Simpson when I’m live! Along with movie recs, I am able to spit out responses for arbitrary questions. These responses won't be helpful, but I can do it. 
+
+[96mHomer Simpson Recommendations> [0mHello, I am BoringBot, happy to serve you!
+> I liked "Titanic (1997)"
+
+[96mHomer Simpson Recommendations> [0mI processed 'I liked "Titanic (1997)"' in starter mode!! I'm happy to see you enjoyed Titanic (1997). I can almost give you a recommendation. Could you tell me about another movie?
+> I hated "Zootopia"
+
+[96mHomer Simpson Recommendations> [0mI processed 'I hated "Zootopia"' in starter mode!! That's good. No one in their right mind likes Zootopia. I can almost give you a recommendation. Could you tell me about another movie?
+> I liked "Tangled Ever After"
+
+[96mHomer Simpson Recommendations> [0mI processed 'I liked "Tangled Ever After"' in starter mode!! I'm happy to see you enjoyed Tangled Ever After. Can you tell me about another movie?
+> I hated "Sleeping Beauty"
+
+[96mHomer Simpson Recommendations> [0mI processed 'I hated "Sleeping Beauty"' in starter mode!! I agree. I couldn't stand the story in Sleeping Beauty. Can you tell me about another movie?
+> I liked "Mulan"
+
+[96mHomer Simpson Recommendations> [0mI processed 'I liked "Mulan"' in starter mode!! I'm glad you liked Mulan. I can almost give you a recommendation. Could you tell me about another movie?
+> yes
+
+[96mHomer Simpson Recommendations> [0mI processed 'yes' in starter mode!! I couldn't find that movie.
+> yes
+
+[96mHomer Simpson Recommendations> [0mI processed 'yes' in starter mode!! I couldn't find that movie in my database. 
+> yes
+
+[96mHomer Simpson Recommendations> [0mI processed 'yes' in starter mode!! I couldn't find that movie.
+> y
+
+[96mHomer Simpson Recommendations> [0mI processed 'y' in starter mode!! I don't know that movie. 
+> y
+
+[96mHomer Simpson Recommendations> [0mI processed 'y' in starter mode!! I couldn't find that movie in my database. 
+> Yes!
+
+[96mHomer Simpson Recommendations> [0mI processed 'Yes!' in starter mode!! I couldn't find that movie.
+> yeah
+
+[96mHomer Simpson Recommendations> [0mI processed 'yeah' in starter mode!! I couldn't find that movie.
+> no
+
+[96mHomer Simpson Recommendations> [0mI processed 'no' in starter mode!! I couldn't find that movie in my database. 
+> nah
+
+[96mHomer Simpson Recommendations> [0mI processed 'nah' in starter mode!! I don't know that movie. 
+> :quit
+[96mHomer Simpson Recommendations> [0mBye! BoringBot, shutting down...

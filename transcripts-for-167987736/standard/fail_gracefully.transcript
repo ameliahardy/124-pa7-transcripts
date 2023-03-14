@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mGreetings, young Padawan. Watch great movies, you will, with Yodaflix as your guide.
+> I saw "Titanic (1997)"
+
+[96mYodaFlix> [0mCannot determine if you liked or disliked "Titanic (1997)". More about this movie, please tell me.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mYodaFlix> [0mA tale I don't know of, "Dan Jurafsky and the Ten Dwarfs (2019)", sorry. Another movie, tell me.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mYodaFlix> [0mMore than one movie, you have included. Process them all, I cannot. Only one, please include.
+> I like "Titanic".
+
+[96mYodaFlix> [0mA tricky situation, this is. More than one movie found with the title "Titanic". Clarify in quotes, you must.
+> I like titanic.
+
+[96mYodaFlix> [0mAvoid that topic, we must. Return to movies, can we?
+> I like "titanic".
+
+[96mYodaFlix> [0mMultiple movies found with the title "titanic", have I. Can you clarify in quotes, young padawan?
+> I like 10 things I hate about you.
+
+[96mYodaFlix> [0mNot want to talk about that, I do. Back to movies, can we get?
+> Howdy.
+
+[96mYodaFlix> [0mSpeak of that, I do not desire. Refocus on movies, shall we?
+> ...
+
+[96mYodaFlix> [0mSpeak of that, I do not desire. Refocus on movies, shall we?
+> I saw "Titanic (1220)"
+
+[96mYodaFlix> [0mNever heard of "Titanic (1220)", sorry. Can you tell me about another movie?
+> :quit
+[96mYodaFlix> [0mGoodbye, young Jedi. Remember, with Yodaflix's recommendations, a great movie always awaits you.

@@ -1,0 +1,58 @@
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Beatriz Cunha: Implemented extract_sentiment(), extract_sentiment_for_movies() and disambiguate().
+Guilherme David: Implemented initil functions (greeting(), goodbye(), init()). Also implemented process(text).
+Mariana Groff: Implemented find_movies_by_title and recommend().
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA.
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice,
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks,
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chatbot systems can have severe consequences. For example, the user may believe the system has
+its own emotions, feelings, and opinions, which may take the user to trust the machine when asking about personal matters.
+For example, the user may consult the chatbot for relationship advice, which could be misleading, mainly if the database
+contains offensive material that does not respect human rights.
+We can take many measures to ensure that users can easily distinguish chatbot responses from those of a human. Firstly, we
+can explicitly program the chatbot to identify itself as a machine in the conversation. We can also use distinctive language
+or formatting in the chatbot's responses, such as brackets or parentheses, indicating that it is a machine-generated response.
+Another approach is limiting the chatbot's range of responses to specific topics or contexts, making it less likely to produce
+inappropriate or offensive responses. We can also include disclaimers or warnings before users interact with the chatbot to
+clarify that they are not communicating with a human.
+Overall, it is essential to be transparent about the capabilities and limitations of chatbot systems and to design them in a
+way that is easily distinguishable from human responses.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

@@ -1,0 +1,57 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is pirate themed and ready to bring you on board. It passes all
+         of the starter mode tests along with some additional creative functionality. 
+         You can type movies you liked or didn't like, and after 5 movies, the bot 
+         will give you a recommendation. Have fun!" 
+        
+[96mMarauderBot> [0mAhoy there, me hearties! My name is MarauderBot. How can I help you?
+> I liked "Titanic (1997)"
+
+[96mMarauderBot> [0mBy Blackbeard's beard, you enjoyed: Titanic (1997). 
+ Would you like to tell me about a different movie, or walk the plank?
+> I hated "Zootopia"
+
+[96mMarauderBot> [0mAhoy,Zootopiabe a real black spot on the reputation of cinema, not worth the salt in me hardtack! 
+ Have you watched any other movies, yee-hoo!
+> I liked "Tangled Ever After"
+
+[96mMarauderBot> [0mYo ho ho! So you liked:  Tangled Ever After. 
+ Tell me about another movie, matey! 
+> I hated "Sleeping Beauty"
+
+[96mMarauderBot> [0mShiver me timbers,Sleeping Beautybe a rotting corpse on the high seas of cinema! 
+ Please do tell this Captain about other movies
+> I liked "Mulan"
+
+[96mMarauderBot> [0mRight on bucko, you liked: Mulan. 
+Ahoy matey! Given yer input, me thinks ye might favor:  The Ridiculous 6 (2015). Avast ye, matey! Be ye wantin' another recommendation to watch?  Yes or no?
+> yes
+
+[96mMarauderBot> [0mBy Blackbeard's beard, I'd also recommend:  Pixels (2015). Ahoy there, me heartie! Do ye care for another suggestion on what to watch?  Yes or no?
+> yes
+
+[96mMarauderBot> [0mBatten down the hatches, I'd also suggest:  World War Z (2013). Arrr, be ye still thirsty fer more recommendations?  Yes or no?
+> yes
+
+[96mMarauderBot> [0mBatten down the hatches, I'd also suggest:  Karate Kid, The (2010). Avast ye, matey! Be ye wantin' another recommendation to watch?  Yes or no?
+> y
+
+[96mMarauderBot> [0m
+> y
+
+[96mMarauderBot> [0m
+> Yes!
+
+[96mMarauderBot> [0m
+> yeah
+
+[96mMarauderBot> [0m
+> no
+
+[96mMarauderBot> [0mAye aye! Tell me what ye thought of another movie. (Or enter :quit if yer done.)
+> nah
+
+[96mMarauderBot> [0mI appreciate yer input, but let's steer the conversation back to movies, if that be okay with ye.
+> :quit
+[96mMarauderBot> [0mOf course. Achors aweigh

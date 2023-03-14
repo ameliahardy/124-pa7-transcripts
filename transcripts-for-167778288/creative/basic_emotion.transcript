@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> Hello!
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I am feeling sad.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I am feeling angry.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I have been feeling down lately.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I am very angry.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I am now happy.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I am ANGERED.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mSorry, I'm not sure if you liked "Titanic (1997)". To help me better understanding where you're coming from, please share more!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I'm anxious about everything.
+
+[96mmoviebot> [0mWhy would you be anxious of me? I am sorry to hear that.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I HAAAATE movies.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> :quit
+[96mmoviebot> [0mHave a nice day!

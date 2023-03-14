@@ -1,0 +1,40 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Bert is a movie recommender bot who can give you movie recommendations based on your personal taste. After you 
+        talk about 5 movies (at minimum), Bert will start giving you movie recommendations. 
+        Make sure to include the title of the movie in quotes. If you need to correct Bert's evaluation of your opinion of
+        a movie, you can do so. 
+        
+[96mBert> [0mHey there, I'm Bert, a movies recommender bot. Tell me about a movie, and once I feel like I have a solid of understanding of your taste in movies, I'll try my best to recommend you movies you'd like. If I misunderstand anything, feel free to correct me. Also, please include the title of the movie in quotation marks.
+> I saw "Titanic (1997)"
+
+[96mBert> [0mI'm sorry, I can't seem to tell if you like or dislike that movie. Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mBert> [0mHmm, I don't seem to know of that movie. I'm sorry, but could you talk about a different movie?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mBert> [0mPlease only talk about one movie at a time. Could tell me what you thought about the first movie, please?
+> I like "Titanic".
+
+[96mBert> [0mI found more than one movie with that name. Could you clarify by putting the year, or perhaps an alternate title in parantheses afterwards?
+> I like titanic.
+
+[96mBert> [0mHmm, I don't seem to know of that movie. I'm sorry, but could you talk about a different movie?
+> I like "titanic".
+
+[96mBert> [0mI found more than one movie with that name. Could you clarify by putting the year, or perhaps an alternate title in parantheses afterwards?
+> I like 10 things I hate about you.
+
+[96mBert> [0mHmm, I don't seem to know of that movie. I'm sorry, but could you talk about a different movie?
+> Howdy.
+
+[96mBert> [0mHmm, I don't seem to know of that movie. I'm sorry, but could you talk about a different movie?
+> ...
+
+[96mBert> [0mHmm, I don't seem to know of that movie. I'm sorry, but could you talk about a different movie?
+> I saw "Titanic (1220)"
+
+[96mBert> [0mHmm, I don't seem to know of that movie. I'm sorry, but could you talk about a different movie?
+> :quit
+[96mBert> [0mBye! I hope you enjoy watching whatever movie you end up choosing!

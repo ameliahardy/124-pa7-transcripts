@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        This chatbot has two modes, standard and creative. It will ask you for 5 movie,
+        and if you are in creative mode, you can specify many of those movies together!
+        Once you tell chatbot how you feel about those movies, it will start recommending them.
+        I hope you enjoy using it and get some great movie recommendations!
+        
+[96mCERTain bot> [0mHowdy! They call me CERTain bot. I created by Claire, Emily, Rachel, and Thomas. Tell me about a movie you do or don't like!
+> I saw "Titanic (1997)"
+
+[96mCERTain bot> [0mI couldn't tell whether or not you liked "Titanic (1997)". Please rephrase your message. I'm fixin to a recommendation for y'all. Can y'all give me another movie y'all liked or disliked?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mCERTain bot> [0mI don't know if I've heard of "Dan Jurafsky and the Ten Dwarfs (2019)". That's cattywampus! Gimme some sugar, any more movies you've loved or hated?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mCERTain bot> [0mPlease only tell me about one movie at a time. Go ahead.
+> I like "Titanic".
+
+[96mCERTain bot> [0mI found more than one movie called "Titanic". Could you clarify?
+> I like titanic.
+
+[96mCERTain bot> [0mPlease only tell me about one movie at a time. Go ahead.
+> I like "titanic".
+
+[96mCERTain bot> [0mI found more than one movie called "titanic". Could you clarify?
+> I like 10 things I hate about you.
+
+[96mCERTain bot> [0mPlease only tell me about one movie at a time. Go ahead.
+> Howdy.
+
+[96mCERTain bot> [0mSweetie darling pie, I don't see a movie in between quotes. What's another movie you've seen sweetie boo thang?
+> ...
+
+[96mCERTain bot> [0mSweetie darling pie, I don't see a movie in between quotes. I reckon y'all could give me another movie and tell me how y'all felt about it.
+> I saw "Titanic (1220)"
+
+[96mCERTain bot> [0mI don't know if I've heard of "Titanic (1220)". That's cattywampus! What's another movie you've seen sweetie boo thang?
+> :quit
+[96mCERTain bot> [0mHope you got some good new movie recommendations! Im CERTain you'll enjoy them!

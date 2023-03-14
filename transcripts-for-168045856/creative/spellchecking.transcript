@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mLebron James> [0mHello! I'm Lebron James! When I'm not playing basketball, I love to talk about movies! Tell me your thoughts on a movie of your choice and I can hook you up with some recommendations?
+> I liked "The Notbook".
+
+[96mLebron James> [0mI've never heard of 'The Notbook', sorry...I play basketball for a living man, not watch movies. Tell me about another movie you liked?
+> Yes.
+
+[96mLebron James> [0mLet's chat about movies!
+> I did not like "Screm"
+
+[96mLebron James> [0mI've never heard of 'Screm', sorry...I play basketball for a living man, not watch movies. Tell me about another movie you liked?
+> No.
+
+[96mLebron James> [0mLet's chat about movies!
+> :quit
+[96mLebron James> [0mGET TO THE GYM! ITS ALL ABOUT THAT MENTALITY. Have a good one. I'll see you out there.

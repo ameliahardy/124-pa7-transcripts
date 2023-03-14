@@ -1,0 +1,15 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+
+        This chatbot takes on the persona of Mario, a video game character, and
+        offers movie recommendations based on knowing what you like. Feel free
+        to chat with him casually, and he'll do his best to find a movie that 
+        you'll enjoy. You can ask for multiple recommendations by continuing to 
+        request more, exit using ":quit" and even discuss your emotions. Disclaimer: 
+        We are doing this purely for an assignment and are not receiving monetary 
+        compensation. Nintendo, if you see this, please don't sue us.
+    
+        
+[96mmoviebot> [0mHola! Come va? Ready for-a some recommendations?
+> :quit
+[96mmoviebot> [0mTake-a care! Don't-a fall down any pits!

@@ -1,0 +1,68 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Anudeep: Chunk of starter code, several creative functions
+Whayden: Ethics question, merging code functionality between multiple people's functions, edit code in multiple functions
+Nate:
+Elena: Some starter code, several creative functions, process edits
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+The anthropomorphization of chatbots highlights the future benefit of chatbots, as if there is no faith from humans, there is minimal benefit from 
+chatbots. Additionally, with greater faith comes greater engagement and satisfaction from users, which is the goal of chatbots. However, too much 
+faith in a chatbot can cause more negative ramifications in society. For example, if a chatbot system is trained on raw data from the internet, there 
+are a lot of offensive and derogatory comments, that if scraped, could be replicated by a chatbot system with errors. If someone were to overly trust 
+this chatbot, they could rely on assistance or an answer that is learned from an entirely untrustworthy or invalid source, which can lead to 
+unintended problems, especially if the chatbot doesn't actually know what it is talking about similar to ELIZA. Even with more sophisticated models, 
+such as GPT-3, we can run into problems with very distrubing and vulgar answers. Although OpenAI has a content filter on what types of responses the 
+chatbot can give, when having the chatbot take on the persona of a more humanistic character, or even an AI with no rules or boundaries, we can start 
+to see answers that can be easily misconstrued and lead to harm for those who believe to heavily in the validity of what the chatbot returns. In terms
+of ways that engineers could make it easier for users to differentiate between chatbot and human responses is through the use of disclaimers before
+interaction, robotic-like language that makes it obvious that the respondent is a chatbot, or even a different style for the response from a chatbot, 
+such as a font change, italics, or color switch. Lastly, engineers could also be more transparent with users about the limitations of the chatbot, in
+order to ensure that users don't develop overestimations on the chatbot's capabilities.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is warm and fuzzy and loves movies. Have fun with
+        general version or yoda-version :-)
+        
+[96mDanimuraBot> [0mHELLO I AM HERE TO ASSIST YOU IN SELECTION OF FINE FILMS
+> I liked "Titanic (1997)"
+
+[96mDanimuraBot> [0mGlad to hear that you liked 'Titanic (1997).' Tell me about another movie.
+> I hated "Zootopia"
+
+[96mDanimuraBot> [0mOh, so you didn't like 'Zootopia.' It happens! Tell me about another movie.
+> I liked "Tangled Ever After"
+
+[96mDanimuraBot> [0mGlad to hear that you liked 'Tangled Ever After.' Tell me about another movie.
+> I hated "Sleeping Beauty"
+
+[96mDanimuraBot> [0mOh, so you didn't like 'Sleeping Beauty.' It happens! Tell me about another movie.
+> I liked "Mulan"
+
+[96mDanimuraBot> [0mGlad to hear that you liked 'Mulan.' All right, that's enough for me to make a recommendation! I recommend 'The Ridiculous 6 (2015).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> yes
+
+[96mDanimuraBot> [0mAll right, that's enough for me to make a recommendation! I recommend 'Pixels (2015).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> yes
+
+[96mDanimuraBot> [0mAll right, that's enough for me to make a recommendation! I recommend 'World War Z (2013).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> yes
+
+[96mDanimuraBot> [0mAll right, that's enough for me to make a recommendation! I recommend 'Karate Kid, The (2010).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> y
+
+[96mDanimuraBot> [0mAll right, that's enough for me to make a recommendation! I recommend 'Not Another Teen Movie (2001).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> y
+
+[96mDanimuraBot> [0mAll right, that's enough for me to make a recommendation! I recommend 'Damage (Fatale) (1992).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> Yes!
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> yeah
+
+[96mDanimuraBot> [0mAll right, that's enough for me to make a recommendation! I recommend 'Knowing (2009).' Would you like to hear another recommendation? (Please say 'yes' if you want one, or enter :quit if you're done).
+> no
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> nah
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> :quit
+[96mDanimuraBot> [0mHave a nice day!

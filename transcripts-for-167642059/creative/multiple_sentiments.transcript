@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        YodaBot can respond to regular speech, analyze a users sentiment of movies, 
+        and give a recomendation of a new movie that the user may like given their 
+        original preferences. When a user enters information about a movie, the movie
+        should be enclosed in quotes and the users opinion on the movie should be
+        provided. After providing five movie sentiments, YodaBot will return its movie
+        recomendation. 
+        
+[96mYodaBot> [0mHello! Yoda, my name is, and I can recommend you movies. Me about a couple of movies you like or dislike tell. Hrmmm.
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mYodaBot> [0mMore than one movie I noticed you gave. About the movies again one at a time can you tell me?
+> I liked "Zootopia" but not "Scream".
+
+[96mYodaBot> [0mProcess multiple movies at once I cannot. Like or dislike a movie, one at a time you tell me.
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mYodaBot> [0mOne movie at a time, please tell me.
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mYodaBot> [0mProcess multiple movies at once I cannot. Like or dislike a movie, one at a time you tell me.
+> :quit
+[96mYodaBot> [0mFor talking to me, thank you. See you again soon, I hope!

@@ -1,0 +1,40 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to our World-Wide-West themed Chatbot! Once you tell Cowboy Buster
+        how you felt about five movies, he'll politely suggest a few movies that you might like.
+        In creative mode, you should be able to speak about these movies without worrying about
+        perfect spelling, quotations and/or capitalization.
+        
+[96mCowboy Buster Suggester of the World Wide West> [0mHowdy pardner! I'm Cowboy Buster Suggester of the World Wide West. If ya tell me a film you've watched, I'll give ya a suggestion back. Yeehaw!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+Whoa there, looks like you've seen plenty of movies. If it's alright with you, I'll round 'em up and process 'em one by one.
+-1
+0
+Sounds like you didn't much appreciate Titanic (1997).
+Sounds like you didn't much appreciate Ex Machina.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I liked "Zootopia" but not "Scream".
+
+Whoa there, looks like you've seen plenty of movies. If it's alright with you, I'll round 'em up and process 'em one by one.
+1
+0
+Got it, you took a likin' to Zootopia.
+Got it, you took a likin' to Scream.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I hated "Zootopia" and also "Eat Pray Love".
+
+Whoa there, looks like you've seen plenty of movies. If it's alright with you, I'll round 'em up and process 'em one by one.
+-2
+0
+Sounds like you didn't much appreciate Zootopia.
+Sounds like you didn't much appreciate Eat Pray Love.
+Well shucks, I reckon I got all I need to lasso ya up a good recommendation! Giddyup!
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Rookie of the Year (1993)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Ice Princess (2005)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> :quit
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, looks like it's time for me to ride off into the sunset. Yippee ki-yay!

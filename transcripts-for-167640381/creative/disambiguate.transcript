@@ -1,0 +1,38 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is warm and fuzzy and loves movies. Have fun with
+        general version or yoda-version :-)
+        
+[96mDanimuraBot> [0mHi, Yoda Moviebot, I am! About your taste in movies, tell me you will. Recommend a movie for you, I shall! A movie you like, tell me (and please the title in quotation marks put!)
+> I liked "Harry Potter".
+
+[96mDanimuraBot> [0mHmm, found more than one movie called 'Harry Potter' have I. Which one did you mean, I am wondering?
+- Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+- Harry Potter and the Chamber of Secrets (2002)
+- Harry Potter and the Prisoner of Azkaban (2004)
+- Harry Potter and the Goblet of Fire (2005)
+- Harry Potter and the Order of the Phoenix (2007)
+- Harry Potter and the Half-Blood Prince (2009)
+- Harry Potter and the Deathly Hallows: Part 1 (2010)
+- Harry Potter and the Deathly Hallows: Part 2 (2011)
+Clarify the specific version you liked, I am hoping you will.
+> Chamber of Secrets
+
+[96mDanimuraBot> [0mGlad to hear that you liked 'Harry Potter and the Chamber of Secrets (2002), am I.' Tell me about another movie.
+> I liked "Harry Potter".
+
+[96mDanimuraBot> [0mHmm, found more than one movie called 'Harry Potter' have I. Which one did you mean, I am wondering?
+- Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+- Harry Potter and the Chamber of Secrets (2002)
+- Harry Potter and the Prisoner of Azkaban (2004)
+- Harry Potter and the Goblet of Fire (2005)
+- Harry Potter and the Order of the Phoenix (2007)
+- Harry Potter and the Half-Blood Prince (2009)
+- Harry Potter and the Deathly Hallows: Part 1 (2010)
+- Harry Potter and the Deathly Hallows: Part 2 (2011)
+Clarify the specific version you liked, I am hoping you will.
+> Prisoner of Azkaban
+
+[96mDanimuraBot> [0mGlad to hear that you liked 'Harry Potter and the Prisoner of Azkaban (2004), am I.' Tell me about another movie.
+> :quit
+[96mDanimuraBot> [0mMay the Force be with you!

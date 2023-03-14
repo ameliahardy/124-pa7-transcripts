@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mGood to hear you enjoyed watching "Blade Runner". Tell me about another movie you've seen.
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mSorry, I'm not sure if you liked "Terminator Salvation". Please share more about it!
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mI can't seem to figure out your thoughts on "Titanic (1997)". If you give me more details, I may be able to learn more about your opinion!
+> I liked it.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I watched "Scream".
+
+[96mmoviebot> [0mIt looks like there are multiple movies with that name. Please clarify which movie you are discussing out of the following: 
+"Scream of Stone (Cerro Torre: Schrei aus Stein) (1991)"
+"Scream (1996)"
+"Scream 2 (1997)"
+"Scream 3 (2000)"
+> I didn't like that movie.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie(s) you're talking about. Please try again by adding quotation marks around the titles!
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mSorry, I'm not sure if you liked "Zootopia". I'd loved to hear more to better understand your thoughts!
+> And also "Ex Machina".
+
+[96mmoviebot> [0mGiven what you told me, I think you would like Star Wars: Episode V - The Empire Strikes Back (1980). Would you like more recommendations? (Or enter :quit if you're done.)
+> :quit
+[96mmoviebot> [0mHave a nice day!

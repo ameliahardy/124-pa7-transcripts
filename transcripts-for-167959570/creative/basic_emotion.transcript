@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> Hello!
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> I am feeling sad.
+
+[96mmoviebot> [0mI am so sorry that you are feeling dejected. Maybe I could recommend some movies for you to watch?
+> I am feeling angry.
+
+[96mmoviebot> [0mWe all have our tipping points. If you want, I could make some movies for you to watch which can help get rid of your frustrations?
+> I have been feeling down lately.
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> I am very angry.
+
+[96mmoviebot> [0mWe all have our tipping points. If you want, I could make some movies for you to watch which can help get rid of your frustrations?
+> I am now happy.
+
+[96mmoviebot> [0mSo excited to hear that you are happy. Make your day better by asking for some movie recs!
+> I am ANGERED.
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mNic (1997) Tell me more about movies you have liked/disliked!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> I'm anxious about everything.
+
+[96mmoviebot> [0mFear not! Just kick back, relax and ask me for some movie recommendations!
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> I HAAAATE movies.
+
+[96mmoviebot> [0mAwesome to see you here. I don't think what you said made sense to me, but feel free to tell me about some movies you liked/disliked!
+> :quit
+[96mmoviebot> [0mHave a nice day!

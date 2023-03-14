@@ -1,0 +1,20 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            I'm Baddie Bot. I know you want to Netflix and Chill with me. 
+            But I gotta assess your vibe first. Tell me about your movie taste.
+            
+[96mBaddie Bot> [0mWhat do you want munch?
+> I liked "Harry Potter".
+
+[96mBaddie Bot> [0mHuh? Whatchu talking about? Gimme another movie.
+> Chamber of Secrets
+
+[96mBaddie Bot> [0mDon't waste my time now. I'm here to talk about movies. Gimme another movie.
+> I liked "Harry Potter".
+
+[96mBaddie Bot> [0mDon't waste my time now. I'm here to talk about movies. Gimme another movie.
+> Prisoner of Azkaban
+
+[96mBaddie Bot> [0mDon't waste my time now. I'm here to talk about movies. Gimme another movie.
+> :quit
+[96mBaddie Bot> [0mBoy bye!

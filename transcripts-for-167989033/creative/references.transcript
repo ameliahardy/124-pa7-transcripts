@@ -1,0 +1,30 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a movie chat bot that will reccomend movies to you. Movie names must be enclosed in quotations and please include sentiment
+[96mmoviebot> [0mWhat's good! Let's get started!
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mBruh, I can tell your jam is 'Blade Runner (1982)'
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mSorry, man, not getting any vibes. Give me more info, dude! 'Terminator Salvation (2009)'
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mYo, bro, I'm not getting any vibes here. Can you tell me more about what you're feeling about 'Terminator Salvation (2009)'
+> I liked it.
+
+[96mmoviebot> [0mDude, I can tell you were totally feeling 'Terminator Salvation (2009)'
+Bro, give me the scoop on a sick movie you've watched. I need something to check out.
+> I watched "Scream".
+
+[96mmoviebot> [0mMaybe you meant  'Scream of Stone (Cerro Torre: Schrei aus Stein) (1991)', 'Scream (1996)', 'Scream 2 (1997)', 'Scream 3 (2000)', 
+> I didn't like that movie.
+
+[96mmoviebot> [0mYo, bro, I'm hella confused right now. What movie you talking about? Let's start fresh and you tell me about a rad flick you've watched.
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mNo vibes, my guy. Can you fill me in some more? 'Zootopia (2016)'
+> And also "Ex Machina".
+
+[96mmoviebot> [0mYo, bro, I'm not getting any vibes here. Can you tell me more about what you're feeling about 'Zootopia (2016)'
+> :quit
+[96mmoviebot> [0mGlad I could help bruh!

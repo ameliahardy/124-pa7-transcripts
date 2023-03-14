@@ -1,0 +1,40 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to our World-Wide-West themed Chatbot! Once you tell Cowboy Buster
+        how you felt about five movies, he'll politely suggest a few movies that you might like.
+        In creative mode, you should be able to speak about these movies without worrying about
+        perfect spelling, quotations and/or capitalization.
+        
+[96mCowboy Buster Suggester of the World Wide West> [0mHowdy pardner! I'm Cowboy Buster Suggester of the World Wide West. If ya tell me a film you've watched, I'll give ya a suggestion back. Yeehaw!
+> I saw "Titanic (1997)"
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI ain't too sure how you felt about Titanic (1997). Did ya like it, or not so much?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mCowboy Buster Suggester of the World Wide West> [0mTarnation! I'm afraid I don't know much 'bout Dan Jurafsky and the Ten Dwarfs (2019). Try being more specific or tellin' me about another movie.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWhoa there, cowboy! One film at a time.
+> I like "Titanic".
+
+[96mCowboy Buster Suggester of the World Wide West> [0m'Fraid I lassoed more than one movie called Titanic. Think you can try again and include the year it was released?
+> I like titanic.
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI don't quite yet understand your taste in movies. Tell me 'bout a film you've seen, and don't forget to lasso the title with quotes!
+> I like "titanic".
+
+[96mCowboy Buster Suggester of the World Wide West> [0m'Fraid I lassoed more than one movie called titanic. Think you can try again and include the year it was released?
+> I like 10 things I hate about you.
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI don't quite yet understand your taste in movies. Tell me 'bout a film you've seen, and don't forget to lasso the title with quotes!
+> Howdy.
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI don't quite yet understand your taste in movies. Tell me 'bout a film you've seen, and don't forget to lasso the title with quotes!
+> ...
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI don't quite yet understand your taste in movies. Tell me 'bout a film you've seen, and don't forget to lasso the title with quotes!
+> I saw "Titanic (1220)"
+
+[96mCowboy Buster Suggester of the World Wide West> [0mTarnation! I'm afraid I don't know much 'bout Titanic (1220). Try being more specific or tellin' me about another movie.
+> :quit
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, looks like it's time for me to ride off into the sunset. Yippee ki-yay!

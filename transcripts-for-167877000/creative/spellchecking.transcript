@@ -1,0 +1,26 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        This chatbot has two modes, standard and creative. It will ask you for 5 movie,
+        and if you are in creative mode, you can specify many of those movies together!
+        Once you tell chatbot how you feel about those movies, it will start recommending them.
+        I hope you enjoy using it and get some great movie recommendations!
+        
+[96mCERTain bot> [0mHowdy! They call me CERTain bot. I created by Claire, Emily, Rachel, and Thomas. Tell me about a movie you do or don't like!
+> I liked "The Notbook".
+
+[96mCERTain bot> [0mBless your heart darling, but I've never heard of "The Notbook". I reckon y'all could give me another movie and tell me how y'all felt about it.
+> Yes.
+
+[96mCERTain bot> [0mSweetie darling pie, I don't see a movie in between quotes. We're living in high cotton with all these movies. Come on, one more!
+> I did not like "Screm"
+
+[96mCERTain bot> [0mBless your heart darling, but I've never heard of "Screm". Betcha can't name one more movie!
+> No.
+
+[96mCERTain bot> [0mY'all about as useful as tits on a bull. Tell me a movie y'all have watched!! Darlin' you're dryer than the dining hall chicken. Gimme another movie!
+> :quit
+[96mCERTain bot> [0mHope you got some good new movie recommendations! Im CERTain you'll enjoy them!

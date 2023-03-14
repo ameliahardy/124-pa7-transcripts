@@ -1,0 +1,5 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+It's really simple really. You give me a couple of movies that you liked, and I spit out some movies that I think you'd like! I'm a movie chatbot, in other words
+[96mMeg Bot> [0mHello, my name is Meg Bot. Gimme a movie you have seen recently
+> :quit
+[96mMeg Bot> [0mGoodbye user, it has been nice knowing you. I have been Meg Bot it has been an honor serving you.

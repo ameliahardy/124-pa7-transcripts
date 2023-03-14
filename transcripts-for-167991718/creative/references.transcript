@@ -1,0 +1,52 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+In creative mode, this chatbot becomes a PIRATE! Pirate Pete is 
+            able to detect when you love or hate a movie, can take in multiple movie inputs
+            at once, and more! Give it a try, scallywag! But remember, don't pirate any movies!
+[96mPiRRRate Pete> [0m
+ 
+                {SQWAAAAAAWK!}
+                       \     _    
+                          /` '
+                          
+                        \ |     \
+                         `\     `\_
+                            \    __ `\
+                            l  \   `\ `\__
+                            \  `\./`     ``\
+                            \ ____ / \   l
+                                ||  ||  )  /
+                        -------(((-(((---l /-------
+                                        l /
+                                    / /
+                                    / /
+                                    //
+                                    / 
+Ahoy, matey! I'm PiRRRate Pete, herrre to give you some rrrecommendations!
+> I liked "Blade Runner".
+
+[96mPiRRRate Pete> [0mIt sounds like ye like "Blade Runner".
+Please tell me about another movie!
+> But not "Terminator Salvation".
+
+[96mPiRRRate Pete> [0mTell me if ye like, "Salvation, The", alright?
+> I saw "Titanic (1997)".
+
+[96mPiRRRate Pete> [0mTell me, what do ye think about "Titanic (1997)"?
+> I liked it.
+
+[96mPiRRRate Pete> [0mAvast! "It". Savvy!
+Please tell me about another movie!
+> I watched "Scream".
+
+[96mPiRRRate Pete> [0mHeave ho! Did ye like "Scream" or not?
+> I didn't like that movie.
+
+[96mPiRRRate Pete> [0mSorry, I don't think I know that movie... Could you try telling me about a different one?
+> I felt the same about "Zootopia".
+
+[96mPiRRRate Pete> [0mTell me if ye like, "Zootopia", alright?
+> And also "Ex Machina".
+
+[96mPiRRRate Pete> [0mHeave ho! Did ye like "Ex Machina" or not?
+> :quit
+[96mPiRRRate Pete> [0mYourrr movies are safe with me. Dead pirrrates tell no tales! Also, make sure to enjoy the movies I recommended in a safe and legal way. You wouldn't steal a car, would you?

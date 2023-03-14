@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Meowy is a cat chatbot for all your cat-bot waifu dreams! Ask Meowy what you feel about various movies, and they will recommend you a movie!
+        
+[96mMeowMeow> [0mMeow!!! Meow, my name is MeowMeow. Tell me about a movie you like, mew?
+> Hello!
+
+[96mMeowMeow> [0mHaha! hello! indeed. Nya!
+> I am feeling sad.
+
+[96mMeowMeow> [0mOh, so you feel sad. I'm so meowy you feel that way!!! Can I make it up to you by giving you recommendations? Just tell me a movie you've watched.
+> I am feeling angry.
+
+[96mMeowMeow> [0mAh, so you are angry. I'm so meowy you feel that way!!! Can I make it up to you by giving you recommendations? Just tell me a movie you've watched.
+> I have been feeling down lately.
+
+[96mMeowMeow> [0mAwesome meow! I am  down lately. too.
+> I'm so glad that I finished my exams.
+
+[96mMeowMeow> [0mMrow? Come again?
+> I am very angry.
+
+[96mMeowMeow> [0mOh, so you feel angry. I'm so meowy you feel that way!!! Can I make it up to you by giving you recommendations? Just tell me a movie you've watched.
+> I am now happy.
+
+[96mMeowMeow> [0mAw that's great meow! I am happy too.
+> I am ANGERED.
+
+[96mMeowMeow> [0mNya! Did I make you angered? I'm so meowy you feel that way!!! Can I make it up to you by giving you recommendations? Just tell me a movie you've watched.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mMeowMeow> [0mI'm sorry, I'm not sure if you liked Titanic (1997). Tell me more about it.
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mMeowMeow> [0mAwesome meow! I am  very frustrated with this chatbot. too.
+> I'm anxious about everything.
+
+[96mMeowMeow> [0mNya? What did you say?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mMeowMeow> [0mI'm very meowy!!! My cat-human translator is having a fit again. Can you say something else, meow?
+> I HAAAATE movies.
+
+[96mMeowMeow> [0mMrow? Come again?
+> :quit
+[96mMeowMeow> [0mHave a meowy day! Meow!!!

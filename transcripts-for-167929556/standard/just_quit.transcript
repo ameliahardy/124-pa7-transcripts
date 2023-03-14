@@ -1,0 +1,10 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to our World-Wide-West themed Chatbot! Once you tell Cowboy Buster
+        how you felt about five movies, he'll politely suggest a few movies that you might like.
+        In creative mode, you should be able to speak about these movies without worrying about
+        perfect spelling, quotations and/or capitalization.
+        
+[96mCowboy Buster Suggester of the World Wide West> [0mHowdy pardner! I'm Cowboy Buster Suggester of the World Wide West. If ya tell me a film you've watched, I'll give ya a suggestion back. Yeehaw!
+> :quit
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, looks like it's time for me to ride off into the sunset. Yippee ki-yay!

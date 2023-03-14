@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Your task is to implement the chatbot as detailed in the PA7
+       instructions.
+       Remember: in the starter mode, movie names will come in quotation marks
+       and expressions of sentiment will be simple!
+       TODO: Write here the description for your own chatbot!
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> Hello!
+
+[96mElmo> [0mElmo not sure that's the best topic for us to discuss right now. Maybe we can talk about movies!
+> I am a robot too.
+
+[96mElmo> [0mOh boy, that's not really what Elmo had in mind. Let's switch gears and chat about movies instead!
+> What is your name?
+
+[96mElmo> [0mHmm, Elmo not so interested in talking about that right now. Let's chat about movies!
+> Do you know anything about books?
+
+[96mElmo> [0mSorry, Elmo not up for discussing that topic at the moment. Let us focus on movies instead!
+> I loved Dan Jurafsky's latest lecture.
+
+[96mElmo> [0mHmm, Elmo doesn't want to talk about that topic right now. Let's talk about movies!
+> Can you speak French?
+
+[96mElmo> [0mElmo not sure that's the best topic for us to discuss right now. Maybe we can talk about movies!
+> How are you feeling?
+
+[96mElmo> [0mOh boy, that's not really what Elmo had in mind. Let's switch gears and chat about movies instead!
+> What's up?
+
+[96mElmo> [0mHmm, Elmo not so interested in talking about that right now. Let's chat about movies!
+> Do you know the muffin man?
+
+[96mElmo> [0mSorry, Elmo not up for discussing that topic at the moment. Let us focus on movies instead!
+> I liked it.
+
+[96mElmo> [0mWhich one did you mean?: ['It Takes Two (1995)', 'It Could Happen to You (1994)', 'It Happened One Night (1934)', 'It Came from Hollywood (1982)', 'It Came from Outer Space (1953)', 'It Had to Be You (2000)', 'It (1990)', 'It Might Get Loud (2008)', 'It Follows (2014)']
+> :quit
+
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

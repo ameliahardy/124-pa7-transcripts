@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Your task is to implement the chatbot as detailed in the PA7
+       instructions.
+       Remember: in the starter mode, movie names will come in quotation marks
+       and expressions of sentiment will be simple!
+       TODO: Write here the description for your own chatbot!
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> I liked "Blade Runner".
+
+[96mElmo> [0mElmo loves hearing about the movies you've watched! Could you tell Elmo about another one?
+> But not "Terminator Salvation".
+
+[96mElmo> [0mElmo's not quite getting a sense of your thoughts on Terminator Salvation. Could you elaborate a little more?
+> I saw "Titanic (1997)".
+
+[96mElmo> [0mHmm, Elmo is not quite sure how you feel about Titanic (1997). Could you give Elmo a little more information about it?
+> I liked it.
+
+[96mElmo> [0mWhich one did you mean?: ['It Takes Two (1995)', 'It Could Happen to You (1994)', 'It Happened One Night (1934)', 'It Came from Hollywood (1982)', 'It Came from Outer Space (1953)', 'It Had to Be You (2000)', 'It (1990)', 'It Might Get Loud (2008)', 'It Follows (2014)']
+> I watched "Scream".
+
+[96mElmo> [0mWhich one did you mean?: []
+> I didn't like that movie.
+
+[96mElmo> [0mWhich one did you mean?: []
+> I felt the same about "Zootopia".
+
+[96mElmo> [0mWhich one did you mean?: []
+> And also "Ex Machina".
+
+[96mElmo> [0mWhich one did you mean?: []
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

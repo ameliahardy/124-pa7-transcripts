@@ -1,0 +1,69 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Our group members were Collin, Aaron, Susan, and Sophie. We all worked together on starter
+mode and the dialogues for starter mode. 
+For creative mode, we each worked on some creative features and worked togther to integrate
+them all in "process". Collin did the creative features on foreign titles and disambiguation.
+Aaron did the creative features on communicating sentiment for multiple-movie input, including
+the dialogue. Susan did dialogue for disambiguation and identifying movies without correct quotations
+and capitalization. Sophie did spell-correcting fallback and dialogue for spell-checking.
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Especially as chatbots become more widely used and integrated within our daily lives, one concern arises
+when considering how younger generations will have access to these highly complex and accessible chatbots.
+Younger demographics who are more impressionable and empathize with a chatbot as a human who is answering their questions
+may be exposed to offensive or incorrect material if they don't realize that chatbots can be biased and misguided. 
+Engineers can distinguish chatbot responses from those of a human by providing occasional checks that remind users
+that they are talking to a chatbot that is trained on large and potentially biased datasets. Furthermore, there should
+be a disclaimer when a user starts to use a chatbot that explains how chatbots are trained, why they might make mistakes,
+and why they may sometimes give biased answers.
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

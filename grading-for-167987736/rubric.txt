@@ -1,0 +1,62 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Blain - I implemented the starter extract_sentiment() method and the creative fine-grained sentiment extraction. I also implemented the creative extract_sentiment_for_movies() method and answered the ethics question.
+
+Ethan - Implemented methods to extract titles and find them in self.movies with disambiguation and spellcheck. Also implemented main flow of process
+
+Noah - Implemented 5-10 dialogue options for each text that YodaFlix says and established the persona. Coded these responses and assisted in implementation in arbitrary, description_handler, and clarification(handler). Worked more generally on input output stream, as well as the control flow for responding to different sentiments. Also did a lot of testing/debugging.
+
+Chloe - I implemented recommend(), similarity(), arbitrary(), as well as numerous helper functions. I also did thorough testing and helped map out the different handlers we needed and their control flow.
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Some possible ramification of anthropomorphizing chatbot systems includes users becoming overly attached, misinformation becoming more widely spread, and biaesd content being outputted. When chatbots are developed with human-like features, users begin to associate the chatbot as a friend, and as someone that the user can confide to. Thus, one downfall is that users may begin to distance themselves from real humans, as chatbots like Eliza will always be there to listen and will always agree with the user, resulting in potential negative consequences for in-person human interaction. A second possible ramification is that chatbots may spread misinformation to users. As seen with AI models such as ChatGPT or ELIZA, they commonly output answers or replies that are fabricated or incorrect. With these chatbots being anthropomorphic, that could result in users viewing the chatbot as a human, and thus trusting the chatbot completely. Therefore, rather than questioning whether the validity of the resplies, users may blindly trust and take everything the chatbot says as fact, spreading their learnings to others online or in-person. In addition, it is likely that the chatbot is trained on biased data, resulting in users learning and even adopting these same biased beliefs. 
+
+One way for engineers to ensure that users can easily distinguish the chatbot responses from those of a human is through having the chatbot explicitly state that they are a chatbot and not a human. Similarly to ChatGPT, having the replies to a user begin with "As an AI chatbot, ..." makes it clear that the chatbot is not a human. In addition, having the chatbot be fully transparent and output accuracy levels with replies will help users recognize that the response is from a chatbot. For example, if asked for the solution to a math problem, the chatbot can respond with, "As an AI Chatbot, I am 98% confident that the solution is 5." This transparency will help users understand potential misinformation if the chatbot outputs a response with a low accuracy level and distinguish the responses from a human as humans do not state their accuracy levels during a normal conversation. If unable to provide confidence levels, having the chatbot explicitly state that it is unclear or that the response may contain inaccurate information would be beneficial. This will also help with the false confidence that chatbots may have that cause users to blindly believe their response. Lastly, not designing the chatbot with a personality or with human-like features such as a name or pronouns prevents users from viewing and talking to the chatbot as a human as was done with ELIZA. 
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

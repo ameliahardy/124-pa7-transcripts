@@ -1,0 +1,106 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is our bot that recommends movies given some ratings! In creative mode, it takes on the persona of Benedict Cumberbatch's Sherlock Holmes, who can be quite arrogant/rude at times.
+        
+[96mADJbot> [0mHi, I'm ADJbot! How can I help?
+> I liked "Blade Runner".
+
+[96mADJbot> [0mBased on my observations, it is clear that you have an affinity for "Blade Runner". Your critique of that particular movie was underwhelming, to say the least. Perhaps you could try sharing your impression of a different film?
+> But not "Terminator Salvation".
+
+[96mADJbot> [0mDespite my exceptional observational skills, I find myself unable to determine whether or not you enjoyed "Terminator Salvation". Might I suggest sharing your impression of a different one instead?
+> I saw "Titanic (1997)".
+
+[96mADJbot> [0mEven with my extensive knowledge of human behavior, I am unable to ascertain whether or not you had a liking for "Titanic". I'm afraid your opinion on that movie was quite pedestrian. Would you care to share your impression of a more sophisticated film?
+> I liked it.
+
+[96mADJbot> [0mI'm afraid you'll have to be more specific. Which one are you referring to, or are you incapable of providing clear details?
+Dracula: Dead and Loving It
+It Takes Two
+It Could Happen to You
+What's Love Got to Do with It?
+Bloodsport 2
+Some Folks Call It a Sling Blade
+It's My Party
+It Happened One Night
+Some Like It Hot
+It's a Wonderful Life
+Set It Off
+Amityville 1992: It's About Time
+Leave It to Beaver
+As Good as It Gets
+You Can't Take It with You
+Blame It on Rio
+Relax... It's Just Sex
+It Came from Hollywood
+It Came from Outer Space
+Handle with Care
+A River Runs Through It
+Play it to the Bone
+She's Gotta Have It
+Whatever It Takes
+Bring It On
+Turn It Up
+Pay It Forward
+Get Over It
+Elvis: That's the Way It Is
+Say It Isn't So
+Let It Ride
+It's a Mad, Mad, Mad, Mad World
+What Time Is It There?
+Rome, Open City
+Life or Something Like It
+The Thrill of It All
+Bend It Like Beckham
+It's Pat
+Play It Again, Sam
+That's The Way I Like It
+Getting It Right
+It Had to Be You
+It's All About Love
+Haxan: Witchcraft Through the Ages
+I Was Born, But...
+It
+Daria: Is It Fall Yet?
+Bring It On Again
+As it is in Heaven
+Rumor Has It...
+Stick It
+Let It Be
+The Boss of It All
+It's a Boy Girl Thing
+It's a Very Merry Muppet Christmas Movie
+It's a Free World...
+It's the Great Pumpkin, Charlie Brown
+Daria: Is It College Yet?
+It Might Get Loud
+Whip It
+Michael Jackson's This Is It
+It's Complicated
+The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It
+It's Kind of a Funny Story
+Life as We Know It
+Just Go with It
+Family Guy Presents: It's a Trap
+I Don't Know How She Does It
+Dylan Moran Live: What It Is
+Wreck-It Ralph
+It's Such a Beautiful Day
+And So It Goes
+Playing It Cool
+It Follows
+George Carlin: It's Bad for Ya!
+> I watched "Scream".
+
+[96mADJbot> [0mI'm afraid your lack of specificity is hindering our progress. Please provide another movie for consideration.
+> I didn't like that movie.
+
+[96mADJbot> [0mYour point is irrelevant. Let's get back to discussing the movie recommendations.
+> I felt the same about "Zootopia".
+
+[96mADJbot> [0mDespite my best efforts to observe your behavior, I cannot determine with certainty whether or not you had a fondness for "Zootopia". Your assessment of that movie was quite disappointing. Perhaps you should try sharing your impression of a different film, unless you want to continue to showcase your lack of taste.
+> And also "Ex Machina".
+
+[96mADJbot> [0mMy powers of deduction are not infallible, and I cannot say for certain whether or not you had a preference for "Ex Machina". It seems your ability to provide insightful critiques is lacking. Maybe you should share your impression of a different movie instead?
+> :quit
+[96mADJbot> [0mThank you for using ADJbot!

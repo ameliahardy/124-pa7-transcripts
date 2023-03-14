@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Greetings! This is motbot. Remember: in the starter and creative modes, movie names
+        must be in quotation marks! Please beware... my creators made me yassified so don't be
+        too hurt if I slay you too hard <3
+        
+[96mmotbot> [0mHi! What movie would you like to talk about?
+> I saw "Titanic (1997)"
+
+[1359]
+[96mmotbot> [0mBabe did you like Titanic (1997) or not?? Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[]
+[96mmotbot> [0mTBH, I've never heard of Dan Jurafsky and the Ten Dwarfs (2019). Tell me about another movie.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmotbot> [0mWhoa whoa whoa, slow dowwwn, bestie. Tell me about one movie at a time.
+> I like "Titanic".
+
+[2716, 1359]
+[96mmotbot> [0mBestie there are so many movies called Titanic. Clarify!
+> I like titanic.
+
+[96mmotbot> [0mUgh bae I must be having a bad day... I can't tell if you gave me a movie title. Tell me about a specific movie using quotation marks around the title.
+> I like "titanic".
+
+[]
+[96mmotbot> [0mTBH, I've never heard of titanic. Tell me about another movie.
+> I like 10 things I hate about you.
+
+[96mmotbot> [0mUgh bae I must be having a bad day... I can't tell if you gave me a movie title. Tell me about a specific movie using quotation marks around the title.
+> Howdy.
+
+[96mmotbot> [0mUgh bae I must be having a bad day... I can't tell if you gave me a movie title. Tell me about a specific movie using quotation marks around the title.
+> ...
+
+[96mmotbot> [0mUgh bae I must be having a bad day... I can't tell if you gave me a movie title. Tell me about a specific movie using quotation marks around the title.
+> I saw "Titanic (1220)"
+
+[]
+[96mmotbot> [0mTBH, I've never heard of Titanic (1220). Tell me about another movie.
+> :quit
+[96mmotbot> [0mByeeeeeee bestie!

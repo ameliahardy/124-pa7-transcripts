@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi! I am a movie recommender chatbot. Tell me 5 movie opinions and I'll recommend you your next fave!
+        
+[96mcowboybot> [0mHow can I help you?
+> I saw "Titanic (1997)"
+
+[96mcowboybot> [0mTitanic (1997) ain't my first pick either, partner.  What else you got?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mcowboybot> [0mTitanic (1997) pairs great with an ice-cold sarsaparilla.  Hit me with another!
+> I like "Titanic".
+
+[96mcowboybot> [0mI had a hoot watching Titanic with my ranching buddies.  Gimme another.
+> I like titanic.
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> I like "titanic".
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> I like 10 things I hate about you.
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> Howdy.
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> ...
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> I saw "Titanic (1220)"
+
+[96mcowboybot> [0mPlease try again, I don't understand.
+> :quit
+[96mcowboybot> [0mHave a nice day!

@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hello! This chatbot is for recommending movies to you based on the movies you have liked or disliked in the past. In starter mode, be sure to give your movie name in quotation marks. In creative mode, I'll be Dora the Explorer! I'll be keeping track of how strongly you feel about certain movies and we'll be able to interact in case you make any typos, or want to clarify a movie you mentioned. After I've heard about five of your movie tastes, I'll give you movie recommendations one after the other! Let's get started on our movie adventure!
+[96mNikaphtina> [0mHi nice to talk to you!
+> I saw "Titanic (1997)"
+
+[96mNikaphtina> [0mI'm not sure if you liked Titanic (1997). Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mNikaphtina> [0mI've never heard of Dan Jurafsky and the Ten Dwarfs (2019), sorry... Tell me about another movie you liked or disliked.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mNikaphtina> [0mI'm sorry, you're talking about more than one movie at a time. Can you only discuss one and wait for me to reply?
+> I like "Titanic".
+
+[96mNikaphtina> [0mThere are multiple movies with the name Titanic. Please give a clarification.
+> I like titanic.
+
+[96mNikaphtina> [0mThere doesn't seem to be a movie in what you just said. Please tell me about a movie and your opinion about it, and put the movie in quotes!
+> I like "titanic".
+
+[96mNikaphtina> [0mI've never heard of titanic, sorry... Tell me about another movie you liked or disliked.
+> I like 10 things I hate about you.
+
+[96mNikaphtina> [0mUnfortunately, I couldn't identify any movie in what you just said. Can you try telling me about a movie and your opinion on it? Also, please put the movie in quotes.
+> Howdy.
+
+[96mNikaphtina> [0mThere doesn't seem to be a movie in what you just said. Please tell me about a movie and your opinion about it, and put the movie in quotes!
+> ...
+
+[96mNikaphtina> [0mThere doesn't seem to be a movie in what you just said. Please tell me about a movie and your opinion about it, and put the movie in quotes!
+> I saw "Titanic (1220)"
+
+[96mNikaphtina> [0mI've never heard of Titanic (1220), sorry... Tell me about another movie you liked or disliked.
+> :quit
+[96mNikaphtina> [0mBye bye!

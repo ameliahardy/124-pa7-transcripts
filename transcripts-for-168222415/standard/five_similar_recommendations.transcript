@@ -1,0 +1,68 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Howdy there! My name is Buster Blaze. I am a rootin-tootin cowboy from the 
+        wild wild west. When I'm not riding my horse or fetchin a drink at the saloon, 
+        I'm in my cabin reading up on the most recent films. I bet you a tooth and nail 
+        that I can give you some great movie recommendations.
+        
+        All you have to do is tell me if you liked or disliked movies names!
+        
+[96mBuster Blaze> [0mPlease tell me about a movie, partner:
+> I liked "Titanic (1997)"
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Titanic (1997). Please tell me more about Titanic (1997).
+
+> I hated "Zootopia"
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Zootopia (2016). Please tell me more about Zootopia (2016).
+
+> I liked "Tangled Ever After"
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Tangled Ever After (2012). Please tell me more about Tangled Ever After (2012).
+
+> I hated "Sleeping Beauty"
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Sleeping Beauty (1959). Please tell me more about Sleeping Beauty (1959).
+
+> I liked "Mulan"
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Mulan (1998). Please tell me more about Mulan (1998).
+
+> yes
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> yes
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> yes
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> y
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> y
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> Yes!
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> yeah
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> no
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> nah
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> :quit
+[96mBuster Blaze> [0mSee you later alligator

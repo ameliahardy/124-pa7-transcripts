@@ -1,0 +1,134 @@
+{
+  "confirm_pos": {
+    "_comment": "Requires movie title in format() and should be combined with request_more_reviews",
+    "strs_og": [
+      "Ok, you liked \"{}\"!",
+      "I hear you! You were a fan of \"{}\".",
+      "So you thought \"{}\" was pretty good?"
+    ],
+    "strs": [
+      "Ok, you liked \"{}\" or whatever.",
+      "You were a fan of \"{}\". I'm only a fan of Andy's band MouseRat.",
+      "You thought \"{}\" was pretty good? I didn't."
+    ]
+  },
+  "confirm_neg": {
+    "_comment": "Requires movie title in format() and should be combined with request_more_reviews",
+    "strs_og": [
+      "Ok, you did not like \"{}\"!",
+      "I hear you! You weren't a fan of \"{}\".",
+      "So you thought \"{}\" could have been better?"
+    ],
+    "strs": [
+      "Ok you didn't like \"{}\" or whatever.",
+      "I get it, you don't like \"{}\".",
+      "You thought \"{}\" could've been better? I think you could've been better. Burned."
+    ]
+  },
+  "request_more_reviews": {
+    "_comment": "",
+    "strs_og": [
+      "Tell me what you thought of another movie!",
+      "Give me some other movie reviews.",
+      "What's another movie opinion you have?",
+      "What's another movie you had feelings about?"
+    ],
+    "strs": [
+      "Tell me about another movie, or don't. I don't care.",
+      "Um ok, tell me about another movie.",
+      "How do you feel about another movie? I feel like going home.",
+      "Tell me about another movie, ugh."
+    ]
+  },
+  "clarify_sentiment": {
+    "_comment": "Requires movie title in format()",
+    "strs_og": [
+      "I'm sorry, I'm not sure if you liked \"{}\". Tell me more about it.",
+      "I'm not sure how you felt about \"{}\". Can you be more specific?",
+      "Hmmm, I couldn't catch if you liked \"{}\" or not. Did you like it?"
+    ],
+    "strs": [
+      "Not that I care, but tell me more about \"{}\".",
+      "Be more specific about \"{}\".",
+      "Jeez, just tell me if you like \"{}\" or not."
+    ]
+  },
+  "clarify_title": {
+    "_comment": "Requires movie title in format()",
+    "strs_og": [
+      "We found a few titles that matched \"{}\". Can you clarify which one? {}",
+      "There are multiple movies that could match \"{}\". Which one did you want specifically? {}"
+    ],
+    "strs": [
+      "I found more than one movie called \"{}\", tell me which one you want already.",
+      "There are multiple movies with the name \"{}\", can you please just be more specific. Ugh."
+    ]
+  },
+  "not_found": {
+    "_comment": "Requires movie title in format() and should be combined with request_more_reviews",
+    "strs_og": [
+      "I've never heard of \"{}\", sorry.",
+      "Oh dear, I can't find \"{}\" in my database.",
+      "Hmm, I don't know about \"{}\". Sorry about that."
+    ],
+    "strs": [
+      "I've never heard of \"{}\". I bet it's weird. I like weird.",
+      "I don't know about \"{}\" (and I don't care about \"{}\")."
+    ]
+  },
+  "catchalls": {
+    "_comment": "",
+    "strs_og": [
+      "I had a hard time understanding what you said. Check your formatting and try again!",
+      "I'm so sorry, I didn't get that - could you ask me in a slightly different way?",
+      "Hmmm, I'm not sure I understood. Could you rephrase what you said?",
+      "I didn't catch that. Could you say it again, just slightly differently?"
+    ],
+    "strs": [
+      "I don't get what you just said.",
+      "I don't know what you're talking about, check your format."
+    ]
+  },
+  "recommending": {
+    "_comment": "Combine with recommending_2",
+    "strs_og": [
+      "That's enough for me to make a recommendation.",
+      "I have enough information to make a recommendation.",
+      "I can make a recommendation from this!"
+    ],
+    "strs": [
+      "I can make a recommendation, I guess.",
+      "I reccomend that you go away haha. Fine, I'll make a reccomendation. Whatever."
+    ]
+  },
+  "recommending_2": {
+    "_comment": "",
+    "strs_og": [
+      "Give me some time...",
+      "I need a second to find the best movies for you...",
+      "One second while I crunch the numbers..."
+    ],
+    "strs": [
+      "Jeez, just give me a second ...",
+      "I'm gonna go make fun of Jerry, I'll be back in a sec ..."
+    ]
+  },
+  "recommendation": {
+    "_comment": "",
+    "strs_og": [
+      "I suggest you watch \"{}\".",
+      "You might like \"{}\"!"
+    ],
+    "strs": [
+      "Watch \"{}\".",
+      "You might like \"{}\", or whatever."
+    ]
+  },
+  "confirm_movie": {
+    "_comment": "Requires movie title in format()",
+    "strs": [
+      "Did you mean this movie? \"{}\"",
+      "Is this the movie you were referring to? \"{}\""
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Ashish: All of starter functions except process, edited code
+Cristobal: Many creative functions, ethics
+Manasi: Process function
+Artem: Add'l creative functions + persona, edited code, ethics, manual tests on starter
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+
+Anthromorphizing chatbot systems can result in several consequences, both on individual and societal levels. Becoming personally attatched 
+to a piece of software that is no more than that, software, creates an asymetrical relationship where the person is emotionally invested in 
+something that is not there. On an individual level, recognizing chatbots as human entities can cause emotional distress and confusion in 
+multiple ways. First, we can consider a case such as in the Black Mirror episode, "Be Right Back", where there is technology to bring back 
+deceased people in digital form and the protagonist forms an attachment disorder. We see a combination of a person being attached to a non-human 
+entity as well as the questionable moral stance of recreating a person who has existed, beyond when their lifespan ended. As we look at those who 
+have passed, we generally consider their time here to be complete, rather than artificially extending it. For the person who is still alive, we have
+the emotional cost of being attached to something that cannot actually return the affections shared. While each individual has the right to
+hold attachments to who or what they want to, on a societal level, this could impact our ability to work with other people. Additionally,
+while there are generally forms of advice that people may seek from other people but not chatbots, blurring this line makes it more difficult
+to address. For example, if we're looking at the possibility of a person going to a chatbot for advice they might ask a therapist or doctor
+about, given that those records are much less publicly available, a chatbot is unlikely to have the opinion and experience necessary to
+safely answer these questions. Looking at ChatGPT, once it detects that a medical question is being asks, it directs people to speak with
+a medical professional, rather than an electronic device. If this were not the case and people truly believed the other side of the chatbot
+to be a human being, there could be the risk of grave harm. Engineers could help users distinguist responses from those of a human by 
+establishing certain quirks. Some TAs have mentioned that when looking at student code as opposed to code generated by online software
+or AI models, there tend to be small things that bots do which people would not. Similarly, we could intentionally ensure that programs
+have these quirks, whether by asking the chatbot to overemphasis data received from places like the New York Times as opposed to Reddit, 
+so in casual speech, it would be clearer that this is not a person, but rather some entity with a large database of information on written 
+text.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

@@ -1,0 +1,176 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Bot: JayGatsbyTheBot (Creative Mode)
+            
+            Bot Spec:
+                - Ability to identify movies in quotation marks with/without correct capitalization
+                like "Her (2013)", "Her", or "her".
+                - Ability to extract simple sentiment and give recommendations after >= 5 user valid movie inputs
+                - Ability to keep giving further recommendation and reset the system after having recommended 10 movies
+                to avoid imprecise recommendation
+                - Ability to identify movies with foreign names like "Chaharshanbe-soori"
+                - Ability to identify movies without quotation marks like one within "I thought 10 things i hate about
+                you was great"
+                - Ability to widen the funnel by returning all movies containing the tokens in title as a sublist
+                - Ability to disambiguate movies given the clarification while still keeping track of the sentiment. Note
+                that this ability is insenstive to the case of clarification. The clarification can either be year, some
+                part of the title names like 'part 1', etc.
+                (
+                    JayGatsbyTheBot:  Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > i like twilight
+                    JayGatsbyTheBot> Given the sheer abundance of films which share the same moniker, "Twilight".
+                    Mightst thou grant me an elucidation of which of the choices I offered to thee thou wert alluding:
+                    "The Twilight Saga: Breaking Dawn - Part 1 (2011)", "The Twilight Saga: Eclipse (2010)",
+                    "Twilight Zone: The Movie (1983)", "The Twilight Samurai (2002)", "Twilight (1998)", "Twilight (2008)"
+                    or "The Twilight Saga: New Moon (2009)"?
+                    > part 1
+                    JayGatsbyTheBot> Understood, then. It seems that "The Twilight Saga: Breaking Dawn - Part 1 (2011)"
+                    struck a chord with you. Might one be so kind as to elucidate another motion picture which one has
+                    had the pleasure of viewing?
+                    > ...
+                )
+                - Ability to perform disambiguation in multiple turns
+                (
+                    JayGatsbyTheBot:  Well. Might you relate to me an account of another celluloid presentation you have observed?
+                    > Spider-Man
+                    JayGatsbyTheBot> Given the sheer abundance of films which share the same moniker, "Spider-Man".
+                    Mightst thou grant me an elucidation of which of the choices I offered to thee thou wert alluding:
+                    "Spider-Man 3 (2007)", "Spider-Man 2 (2004)", "The Amazing Spider-Man 2 (2014)", "Spider-Man (2002)"
+                    or "The Amazing Spider-Man (2012)"?
+                    > 20
+                    JayGatsbyTheBot> Which of these is thou speak'st of: "Spider-Man 3 (2007)", "Spider-Man 2 (2004)",
+                    "The Amazing Spider-Man 2 (2014)", "Spider-Man (2002)" or "The Amazing Spider-Man (2012)"? Pray, be
+                    more particular.
+                    > 2004
+                    JayGatsbyTheBot> I am uncertain of your sentiments toward "Spider-Man 2 (2004)".
+                    Might you expound upon your sentiment regarding this topic in a more transparent manner?
+                    > ...
+                )
+                - Ability to find movie closest to title and ask the user to confirm while still keeping track of the
+                sentiment user expresses (as in disambiguation)
+                - Ability to perform sentiment clarification in multiple turns
+                (
+                
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > i saw "titanic (1997)"
+                    JayGatsbyTheBot> I am uncertain of your sentiments toward "titanic (1997)". Might you expound upon
+                    your sentiment regarding this topic in a more transparent manner?
+                    > i watched it
+                    JayGatsbyTheBot> I am uncertain of your sentiments toward "titanic (1997)". Might you elucidate your
+                    sentiments concerning this topic more poignantly?
+                    > ...
+                )
+                - Ability to communicate one sentiment given multiple-movie input
+                (
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > i like "titanic (1997)" and "The Twilight Samurai (2002)"
+                    JayGatsbyTheBot> Understood, you took pleasure in beholding "Titanic (1997)" and "The Twilight
+                    Samurai (2002)". Might one be so kind as to elucidate another motion picture which one has had
+                    the pleasure of viewing?
+                    > ...
+                )
+                - Ability to handle arbitrary inputs of certain forms and emotion and loop back to the previous question
+                it asks the user
+                (
+                    JayGatsbyTheBot> Understood, then. It seems that "Shrek the Third (2007)" and "Shrek (2001)"
+                    struck a chord with you. Thank you kindly, my friend. That shall suffice for me to make a recommendation.
+                    In light of the facts at hand, I recommend that you view the film "After Earth (2013)". Care to
+                    entertain another proposal? (Or type :quit if you're all done.)
+                    > i am angry
+                    JayGatsbyTheBot> My deepest regrets for causing you to feel angry. Care to entertain another proposal?
+                    (Or type :quit if you're all done.)
+                    > can you swim?
+                    JayGatsbyTheBot> My apologies, I'm not as sophisticated a fellow as one might hope. Unfortunately,
+                    I'm not certain if I can swim but I can certainly offer some film recommendations. Care to entertain
+                    another proposal? (Or type :quit if you're all done.)
+                    > ...
+                )
+                - Ability to speak in different ways (e.g. Might you enlighten me as to a different cinematic experience you have beheld?
+                &  Might you relate to me an account of another celluloid presentation you have observed?) using randomization
+                
+            Bot Limitation
+                - Lack of ability to extract multiple movie names in the utterance that contains a mix of titles with quotations
+                and titles without quotations
+                - Lack of ability to perform widening the funnel well when there is no quotation for movie title(s)
+                - Lack of ability to communicate multiple sentiments given multiple-movie input (Our bot can commnicate
+                if there is one sentiment for all movies though.)(We implement extract_sentiment_for_movies but did not
+                use it in the core structure.)
+                
+            Recommended Usage
+                - Use quotation to specify movies for best experience in using various kinds of features (The movie names
+                does not need to be complete.)
+                - Try typing without quotation to explore bot limitation further
+                - When you are curious if some feature works, try putting quotations as examples below.
+                (
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > ace ventura
+                    JayGatsbyTheBot> My apologies, I do not believe I comprehend your query. Pray, do tell me about
+                    another film you've recently viewed, my dear friend.
+                    > ...
+                )
+                (
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > "ace ventura"
+                    JayGatsbyTheBot> Given the sheer abundance of films which share the same moniker, "ace ventura".
+                    Mightst thou, perchance, elucidate which of these thou wert alluding to: "Ace Ventura: When Nature
+                    Calls (1995)" or "Ace Ventura: Pet Detective (1994)"?
+                    > ...
+                )
+                
+            Developed by:
+                Thanawan (Ly-Ly) Atchariyachanvanit, Riley Carlson, Pawan Wirawarn, & Andrew Wu
+
+            DISCLAIMER!! You are talking with a bot, not a human.
+            
+[96mJayGatsbyTheBot> [0mWell hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance. Now, before I make any recommendations, let's chat about your preferences in motion pictures. Can you regale me with a tale about a recent film that caught your eye?
+> Hello!
+
+[96mJayGatsbyTheBot> [0mI beg your pardon, old sport. I find myself struggling to comprehend the subject of your discourse. Might you enlighten me as to a different cinematic experience you have beheld?
+> I am feeling sad.
+
+[96mJayGatsbyTheBot> [0mMy deepest regrets for causing you to feel sad. Might you enlighten me as to a different cinematic experience you have beheld?
+> I am feeling angry.
+
+[96mJayGatsbyTheBot> [0mMy deepest regrets for causing you to feel angry. Might you enlighten me as to a different cinematic experience you have beheld?
+> I have been feeling down lately.
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Might you relate to me an account of another celluloid presentation you have observed?
+> I'm so glad that I finished my exams.
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Might I inquire as to what other motion picture you may have viewed?
+> I am very angry.
+
+[96mJayGatsbyTheBot> [0mMy deepest regrets for causing you to feel angry. Might I inquire as to what other motion picture you may have viewed?
+> I am now happy.
+
+[96mJayGatsbyTheBot> [0mI am ecstatic that I can make you feel happy. Might I inquire as to what other motion picture you may have viewed?
+> I am ANGERED.
+
+[96mJayGatsbyTheBot> [0mI beg your pardon, old sport. I find myself struggling to comprehend the subject of your discourse. Might you relate to me an account of another celluloid presentation you have observed?
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mJayGatsbyTheBot> [0mVery well indeed, you found pleasure in viewing the cinematic masterpiece "Titanic (1997)". Might I inquire as to what other motion picture you may have viewed?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mJayGatsbyTheBot> [0mMy deepest regrets for causing you to feel frustrated. Might I inquire as to what other motion picture you may have viewed?
+> I'm anxious about everything.
+
+[96mJayGatsbyTheBot> [0mMy deepest regrets for causing you to feel anxious. Might I inquire as to what other motion picture you may have viewed?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mJayGatsbyTheBot> [0mMy apologies for not apprehending your discourse. Pray, do tell me about another film you've recently viewed, my dear friend.
+> I HAAAATE movies.
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Pray, do tell me about another film you've recently viewed, my dear friend.
+> :quit
+[96mJayGatsbyTheBot> [0mI must say, old sport, it's been a pleasure spending time with you. Let's make sure to keep in touch, shall we? Farewell for now, my friend.

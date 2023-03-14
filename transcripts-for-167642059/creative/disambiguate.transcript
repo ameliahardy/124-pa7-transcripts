@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        YodaBot can respond to regular speech, analyze a users sentiment of movies, 
+        and give a recomendation of a new movie that the user may like given their 
+        original preferences. When a user enters information about a movie, the movie
+        should be enclosed in quotes and the users opinion on the movie should be
+        provided. After providing five movie sentiments, YodaBot will return its movie
+        recomendation. 
+        
+[96mYodaBot> [0mHi there, Yoda I am! Movies I recommend based on your movie preferences. Me about a movie you like or dislike, start by telling.
+> I liked "Harry Potter".
+
+[96mYodaBot> [0mMultiple movies by that name there are. Yess. One of these specify please. A key word or year helpful it is: "Harry Potter and the Deathly Hallows: Part 2 (2011)", "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)", "Harry Potter and the Chamber of Secrets (2002)", "Harry Potter and the Half-Blood Prince (2009)", "Harry Potter and the Order of the Phoenix (2007)", "Harry Potter and the Goblet of Fire (2005)", "Harry Potter and the Prisoner of Azkaban (2004)", "Harry Potter and the Deathly Hallows: Part 1 (2010)"
+> Chamber of Secrets
+
+[96mYodaBot> [0mYou liked Harry Potter and the Chamber of Secrets (2002)! Tell me about movies that you have a strong feeling about.
+> I liked "Harry Potter".
+
+[96mYodaBot> [0mThere are many movies called "Harry Potter", my database shows. Yrsssss. Hrmmm. Clarify which one using a key word or year, can you?: "Harry Potter and the Deathly Hallows: Part 2 (2011)", "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)", "Harry Potter and the Chamber of Secrets (2002)", "Harry Potter and the Half-Blood Prince (2009)", "Harry Potter and the Order of the Phoenix (2007)", "Harry Potter and the Goblet of Fire (2005)", "Harry Potter and the Prisoner of Azkaban (2004)", "Harry Potter and the Deathly Hallows: Part 1 (2010)"
+> Prisoner of Azkaban
+
+[96mYodaBot> [0mI'm glad to hear that you liked the movie Harry Potter and the Prisoner of Azkaban (2004). Tell me about movies that you have a strong feeling about.
+> :quit
+[96mYodaBot> [0mFor using YodaBot, thank you. A lot of fun I had. Come back if you need more movie recommendations!

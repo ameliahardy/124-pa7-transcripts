@@ -1,0 +1,29 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+        Walley is a movie recommending chatbot! Tell him about some movies you have seen and he can give you some 
+        recommendations on what to watch next!"
+        
+[96mWalley> [0mHiya I'm Walley! What can I do for ya?
+> I liked "The Notbook".
+
+[]
+[96mWalley> [0mI don't know what you're talking about. I know many many movies, that is not one of them -- please try another one
+> Yes.
+
+[96mWalley> [0mCan you give a bit more information aboutYes.
+> I did not like "Screm"
+
+[1142]
+Did you mean 1142?
+[96mWalley> [0m
+> No.
+
+[96mWalley> [0mCan you give a bit more information aboutNo.
+> :quit
+[96mWalley> [0mWalley out!

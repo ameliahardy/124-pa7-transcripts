@@ -1,0 +1,42 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        YodaBot can respond to regular speech, analyze a users sentiment of movies, 
+        and give a recomendation of a new movie that the user may like given their 
+        original preferences. When a user enters information about a movie, the movie
+        should be enclosed in quotes and the users opinion on the movie should be
+        provided. After providing five movie sentiments, YodaBot will return its movie
+        recomendation. 
+        
+[96mYodaBot> [0mHi there, I'm YodaBot! I recommend movies based on your movie preferences. Start by telling me about a movie you like or dislike.
+> I saw "Titanic (1997)"
+
+[96mYodaBot> [0mI'm sorry, I'm not sure if you liked Titanic (1997). Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mYodaBot> [0mSorry, I don't understand the movie name you gave me. Can you try again with a different movie?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mYodaBot> [0mI noticed you gave me more than one movie. Can you tell me about the movies again one at a time?
+> I like "Titanic".
+
+[96mYodaBot> [0mThere are multiple movies by that name. Can you clarify?
+> I like titanic.
+
+[96mYodaBot> [0mSorry, I don't understand movie titles if they don't have quotation marks around them.
+> I like "titanic".
+
+[96mYodaBot> [0mMy database shows there are many movies called "Titanic". Please specify the movie's year of release.
+> I like 10 things I hate about you.
+
+[96mYodaBot> [0mPlease put quotation marks around the movie title.
+> Howdy.
+
+[96mYodaBot> [0mPlease put quotation marks around the movie title.
+> ...
+
+[96mYodaBot> [0mPlease put quotation marks around the movie title.
+> I saw "Titanic (1220)"
+
+[96mYodaBot> [0mI've never heard of Titanic (1220), sorry. Tell me about another movie.
+> :quit
+[96mYodaBot> [0mThanks for using YodaBot. I had a lot of fun. Come back if you need more movie recommendations!

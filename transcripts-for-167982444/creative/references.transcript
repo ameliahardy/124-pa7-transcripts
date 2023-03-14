@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is pirate themed and ready to bring you on board. It passes all
+         of the starter mode tests along with some additional creative functionality. 
+         You can type movies you liked or didn't like, and after 5 movies, the bot 
+         will give you a recommendation. Have fun!" 
+        
+[96mScallywagBot> [0mWelcome aboard, me hearty! My name is ScallywagBot. How can I help you?
+> I liked "Blade Runner".
+
+[96mScallywagBot> [0mYo ho ho! So you liked:  Blade Runner. 
+ I wonder if you have any other movies, my matey
+> But not "Terminator Salvation".
+
+[96mScallywagBot> [0mBy Blackbeard's beard, you were disappointed by: Terminator Salvation. 
+ Have you watched any other movies, yee-hoo!
+> I saw "Titanic (1997)".
+
+[96mScallywagBot> [0mArrr! Mea culpa, me hearty. I be not acquainted with Titanic (1997). How 'bout ye give me a run-down on another movie ye enjoyed, me bucko? 
+> I liked it.
+
+[96mScallywagBot> [0mThat be not quite what I had in mind. Could we circle back to movies instead, me heartie?
+> I watched "Scream".
+
+[96mScallywagBot> [0m"Scream" be a fair enough flick, but not one that'll shiver yer timbers Avast ye! I be sorry, me hearty, but I be not sure if "Scream" be to yer taste. Could ye give me more details about yer opinion? 
+ Have you watched any other movies, yee-hoo!
+> I didn't like that movie.
+
+[96mScallywagBot> [0mI'm not feelin' particularly interested in that topic right now. Let's refocus on movies, ye landlubber.
+> I felt the same about "Zootopia".
+
+[96mScallywagBot> [0m"Zootopia " twas a decent enough voyage, but me shipmates and I weren't blown away. Arrr! Me sincerest apologies, me bucko. I be unsure if ye be likin' the flick' "Zootopia" . Would ye care to enlighten me? 
+ Arrrgh, Do you have any other thougths about other movies
+> And also "Ex Machina".
+
+[96mScallywagBot> [0mAhoy mateys, " Ex Machina" be a middling movie, neither a treasure nor a bilge rat. By Blackbeard's beard! Me apologies, me hearties. I be uncertain if ye enjoyed the movie "Ex Machina" . Can ye tell me more about yer thoughts on it? 
+ I wonder if you have any other movies, my matey
+> :quit
+[96mScallywagBot> [0mOf course. Farewell, me hearties!

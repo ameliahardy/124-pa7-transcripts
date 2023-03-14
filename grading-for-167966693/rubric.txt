@@ -1,0 +1,80 @@
+#########################################################################################
+# Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Team Members: Clarisse Hokia and Cat Fergesen
+
+Clarisse worked primarily on the features for the Starter Mode, and Cat worked primarily on 
+the process(text) feature. Both of us worked together to pseudocode the various functions,  
+implement the creative mode features, and complete the ethics question. 
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropormorphizing chatbot systems is a natural action on the part of humans, who are quick 
+to ascribe character and personalities and even agency to inanimate objects as abtract as, 
+for example, the weather or time itself. The way that many chatbot systems are designed to 
+demonstrate at least some personality and simulate a conversation between two humans only makes anthropormorphization 
+more automatic. With the additional fact that these chatbots claim to be knowledgable about any 
+topic that the internet is knowledgeable about - which the majority of daily technology-users 
+implicitly trust - chatbots have the power to be very influential on the opinions and decisions 
+of the people that interact with them. The more successful the chatbots are in presenting humanity 
+and feigning accuracy, the more their power grows. We already have a problem with “fake news” in 
+the modern day, partially due to the wealth of content available online and how easy it is to 
+manipulate and spread that content. Chatbots have infinite access to this content, and therefore would 
+be powerful vectors of harmful misinformation. Engineers could attempt to prevent this issue from 
+becoming too serious by not putting effort into giving chatbots complex personalities or putting 
+limitations on what they can speak about. For example, the new Bing chatbot does have barriers on 
+it; when you ask specific questions about violence, and its potential for enacting violence, the 
+Bing chatbot states that it cannot answer the question. This chatbot is in development stages and 
+it is likely that further blocks will be put on it throughout its growth. Like the engineers who 
+are working on the Bing chatbot, chatbot engineers should provide a demo to a large variety of 
+potential users and allow them to test the chatbot and find out where blockers should be put and 
+discover any other problematic potentials of the chatbot. The personality of the chatbot should also 
+be maintained as professional and informational only and any language patterns simulating interpersonal 
+connection between the chatbot and the user should be blocked. For example, a recent New York Times 
+article details how a tech reporter ended up receiving an unprompted love confession from the Bing 
+chatbot’s conversational personality and being asked to leave his wife. Chatbots should be prevented 
+from making statements like this altogether.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

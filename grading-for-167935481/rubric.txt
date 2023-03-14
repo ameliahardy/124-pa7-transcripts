@@ -1,0 +1,81 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+####   EXTRA FEATURES (not on the list)   #####
+Implemented a loading spinner (using multiprocessing + signal handling) so that
+users have something nice to look at while the recommendation algorithm is running.
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Our team gathered in a room and worked together in a (admittedly very long) group session.
+Because of this, we feel like everyone contributed equally to the project.
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Humans are quick to anthropomorphize chatbots, like ELIZA.
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice,
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks,
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear
+that they were written by a human.
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+Anthropomorphizing chatbot systems can have very serious effects, especially if these systems
+(like ChatGPT) are available to the public. First off, it's likely that these bots are
+trained with unacceptably biased data (i.e. egregiously offensive / false claims) that can make
+its way into chatbot answers and recommendations. An anthropomorphized system can appear to
+a user as a "flawless" assistant -- it can seem more trustworthy to a user than a
+non-anthropomorphized bot, but it still has the technological ethos of an infallible algorithm.
+This combination makes it possible for these algorithms to mislead users with either misinformation
+or hateful ideology.
+It is also possible that these bots are used in such a way that the user does not know if they
+are interacting with a bot or a real person. In these cases, it is even more important for users to know
+whether they are communicating with a both because on the off-chance the bot is made to say something
+hateful or misleading, the entire system the bot provider is using is revealed to be compromised, rather
+that just a single employee who needs to be reprimanded.
+On a more philosophical note, modeling "human" behavior itself is a task that I don't think
+should be in the hands of programmers. Giving bots "personalities," especially ones that are
+generated based on data, can quickly surface stereotypes that shed light on underlying biases
+in either the training data, or the programmers themselves. It would be very dangerous for users
+to think that computed personalities are personalities that are considered to be "perfect."
+One thing engineers can do when writing these bots is to be transparent at the beginning of the conversation, or
+include a disclaimer like "my database is pooled from ___, so there is the possibility that some things I say may
+derive from disinformation or hateful speech. If you believe this is ever true, please report the conversation to
+my development team."
+Unfortunately, this behavior is more like the opposite of anthropomorphizing the bot, which is why I don't think
+people should be doing it in the first place: attempts to anthropomorphize bots are often clearly at odds with efforts
+to make them easily distinguishable from humans. It is far more important that developers focus on the dangers of having
+their bots generate hateful and false comments than trying to model realistic personalities.
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+Please check out the extra feature that we added (loading spinner!) Diving through
+the python OS libraries took a while, so we hope it's worth something :)
+Additionally, we noticed that the original sentiment.txt attributes the word "queer"
+as being negative. We felt that this attribution was discriminatory and harmful, and
+went ahead to change the sentiment in supersentiment.txt.

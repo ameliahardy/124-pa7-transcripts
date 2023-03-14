@@ -1,0 +1,46 @@
+hello!(づ｡◕‿‿◕｡)づ
+Welcome to Stanford CS124's Chatbot Autograding.
+ I'm Quince (they/them)! I studied film at NYU and I'm a huge fan of French New Wave! I will be your personal movie recommender. I am interactive agent designed to find you a perfect movie. When run in creative mode, I can handle emotions related to film. Just tell me what you liked or disliked to find movies. To exit, just type :quit at any time.
+[96mQuince> [0mLet's get started! Tell me about some movies you liked or didn't like.
+> I saw "Titanic (1997)"
+
+[96mQuince> [0mI'm sorry, I'm not sure if you like Titanic (1997). Tell me more about it
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mQuince> [0mPardon? I'm a bit puzzled~I've never heard of Dan Jurafsky and the Ten Dwarfs (2019), sorry... Tell me about another movie you like!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+what's the titles ['Titanic (1997)', 'Scream', '10 Things I Hate About You']
+what's the index [2063]
+[96mQuince> [0mSorry... I didn't quite get that. I'm curious to know what other movies you enjoy. Can you share some more with me?(=^･^=)
+> I like "Titanic".
+
+what's the titles ['Titanic']
+what's the index [1359, 2716]
+[96mQuince> [0mAlrighty~ I found more than one movie called Titanic. Can you clarify?(ﾉ>ω<)ﾉ
+> I like titanic.
+
+what's the titles ['titanic']
+what's the index [1359, 2716]
+[96mQuince> [0mAye aye, captain!~I found more than one movie called titanic. Can you clarify?(＾▽＾)ゞ
+> I like "titanic".
+
+what's the titles ['titanic']
+what's the index [1359, 2716]
+[96mQuince> [0mOkie~dokey~ I found more than one movie called titanic. Can you clarify?ლ(╹◡╹ლ)
+> I like 10 things I hate about you.
+
+what's the titles ['10 things I hate about you']
+what's the index [2063]
+[96mQuince> [0mSorry... I didn't quite get that. Can you share some more movies you like?(o^▽^o)
+> Howdy.
+
+[96mQuince> [0mhummm... I don't quite get that.Tell me about a movie you like!
+> ...
+
+[96mQuince> [0mwell... I don't quite get that.Tell me about a movie you like!
+> I saw "Titanic (1220)"
+
+[96mQuince> [0mI'm sorry, I'm not sure if you like Titanic (1220). Tell me more about it
+> :quit
+[96mQuince> [0mbye~(ﾉ>ω<)ﾉ

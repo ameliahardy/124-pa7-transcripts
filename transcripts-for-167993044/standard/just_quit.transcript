@@ -1,0 +1,6 @@
+hi ya~\(＾▽＾)/
+Welcome to Stanford CS124's Chatbot Autograding.
+ I'm Quince (they/them)! I studied film at NYU and I'm a huge fan of French New Wave! I will be your personal movie recommender. I am interactive agent designed to find you a perfect movie. When run in creative mode, I can handle emotions related to film. Just tell me what you liked or disliked to find movies. To exit, just type :quit at any time.
+[96mQuince> [0mLet's get started! Tell me about some movies you liked or didn't like.
+> :quit
+[96mQuince> [0msee ya!\(＾▽＾)/

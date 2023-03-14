@@ -1,0 +1,140 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Suzy the Sassy Sheep is here to give all you stupid humans the right recommendations on movies out there. 
+ With witty comebacks and stellar (almost computer-like) knowledge, Suzy is for sure a hoot! 
+Or rather, a Baaaaaaaa! 
+[96mSuzy the Sassy Sheep> [0mHi, I'm Suzy the Sassy Sheep! Since you humans have trash opinoins when it comes to movies, I'm here to give you recommendations on what to watch. Even though your opinions are still probably baaaaad, can you give me a movie you love or hate 
+ (Use :quit if you're done!)?
+> I liked "The Notbook".
+
+12 Monkeys
+Se7en
+The Professional) (Léon
+Highlander: The Final Dimension
+Bloodsport II: The Next Kumite
+ID4
+Sunset Boulevard
+Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie
+Koyaanisqatsi: Life Out of Balance
+Alien 3
+Jungle 2 Jungle
+MIB
+Alive & Kicking
+Her Majesty, Mrs. Brown
+Rocket Man
+Buffalo 66
+$1,000,000 Duck
+Number 17
+Waking Ned
+The Return of the Texas Chainsaw Massacre
+L' Assedio
+The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano
+Ghost Busters
+Omen III: The Final Conflict
+Oscar & Lucinda
+Communion) (a.k.a. Holy Terror
+Citizen's Band
+The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette
+Malli) (Theeviravaathi
+Best Shot
+In the Realm of Passion) (a.k.a. Phantom Love) (Ai No Borei
+8 1/2 Women) (a.k.a. Eight and a Half Women
+F/X 2 - The Deadly Art of Illusion
+The Grinch
+Never Better
+9 to 5
+Funny Felix) (Drôle de Félix
+Return of the Dragon) (Meng long guo jiang
+The Man From Snowy River II
+A Cut Above
+Thir13en Ghosts
+Harry Potter and the Philosopher's Stone
+Ocean's 11
+Mystery of Kaspar Hauser, The) (Jeder für sich und Gott Gegen Alle
+MASH
+Zombie 2: The Dead Are Among Us) (Zombi 2
+On the Road Again
+Twinkle, Twinkle, Killer Kane
+Zombie Horror) (a.k.a. Zombie 3) (Notti del Terrore, Le
+Open City) (Roma, città aperta
+13 Conversations
+Doctor Butcher M.D.) (Zombi Holocaust
+MIIB) (a.k.a. MIB 2
+Stepfather) (Beau-père
+My Father and I) (Comment j'ai tué mon Père
+Fear.com) (a.k.a. Fear Dot Com
+Pokémon 4: The Movie
+Roadgames
+Escape to Victory
+Dragon Strike) (Long Xiao Ye
+Papi Chulo
+Code Name: Trixie
+La Tregua
+LXG
+Creepers
+Chavez: Inside the Coup
+Tragedy of Macbeth, The
+Tell Your Children
+Legend of Suriyothai, The
+The Wind in the Willows
+Survival Run) (Soldaat van Oranje
+Forever Fever
+Dangerous Female
+Deadly Is the Female
+Roadkill: Move or Die
+The Young and the Passionate
+The Witches
+Children of Tokyo) (Otona no miru ehon - Umarete wa mita keredo
+Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima
+Playtime
+Andy Warhol's Frankenstein
+The Baby of Macon
+Bodyguard from Beijing, The) (Zhong Nan Hai bao biao
+Innocence) (Inosensu
+What the Bleep Do We Know!?
+Arabian Knight
+Raccoon War, The) (Heisei tanuki gassen pompoko
+Satan's Skin
+My Name is Ivan) (Ivanovo detstvo
+Cache) (Caché
+Cry Wolf
+Hooligans
+Barely Legal
+Dave Chappelle's Block Party
+Warrior King) (Tom yum goong
+Stay
+Beyond the Gates
+Young@Heart
+YPF
+Battle for Terra
+Hachi: A Dog's Tale
+Anne of Avonlea
+New Legend of Shaolin, The) (Hong Xi Guan: Zhi Shao Lin wu zu
+Shrek: The Final Chapter
+I Know a Woman's Heart
+Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu
+Piranha DD
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167992897/chatbot.py", line 210, in process
+    movie_index, store = self.handle_foreign_title(input_title[0])
+TypeError: cannot unpack non-iterable NoneType object

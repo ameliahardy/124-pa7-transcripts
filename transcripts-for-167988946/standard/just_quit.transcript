@@ -1,0 +1,10 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Bert is a movie recommender bot who can give you movie recommendations based on your personal taste. After you 
+        talk about 5 movies (at minimum), Bert will start giving you movie recommendations. 
+        Make sure to include the title of the movie in quotes. If you need to correct Bert's evaluation of your opinion of
+        a movie, you can do so. 
+        
+[96mBert> [0mHey there, I'm Bert, a movies recommender bot. Tell me about a movie, and once I feel like I have a solid of understanding of your taste in movies, I'll try my best to recommend you movies you'd like. If I misunderstand anything, feel free to correct me. Also, please include the title of the movie in quotation marks.
+> :quit
+[96mBert> [0mBye! I hope you enjoy watching whatever movie you end up choosing!

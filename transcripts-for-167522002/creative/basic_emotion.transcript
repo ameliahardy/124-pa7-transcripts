@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Howdy, partner! We are gonna have a hog-killin' time figuring out the next movie you are going to watch. 
+        Please tell me about 5 movies you have seen that were either an ace in the hole or a snake in your boot. 
+        Make sure to include only one movie name per line and ensure the name of the movie is in quotes along with 
+        the year of the movie in parentheses (if you don't do this you might end up swimming with the fishes). Once 
+        I have the names of the movies you have watched, I will make you recommendations. Feel free to say yes if 
+        you want to hear more recommendations or no if have had enough. Enough dilly dallying. Let's get to talking!
+        
+[96mCowboy Cap> [0mHowdy, I'm Cowboy Cap! After we speak, movies won't feel like the wild west anymore. Tell me the name and year of a movie you have seen.
+> Hello!
+
+[96mCowboy Cap> [0mThat's doggone crazy, but you forgot to give me a movie!
+> I am feeling sad.
+
+[96mCowboy Cap> [0mThat's doggone crazy, but you forgot to give me a movie!
+> I am feeling angry.
+
+[96mCowboy Cap> [0mThat's interesting, but I don't think you have given me a movie. Make sure you have placed a movie title in quotes!
+> I have been feeling down lately.
+
+[96mCowboy Cap> [0mThat's great to hear! It doesn't look like you have told me about a movie you have seen. Can you tell me about one?
+> I'm so glad that I finished my exams.
+
+[96mCowboy Cap> [0mThat's doggone crazy, but you forgot to give me a movie!
+> I am very angry.
+
+[96mCowboy Cap> [0mI'm sorry, you're barking up the wrong tree. I can't make a recommendation without a movie. What is a movie you have watched and loved or hated?
+> I am now happy.
+
+[96mCowboy Cap> [0mThat's interesting, but I don't think you have given me a movie. Make sure you have placed a movie title in quotes!
+> I am ANGERED.
+
+[96mCowboy Cap> [0mEnough of peanut talk. Please make sure you include a movie and your opinion of that movie so I can give you a recommendation!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mCowboy Cap> [0mI can see you have watched "Titanic (1997)". What did you think of it?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mCowboy Cap> [0mThat's doggone crazy, but you forgot to give me a movie!
+> I'm anxious about everything.
+
+[96mCowboy Cap> [0mThat's interesting, but I don't think you have given me a movie. Make sure you have placed a movie title in quotes!
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mCowboy Cap> [0mI'm sorry, you're barking up the wrong tree. I can't make a recommendation without a movie. What is a movie you have watched and loved or hated?
+> I HAAAATE movies.
+
+[96mCowboy Cap> [0mThat's great to hear! It doesn't look like you have told me about a movie you have seen. Can you tell me about one?
+> :quit
+[96mCowboy Cap> [0mAdios, partner. Hope I was more helpful than Siri! Have a great day!

@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Yargh! It be Captain Jack Sparrow! Sailor of the seven seas and without
+            a doubt the best pirate you have ever heard of. I love movies almost as
+            much as I love rum, so let me know which ones you like, and I'll suggest
+            some new ones for you!
+            
+[96mJack, Movie Expert> [0mAye Matey, it's Captin' Jack Sparrow! If ye tell me a few movies you've seen, and what ye thought, I could maybe perhaps recommend ye some entertainment ye might enjoy!
+ For example, ye can say 'I liked "Pirates of the Caribbean: The Curse of the Black Pearl"'
+> I liked "The Notbook".
+
+[96mJack, Movie Expert> [0mShiver me timbers, 'The Notbook' is new to me. It's always great to learn new movies from a fellow sailor, but I can't make a recommendation from movies I don't know about. Walk the plank! 
+> Yes.
+
+[96mJack, Movie Expert> [0mOh, I see. 
+> I did not like "Screm"
+
+[96mJack, Movie Expert> [0mAhoy, 'Screm' isn't in my hull. I can't make a recommendation from movies I don't know about. Walk the plank! 
+> No.
+
+[96mJack, Movie Expert> [0mYe must have had too much rum! I can't understand ye 
+> :quit
+[96mJack, Movie Expert> [0mThis is the day you will always remember as the day you almost caught Captain Jack Sparrow!

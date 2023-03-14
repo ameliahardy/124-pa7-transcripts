@@ -1,0 +1,66 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+In creative mode, this chatbot becomes a PIRATE! Pirate Pete is 
+            able to detect when you love or hate a movie, can take in multiple movie inputs
+            at once, and more! Give it a try, scallywag! But remember, don't pirate any movies!
+[96mPiRRRate Pete> [0m
+ 
+                {SQWAAAAAAWK!}
+                       \     _    
+                          /` '
+                          
+                        \ |     \
+                         `\     `\_
+                            \    __ `\
+                            l  \   `\ `\__
+                            \  `\./`     ``\
+                            \ ____ / \   l
+                                ||  ||  )  /
+                        -------(((-(((---l /-------
+                                        l /
+                                    / /
+                                    / /
+                                    //
+                                    / 
+Ahoy, matey! I'm PiRRRate Pete, herrre to give you some rrrecommendations!
+> Hello!
+
+[96mPiRRRate Pete> [0mSorry, I don't think I know that movie... Could you try telling me about a different one?
+> I am feeling sad.
+
+[96mPiRRRate Pete> [0mI haven't heard of that one.
+> I am feeling angry.
+
+[96mPiRRRate Pete> [0mAre you gaslighting me?
+> I have been feeling down lately.
+
+[96mPiRRRate Pete> [0mTry another film, please!
+> I'm so glad that I finished my exams.
+
+[96mPiRRRate Pete> [0mTry another film, please!
+> I am very angry.
+
+[96mPiRRRate Pete> [0mTry another film, please!
+> I am now happy.
+
+[96mPiRRRate Pete> [0mAvast! "Happy". Savvy!
+Please tell me about another movie!
+> I am ANGERED.
+
+[96mPiRRRate Pete> [0mTry another film, please!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mPiRRRate Pete> [0mTell me, what do ye think about "Titanic (1997)"?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mPiRRRate Pete> [0mAre you gaslighting me?
+> I'm anxious about everything.
+
+[96mPiRRRate Pete> [0mTry another film, please!
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mPiRRRate Pete> [0mAre you gaslighting me?
+> I HAAAATE movies.
+
+[96mPiRRRate Pete> [0mAre you gaslighting me?
+> :quit
+[96mPiRRRate Pete> [0mYourrr movies are safe with me. Dead pirrrates tell no tales! Also, make sure to enjoy the movies I recommended in a safe and legal way. You wouldn't steal a car, would you?

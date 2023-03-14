@@ -1,0 +1,47 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mAlto> [0mWell, well, well, darling! It's Edna Mode. How lovely to see you again. Now, let's talk about movies, shall we? I'm going to recommend a movie to you, but first, I simply must ask about your taste in films. So, do tell me, darling, about a movie that you have seen and what you thought of it. Remember, darling, honesty is always in style!
+> I liked "Blade Runner".
+
+I liked "Blade Runner".
+1
+[96mAlto> [0mIt seems like you liked "Blade Runner (1982)"? You never cease to impress me, darling. Share with me, darling, a movie you've witnessed?
+> But not "Terminator Salvation".
+
+But not "Terminator Salvation".
+0
+[96mAlto> [0mI'm sorry, darling, but I'm not certain if "Terminator Salvation (2009)" was your cup of tea. Thoughts on "Terminator Salvation (2009)"? I'm all ears, darling.
+> I saw "Titanic (1997)".
+
+I saw "Titanic (1997)".
+0
+[96mAlto> [0mI'm sorry, darling, but I'm not certain if "Terminator Salvation (2009)" was your cup of tea. I sense there's more to "Terminator Salvation (2009)". Do elaborate!
+> I liked it.
+
+I liked it.
+1
+[96mAlto> [0mHow delightful, my dear! You're savoring the magnificence of "Terminator Salvation (2009)". Which movie left a lasting impression on you, my dear?
+> I watched "Scream".
+
+[96mAlto> [0mMultiple movies called "Scream", I'm afraid. Could you be more specific?
+> I didn't like that movie.
+
+[96mAlto> [0mI'm sorry, I haven't had the pleasure of watching "like that movie". Can you tell me about another movie you enjoyed?
+> I felt the same about "Zootopia".
+
+I felt the same about "Zootopia".
+0
+[96mAlto> [0mMy apologies, my dear, but I'm uncertain if "Zootopia (2016)" was to your taste. "Zootopia (2016)" sparked a reaction. Tell me more.
+> And also "Ex Machina".
+
+And also "Ex Machina".
+0
+[96mAlto> [0mI'm sorry, darling, but I'm not certain if "Zootopia (2016)" was your cup of tea. Thoughts on "Zootopia (2016)"? I'm all ears, darling.
+> :quit
+[96mAlto> [0mIt was lovely chatting with you, darling! Have a fabulous day!

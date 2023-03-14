@@ -1,0 +1,78 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Each of the team members contirbuted evenly to the project! Day 1 we met up and talked through the code for
+all the simple parts synchronously together. We also started writing the code out. From there, one member
+wrote out process and we split up the work (1) fixing bugs in starter (2) going about the creative projects
+(3) expanding out process for all necessary steps. Overall, each member contributed equally and picked up
+where others needed help!
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+There are numerous possible ramifications of anthropomorphizing chatbot systems which we will list below. 
+1.The more human-like the system is made, the more chatbot system will be perceived as human and replace necessary human tasks. For example, therapy is something that should be human-to-human, but the ability for a conversation chatbot can change the norm to incorrectly be ok with AI-based non-human chatbots. 
+2.When issues do arise from the decisions of a chatbot system, there becomes a question of who is liable: the person implementing the language model or the programmers?
+3.Legal issues that come with identity fraud or impersonation when language models have the ability to make a whole new identity or learn from online data to impersonate someone with a distinct style. 
+4.As implied by the question prompt, if language models are trained on past data, they may replicate and continue historical biases. This would lead to perpetuating harm to minorities and developing a bad feedback cycle where traditionally marginalized groups continue to be marginalized.
+5.Having the ability to act like a human can lead to exploitation of vulnerable populations. For example, scam sites for older populations or coercion of non-native speakers.
+
+Given these risks, there are many steps engineers can take to ensure that users are able to distinguish responses from chatbots.
+1.Having some sort of watermark on every chatbot produced message
+2.At the start of every chatbot-intermediated conversation, sign post that the individual is speaking with an AI bot with links to learn more about it
+3.Restating what the user asked like a bot. For example, if the user asked “What are colors in a rainbow?” the bot could respond with “You asked about the colors of a rainbow. They are …” 
+4.Immediate response that could possibly not be at the speed humans can type.
+5.And tons more that teams implementing chatbots should brainstorm!
+
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+This describes the creative implementation for the manually graded section:
+1. Dialogue for spell-checking: Displays all the movies that the user should include in their next response (this might be partial credit!!)
+2. Responding to arbitrary input: Possible sentence structures include Can/Could/Would you, What is/are, How do/does/can, Who, Whose, Where, When, Why, and Which. 
+Additionally, all instances of "I" and "me" (in the user's prompt) is changed to "you" in the response. Also, "you" is changed to "I" for the perspective of the bot.
+3. Identifying and responding to emotions: Words for angry, happiness, sadness, and fear are included.
+4. Chatbot theme/persona: Uwu! hehe~

@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                Hi! I'm an interactive chatbot named Oscar! I can give you movie recommendations
+                if you tell me 5 movies that you've seen and how you felt about them. This can
+                be anything ranging from "I like this movie" to "I despised this movie" and
+                anything in between. You can also specify how many movie recommendations you
+                would like, and I can tell you that many movies that I think you'll like!
+                
+[96mOscar> [0mHey! My name is Oscar! I'm your personal assistant for giving personalized movie recommendations! Can you tell me about a movie that you liked?
+> :quit
+[96mOscar> [0mThanks for chatting wtih me! Talk to you soon!

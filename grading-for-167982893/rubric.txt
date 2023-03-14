@@ -1,0 +1,84 @@
+#########################################################################################
+# 
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Helena worked on:
+ - recommend()
+ - item-item collaborative filtering
+ - find_movies_by_title()
+ - disambiguate()
+ - Ethics questions
+
+Ari worked on: 
+ - Extracting simple sentiment extraction.
+ - Communicating sentiments and movies extracted to the user given multiple-movie input
+ - process() for both starter and creative modes.
+ - Function to match exact title
+ - Ethics questions
+
+Kieran worked on:
+ - Identifying movies with quotation marks
+ - Binarize()
+ - process() for both starter and creative modes.
+ - Giving the chatbot a personality
+ - Ethics questions
+ 
+Regina worked on:
+ - process() for starter mode
+ - Communicating sentiments and movies extracted to the user given multiple-movie input
+ - Giving the chatbot a personality
+ - Ethics questions
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+
+ANSWER:
+
+Anthropomorphizing chatbot systems can have dangerous consequences. For example, extremely human-like chatbots create unrealistic expectations from users and, in turn, can lead to serious misunderstandings. When interacting with a human-like chatbot, like ELIZA, humans might expect the chatbot to be able to give both logical and emotional responses to a vast spectrum of requests that it might not be trained to navigate. A lack of response to an extremely complex question or request might have a negative effect on a user by making them feel helpless and frustrated. Take the following scenario: A user is suffering through a mental illness and goes to a chatbot for help. The chatbot might not know how to support a human going through serious, life-threatening symptoms, so it gives a dismissive and possibly offensive response. Given that a chatbot isn't nearly as equipped to give emotional support or guidance as a human customer service representative, the user might end up in a worse mental state than they were in before interacting with the chatbot. In this same scenario, the anthropomorphizing of the chatbot could also be dangerous if it were to provide an unhelpful, untrue guidance. The chatbot's response to a user might be inappropriate especially if its newest models were trained with data from online forums like Twitter and Reddit that contain a lot harmful and insensitive language.
+
+Engineers might ensure that users can easily distinguish chatbot response from those of a human by setting guidelines on a chatbot's speech patterns. Even though engineers might have harmless and playful intentions when giving chatbots a personality and human-like abilities and responses (as we've done in this PA7 assignment), the use of current jargon or slang and extremely up-to-date human language patterns could come at the expense of an ethically and responsibly designed chatbot. If a chatbot's responses have no distinguishing factors from a human such as a relatively formal tone and basic vocabulary, a user might form an unhealthy emotional attachment and dependency on a human-like chatbot. Engineers can also ensure that users are able to distinguish chatbot responses from those of a human by providing repeated disclaimers and interface design features that remind users that they are interacting with a chatbot.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

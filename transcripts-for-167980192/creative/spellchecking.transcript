@@ -1,0 +1,29 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to our movie recommender chatbot. Tell us which movies
+        you like, dislike, or have seen, and we'll recommend movies you might
+        find enjoy.
+        
+[96mMovieChatbot> [0mHello, we are going to recommend you movies based on your reviews, type creative to do creative reviews, otherwise just type a review!
+> I liked "The Notbook".
+
+[96mMovieChatbot> [0mcreative modeeyou liked The Notbook 
+ please tell me more about your movie preferences we need 3 more reviews to recommend
+> Yes.
+
+[96mMovieChatbot> [0mcreative modeesorry, I missed that movie .. tell me more  
+ please tell me more about your movie preferences we need 2 more reviews to recommend
+> I did not like "Screm"
+
+[96mMovieChatbot> [0mcreative modeeyou disliked Screm 
+ please tell me more about your movie preferences we need 1 more reviews to recommend
+> No.
+
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Toy Story (1995)
+Jumanji (1995)
+Grumpier Old Men (1995)
+Waiting to Exhale (1995)
+Father of the Bride Part II (1995)
+> :quit
+[96mMovieChatbot> [0mHave a nice day! great chatting with you

@@ -1,0 +1,12 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        YodaBot can respond to regular speech, analyze a users sentiment of movies, 
+        and give a recomendation of a new movie that the user may like given their 
+        original preferences. When a user enters information about a movie, the movie
+        should be enclosed in quotes and the users opinion on the movie should be
+        provided. After providing five movie sentiments, YodaBot will return its movie
+        recomendation. 
+        
+[96mYodaBot> [0mHi, YodaBot the movie recommender I am. Movie reviews You give to me, and help you I can.
+> :quit
+[96mYodaBot> [0mFor using YodaBot, thank you. A lot of fun I had. Come back if you need more movie recommendations!

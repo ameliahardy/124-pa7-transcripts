@@ -1,0 +1,46 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to the Chavo del Ocho Movie Chatbot! This is an engaging chatbot
+        that can mainly help you find your next favorite movie recommendation!
+        Just provide him with a few movies you've seen and tell him what you thought
+        of them and magic will happen. Chavo is smart and can find movies even
+        when you don't write them with the exact name. Exciting!
+        
+        But that's not all, Chavo can handle open ended conversation (you can tell
+        him about your feelings) and many more! 
+        
+[96mChavo del Ocho> [0mHola! I'm Chavo and I can help you find your new favorite movie! Just tell me about a
+movie that you have seen and whether or not you like it. Ah, just make sure to place the movie between
+quotes so I can recognize it, por favor!
+> I saw "Titanic (1997)"
+
+[96mChavo del Ocho> [0mI couldn't tell if you liked or not "Titanic (1997)". Can you try again por favor?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mChavo del Ocho> [0mCouldn't match any movie with the title "Dan Jurafsky and the Ten Dwarfs (2019)". Can you try again por favor?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mChavo del Ocho> [0mI can only handle one movie at a time! Could you try again amigo?
+> I like "Titanic".
+
+[96mChavo del Ocho> [0mWoah! I found multiple matches for "Titanic". Let's try one more time amigo.
+> I like titanic.
+
+[96mChavo del Ocho> [0mHmmm, is that a movie? Can you try again?
+> I like "titanic".
+
+[96mChavo del Ocho> [0mWoah! I found multiple matches for "titanic". Can you try again por favor?
+> I like 10 things I hate about you.
+
+[96mChavo del Ocho> [0mNot sure I got that. Try writing your movie between quotes!
+> Howdy.
+
+[96mChavo del Ocho> [0mNot sure I got that. Try writing your movie between quotes!
+> ...
+
+[96mChavo del Ocho> [0mHmmm, is that a movie? Can you try again?
+> I saw "Titanic (1220)"
+
+[96mChavo del Ocho> [0mI couldn't tell if you liked or not "Titanic (1220)". Can you try again por favor?
+> :quit
+[96mChavo del Ocho> [0mAdiós! Hope have a nice day!

@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to the Chavo del Ocho Movie Chatbot! This is an engaging chatbot
+        that can mainly help you find your next favorite movie recommendation!
+        Just provide him with a few movies you've seen and tell him what you thought
+        of them and magic will happen. Chavo is smart and can find movies even
+        when you don't write them with the exact name. Exciting!
+        
+        But that's not all, Chavo can handle open ended conversation (you can tell
+        him about your feelings) and many more! 
+        
+[96mChavo del Ocho> [0mHola! I'm Chavo and I can help you find your new favorite movie! Just tell me about a
+movie that you have seen and whether or not you like it. Ah, just make sure to place the movie between
+quotes so I can recognize it, por favor!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mChavo del Ocho> [0mPlease let's do only one movie at a time. I'm not that smart yet!
+> I liked "Zootopia" but not "Scream".
+
+[96mChavo del Ocho> [0mPlease let's do only one movie at a time. I'm not that smart yet!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mChavo del Ocho> [0mI can only handle one movie at a time! Could you try again amigo?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mChavo del Ocho> [0mI can only handle one movie at a time! Could you try again amigo?
+> :quit
+[96mChavo del Ocho> [0mAdiós! Hope have a nice day!

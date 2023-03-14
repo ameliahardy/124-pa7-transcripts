@@ -1,0 +1,14 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHello! I am moviebot, a chatbot designed
+                        to recommend you movies. To start, please tell me your
+                        opinion about a movie you have watched. To exit this
+                        conversation, type ":quit" and hit Enter.
+> :quit
+[96mmoviebot> [0mSee you soon!

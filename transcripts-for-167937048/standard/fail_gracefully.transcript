@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Welcome to CineBot, your personal movie recommendation expert! Whether you're in the mood for action, romance, or comedy, CineBot has got you covered. Just tell us what movies you like in "quotation marks", and let the movie magic begin!
+[96mCineBot> [0mGreetings! I'm CineBot, here to help you discover your next cinematic obsession.
+> I saw "Titanic (1997)"
+
+[96mCineBot> [0mI'm not sure I understand your feelings on "Titanic (1997)". Please specify. 
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mCineBot> [0mSorry, I've never heard of "Dan Jurafsky and the Ten Dwarfs (2019)". Can you try another? 
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mCineBot> [0mI realize that you liked "Titanic (1997)". What's another movie that you've seen? 
+> I like "Titanic".
+
+[96mCineBot> [0mSorry, there are many movies named "Titanic". Can you specify? 
+> I like titanic.
+
+[96mCineBot> [0mMaybe we should get talk more about movies. 
+> I like "titanic".
+
+[96mCineBot> [0mSorry, there are many movies named "titanic". Can you specify? 
+> I like 10 things I hate about you.
+
+[96mCineBot> [0mLet's get back to discussing movies. 
+> Howdy.
+
+[96mCineBot> [0mMaybe we should get talk more about movies. 
+> ...
+
+[96mCineBot> [0mLet's get back to discussing movies. 
+> I saw "Titanic (1220)"
+
+[96mCineBot> [0mSorry, I've never heard of "Titanic (1220)". Can you try another? 
+> :quit
+[96mCineBot> [0mEnjoy your movie!

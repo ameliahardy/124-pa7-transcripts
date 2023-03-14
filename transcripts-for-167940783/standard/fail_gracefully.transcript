@@ -1,0 +1,42 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Meowy is a cat chatbot for all your cat-bot waifu dreams! Ask Meowy what you feel about various movies, and they will recommend you a movie!
+        
+[96mMeowMeow> [0mMeow!!! Meow, my name is MeowMeow. Tell me about a movie you like, mew?
+> I saw "Titanic (1997)"
+
+[96mMeowMeow> [0mI'm sorry, I'm not sure if you liked Titanic (1997). Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mMeowMeow> [0mGot it, you appear to feel good about "Dan Jurafsky And The Ten Dwarfs (2019)"!  But I haven't heard of that movie myself, nya! So about the other movies you've seen... 
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mMeowMeow> [0mAh, so you have enjoyed "Titanic (1997)" and you enjoyed "Scream" and you enjoyed "10 Things I Hate About You".
+> I like "Titanic".
+
+[96mMeowMeow> [0mOK! Seems like you feel positive about "Titanic"!  But meow! So many pawsibilities. Which movie are you talking about? Titanic (1997), Titanic (1953).
+> I like titanic.
+
+[96mMeowMeow> [0mOh, so you think highly of "Titanic"!  But mew! Which of these movies are you talking about? Titanic (1997), Titanic (1953).
+> I like "titanic".
+
+[96mMeowMeow> [0mGot it, you appear to indeed have liked "Titanic"!  I found multiple titles with similar names. Can you clarify? For instance, is it any of these? Titanic (1997), Titanic (1953).
+> I like 10 things I hate about you.
+
+[96mMeowMeow> [0mI see you disliked "10 Things I Hate About You"! And so what of the other movies you've watched? 
+> Howdy.
+
+[96mMeowMeow> [0mYes, howdy. to you too!
+> ...
+
+[96mMeowMeow> [0mI'm very meowy!!! My cat-human translator is having a fit again. I couldn't understand if you were talking about any movies. Can you tell me again? Tell me a movie you've watched.
+> I saw "Titanic (1220)"
+
+[96mMeowMeow> [0mMrow? I'm meowy, I'm not sure what you mean.
+> :quit
+[96mMeowMeow> [0mHave a meowy day! Meow!!!

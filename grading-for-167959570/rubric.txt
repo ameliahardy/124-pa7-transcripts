@@ -1,0 +1,60 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): NO
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: yes
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Everyone split up the helper functions. We shared a codebase across which we were able
+to pull each other's code and run sanity_check. We met every night to ensure, our implementations
+were consistent with each others expectations. In the end we spent some time
+writing the process function together.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Humans are quick to anthropomorphize chatbots, like ELIZA.
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice,
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks,
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+
+Anthropomorphizing chatbot systems could lead to an array of ramifications. First, it could cause individuals to develop an emotional attachment or dependency on a chatbot. Relying on a chatbot for human advice or support in intense emotional situations - particularly when it isn’t trained to do so - could create serious issues and disappointment. Anthropomorphizing chatbot systems could also lead individuals interacting with them to isolate themselves from greater society. Face-to-face social interaction is crucial for our human development, and we cannot rely on chatbots to replace this integral facet of our lives. Lastly, in many cases, as mentioned, these chatbots are exposed to biased data that can potentially reflect and manifest itself in the persona of the user interacting with it. Without awareness of the risk this presents, it could be easy for users interacting with the chatbots to be subconsciously influenced by the biases.
+
+One explicit way for engineers to distinguish chatbot responses from human responses would be to prompt the user with a disclaimer explaining the limitations of the chatbots and its potential risks. Engineers could also prohibit the chatbots from responding to personal questions that shouldn't be answered by machines and instead reinforce its limitations by reminding the user that the chatbot isn’t qualified to answer those types of questions.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

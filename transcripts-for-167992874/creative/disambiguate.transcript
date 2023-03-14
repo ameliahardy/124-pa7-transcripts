@@ -1,0 +1,19 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi, I'm the Topperbot! I am a simple movie recommendation bot. I will listen to your movie reviews and store them, then I can make recommendations of my own.  
+        
+[96mtopperbot> [0mAyo, it's the movie guru Topperbot in the building! But before I can work my magic, I need to know your movie preferences. So tell me about a movie you like or dislike, and I'll make sure to come up with some recommendations that are straight fire!
+> I liked "Harry Potter".
+
+[96mtopperbot> [0mI processed I liked "Harry Potter". in creative mode!!
+> Chamber of Secrets
+
+[96mtopperbot> [0mI processed Chamber of Secrets in creative mode!!
+> I liked "Harry Potter".
+
+[96mtopperbot> [0mI processed I liked "Harry Potter". in creative mode!!
+> Prisoner of Azkaban
+
+[96mtopperbot> [0mI processed Prisoner of Azkaban in creative mode!!
+> :quit
+[96mtopperbot> [0mPeace out, movie lover! Keep on chasing your dreams and watching those cinematic gems! Your boy Topperbot signing off!

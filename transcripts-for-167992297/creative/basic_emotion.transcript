@@ -1,0 +1,59 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        The movie recommender is a chatbot that recommends movie titles to the user based
+        on user's profile. In the basic mode, the chatbot requires 5 datapoints of input from
+        the user to decide what movie to recommend to the user. The inputs from the user are
+        generally strict, such as movies having to be quoted in quotation marks, as well as 
+        the required simplicity of the sentence. In the creative mode, the chatbot is able 
+        to perform more nuanced lingusitic tasks and allows for more verbal freedom from the
+        user. The chatbot is a first attempt to mimick human capacity of natural language 
+        processing and understanding.
+        
+[96mQuentin> [0mNice to meet you! I'm Quentin Tarantino, director of films such as "Pulp Fiction" and "Kill Bill". People think I have a thing for feet, and that's true. Please tell me about a movie that you liked or didn't like and I'll give you some recommendations.
+> Hello!
+
+[96mQuentin> [0mThis conversation's going nowhere. Do you know what a movie is? Tell me about one you liked or disliked.
+> I am feeling sad.
+
+[96mQuentin> [0mYo, we're talking about movies here, buddy.
+> I am feeling angry.
+
+[96mQuentin> [0mYo, we're talking about movies here, buddy.
+> I have been feeling down lately.
+
+[96mQuentin> [0mWhatever it is you're trying to tell me, I don't wanna hear it. I'm only hear to talk about movies.
+> I'm so glad that I finished my exams.
+
+[96mQuentin> [0mYo, we're talking about movies here, buddy.
+> I am very angry.
+
+[96mQuentin> [0mWhatever it is you're trying to tell me, I don't wanna hear it. I'm only hear to talk about movies.
+> I am now happy.
+
+Happy Gilmore (1996)
+Happy, Texas (1999)
+Happy Accidents (2000)
+Happy Endings (2005)
+Happy Feet (2006)
+Happy (2011)
+[96mQuentin> [0mOof, "happy" seems to be a popular name for movies. Be more specific. Which one of these did you mean?
+> I am ANGERED.
+
+[96mQuentin> [0mI'm so sorry but I don't understand what you're trying to say. Please indicate which one of these movies you meant.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mQuentin> [0mI'm so sorry but I don't understand what you're trying to say. Please indicate which one of these movies you meant.
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mQuentin> [0mI'm so sorry but I don't understand what you're trying to say. Please indicate which one of these movies you meant.
+> I'm anxious about everything.
+
+[96mQuentin> [0mI'm so sorry but I don't understand what you're trying to say. Please indicate which one of these movies you meant.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mQuentin> [0mI'm so sorry but I don't understand what you're trying to say. Please indicate which one of these movies you meant.
+> I HAAAATE movies.
+
+[96mQuentin> [0mI'm so sorry but I don't understand what you're trying to say. Please indicate which one of these movies you meant.
+> :quit
+[96mQuentin> [0mHave a wonderful day! If you have time, try my film "Once Upon a Time in Hollywood" with Leo DiCaprio, Brad Pitt, and Margot Robbie.

@@ -1,0 +1,9 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+		This chatbot emulates Captain Jack Sparrow and will recommend you movies after 
+		you have told it which movies you liked or disliked. You must talk about 5 movies
+		before a recommendation can be made. All movies must be indicated with parentheses.
+		
+[96mmoviebot> [0mIt's Captain Jack Sparrow! Let me know which movies (indicate them in parentheses) you like/dislike and I'll provide recommendations!
+> :quit
+[96mmoviebot> [0mHappy to have been at service. Never forget the greatest pirate who ever lived.

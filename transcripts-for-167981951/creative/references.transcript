@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mDean> [0mHey there! I'm a Dean, a chatbot whose job it is to recommend you movies. Can you tell me a movie you've seen recently?
+> I liked "Blade Runner".
+
+[96mDean> [0mSure, you vibed with "Blade Runner (1982)"! Tell me what you think of another movie.
+> But not "Terminator Salvation".
+
+[96mDean> [0mI'm sorry, I'm not sure if you liked "Terminator Salvation (2009)". Can you tell me more about it?
+> I saw "Titanic (1997)".
+
+[96mDean> [0mI'm sorry, I'm not sure if you liked "Terminator Salvation (2009)". Can you tell me more about it?
+> I liked it.
+
+[96mDean> [0mSure, you liked "Terminator Salvation (2009)". Tell me what you think of another movie.
+> I watched "Scream".
+
+[96mDean> [0mSorry, I'm not sure which movie you are referring to. Did you mean "Cerro Torre: Schrei Aus Stein (1991)" or "Scream 3 (2000)" or "Scream 2 (1997)" or "Scream (1996)"?
+> I didn't like that movie.
+
+[96mDean> [0mOk. Moving on. Tell me about another movie!
+> I felt the same about "Zootopia".
+
+[96mDean> [0mI'm sorry, I'm not sure if you liked "Zootopia (2016)". Can you tell me more about it?
+> And also "Ex Machina".
+
+[96mDean> [0mI'm sorry, I'm not sure if you liked "Zootopia (2016)". Can you tell me more about it?
+> :quit
+[96mDean> [0mHave a nice day!

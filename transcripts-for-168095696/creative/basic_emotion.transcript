@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+SpongeBot is a chatbot that recommends movies to a user based on the user’s input from the MovieLens database. The user can type several movies they liked and disliked. After SpongeBot takes in several inputs, it offers movie recommendations to the user based on his or her likes and dislikes. SpongeBot can account for alternate movie titles, different versions of the same movie (year), and user typos. SpongeBot has a SpongeBob persona!
+[96mSpongeBot> [0mSalutations, my fine fishy friend! It's a great day to chat about movies.
+> Hello!
+
+[96mSpongeBot> [0mYou sound like Patrick! He sometimes doesn't make sense. Let's talk about movies!
+> I am feeling sad.
+
+[96mSpongeBot> [0mI am sorry if I made you feel sad. 
+> I am feeling angry.
+
+[96mSpongeBot> [0mSorry to hear that you feel angry. 
+> I have been feeling down lately.
+
+[96mSpongeBot> [0mIt's sad to hear that you feel down. 
+> I'm so glad that I finished my exams.
+
+[96mSpongeBot> [0mSo happy to know that you're feeling glad. 
+> I am very angry.
+
+[96mSpongeBot> [0mI am sorry if I made you feel angry. 
+> I am now happy.
+
+[96mSpongeBot> [0mIt's good to hear you're feeling happy. 
+> I am ANGERED.
+
+[96mSpongeBot> [0mOh my sandy cheeks! Let's just talk about movies!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mSpongeBot> [0mI see that you mentioned Titanic (1997), can you tell me a little more about how you feel about it?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mSpongeBot> [0mGotcha, you weren't a fan. Fin-tastic! Any movies you want to talk about next?
+> I'm anxious about everything.
+
+[96mSpongeBot> [0mI am sorry if I made you feel anxious. 
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mSpongeBot> [0mSorry, didn't quite 'catch' that. Let's talk about or 'fish' some movies!
+> I HAAAATE movies.
+
+[96mSpongeBot> [0mYou sound like Patrick! He sometimes doesn't make sense. Let's talk about movies!
+> :quit
+[96mSpongeBot> [0mGoodbye, Gary! Take care of yourself and don't eat too much snail food.

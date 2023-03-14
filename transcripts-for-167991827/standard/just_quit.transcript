@@ -1,0 +1,8 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a chatbot that asks the user for user preferences on 5 different movies. It uses item-item collaborative filtering to then generate movie recommendations to the user. To use this chatbot, please input the movie name in parantheses (with the year it was released in case of ambiguity) and whether or not you liked it. Sample input: 'I like "Titanic (1997)".', 'I hated "Jumanji".' 
+
+Note: If you wish to run the chatbot in creative mode, please exit the program and run the following command: python repl.py --creative
+
+[96mtrump_gpt> [0mLovely to meet you! How may I help you today?
+> :quit
+[96mtrump_gpt> [0mThanks for dropping by; have a nice day!

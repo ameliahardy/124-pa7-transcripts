@@ -1,0 +1,18 @@
+hello!(o^▽^o)
+Welcome to Stanford CS124's Chatbot Autograding.
+ I'm Quince (they/them)! I studied film at NYU and I'm a huge fan of French New Wave! I will be your personal movie recommender. I am interactive agent designed to find you a perfect movie. When run in creative mode, I can handle emotions related to film. Just tell me what you liked or disliked to find movies. To exit, just type :quit at any time.
+[96mQuince> [0mLet's get started! Tell me about some movies you liked or didn't like.
+> I liked "Harry Potter".
+
+[96mQuince> [0mI found more than one movie called Harry Potter. Which movie did you mean: Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)or Harry Potter and the Chamber of Secrets (2002)or Harry Potter and the Prisoner of Azkaban (2004)or Harry Potter and the Goblet of Fire (2005)or Harry Potter and the Order of the Phoenix (2007)or Harry Potter and the Half-Blood Prince (2009)or Harry Potter and the Deathly Hallows: Part 1 (2010)or Harry Potter and the Deathly Hallows: Part 2 (2011) ?(＾◡＾)っ
+> Chamber of Secrets
+
+[96mQuince> [0mYay glad you like Harry Potter and the Chamber of Secrets (2002). Hit me up with more movies you like!
+> I liked "Harry Potter".
+
+[96mQuince> [0mI found more than one movie called Harry Potter. Which movie did you mean: Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)or Harry Potter and the Chamber of Secrets (2002)or Harry Potter and the Prisoner of Azkaban (2004)or Harry Potter and the Goblet of Fire (2005)or Harry Potter and the Order of the Phoenix (2007)or Harry Potter and the Half-Blood Prince (2009)or Harry Potter and the Deathly Hallows: Part 1 (2010)or Harry Potter and the Deathly Hallows: Part 2 (2011) ?(＾◡＾)っ
+> Prisoner of Azkaban
+
+[96mQuince> [0mYay glad you like Harry Potter and the Prisoner of Azkaban (2004). Hit me up with more movies you like!
+> :quit
+[96mQuince> [0mbyebye!(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

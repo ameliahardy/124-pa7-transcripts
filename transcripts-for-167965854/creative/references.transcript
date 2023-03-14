@@ -1,0 +1,31 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Ladies and gentlemen, may I introduce you to our humble chatbot that specializes in the art of recommending the finest cinematic productions. Hailing from the land of afternoon tea, rainy days, and well-mannered conversations, this chatbot possesses a refined taste in movies that is sure to impress even the most discerning of movie-goers. With its vast knowledge of British and international cinema, it stands ready to assist you in finding the perfect movie for any occasion. So sit back, relax, and let our dear chatbot guide you through the wonderful world of movies. Cheers!
+[96mBot> [0mJolly good day! I'm Arnold, your personal movie bot! Whatcha fancy on the telly?
+> I liked "Blade Runner".
+
+[96mBot> [0mFantastic, gather your mates next time you watch Blade Runner (1982).
+
+> But not "Terminator Salvation".
+
+I'm terribly sorry, old chap, but I'm a bit confused. Might you be so kind as to provide a bit more information about ?Terminator Salvation (2009)?
+I saw "Titanic (1997)".
+
+M'lad Im a touch confused, what did you think about Terminator Salvation (2009)?
+I liked it.
+
+[96mBot> [0mJolly good, I'm so pleased you appreciate Terminator Salvation (2009).
+
+> I watched "Scream".
+
+I'm terribly sorry, old chap, but I'm a bit confused. Might you be so kind as to provide a bit more information about ?Scream (1996)?
+I didn't like that movie.
+
+[96mBot> [0mAh, I see. It's a shame that you didn't care for Scream (1996).
+
+> I felt the same about "Zootopia".
+
+M'lad Im a touch confused, what did you think about Zootopia (2016)?
+And also "Ex Machina".
+
+Would you mind terribly elaborating on that a bit more? I want to make sure I'm following what your thoughts are on Zootopia (2016)?
+:quit

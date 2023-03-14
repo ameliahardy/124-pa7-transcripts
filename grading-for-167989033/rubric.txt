@@ -1,0 +1,64 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Please write a short description of what each team member contributed!
+Justin - code design, piecing things together, indiviudal functions, testing, debugging
+Graham - indiviudal function, ethics
+Lauryn - piecing things together, debugging, testing
+Dilan - individual functions, debugging
+
+All memebers of the helped generate with dialogue with ChatGPT
+
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chat bots can give humans a false sense of trust in the bot since it sounds like what they say is coming from another human. Although they may have human-like emotions, chatbots are still machines that operate based on preprogrammed algorithms. This could become an issue in the case where humans become overly reliant on information from chatbots, even though these systems do not have the same decision-making skills as humans. 
+To make sure that users can distinguish chatbot responses from human ones, engineers could make sure that the systems are properly branded and advertised. Having icons that always indicate that this is a chatbot response would help ensure that people know they are interacting with a machine. They could also engineer the bot to talk a certain way that is distinct from regular conversation. This, for example, could mean that they avoid colloquialism and idioms. 
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

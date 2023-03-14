@@ -1,0 +1,54 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to the movie recommender bot. I am here to help you find new movies 
+        you will enjoy. Please provide your option of 5 movies, one at a time, with movie 
+        titles in quotations and I will provide a recommendation. If you wish to continue, 
+        your subsequent entries will accumulate on the previous or start fresh otherwise. 
+        Enjoy!
+        
+[96mMovie RECOMMENDER BOT> [0mHello! Let's-a find you the best movie?
+> I liked "Titanic (1997)"
+
+[96mMovie RECOMMENDER BOT> [0mOk! you like "Titanic (1997)"! Tell me more about another movie you have watched.
+> I hated "Zootopia"
+
+[96mMovie RECOMMENDER BOT> [0mOk! you don't like "Zootopia (2016)"! Tell me more about another movie you have watched.
+> I liked "Tangled Ever After"
+
+[96mMovie RECOMMENDER BOT> [0mOk! you like "Tangled Ever After (2012)"! Tell me more about another movie you have watched.
+> I hated "Sleeping Beauty"
+
+[96mMovie RECOMMENDER BOT> [0mOk! you don't like "Sleeping Beauty (1959)"! Tell me more about another movie you have watched.
+> I liked "Mulan"
+
+[96mMovie RECOMMENDER BOT> [0mOk! you like "Mulan (1998)"! 
+Given what you told me, I think you would like "The Ridiculous 6 (2015)". Would you like more recommendations :)
+> yes
+
+[96mMovie RECOMMENDER BOT> [0mI would also recommend "Pixels (2015)". Would you like more recommendations :)
+> yes
+
+[96mMovie RECOMMENDER BOT> [0mI would also recommend "World War Z (2013)". Would you like more recommendations :)
+> yes
+
+[96mMovie RECOMMENDER BOT> [0mI would also recommend "Karate Kid, The (2010)". Would you like more recommendations :)
+> y
+
+[96mMovie RECOMMENDER BOT> [0mOk no problem! Let's restart with the movies you have watched :)
+> y
+
+[96mMovie RECOMMENDER BOT> [0mPlease enter one movie at a time, and I would help you recommend movies :)
+> Yes!
+
+[96mMovie RECOMMENDER BOT> [0mPlease enter one movie at a time, and I would help you recommend movies :)
+> yeah
+
+[96mMovie RECOMMENDER BOT> [0mPlease enter one movie at a time, and I would help you recommend movies :)
+> no
+
+[96mMovie RECOMMENDER BOT> [0mPlease enter one movie at a time, and I would help you recommend movies :)
+> nah
+
+[96mMovie RECOMMENDER BOT> [0mPlease enter one movie at a time, and I would help you recommend movies :)
+> :quit
+[96mMovie RECOMMENDER BOT> [0mThank you so much for playing my game. Have a nice day!

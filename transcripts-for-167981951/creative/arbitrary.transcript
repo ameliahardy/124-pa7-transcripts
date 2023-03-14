@@ -1,0 +1,42 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mDean> [0mHey there! I'm a Dean, a chatbot whose job it is to recommend you movies. Can you tell me a movie you've seen recently?
+> Hello!
+
+[96mDean> [0mOk, got it.
+> I am a robot too.
+
+[96mDean> [0mHm, that's not really what I want to talk about right now, let's go back to movies.
+> What is your name?
+
+[96mDean> [0mOk, got it.
+> Do you know anything about books?
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> I loved Dan Jurafsky's latest lecture.
+
+[96mDean> [0mHm, that's not really what I want to talk about right now, let's go back to movies.
+> Can you speak French?
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> How are you feeling?
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> What's up?
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> Do you know the muffin man?
+
+[96mDean> [0mOk, got it.
+> I liked it.
+
+[96mDean> [0mSorry, I'm not sure which movie you are referring to. Did you mean "Spirit: Stallion Of The Cimarron (2002)" or "The Hobbit: An Unexpected Journey (2012)" or "Bring It On (2000)" or "It Takes Two (1995)" or "Turn It Up (2000)" or "Last Exit To Brooklyn (1989)" or "Let It Ride (1989)" or "The Hobbit: The Battle Of The Five Armies (2014)" or "Playing It Cool (2014)" or "Some Folks Call It A Sling Blade (1993)" or "It Follows (2014)" or "It Came From Hollywood (1982)" or "It Came From Outer Space (1953)" or "Nuit Et Brouillard (1955)" or "The Spirit Of St. Louis (1957)" or "Wallace & Gromit: The Best Of Aardman Animation (1996)" or "Daria: Is It College Yet? (2002)" or "Pay It Forward (2000)" or "Wallace & Gromit In The Curse Of The Were-rabbit (2005)" or "Wallace & Gromit: A Close Shave (1995)" or "Ma Nuit Chez Maud (1969)" or "The Portrait Of A Lady (1996)" or "Wait Until Dark (1967)" or "Code Inconnu: Récit Incomplet De Divers Voyages (2000)" or "It Might Get Loud (2008)" or "Chacun Son Cinéma Ou Ce Petit Coup Au Coeur Quand La Lumière S'éteint Et Que Le Film Commence (2007)" or "Getting It Right (1989)" or "Detroit Rock City (1999)" or "Henry: Portrait Of A Serial Killer (1986)" or "Pit And The Pendulum (1961)" or "I'm Gonna Git You Sucka (1988)" or "Whatever It Takes (2000)" or "Siu Nin Wong Fei-hung Ji: Tit Ma Lau (1993)" or "Exit To Eden (1994)" or "It (1990)" or "Inherit The Wind (1960)" or "It Happened One Night (1934)" or "Pursuit Of Happiness (2001)" or "Some Like It Hot (1959)" or "Blame It On Rio (1984)" or "Leave It To Beaver (1997)" or "Elvis: That's The Way It Is (1970)" or "Drillbit Taylor (2008)" or "The Hobbit: The Desolation Of Smaug (2013)" or "Bandit Queen (1994)" or "Day Of The Woman (1978)" or "Daria: Is It Fall Yet? (2000)" or "Set It Off (1996)" or "Exit Wounds (2001)" or "Bring It On Again (2004)" or "Say It Isn't So (2001)" or "It Had To Be You (2000)" or "Let It Be (1970)" or "Ni Neibian Jidian (2001)" or "Dylan Moran Live: What It Is (2009)" or "It Could Happen To You (1994)" or "Ghost Rider: Spirit Of Vengeance (2012)" or "Så Som I Himmelen (2004)" or "The Pursuit Of Happyness (2006)" or "Sans Toit Ni Loi (1985)" or "Exit Through The Gift Shop (2010)" or "Fahrenheit 9/11 (2004)" or "As Good As It Gets (1997)" or "Play It Again, Sam (1972)" or "Borat: Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan (2006)" or "The Thrill Of It All (1963)" or "Wallace & Gromit: The Wrong Trousers (1993)" or "Bend It Like Beckham (2002)" or "And So It Goes (2014)" or "Smokey And The Bandit Ii (1980)" or "Smokey And The Bandit Iii (1983)" or "Alaska: Spirit Of The Wild (1997)" or "Wallace And Gromit In 'a Matter Of Loaf And Death' (2008)" or "La Nuit Américaine (1973)" or "You Can't Take It With You (1938)" or "Dim Sum: A Little Bit Of Heart (1985)" or "Fahrenheit 451 (1966)" or "Direktøren For Det Hele (2006)" or "Wreck-it Ralph (2012)" or "Short Circuit 2 (1988)" or "Play It To The Bone (1999)"?
+> :quit
+
+[96mDean> [0mHave a nice day!

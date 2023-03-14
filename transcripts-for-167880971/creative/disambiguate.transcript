@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+        Walley is a movie recommending chatbot! Tell him about some movies you have seen and he can give you some 
+        recommendations on what to watch next!"
+        
+[96mWalley> [0mHiya I'm Walley! What can I do for ya?
+> I liked "Harry Potter".
+
+[]
+[96mWalley> [0mI don't know movies that obscure, maybe try one people actually know.
+> Chamber of Secrets
+
+[96mWalley> [0mPlease dive a little deeper on the topic of Chamber of Secrets
+> I liked "Harry Potter".
+
+[]
+[96mWalley> [0mNice try! There's no movie in your input. Can't fool me!
+> Prisoner of Azkaban
+
+[96mWalley> [0mI'm confused, what is Prisoner of Azkaban
+> :quit
+[96mWalley> [0mWalley out!

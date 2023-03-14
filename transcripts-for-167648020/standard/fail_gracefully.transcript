@@ -1,0 +1,38 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is warm and fuzzy and loves movies. Have fun with
+        general version or yoda-version :-)
+        
+[96mDanimuraBot> [0mHELLO I AM HERE TO ASSIST YOU IN SELECTION OF FINE FILMS
+> I saw "Titanic (1997)"
+
+[96mDanimuraBot> [0mI apologize! I'm new to the world, and still trying to figure out how to process emotions (my own and other people's). Based on what you said, I'm not sure if you liked 'Titanic (1997).' Tell me more about it. Tell me about another movie.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mDanimuraBot> [0mHmm, interesting. I've never heard of 'Dan Jurafsky and the Ten Dwarfs (2019),' but would love to watch it with you at some point! In the meantime, tell me about another movie that you liked.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mDanimuraBot> [0mSorry, could you list one movie at a time, please?
+> I like "Titanic".
+
+[96mDanimuraBot> [0mI found more than one movie called 'Titanic.' Could you clarify the specific version you liked?
+> I like titanic.
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> I like "titanic".
+
+[96mDanimuraBot> [0mHmm, interesting. I've never heard of 'titanic,' but would love to watch it with you at some point! In the meantime, tell me about another movie that you liked.
+> I like 10 things I hate about you.
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> Howdy.
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> ...
+
+[96mDanimuraBot> [0mSorry! I'm not sure I understand. Please tell me about what you thought about a movie (and please put the movie title in quotation marks)
+> I saw "Titanic (1220)"
+
+[96mDanimuraBot> [0mHmm, interesting. I've never heard of 'Titanic (1220),' but would love to watch it with you at some point! In the meantime, tell me about another movie that you liked.
+> :quit
+[96mDanimuraBot> [0mHave a nice day!

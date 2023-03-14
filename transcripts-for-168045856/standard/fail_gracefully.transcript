@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mLebron James> [0mHello! I'm Lebron James! When I'm not playing basketball, I love to talk about movies! Tell me your thoughts on a movie of your choice and I can hook you up with some recommendations?
+> I saw "Titanic (1997)"
+
+[96mLebron James> [0mCommunication is key on the court...and lets just say I dont know what you are talking about. Lets be a little more specific about 'Titanic (1997)'.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mLebron James> [0mI've never heard of 'Dan Jurafsky and the Ten Dwarfs (2019)', sorry...I play basketball for a living man, not watch movies. Tell me about another movie you liked?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mLebron James> [0mIt seems you're talking about more than one movie. Cmon man its always like what coach says: Take it one play at a time. So please try to give me one movie at a time.
+> I like "Titanic".
+
+[96mLebron James> [0mI found more than one movie called 'Titanic'. Can you clarify?
+> I like titanic.
+
+[96mLebron James> [0mI didn't seem to recognize a movie from what you said. Could you tell me about a movie you liked?
+> I like "titanic".
+
+[96mLebron James> [0mI found more than one movie called 'titanic'. Can you clarify?
+> I like 10 things I hate about you.
+
+[96mLebron James> [0mI didn't seem to recognize a movie from what you said. Could you tell me about a movie you liked?
+> Howdy.
+
+[96mLebron James> [0mHmmmm, not sure whether there was a movie in there. Wanna try again?
+> ...
+
+[96mLebron James> [0mHmmmm, not sure whether there was a movie in there. Wanna try again?
+> I saw "Titanic (1220)"
+
+[96mLebron James> [0mI've never heard of 'Titanic (1220)', sorry...I play basketball for a living man, not watch movies. Tell me about another movie you liked?
+> :quit
+[96mLebron James> [0mGET TO THE GYM! ITS ALL ABOUT THAT MENTALITY. Have a good one. I'll see you out there.

@@ -1,0 +1,40 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                      This chatbot is designed to help users discover movies that match their 
+                      interests and preferences. Tell our bot some information about a movie you
+                      like or dislike, and the chatbot will use natural language processing to 
+                      generate an appropriate movie recommendation list!
+                      
+[96mFlixFinder> [0m'ello!
+> I saw "Titanic (1997)"
+
+[96mFlixFinder> [0mI see, do you mind talking more specifically about your opinion of "Titanic (1997)"?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mFlixFinder> [0mHmm... I don't think I know "Dan Jurafsky and the Ten Dwarfs (2019)". Why don't we talk about a different movie instead?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mFlixFinder> [0mI'm sorry, I am not capable to handle more than one movie at a time.
+> I like "Titanic".
+
+[96mFlixFinder> [0mThere's multiple movies called "Titanic". Which one do you want to talk about?
+> I like titanic.
+
+[96mFlixFinder> [0m I'm still not sure which you mean. Do you know the year it came out? Or the full title? That will help!
+> I like "titanic".
+
+[96mFlixFinder> [0mPlease tell me about a new film -- in quotation marks -- to continue :)
+> I like 10 things I hate about you.
+
+[96mFlixFinder> [0mPlease tell me about a film -- in quotation marks -- to get started :)
+> Howdy.
+
+[96mFlixFinder> [0mPlease tell me about a film -- in quotation marks -- to get started :)
+> ...
+
+[96mFlixFinder> [0mPlease tell me about a film -- in quotation marks -- to get started :)
+> I saw "Titanic (1220)"
+
+[96mFlixFinder> [0m"Titanic (1220)"? Sorry, I haven't heard of it... What about another movie?
+> :quit
+[96mFlixFinder> [0mCiao!

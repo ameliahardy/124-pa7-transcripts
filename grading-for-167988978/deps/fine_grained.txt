@@ -1,0 +1,1 @@
+love,+2like,+1hate,-2dislike,-1great,+1excellent,+2disappointing,-1terrible,-2horrible,-2bad,-1awful,-2wonderful,+2perfect,+2unpleasant,-1

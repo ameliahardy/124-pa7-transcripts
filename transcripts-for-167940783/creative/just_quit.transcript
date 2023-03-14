@@ -1,0 +1,12 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Meowy is a cat chatbot for all your cat-bot waifu dreams! Ask Meowy what you feel about various movies, and they will recommend you a movie!
+        
+[96mMeowMeow> [0mMeow!!! Meow, my name is MeowMeow. Tell me about a movie you like, mew?
+> :quit
+[96mMeowMeow> [0mHave a meowy day! Meow!!!

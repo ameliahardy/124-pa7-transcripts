@@ -1,0 +1,45 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+
+        This chatbot takes on the persona of Mario, a video game character, and
+        offers movie recommendations based on knowing what you like. Feel free
+        to chat with him casually, and he'll do his best to find a movie that 
+        you'll enjoy. You can ask for multiple recommendations by continuing to 
+        request more, exit using ":quit" and even discuss your emotions. Disclaimer: 
+        We are doing this purely for an assignment and are not receiving monetary 
+        compensation. Nintendo, if you see this, please don't sue us.
+    
+        
+[96mmoviebot> [0mSalve! Let's-a find a movie!
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mMamma mia! I'm-a having trouble telling if you enjoyed-a "Titanic (1997)". Can-a you say that another way, please?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mWhoa! "Dan Jurafsky and the Ten Dwarfs (2019)" is-a not a movie I know. But don't-a worry, let's-a hear about another one you liked.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mWhoa there! It seems like you're talking about multiple movies. Can-a you share them one at a time? Thank you-a very much!
+> I like "Titanic".
+
+[96mmoviebot> [0mI found more than one movie called-a "Titanic". Can you clarify by either being more specific or providing the year after the movie in parenthesis? Yahoo!
+> I like titanic.
+
+[96mmoviebot> [0mThank you kindly! Mamma mia, it looks like we're not on the same page. Can-a you tell-a me about a movie you liked or didn't like?
+> I like "titanic".
+
+[96mmoviebot> [0mI found more than one movie called-a "titanic". Can you clarify by either being more specific or providing the year after the movie in parenthesis? Yahoo!
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mMany thanks! Oh boy, it seems like I'm-a not following you. Can-a you share with me a movie you enjoyed or didn't enjoy?
+> Howdy.
+
+[96mmoviebot> [0mThanks! Sorry about that, I'm-a not sure what you mean. Can-a you tell-a me about a movie you liked or didn't like?
+> ...
+
+[96mmoviebot> [0mThank you! Hmm, I'm-a not quite getting it. Can-a you tell-a me about a movie you enjoyed or didn't enjoy?
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mOh no, I've-a never heard of "Titanic (1220)". But don't-a worry, tell me about another movie you liked.
+> :quit
+[96mmoviebot> [0mFarewell! Don't-a forget to eat-a your mushrooms!

@@ -1,0 +1,107 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            
+                  |\     /|
+                  |\   //|
+                  | \| |/ |
+                  \ || || /
+                   \||_||/
+                   .'   '.
+                   |o   o|
+                  /=  Y  =\ 
+                  `'-.^.-'`
+                    _| |_
+                  /`     `\             
+                 |  (   )  |
+                 /\  \ /  /\ 
+                |  '._)_.'  |
+                \           /
+                 \ '.___.' /
+              .--'  \---/  '--.
+              `-------' '-------`
+            I can chat about movies!
+            
+[96miHOP> [0mHi! I am iHOP. How can I make your day a little hoppy, my dear friend?
+> Hello!
+
+[96miHOP> [0mI only recommend movies and eat carrots.. We could go back to movies or we could have some carrots.
+> I am feeling sad.
+
+[96miHOP> [0mDid I make you feeling sad? I apologize. Have some carrots! They will make you feel better.
+> I am feeling angry.
+
+[96miHOP> [0mDid I make you feeling angry? I apologize. Have some carrots! They will make you feel better.
+> I have been feeling down lately.
+
+[96miHOP> [0mAlrighty!
+> I'm so glad that I finished my exams.
+
+[96miHOP> [0mDid I make you so glad that I finished my exams? That's great!
+> I am very angry.
+
+[96miHOP> [0mDid I make you very angry? I apologize. Have some carrots! They will make you feel better.
+> I am now happy.
+
+[96miHOP> [0mDid I make you now happy? That's great!
+> I am ANGERED.
+
+[96miHOP> [0mDid I make you ANGERED? I apologize. Have some carrots! They will make you feel better.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96miHOP> [0mGotcha, I'm not sure if you liked "Titanic (1997)". I am all about that rabbit life, so give me the deets! Tell me more about "Titanic (1997)".
+> I am VERY FRUSTRATED with this chatbot.
+
+[96miHOP> [0mDid I make you VERY FRUSTRATED with this chatbot? I apologize. Have some carrots! They will make you feel better.
+> I'm anxious about everything.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989789/chatbot.py", line 236, in process
+    movie_sentiments = self.extract_sentiment_for_movies(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989789/chatbot.py", line 768, in extract_sentiment_for_movies
+    titles = self.extract_titles(clause)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989789/chatbot.py", line 623, in extract_titles
+    results = re.findall(r" ({})\W".format(escaped_title), input_lower)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 304, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_parse.py", line 834, in _parse
+    p = _parse_sub(source, state, sub_verbose, nested + 1)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_parse.py", line 525, in _parse
+    code = _escape(source, this, state)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_parse.py", line 385, in _escape
+    elif c == "N" and source.istext:
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mWelcome to Yodaflix, young Padawan. Find great movies, you will. Strong with the Force, your movie choices will be.
+> I liked "Blade Runner".
+
+[96mYodaFlix> [0mSo liked "Blade Runner", you did. I see. The Force is asking to learn about another movie
+> But not "Terminator Salvation".
+
+[96mYodaFlix> [0mUnclear, your feelings are. Like or dislike "Terminator Salvation", you do? Tell me more about this movie, you must.
+> I saw "Titanic (1997)".
+
+[96mYodaFlix> [0mAmbiguous, your feelings are. Like or dislike "Titanic (1997)", do you? More about this movie, tell me.
+> I liked it.
+
+[96mYodaFlix> [0mNot want to talk about that, I do. Back to movies, can we get?
+> I watched "Scream".
+
+[96mYodaFlix> [0mWhich movie is the one you seek? "Scream of Stone (Cerro Torre: Schrei aus Stein) (1991)", "Scream (1996)", "Scream 2 (1997)", or "Scream 3 (2000)".
+> I didn't like that movie.
+
+[96mYodaFlix> [0mThe path to a great movie, clouded it is. No movie found, with no title in quotation marks. Include it, you must, to clear the way.
+> I felt the same about "Zootopia".
+
+[96mYodaFlix> [0mConfused, your feelings are. For "Zootopia" like or dislike, do you? Speak more of this movie, you must.
+> And also "Ex Machina".
+
+[96mYodaFlix> [0mUnclear, whether you liked or disliked "Ex Machina". Speak more about this movie, you must.
+> :quit
+[96mYodaFlix> [0mGoodbye, it is. The galaxy of cinema awaits you. May your movie choices be wise and fulfilling.

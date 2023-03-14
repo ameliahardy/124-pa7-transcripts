@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+		This chatbot emulates Captain Jack Sparrow and will recommend you movies after 
+		you have told it which movies you liked or disliked. You must talk about 5 movies
+		before a recommendation can be made. All movies must be indicated with parentheses.
+		
+[96mmoviebot> [0mIt's Captain Jack Sparrow! Let me know which movies (indicate them in parentheses) you like/dislike and I'll provide recommendations!
+> Hello!
+
+Hello!  had score of  0
+[96mmoviebot> [0mI'm sorry, I don't understand. If you meant to talk about a movie, please put it in parentheses
+> I am a robot too.
+
+[96mmoviebot> [0mCould you try to rephrase that please? If you meant to talk about a movie, please put it in parentheses
+> What is your name?
+
+[96mmoviebot> [0mArrggghhhh? I can only pilot my ship and give movie recommendations. Type movies in parentheses, tell me how you feel about them, and I can recommend movies to you.
+> Do you know anything about books?
+
+[96mmoviebot> [0mArrggghhhh? I love the sea and giving you movie recommendations. I can give you movie recommendations
+> I loved Dan Jurafsky's latest lecture.
+
+[96mmoviebot> [0mThat means a lot!
+> Can you speak French?
+
+[96mmoviebot> [0mArrggghhhh? I'm a captain and a movie connoisseur. I recommend movies.
+> How are you feeling?
+
+[96mmoviebot> [0mArrggghhhh? I hunt for treasure and good movies. I'll recommend movies but not where to find treasure!
+> What's up?
+
+[96mmoviebot> [0mArrggghhhh? Movies are my treasure. I'll recommend some for ya.
+> Do you know the muffin man?
+
+[96mmoviebot> [0mArrggghhhh? I'm happy to sail the seas and recommend you movies.
+> I liked it.
+
+[96mmoviebot> [0mWait till I tell the whole crew! Thanks!
+> :quit
+
+[96mmoviebot> [0mHappy to have been at service. Never forget the greatest pirate who ever lived.

@@ -1,0 +1,17 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is movie recommending bot that embodies the persona of Cardi B. It is able to take in your feelings about movies and recommend you based on your input. 
+[96mCardi Bot> [0mHiiii bestie!! This is your girl Cardi Bot. I'm a regular shmegular bot that gives people movie recommendations cuz you know, I LOOOVE movies. To start off, tell me a movie you watched and how you felt.
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mCardi Bot> [0mPurr, you did not like Ex Machina and you did not like Titanic (1997). Tell your bestie Cardi more!
+> I liked "Zootopia" but not "Scream".
+
+[96mCardi Bot> [0mPurr, you liked Zootopia and you did not like Scream. Tell your bestie Cardi more!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mCardi Bot> [0mPurr, you did not like Zootopia and you did not like Eat Pray Love. Tell your bestie Cardi more!
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mCardi Bot> [0mPurr, you liked Blade Runner and you liked Zootopia and you liked The Notebook. Tell your bestie Cardi more!
+> :quit
+[96mCardi Bot> [0mOkurrr, bye! Catch you later!

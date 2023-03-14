@@ -1,0 +1,45 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Heyyy!! I guess I'm a movie recommendation chatbot, but like, I'm also
+            totally not a weird creepy robot. I don't say 'beep boop bop' or anything
+            like that. Don't worry.
+
+            So tell me about some movies you've watched and if you totally loved them
+            or really hated them. Then I'll give you some movies you def should watch.
+
+            It helps me if you put the movie in quotes, though, like:
+
+            I thought "Toy Story" was super rad. 
+            
+[96mgirlybot> [0mOh my gosh, hey girl! So like...what's up? I am - like - SO excited you're here. I can totally recommend some movies if you tell me what movies you've liked or disliked!
+> I liked "Blade Runner".
+
+[96mgirlybot> [0m"Blade Runner (1982)" was like, SO good. Um sooo what are your movie faves?
+> But not "Terminator Salvation".
+
+[96mgirlybot> [0mSo, like, do you like or not like "Terminator Salvation (2009)?" I, like, don't get it. 
+> I saw "Titanic (1997)".
+
+[96mgirlybot> [0mSo, like, do you like or not like "Titanic (1997)?" I, like, don't get it. 
+> I liked it.
+
+[96mgirlybot> [0mGirl, are we still talking about movies? If so, please babe, put the name in quotes! 
+> I watched "Scream".
+
+[96mgirlybot> [0mOk so like...I found more than one movie. Which one are you referring to? Enter a number, 1 - 4
+1: Scream of Stone (Cerro Torre: Schrei aus Stein) (1991)
+2: Scream (1996)
+3: Scream 2 (1997)
+4: Scream 3 (2000)
+
+> I didn't like that movie.
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> I felt the same about "Zootopia".
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> And also "Ex Machina".
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> :quit
+[96mgirlybot> [0mSO good chatting and feel free to hit me up again, like, if you need another rec. Like, any rec. Byeee!

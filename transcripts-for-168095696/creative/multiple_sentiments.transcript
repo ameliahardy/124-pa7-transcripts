@@ -1,0 +1,16 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+SpongeBot is a chatbot that recommends movies to a user based on the user’s input from the MovieLens database. The user can type several movies they liked and disliked. After SpongeBot takes in several inputs, it offers movie recommendations to the user based on his or her likes and dislikes. SpongeBot can account for alternate movie titles, different versions of the same movie (year), and user typos. SpongeBot has a SpongeBob persona!
+[96mSpongeBot> [0mAhoy there, matey! SpongeBot here, let's talk about movies!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mSpongeBot> [0mSorry you didn't like Titanic (1997). Gotcha, you weren't a fan of Ex Machina.  Hmm... what movie do you want to talk about next?
+> I liked "Zootopia" but not "Scream".
+
+[96mSpongeBot> [0mGotcha, you're a fan of Zootopia. Gotcha, you weren't a fan of Scream.  Hmm... what movie do you want to talk about next?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> :quit

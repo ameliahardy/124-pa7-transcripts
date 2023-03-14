@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+ 
+        I am a movie chatbot. I gather top intel on the movies and tell you all about it. You can chat with me, and based on your previous tastes, I'll recommend new movies for you to watch. Tell me about your tastes, and I'll listen. Based on our chat, I'll generate some recommendations. I'll try to be friendly.
+        
+[96mMovieRecommenderBot> [0mHow may I assist you today?
+> I liked "Titanic (1997)"
+
+[96mMovieRecommenderBot> [0mSo you like Titanic (1997). Please share another movie. Meow!
+> I hated "Zootopia"
+
+[96mMovieRecommenderBot> [0mSo you didn't like Zootopia (2016). Please share another movie. Meow!
+> I liked "Tangled Ever After"
+
+[96mMovieRecommenderBot> [0mSo you like Tangled Ever After (2012). Please share another movie. Meow!
+> I hated "Sleeping Beauty"
+
+[96mMovieRecommenderBot> [0mSo you didn't like Sleeping Beauty (1959). Please share another movie. Meow!
+> I liked "Mulan"
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167988978/chatbot.py", line 220, in process
+    self.recs = self.recommend(self.user_ratings,self.ratings,5)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167988978/chatbot.py", line 875, in recommend
+    ratings[i] = np.dot(user_ratings, similarities[i])
+  File "<__array_function__ internals>", line 5, in dot
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

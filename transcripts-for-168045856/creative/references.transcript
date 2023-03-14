@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mLebron James> [0mHello! I'm Lebron James! When I'm not playing basketball, I love to talk about movies! Tell me your thoughts on a movie of your choice and I can hook you up with some recommendations?
+> I liked "Blade Runner".
+
+[96mLebron James> [0mBronny liked 'Blade Runner'. Hmmmm, what else you got?
+> But not "Terminator Salvation".
+
+[96mLebron James> [0mI'm sorry, I'm not sure if you liked 'Terminator Salvation'. Tell me more about it.
+> I saw "Titanic (1997)".
+
+[96mLebron James> [0mCommunication is key on the court...and lets just say I dont know what you are talking about. Lets be a little more specific about 'Titanic (1997)'.
+> I liked it.
+
+[96mLebron James> [0mLet's chat about movies!
+> I watched "Scream".
+
+[96mLebron James> [0mNot sure what youre talking about man. Tell me more about 'Scream'. Give it to me straight, like my coach.
+> I didn't like that movie.
+
+[96mLebron James> [0mLet's chat about movies!
+> I felt the same about "Zootopia".
+
+[96mLebron James> [0mCommunication is key on the court...and lets just say I dont know what you are talking about. Lets be a little more specific about 'Zootopia'.
+> And also "Ex Machina".
+
+[96mLebron James> [0mI'm sorry, I'm not sure if you liked 'Ex Machina'. Tell me more about it.
+> :quit
+[96mLebron James> [0mGET TO THE GYM! ITS ALL ABOUT THAT MENTALITY. Have a good one. I'll see you out there.

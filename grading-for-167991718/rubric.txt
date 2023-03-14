@@ -1,0 +1,67 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+TODO: Please write a short description of what each team member contributed!
+We all worked on the project for many hours and contributed an equal amount. 
+Cameron wrote several functions, including both disambiguate functions and recommend.
+Michael wrote several functions, including extract_sentiment, part of process, and extract_titles.
+Miranda wrote several functions, including part of process and part of extract_sentiment. 
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chatbot systems can be dangerous if they lead users to develop emotional attachments. 
+Potential implications range from security risks if users divulge sensitive or private information, to 
+feelings of anger or despair if a chatbot cannot fully satisfy a user's needs, especially in times of distress.
+
+On the other hand, chatbot systems can provide comfort and solace in times of need, especially if they cause users to
+reflect on their own experiences and thoughts or if a person is unavailable to speak with the user.
+
+In order to ensure that users can distinguish chatbot responses from a humans', the fact that the speaker is a chatbot
+should be stated from the onset. Additionally, an appropriate hotline could be provided depending on the type of chatbot.
+For example, if it is a mental health chatbot, the national suicide hotline number could be provided at the end of the 
+conversation so that the user is able to speak to a human and maintains some distance from the chatbot. Finally, the
+chatbout should have a clear avatar picture that looks like a robot, not a person.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

@@ -1,0 +1,83 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSherlock HomieBot> [0mWell hello there! My name is Sherlock Holmes. It is my business to know what other people don't know. I'm here to deduce the best movie recommendations for you! Let's get straight to business. Tell me about a movie. Spare no details!
+> I saw "Titanic (1997)"
+
+[96mSherlock HomieBot> [0mI processed I saw "Titanic (1997)" in starter mode!! 
+ I have no data yet about whether or not you liked  Titanic (1997). Is there any other movie to which you would wish to draw my attention!
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[]
+[96mSherlock HomieBot> [0mI processed I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie. in starter mode!! 
+ In all my years as a detective, I've never come across  Dan Jurafsky and the Ten Dwarfs (2019). My mind rebels at stagnation! Tell me about another movie
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mSherlock HomieBot> [0mI processed I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You". in starter mode!! 
+ Data! Data! Data! Too many movies in your clue! Tell me about just one of them!
+> I like "Titanic".
+
+[96mSherlock HomieBot> [0mI processed I like "Titanic". in starter mode!! 
+
+Let me jot that down in my fieldbook. You liked Titanic.  My mind rebels at stagnation! Tell me about another movie
+> I like titanic.
+
+[96mSherlock HomieBot> [0mI processed I like titanic. in starter mode!! 
+ After careful examination, there appear to be no movies in the clue you've given me. Why don't you tell me something about a movie?
+> I like "titanic".
+
+[96mSherlock HomieBot> [0mI processed I like "titanic". in starter mode!! 
+
+Splendid! You're a fan of titanic.  Lend me more clues to the case! Tell me about another movie!
+> I like 10 things I hate about you.
+
+[96mSherlock HomieBot> [0mI processed I like 10 things I hate about you. in starter mode!! 
+ After careful examination, there appear to be no movies in the clue you've given me. Why don't you tell me something about a movie?
+> Howdy.
+
+[96mSherlock HomieBot> [0mI processed Howdy. in starter mode!! 
+ After careful examination, there appear to be no movies in the clue you've given me. Why don't you tell me something about a movie?
+> ...
+
+[96mSherlock HomieBot> [0mI processed ... in starter mode!! 
+ After careful examination, there appear to be no movies in the clue you've given me. Why don't you tell me something about a movie?
+> I saw "Titanic (1220)"
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168320559/chatbot.py", line 169, in process
+    mispelled_title = self.find_movies_closest_to_title(possible_titles[0])
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168320559/chatbot.py", line 548, in find_movies_closest_to_title
+    distance = editDistDP(title, match.group(1))
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168320559/chatbot.py", line 511, in editDistDP
+    elif str1[i-1] == str2[j-1]:
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

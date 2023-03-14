@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Hello! Welcome to the movie recommendation chatbot! Tell me some movies 
+            that you like or dislike and I will tell you some movies that you might
+            enjoy!!
+
+            Please only review one movie at a time so we really know if you like it 
+            or not. When you refer to a movie, place the title in quotes:
+
+            I really enjoyed "Toy Story"
+
+            We hope you like our chatbot!
+            
+[96mgirlybot> [0mTell me about a movie you liked or disliked.
+> I saw "Titanic (1997)"
+
+[96mgirlybot> [0mYour opinion of "Titanic (1997)" is unclear to me. Tell me more. 
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mgirlybot> [0m"Dan Jurafsky and the Ten Dwarfs (2019)"... That must be quite an underground film. I don't know it. When you can, please give me another film.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+3
+[96mgirlybot> [0mThat's so chill that you enjoyed watching "Titanic (1997)" and "Scream (1996)" and "10 Things I Hate About You (1999)"! What else have you seen?
+> I like "Titanic".
+
+[96mgirlybot> [0mI found more than one movie. Which one are you referring to? Please enter a number, 1 - 2
+1: Titanic (1997)
+2: Titanic (1953)
+
+> I like titanic.
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> I like "titanic".
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> I like 10 things I hate about you.
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> Howdy.
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> ...
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> I saw "Titanic (1220)"
+
+[96mgirlybot> [0mUmmm... that's not a number. Pick again.
+> :quit
+[96mgirlybot> [0mHave a nice day!

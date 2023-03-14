@@ -1,0 +1,25 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Greetings Muggle! I'm Draco Malfoy. I'm here with my house elves waiting to search 
+        the Hogwarts library and my Father's private collection for some movies to watch based
+        on your preferences. Give me info on your favorite (or not so
+        favorite) movies and I'll give you the recommendations that my house elves find. If
+        the movie doesn't pop up when you type it then you have failed Muggle, try putting it in quotes
+        to see if I can understand you better. 
+        
+        
+[96mmovie_recommend_chatbot> [0mWelcome muggle! Let's try to make some movie magic!
+> I liked "Harry Potter".
+
+[96mmovie_recommend_chatbot> [0mEven my father hasn't heard of that movie. Try something else!
+> Chamber of Secrets
+
+[96mmovie_recommend_chatbot> [0mYou're confusing me muggle. Try putting the movie in quotes!
+> I liked "Harry Potter".
+
+[96mmovie_recommend_chatbot> [0mEven my father hasn't heard of that movie. Try something else!
+> Prisoner of Azkaban
+
+[96mmovie_recommend_chatbot> [0mI don't know what you're talking about muggle. Rephrase it!
+> :quit
+[96mmovie_recommend_chatbot> [0mFarewell Muggle! Hope you enjoy your movies.

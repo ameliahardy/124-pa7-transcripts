@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi, I'm a movie reccomendation chatbot. To get started please tell me about some movies you've seen.
+> Hello!
+
+[96mmoviebot> [0m
+> I am feeling sad.
+
+[96mmoviebot> [0m
+> I am feeling angry.
+
+[96mmoviebot> [0m
+> I have been feeling down lately.
+
+[96mmoviebot> [0m
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0m
+> I am very angry.
+
+[96mmoviebot> [0m
+> I am now happy.
+
+[96mmoviebot> [0m
+> I am ANGERED.
+
+[96mmoviebot> [0m
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0m
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0m
+> I'm anxious about everything.
+
+[96mmoviebot> [0m
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0m
+> I HAAAATE movies.
+
+[96mmoviebot> [0m
+> :quit
+[96mmoviebot> [0mHave a nice day!

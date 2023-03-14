@@ -1,0 +1,75 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Mark: Arbitrary input, emotion, persona creative features. Some sanity check help.
+Raul: Spell-check, dialogue for spell-check features. Some sanity check help.
+Ricky: Completed sanity check. Disambiguation (part 1, part 2) features.
+Trevor: Completed sanity check. Identifying movies (part 1, part 2), alternate/foreign title features. 
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+ANSWER:
+Some of the ramifications of anthropomorphizing chatbot systems is that people can create 
+applications or environments where they have chatbots replace a real human and this could 
+lead to misinformation for the person interacting with it. An example of this would be in 
+the customer service departments. If a chatbot is posing as a human and they give 
+misinformation, it could lead to the customers doing the wrong thing, the customers losing 
+money, or the company losing money if the chatbot makes a big enough mistake and the 
+customer sues. In addition, having chatbots pose as humans can lead to the loss of jobs for 
+people. This is why having oversight over the chatbots is important and continuously 
+updating them to ensure they are producing the correct information in a proper manner. 
+Some ways that engineers can ensure that users can easily distinguish the chatbot responses 
+from those of a human is by explicitly stating that they are speaking to a chatbot. This will 
+prevent any confusion for the human. I think this is the only viable way of allowing users 
+to easily distinguish because of how advanced algorithms have become making chatbot 
+responses so seem like real human responses. Indeed, if a user gives a chatbot some difficult
+query like one related to mental health issues, the chatbot could respond with advice, but
+explicitly tell the user something like "I am just a ChatBot!" to indicate that it is still
+a fallible, imperfect system.
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+To handle responses to imperative inputs (i.e. inputs that start with verbs), we implemented
+a Python script that uses NLTK to gather all English verbs.

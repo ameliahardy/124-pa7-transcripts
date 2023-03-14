@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI am not sure how you feel about this movie. Do you mind saying if you liked Titanic (1997) or not?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mSorry I couldn't seem to find the movie. Tell me about another movie you liked.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mI see, can you tell me about these movies one by one!
+> I like "Titanic".
+
+[96mmoviebot> [0mYou seem to have liked Titanic. Can you tell me about more movies?
+> I like titanic.
+
+[96mmoviebot> [0mI am sorry, couldn't understand what you mean. Can you tell me about another movie you have seen?
+> I like "titanic".
+
+[96mmoviebot> [0mYou seem to have liked titanic. Can you tell me about more movies?
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mI am sorry, couldn't understand what you mean. Can you tell me about another movie you have seen?
+> Howdy.
+
+[96mmoviebot> [0mI am sorry, couldn't understand what you mean. Can you tell me about another movie you have seen?
+> ...
+
+[96mmoviebot> [0mI am sorry, couldn't understand what you mean. Can you tell me about another movie you have seen?
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mSorry I couldn't seem to find the movie. Tell me about another movie you liked.
+> :quit
+[96mmoviebot> [0mHave a nice day!

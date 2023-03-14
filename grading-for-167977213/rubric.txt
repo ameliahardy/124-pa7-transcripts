@@ -1,0 +1,65 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Everyone worked on the project equally. We all worked together on the planning, coding the functions, and completing the creative sections.
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+ANSWER:
+There are many possible ramifications of anthropomorphizing chatbot systems. First, people can put too much trust in chatbots because they sound human, but in reality, they wouldn’t be good at what they do. For example, some psychotherapy chatbots rely on the incorrect assumption that participants will be able to report their moods accurately. Thus, diagnoses would be inaccurate yet blindly accepted by users.
+
+Anthropomorphizing chatbots will give them the good but also bad qualities of humans. For example, Bing’s chatbot was recently seen insulting users, lying to them, sulking, gaslighting and emotionally manipulating people. If robotics become too human, they could use their human traits against us. 
+
+It’s possible that scammers will find a way to implement chatbots that are used to impersonate a real human being in order to automate cybercrimes, such as scamming and phishing. If they’re too humanistic, it would be hard for victims to realize they’re talking to a robot.
+
+Chatbots are also only as accurate and reliable as the information they are trained on. Thus, if a chatbot sounds human but is trained on inaccurate or misleading information, it will spread that misinformation to all users.
+
+Engineers can ensure that users easily distinguish chat responses from human responses by preventing the chatbot from using words that have strong sentiments. For example, we could make a chatbot only give objective answers and not use words like “like,” “dislike,” “enjoy”, etc. The chatbot should also be general, adopting a neutral vocabulary and tone. If a chatbot can impersonate a well-known figure, the distinction between human and AI becomes less clear. A chatbot shouldn’t have a sense of humor or have a high Emotional Quotient.
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

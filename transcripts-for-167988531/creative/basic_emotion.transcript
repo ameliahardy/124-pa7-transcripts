@@ -1,0 +1,55 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+
+        This chatbot takes on the persona of Mario, a video game character, and
+        offers movie recommendations based on knowing what you like. Feel free
+        to chat with him casually, and he'll do his best to find a movie that 
+        you'll enjoy. You can ask for multiple recommendations by continuing to 
+        request more, exit using ":quit" and even discuss your emotions. Disclaimer: 
+        We are doing this purely for an assignment and are not receiving monetary 
+        compensation. Nintendo, if you see this, please don't sue us.
+    
+        
+[96mmoviebot> [0mCiao, come stai? Everything's-a good? Time to watch-a movie!
+> Hello!
+
+[96mmoviebot> [0mMany thanks! Oh boy, it seems like I'm-a not following you. Can-a you share with me a movie you enjoyed or didn't enjoy?
+> I am feeling sad.
+
+[96mmoviebot> [0mMany thanks! Oh boy, it seems like I'm-a not following you. Can-a you share with me a movie you enjoyed or didn't enjoy?
+> I am feeling angry.
+
+[96mmoviebot> [0mMany thanks! Oh boy, it seems like I'm-a not following you. Can-a you share with me a movie you enjoyed or didn't enjoy?
+> I have been feeling down lately.
+
+[96mmoviebot> [0mMany thanks! Oh boy, it seems like I'm-a not following you. Can-a you share with me a movie you enjoyed or didn't enjoy?
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mThank you! Hmm, I'm-a not quite getting it. Can-a you tell-a me about a movie you enjoyed or didn't enjoy?
+> I am very angry.
+
+[96mmoviebot> [0mThank you kindly! Mamma mia, it looks like we're not on the same page. Can-a you tell-a me about a movie you liked or didn't like?
+> I am now happy.
+
+[96mmoviebot> [0mThank you! Hmm, I'm-a not quite getting it. Can-a you tell-a me about a movie you enjoyed or didn't enjoy?
+> I am ANGERED.
+
+[96mmoviebot> [0mThanks! Sorry about that, I'm-a not sure what you mean. Can-a you tell-a me about a movie you liked or didn't like?
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0m
+Oops-a-daisy! I'm-a having a hard time figuring out if you enjoyed-a "Titanic (1997)". Can-a you rephrase that, please?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mThanks! Sorry about that, I'm-a not sure what you mean. Can-a you tell-a me about a movie you liked or didn't like?
+> I'm anxious about everything.
+
+[96mmoviebot> [0mThank you! Hmm, I'm-a not quite getting it. Can-a you tell-a me about a movie you enjoyed or didn't enjoy?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mThank you! Hmm, I'm-a not quite getting it. Can-a you tell-a me about a movie you enjoyed or didn't enjoy?
+> I HAAAATE movies.
+
+[96mmoviebot> [0mThanks! Sorry about that, I'm-a not sure what you mean. Can-a you tell-a me about a movie you liked or didn't like?
+> :quit
+[96mmoviebot> [0mIt was-a great-a seeing you! Bye!

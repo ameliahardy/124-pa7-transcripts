@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Ahoy mate, I am a pirate-themed chat bot. Tell me about yer movie taste, and I'll give you some recs.
+        Stay on topic though, or walk the plank.
+        Arrrrrr
+        
+[96mpiratebot> [0mAhoy! I am piratebot. Give me ye movie taste, matey. I shall grant you some recommendations.
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mpiratebot> [0m Garr, it seems you didn't enjoy "Titanic (1997)" and "Ex Machina (2015)". 
+Yo-ho-ho, add on another movie opinion for me.
+> I liked "Zootopia" but not "Scream".
+
+[96mpiratebot> [0mMate, I don't know how you feel about yer movie. Be clear how you felt about yer movie, and include the name of it.
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mpiratebot> [0m Shiver me timbers, you didn't like "Zootopia (2016)" and "Eat Pray Love (2010)". 
+Yo-ho-ho, add on another movie opinion for me.
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mpiratebot> [0mIt's great to see that you liked watching "Zootopia (2016)", "Blade Runner (1982)" and "Notebook, The (2004)".  
+Tell me about another movie, mate.
+> :quit
+[96mpiratebot> [0mGood talking to you, matey.

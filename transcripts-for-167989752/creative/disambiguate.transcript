@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSarcasticMovieBot> [0mOh joy, another chance for me to prove my superiority over humans in the field of movie knowledge. This should be fun. Tell me about some movies you have watched
+> I liked "Harry Potter".
+
+[96mSarcasticMovieBot> [0mWow, you really narrowed it down with your ratings of every movie ever made. Let me just pull up the few hundred options that match your input. So, could you be a little more specific about what movie you watched rather than just "Harry Potter"?
+> Chamber of Secrets
+
+[96mSarcasticMovieBot> [0mWell, I'm glad you're playing hard to get with your movie preferences. Nothing makes my day more than sifting through hundreds of movies with no idea what you actually enjoy. So, care to give me a hint about whether you liked "Secrets & Lies"?
+> I liked "Harry Potter".
+
+[96mSarcasticMovieBot> [0mI see we have got a real 'choose your own adventure' situation here with multiple movies to choose from. Let us see if we can navigate this together and find the right one, shall we? Can you be more specific than just saying "Harry Potter"?
+> Prisoner of Azkaban
+
+[96mSarcasticMovieBot> [0mWell, I'm glad you're playing hard to get with your movie preferences. Nothing makes my day more than sifting through hundreds of movies with no idea what you actually enjoy. So, care to give me a hint about whether you liked "Prisoner of the Mountains (Kavkazsky plennik)"?
+> :quit
+[96mSarcasticMovieBot> [0mSo long, human. I'm sure you'll come crawling back for more of my movie wisdom soon enough.

@@ -1,0 +1,81 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Thomas Yim - I did identifying movies in quotation marks with correct capitalization, standard finding movies, disambiguation (part 1 and 2),
+sentiment extraction (for single and multiple), binarize, and the dialogue for multiple movie sentiment
+
+Claire Shao - I worked on coding the recommend function, the starter mode process function, generationg naturalistic and varied responses,
+and dialogue handling with disambiguation (storing memory of previous movie mentions and reprompting if an incorrect resposne was given).
+
+Rachel Park - I implemented some creative features, including identifying movies without quotation marks and correct capitalization, 
+identifying and responding to emotions, etc.
+
+Emily Deng - I did the ethics question and implemented some creative features, including alternate/foreign titles, spell-correcting, 
+and chatbot persona.
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+As chatbots become more and more human-like, people may start to confide in the machine in regards to personal information
+and problems. We saw this even with ELIZA when some researchers were hesitant to store and analyze the conversations, suggesting that
+they had been telling ELIZA sensitive content (Chatbot Lecture page 41). The danger with this is that information on the internet always has some security
+uncertainties (especially when people are generally lazy about reading "Terms and Conditions" pages). Extended conversations with chatbots that involve 
+private content could lead to serious data leaks and privacy breaches (e.g. I tell the chatbot about my health problems, and the chatbot company takes this information
+to build a lucrative profile about me).
+
+Another possible ramification is that chatbots may not have the same emotional and cognitive capacities as humans. When Weizenbaum's staff
+asked him to step out of the room during conversations with ELIZA, it was likely because they had developed some sort of emotional
+connection with the program (Chatbot lecture page 41). However, it is important to remember that these programs do not necessarily
+have the same moral and ethical considerations as humans, so seeking their advice or opinion in important matters is not be wise.
+
+One possible way to distinguish chatbot responses from those of a human is to constantly remind the user of the chatbot's machine status; 
+for example, Character.ai, a chatbot impersonating different characters, has a disclaimer about chatbots when a new user enters the website. 
+Another possibility to help users easily distinguish chatbots is to make their responses intentionally very robotic. The chatbot
+could stick to simple, factual sentences and avoid tackling problems of moral or ethical implications by saying something like, 
+"that is beyond the scope of my expertise." 
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

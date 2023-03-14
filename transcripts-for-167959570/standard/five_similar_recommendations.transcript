@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mYou seem to have liked Titanic (1997). Can you tell me about more movies?
+> I hated "Zootopia"
+
+[96mmoviebot> [0mYou seem to have not liked Zootopia. Can you tell me about more movies?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mYou seem to have liked Tangled Ever After. Can you tell me about more movies?
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mYou seem to have not liked Sleeping Beauty. Can you tell me about more movies?
+> I liked "Mulan"
+
+[96mmoviebot> [0mYou seem to have liked Mulan. Based on your inputs here is a recommendation. I think you should watch Bad Lieutenant (1992). Would you like more recommendations?
+> yes
+
+[96mmoviebot> [0mBased on your what you told me here is a recommendation. I think you should watch Karate Kid, The (2010). Would you like more recommendations?
+> yes
+
+[96mmoviebot> [0mBased on your what you told me here is a recommendation. I think you should watch Pixels (2015). Would you like more recommendations?
+> yes
+
+[96mmoviebot> [0mBased on your what you told me here is a recommendation. I think you should watch The Ridiculous 6 (2015). Would you like more recommendations?
+> y
+
+[96mmoviebot> [0mCouldn't understand what you want? Can you say yes or no?
+> y
+
+[96mmoviebot> [0mCouldn't understand what you want? Can you say yes or no?
+> Yes!
+
+[96mmoviebot> [0mCouldn't understand what you want? Can you say yes or no?
+> yeah
+
+[96mmoviebot> [0mCouldn't understand what you want? Can you say yes or no?
+> no
+
+[96mmoviebot> [0mOkay. Resetting all your recommendations. If you want to continue, tell me about another movie. If you are done just say :quit!
+> nah
+
+[96mmoviebot> [0mI am sorry, couldn't understand what you mean. Can you tell me about another movie you have seen?
+> :quit
+[96mmoviebot> [0mHave a nice day!

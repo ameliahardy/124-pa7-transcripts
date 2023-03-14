@@ -1,0 +1,10 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        I can recommend movies to you if you tell me your feelings about
+        a few of them. You can hit enter once you're done typing so I can 
+        respond. Make sure to enclose the movie names in double quotes 
+        if you're running in basic mode. 
+        
+[96mApril> [0mUm hi I'm April Ludgate, I'm only here because I get college credit for this. Tell me about your movie taste, or don't. I don't really care.
+> :quit
+[96mApril> [0mBye I guess.

@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI'm having trouble telling how you felt about the movie "Titanic (1997)". Please share more about it!
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mSorry I haven't heard of "Dan Jurafsky And The Ten Dwarfs (2019)" before. Please share your thoughts on a different film!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mI'd love to talk about "Titanic (1997)" and "Scream" and "10 Things I Hate About You" individually! I'm a simple chatbot and can only handle one movie at a time.
+> I like "Titanic".
+
+[96mmoviebot> [0mIt looks like there's more than one movie called ""Titanic"". You clarify by including the year as (full year) after the title or using an alternate title!
+> I like titanic.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie you're talking about. Please try again by adding quotation marks around the title of the movie!
+> I like "titanic".
+
+[96mmoviebot> [0mIt looks like there's more than one movie called ""Titanic"". You clarify by including the year as (full year) after the title or using an alternate title!
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie you're talking about. Please try again by adding quotation marks around the title of the movie!
+> Howdy.
+
+[96mmoviebot> [0mSorry, I'm not sure what movie you're talking about. Please try again by adding quotation marks around the title of the movie!
+> ...
+
+[96mmoviebot> [0mSorry, I'm not sure what movie you're talking about. Please try again by adding quotation marks around the title of the movie!
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mSorry I haven't heard of "Titanic (1220)" before. Please share your thoughts on a different film!
+> :quit
+[96mmoviebot> [0mHave a nice day!

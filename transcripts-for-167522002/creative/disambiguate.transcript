@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Howdy, partner! We are gonna have a hog-killin' time figuring out the next movie you are going to watch. 
+        Please tell me about 5 movies you have seen that were either an ace in the hole or a snake in your boot. 
+        Make sure to include only one movie name per line and ensure the name of the movie is in quotes along with 
+        the year of the movie in parentheses (if you don't do this you might end up swimming with the fishes). Once 
+        I have the names of the movies you have watched, I will make you recommendations. Feel free to say yes if 
+        you want to hear more recommendations or no if have had enough. Enough dilly dallying. Let's get to talking!
+        
+[96mCowboy Cap> [0mHowdy, I'm Cowboy Cap! After we speak, movies won't feel like the wild west anymore. Tell me the name and year of a movie you have seen.
+> I liked "Harry Potter".
+
+[96mCowboy Cap> [0mWhich one did you mean? Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) or Harry Potter and the Chamber of Secrets (2002) or Harry Potter and the Prisoner of Azkaban (2004) or Harry Potter and the Goblet of Fire (2005) or Harry Potter and the Order of the Phoenix (2007) or Harry Potter and the Half-Blood Prince (2009) or Harry Potter and the Deathly Hallows: Part 1 (2010) or Harry Potter and the Deathly Hallows: Part 2 (2011)?
+> Chamber of Secrets
+
+[96mCowboy Cap> [0mI'm glad "Harry Potter and the Chamber of Secrets (2002)" is one of your favorite movies. What is another movie you have watched?
+> I liked "Harry Potter".
+
+[96mCowboy Cap> [0mWhich one did you mean? Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) or Harry Potter and the Chamber of Secrets (2002) or Harry Potter and the Prisoner of Azkaban (2004) or Harry Potter and the Goblet of Fire (2005) or Harry Potter and the Order of the Phoenix (2007) or Harry Potter and the Half-Blood Prince (2009) or Harry Potter and the Deathly Hallows: Part 1 (2010) or Harry Potter and the Deathly Hallows: Part 2 (2011)?
+> Prisoner of Azkaban
+
+[96mCowboy Cap> [0mI'm glad "Harry Potter and the Prisoner of Azkaban (2004)" is one of your favorite movies. What is another movie you have watched?
+> :quit
+[96mCowboy Cap> [0mAdios, partner. Hope I was more helpful than Siri! Have a great day!

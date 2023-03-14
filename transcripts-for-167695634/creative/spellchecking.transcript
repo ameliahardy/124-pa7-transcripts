@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmicco jax> [0mI'm micco jax, Michael Jackson's long lost cousin! He HEE
+> I liked "The Notbook".
+
+[96mmicco jax> [0mSorry, I couldn't find any titles close to "The Notbook"
+> Yes.
+
+[96mmicco jax> [0mOkay, Got it
+> I did not like "Screm"
+
+[96mmicco jax> [0mDid you mean "Scream"?
+> No.
+
+[96mmicco jax> [0mLet us chat about movies now
+> :quit
+[96mmicco jax> [0mIt's time for me to go. Heal the world and make it a better place... He HEE

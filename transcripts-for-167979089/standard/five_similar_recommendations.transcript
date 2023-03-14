@@ -1,0 +1,59 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mAh, movie recommendations, you seek. Strong in the ways of cinema, I am. Hmmmm. Suggest great movies, I will.
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mHmm, Titanic (1997) you liked. A wise movie choice, that was. What other movies you like, I wonder? Share with me, your movie favorites. Together, explore the vast world of cinema, we will.
+> I hated "Zootopia"
+
+[96mmoviebot> [0mStrong, your emotions are! Hated Zootopia (2016) you did. Tell me more, I will. Understand your movie tastes, I must.
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mA good movie, Tangled Ever After (2012) is. Enjoyed it, did you? What other movies you like, hmm? Share with me, you can. Expand your horizons, we will.
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mHated Sleeping Beauty (1959) you did? Strong, your reaction is. Other movies you enjoy, I must know. Recommend better movies to you, I can.
+> I liked "Mulan"
+
+[96mmoviebot> [0mYour preferences, carefully considered they have been. Movie named The Ridiculous 6 (2015), I recommend. Enjoy, you will.
+Desire more movies, do you?
+> yes
+
+[96mmoviebot> [0mTailored to your preferences, this movie is. Pixels (2015) movie, I recommend. Watch, you must.
+Want more recommendations, do you?
+> yes
+
+[96mmoviebot> [0mA movie to match your tastes, World War Z (2013) is. Recommend it, I do. Watch, you should.
+Require more movie suggestions, do you do?
+> yes
+
+[96mmoviebot> [0mA movie to match your tastes, Criminal Lovers (1999) is. Recommend it, I do. Watch, you should.
+Want more recommendations, do you?
+> y
+
+[96mmoviebot> [0mDesire more movies, do you?
+> y
+
+[96mmoviebot> [0mRequire more recommendations, do you?
+> Yes!
+
+[96mmoviebot> [0mYour preferences, taken into account, they have been. Barfly (1987) movie, I suggest. Watch, you must.
+More suggestions, would you like?
+> yeah
+
+[96mmoviebot> [0mMovie named Jump Tomorrow (2001), perfect for your tastes it is. Watch, you should.
+Need more movie recommendations, do you?
+> no
+
+[96mmoviebot> [0mMay the Force be with you on your movie-watching journey. Mmmmm. Farewell, I must.
+> nah
+
+[96mmoviebot> [0mWatch great movies, you shall. Wisdom from them, you will gain. Mmmmm. Farewell, young friend.
+> :quit
+[96mmoviebot> [0mMay the Force be with you on your movie-watching journey. Mmmmm. Farewell, I must.

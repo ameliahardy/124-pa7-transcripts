@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello Thank you for using CleverChat, a movie recommender system.
+        We have made our CleverChat bot sound like Master Yoda.
+        You can interact with the Master by greeting him or telling him 
+        how you are feeling. He is programmed to give unique responses based 
+        on how the user is feeling. You will need to provide your feelings toward
+        5 movies before a recommendation is given.
+        Here are some examples:
+        'I really like "8 Mile"'
+        'I really hate "Poison Ivy"
+        'I like "8 Mile" but hate "Poison Ivy"
+
+        If there is more than one year when this movie was released the chatbot will give a 
+        list of options. Feel free to clarify by putting in the whole title, the year, or 
+        just specifying the index of what you mean (i.e first one, 1, 4 etc). 
+
+        If you missspell a title our CleverChat will try and give you a variety of titles to 
+        chose from to see if those are what you meant. 
+
+        
+        "Welcome, young Padawan! In search of movies, are you? Watchful eye, I shall be. Recommend, 
+        I will. To find the right movie, the Force will guide us."
+
+        
+[96mCleverChat> [0mHello, my name is: CleverChat the movie recommender bot! Tell me about some movies you've seen?
+> :quit
+[96mCleverChat> [0mIt was a pleasure chatting with you!

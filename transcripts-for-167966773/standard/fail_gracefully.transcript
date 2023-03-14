@@ -1,0 +1,75 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! This is moo-v-bot, your very own personalized moo-vie recommender!
+
+        How to use:
+        On prompt, please tell moo-v-bot about a movie(s) that you've watched! For the purposes
+        of this bot, please surround movie titles with "" to indicate your movie.
+
+        For example:
+            - I really really liked "Zootopia"
+            - I did not like "Head on"
+            - I liked "Zootopia" and "The Sixth Sense"
+        
+        If you type a movie title to matches to other movie titles, moo-v-bot will ask you to clarify
+        your movie selection. You can respond to this with:
+            - Specifying the movie title            : "Monty Python's And Now for Something Completely Different"
+            - Specifying the movie year             : "2016"
+            - Listing the order on the given list   : "1" or "first"
+
+        After collecting five movies, moo-v-bot will recommend up to ten different movies based on your
+        preferences! 
+        
+        Additionally, moo-v-bot may also respond to some non-movie request messages as well! These special commands include:
+            - "hi"
+            - "my name is Dan"
+            - "What is your name?"
+        moo-v-bot may also have some responses to more general communications too:
+            - "i am happy!"
+            - "i feel tired.."
+            
+        Have fun!
+        
+[96mmoo-v-bot> [0mHello I am moo-v-bot! 🐮 Please tell me about some moo-vies that moo've watched!
+> I saw "Titanic (1997)"
+
+[96mmoo-v-bot> [0mSorry, I'm not sure if you like or dislike "Titanic (1997)". Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoo-v-bot> [0mYou like "Titanic (1997)". Tell me about another movie that you've watched!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoo-v-bot> [0m🐮 Multiple moo-vies detected. Please only tell me about one moo-vie!
+> I like "Titanic".
+
+[96mmoo-v-bot> [0mMultiple movies match your provided movie.
+Please specify which movie below: 
+Titanic (1997)
+Titanic (1953)
+Select movie from above: 
+> I like titanic.
+
+[96mmoo-v-bot> [0m
+Sorry I'm still are not sure which movie you are referring to.
+> I like "titanic".
+
+[96mmoo-v-bot> [0m
+Sorry I'm still are not sure which movie you are referring to.
+> I like 10 things I hate about you.
+
+[96mmoo-v-bot> [0m
+Sorry I'm still are not sure which movie you are referring to.
+> Howdy.
+
+[96mmoo-v-bot> [0m
+Sorry I'm still are not sure which movie you are referring to.
+> ...
+
+[96mmoo-v-bot> [0m
+Sorry I'm still are not sure which movie you are referring to.
+> I saw "Titanic (1220)"
+
+[96mmoo-v-bot> [0m
+Sorry I'm still are not sure which movie you are referring to.
+> :quit
+[96mmoo-v-bot> [0mThank you! Have a wonder-moo day! 🐮

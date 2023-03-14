@@ -1,0 +1,27 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSherlock HomieBot> [0mWell hello there! My name is Sherlock Holmes. It is my business to know what other people don't know. I'm here to deduce the best movie recommendations for you! Let's get straight to business. Tell me about a movie. Spare no details!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mSherlock HomieBot> [0mI processed I didn't like either "Titanic (1997)" or "Ex Machina". in creative mode!! 
+ Data! Data! Data! Too many movies in your clue! Tell me about just one of them!
+> I liked "Zootopia" but not "Scream".
+
+[96mSherlock HomieBot> [0mI processed I liked "Zootopia" but not "Scream". in creative mode!! 
+ Data! Data! Data! Too many movies in your clue! Tell me about just one of them!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mSherlock HomieBot> [0mI processed I hated "Zootopia" and also "Eat Pray Love". in creative mode!! 
+ Data! Data! Data! Too many movies in your clue! Tell me about just one of them!
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mSherlock HomieBot> [0mI processed I liked "Zootopia", "Blade Runner", and "The Notebook" in creative mode!! 
+ Data! Data! Data! Too many movies in your clue! Tell me about just one of them!
+> :quit
+[96mSherlock HomieBot> [0mIt's been a pleasure solving your case. Now I must depart for yet another case. The game is afoot!

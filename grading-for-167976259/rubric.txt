@@ -1,0 +1,72 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Sheena and Sophie worked on the starter mode program, with Allison and Naomi contributing
+to recommend() and process() in starter mode. All members worked on creative features
+for process(). In addition to these, Allison worked on features related to disambiguation, Sheena did 
+spell-checking features, Naomi worked on creative features of extract_titles and find_movies_by_title 
+as well as the ethics question, and Sophie worked on creative features related to extracting sentiment.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+One of the most significant consequences of anthropomorphizing chatbot systems is that people will start to 
+develop an emotional attachment to the chatbot, leading them to listen to it over what other humans say. I am reminded
+of an Internet post where an individual expressed frustration at her boyfriend constantly asking ChatGPT to console him
+and give advice every time the couple got into an argument, rather than talk to her about it. It is clear that many
+people are susceptible to developing an emotional dependency on a chatbot, with a desire to cast it as a close friend,
+romantic partner, therapist, etc. Such a dependency is dangerous because it pushes people to isolate themselves from other
+humans, and they may have an increasingly difficult time developing relationships and socializing in real-life environments. 
+Further, the development of this attachment can be harmful when the chatbot gives bad advice, encourages hateful ideas, or
+suggests something unsafe, as the person attached to the chatbot will be more influenced by what it says.
+
+We believe engineers can help users distinguish between chatbot responses and human responses if the chatbot continuously repeats
+itself or gives the same prompts repeatedly, which contrasts with typical human behavior. More obviously, users will have an easier time 
+remembering that the chatbot is not human if the chatbot continuously reminds them that it is a bot. Additionally, users will have 
+an easier time with recognizing the chatbot as non-human if engineers design the chatbot to always respond with a formal and stoic tone. 
+This way, users will be less likely to establish an emotional relationship with the chatbot through its responses.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

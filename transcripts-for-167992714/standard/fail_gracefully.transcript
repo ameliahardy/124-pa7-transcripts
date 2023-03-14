@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is the SUPER MOVIEBOT. This movie bot will ask the user for an input 
+        of movies & the user's opinion on it! After 5 or more data inputs, the moviebot
+        will automatically ask the user if they want a ~JUICY~ recommendation! Enjoy!
+        
+[96mGordon Ramsey Bot> [0mHallo, mate! I'm Gordon Ramsey, your trusty movie chef. Give me some ingredients (opinions on movies), and once I have enough ingredients for the perfect dish, I'll whip you up nicely seasoned suggestions.
+> I saw "Titanic (1997)"
+
+[96mGordon Ramsey Bot> [0mBlimey, I can't tell if you really liked the movie "Titanic (1997)"! Tell me more about it!
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mGordon Ramsey Bot> [0mI'm sorry mate, this is quite the dodgy ingredient (movie), "Dan Jurafsky and the Ten Dwarfs (2019)"... but if there is another ingredient (movie) you liked or disliked, let me know!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mGordon Ramsey Bot> [0mSorry mate, I can't cook multiple ingredients (movies) at a time. A world class chef must deal with them one ingredient at a time. Please tell me about one movie at a time! 
+> I like "Titanic".
+
+[96mGordon Ramsey Bot> [0mI found more than one ingredient (movie) called "Titanic". Can you clarify before I start the stove?
+> I like titanic.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> I like "titanic".
+
+[96mGordon Ramsey Bot> [0mI found more than one ingredient (movie) called "titanic". Can you clarify before I start the stove?
+> I like 10 things I hate about you.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> Howdy.
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> ...
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> I saw "Titanic (1220)"
+
+[96mGordon Ramsey Bot> [0mI'm sorry mate, this is quite the dodgy ingredient (movie), "Titanic (1220)"... but if there is another ingredient (movie) you liked or disliked, let me know!
+> :quit
+[96mGordon Ramsey Bot> [0mEnjoy your ridiculously good movie dishes!

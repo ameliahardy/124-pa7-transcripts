@@ -1,0 +1,7 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+In starter mode, this chatbot is a placid and normal chatbot. 
+            Give it the titles of five movies in quotations and correctly formatted,
+            and it will give you up to 10 recommendations!
+[96mPete> [0mHi! I'm Pete, a movie chatbot. Give me some movies and I'll give you some recommendations!
+> :quit
+[96mPete> [0mBye for now!

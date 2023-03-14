@@ -1,0 +1,58 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you Hamed?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mSo you liked Titanic (1997). Anything else?
+> I hated "Zootopia"
+
+[96mmoviebot> [0mCould you try again, this time just talking about one movie!
+> I liked "Tangled Ever After"
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167987614/chatbot.py", line 202, in process
+    extracted_movie = self.extract_titles(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167987614/chatbot.py", line 339, in extract_titles
+    if re.search(MovieRE,preprocessed_input):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 201, in search
+    return _compile(pattern, flags).search(string)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 304, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_compile.py", line 768, in compile
+    code = _code(p, flags)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_compile.py", line 607, in _code
+    _compile(code, p.data, flags)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/sre_compile.py", line 92, in _compile
+    if not flags & SRE_FLAG_IGNORECASE:
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

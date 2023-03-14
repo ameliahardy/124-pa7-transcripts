@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mWatch movies, you must. From them, learn you will. Good taste in movies, have you? Hmmmm. Recommend great movies, I can.
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mA great movie, Blade Runner (1982) is. Enjoyed it, you did. What other movies spark joy, in you? Share with me, your favorites. Help you discover new movies, I will.
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mMixed, your emotions are. Did you appreciate Terminator Salvation (2009) or not? Tell me, you must.
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mConfused, your words make me. Like Titanic (1997) did you, or not like it? Speak plainly, you must.
+> I liked it.
+
+[96mmoviebot> [0mBack to movies, let us return. Discussion of them, we shall continue.
+> I watched "Scream".
+
+[96mmoviebot> [0mMore than one Scream there is. Meant you Scream (1996), Scream 2 (1997),  or Scream 3 (2000)?
+> I didn't like that movie.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Scream (1996), Scream 2 (1997),  or Scream 3 (2000)
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mMixed your feelings are about Zootopia (2016), hmmm? Clarify, you must. Like it, did you? Or like it not?
+> And also "Ex Machina".
+
+[96mmoviebot> [0mUnclear, your opinion of Ex Machina (2015) is. Speak with certainty, you should. Enjoy it, did you? Or enjoy it not?
+> :quit
+[96mmoviebot> [0mMovie recommendations, follow you must. Enjoy them, I hope. Mmmmm. Farewell, young Padawan.

@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mDean> [0mHey there! I'm a Dean, a chatbot whose job it is to recommend you movies. Can you tell me a movie you've seen recently?
+> I liked "Harry Potter".
+
+[96mDean> [0mSorry, I'm not sure which movie you are referring to. Did you mean "Harry Potter And The Deathly Hallows: Part 2 (2011)" or "Harry Potter And The Philosopher's Stone (2001)" or "Harry Potter And The Chamber Of Secrets (2002)" or "Harry Potter And The Half-blood Prince (2009)" or "Harry Potter And The Order Of The Phoenix (2007)" or "Harry Potter And The Goblet Of Fire (2005)" or "Harry Potter And The Prisoner Of Azkaban (2004)" or "Harry Potter And The Deathly Hallows: Part 1 (2010)"?
+> Chamber of Secrets
+
+[96mDean> [0mSo, you enjoyed "Harry Potter And The Chamber Of Secrets (2002)"! Tell me what you think of another movie.
+> I liked "Harry Potter".
+
+[96mDean> [0mSorry, I'm not sure which movie you are referring to. Did you mean "Harry Potter And The Deathly Hallows: Part 2 (2011)" or "Harry Potter And The Philosopher's Stone (2001)" or "Harry Potter And The Chamber Of Secrets (2002)" or "Harry Potter And The Half-blood Prince (2009)" or "Harry Potter And The Order Of The Phoenix (2007)" or "Harry Potter And The Goblet Of Fire (2005)" or "Harry Potter And The Prisoner Of Azkaban (2004)" or "Harry Potter And The Deathly Hallows: Part 1 (2010)"?
+> Prisoner of Azkaban
+
+[96mDean> [0mSo, you vibed with "Harry Potter And The Prisoner Of Azkaban (2004)". Tell me what you think of another movie.
+> :quit
+[96mDean> [0mHave a nice day!

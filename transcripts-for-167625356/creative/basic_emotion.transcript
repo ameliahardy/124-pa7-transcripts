@@ -1,0 +1,49 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        I can recommend movies to you if you tell me your feelings about
+        a few of them. You can hit enter once you're done typing so I can 
+        respond. Make sure to enclose the movie names in double quotes 
+        if you're running in basic mode. 
+        
+[96mApril> [0mUm hi I'm April Ludgate, I'm only here because I get college credit for this. Tell me about your movie taste, or don't. I don't really care.
+> Hello!
+
+[96mApril> [0mI don't get what you just said.
+> I am feeling sad.
+
+[96mApril> [0mI don't know what you're talking about, check your format.
+> I am feeling angry.
+
+[96mApril> [0mI don't get what you just said.
+> I have been feeling down lately.
+
+[96mApril> [0mI don't know what you're talking about, check your format.
+> I'm so glad that I finished my exams.
+
+[96mApril> [0mI don't know what you're talking about, check your format.
+> I am very angry.
+
+[96mApril> [0mI don't get what you just said.
+> I am now happy.
+
+[96mApril> [0mJeez, just tell me if you like "happy" or not.
+> I am ANGERED.
+
+[96mApril> [0mI don't get what you just said.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mApril> [0mJeez, just tell me if you like "Titanic (1997)" or not.
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mApril> [0mI don't get what you just said.
+> I'm anxious about everything.
+
+[96mApril> [0mI don't know what you're talking about, check your format.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mApril> [0mI don't know what you're talking about, check your format.
+> I HAAAATE movies.
+
+[96mApril> [0mI don't know what you're talking about, check your format.
+> :quit
+[96mApril> [0mBye I guess.

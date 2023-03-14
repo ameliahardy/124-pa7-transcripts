@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This chatbot, CutieBot tries to get to know its users by prompting them
+        for movies they liked and did not like. CutieBot first detects the names 
+        of movies that are mentioned in the user's text. Then, it acknowledges 
+        the negative or positive or neutral sentiment towards the movie that is 
+        felt by the user. Finally, it tries to produce the best recommendation 
+        for the next movie the user should watch.
+        
+[96mCutieBot> [0mHello there, I'm CutieBot. I am a real movie fan. I can help you to find your next favorite movie. Would you like to watch a great movie tonight? If so, please answer yes but if not please enter :quit.
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mCutieBot> [0mPlease take a deep breath and talk about only one movie at a time!
+> I liked "Zootopia" but not "Scream".
+
+[96mCutieBot> [0mPlease take a deep breath and talk about only one movie at a time!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mCutieBot> [0mPlease take a deep breath and talk about only one movie at a time!
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mCutieBot> [0mPlease take a deep breath and talk about only one movie at a time!
+> :quit
+[96mCutieBot> [0mOh alright then. Have a cute day!

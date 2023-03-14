@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHELLO!!! I'M THE QUASI-YELLING BOT! SOMETIMES I YELL, SOMETIMES I DO NOT. TELL ME ALL THE MOVIES YOU WATCHED RECENTLY!!!
+> Hello!
+
+[96mmoviebot> [0mI processed Hello! in creative mode!!
+> I am feeling sad.
+
+[96mmoviebot> [0mI processed I am feeling sad. in creative mode!!
+> I am feeling angry.
+
+[96mmoviebot> [0mI processed I am feeling angry. in creative mode!!
+> I have been feeling down lately.
+
+[96mmoviebot> [0mI processed I have been feeling down lately. in creative mode!!
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mI processed I'm so glad that I finished my exams. in creative mode!!
+> I am very angry.
+
+[96mmoviebot> [0mI processed I am very angry. in creative mode!!
+> I am now happy.
+
+[96mmoviebot> [0mI processed I am now happy. in creative mode!!
+> I am ANGERED.
+
+[96mmoviebot> [0mI processed I am ANGERED. in creative mode!!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mI processed "Titanic (1997)" makes me afraid of ice. in creative mode!!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mI processed I am VERY FRUSTRATED with this chatbot. in creative mode!!
+> I'm anxious about everything.
+
+[96mmoviebot> [0mI processed I'm anxious about everything. in creative mode!!
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mI processed Colorless green ideas sleep FURIOUSLY. in creative mode!!
+> I HAAAATE movies.
+
+[96mmoviebot> [0mI processed I HAAAATE movies. in creative mode!!
+> :quit
+[96mmoviebot> [0mGOODBYE MY FRIEND!!!

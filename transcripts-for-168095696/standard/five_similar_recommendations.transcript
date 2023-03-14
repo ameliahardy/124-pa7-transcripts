@@ -1,0 +1,47 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+SpongeBot is a chatbot that recommends movies to a user based on the user’s input from the MovieLens database. The user can type several movies they liked and disliked. After SpongeBot takes in several inputs, it offers movie recommendations to the user based on his or her likes and dislikes. SpongeBot can account for alternate movie titles, different versions of the same movie (year), and user typos. SpongeBot has a SpongeBob persona!
+[96mSpongeBot> [0mHey, Spongebuddy! Let's talk about movies!
+> I liked "Titanic (1997)"
+
+[96mSpongeBot> [0mNice to know you enjoyed Titanic (1997). Tell me about another movie you've seen.
+> I hated "Zootopia"
+
+[96mSpongeBot> [0mSorry you didn't like Zootopia. Tell me about another movie you've seen.
+> I liked "Tangled Ever After"
+
+[96mSpongeBot> [0mGotcha, you're a fan of Tangled Ever After. Tell me about another movie you've seen.
+> I hated "Sleeping Beauty"
+
+[96mSpongeBot> [0mI'm sorry to hear you didn't enjoy Sleeping Beauty. Tell me about another movie you've seen.
+> I liked "Mulan"
+
+[96mSpongeBot> [0mIt's good to know you liked Mulan. Tell me about another movie you've seen. Also, fin-tastic news! I now know enough about your tastes to give some suggestions. Would you like a recommendation?
+> yes
+
+[96mSpongeBot> [0mGotcha, I think you would find The Ridiculous 6 (2015) interesting! How about another suggestion?
+> yes
+
+[96mSpongeBot> [0mI think you will enjoy Pixels (2015)! How about another suggestion?
+> yes
+
+[96mSpongeBot> [0mI think you will enjoy World War Z (2013)! How about another suggestion?
+> y
+
+[96mSpongeBot> [0mI ran out of recommendations for now! Sea-riously sorry about that, I'll think of some more once we talk about other movies you've watched.
+> y
+
+[96mSpongeBot> [0mOops! I don't think you mentioned any movies known to Bikini Bottom, let's talk about movies!
+> Yes!
+
+[96mSpongeBot> [0mOh my sandy cheeks! Let's just talk about movies!
+> yeah
+
+[96mSpongeBot> [0mSorry, didn't quite 'catch' that. Let's talk about or 'fish' some movies!
+> no
+
+[96mSpongeBot> [0mSorry, didn't quite 'catch' that. Let's talk about or 'fish' some movies!
+> nah
+
+[96mSpongeBot> [0mOh my sandy cheeks! Let's just talk about movies!
+> :quit
+[96mSpongeBot> [0mSee ya later, Plankton!

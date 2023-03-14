@@ -1,0 +1,66 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Team: Jack Christian, Drew Silva, Isabella Jordan, Cole Crichton
+
+All team members collaborated on process (this was a large amount of work compared to the individual functions), and individually handled many of the separate functions.
+
+Jack worked on process, disambiguate, binarize, the cowboy messages, extract_titles, find_movies_by_title, extract_sentiment.
+Drew worked on process, recommend, binarize, extract_sentiment_from_movies, find_movies_by_title
+Isabella worked on process, find_movies_by_title, find_movies_closest_to_titles, and the ethics questions
+Cole worked on process, the cowboy messages, extract_titles, find_movies_by_title, extract_sentiment, and recommend
+
+We are satisfied with the split of work as a group. 
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+One possible ramification of anthropomorphizing chatbot systems is that if the chatbots draw from negative sources such as Reddit and Twitter, people could get offensive responses from their chatbot and because  they think the chatbot is a person, they might more likely to take something offensive as face value and think it’s correct. Another possible ramification of anthropomorphizing chatbot systems is that it prevents the user from understanding the bias of the chatbot system. Because a chatbot system pulls its resources from the internet, it often will reflect the majority bias opinions and ideas, which can exclude or minimize the opinions and ideas of minorities voices. Thus, by anthropomorphizing chatbot system, they could think that if it matches their bias or beliefs which could be problematic in terms of creating further bias or discrimination towards minorities. Lastly, a harmful ramification of anthropomorphizing chatbot systems is that the relationship a human can form with a chatbot can impact their relationship norms if they perceive the chatbot as human, which could negatively affect their other relationships. For example, a human user is used to a singly beneficial with their chatbot system that they perceive as human, in which they ask the chatbot for something and get what they want. They could then perceive this as a norm for relationships in which they only desire individually beneficial relationships, which could result in them developing negative relationship habits.
+One method engineers could implement to ensure users can differentiate would be by signing off as "Chatbot", or another obvious chatbot name. The danger with bots like ELIZA and Alexa is the human name; we ascribe values to these systems automatically by addressing them by human names. When we remove human names, we further the emotional distance that humans can have with these algorithms. Another way an engineer could tell a chatbot response to one of a human is to only use formal English. Considering most humans speak with certain slang or abbreviations, it could be easy to identify a human’s response if it had a lot of slang or informal English Thus, if a chatbot only spoke in very formal English, it could be easier for a user to tell that it was  by a chatbot and not a human. 
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mI'm happy to hear that Titanic (1997) was enjoyable for you. Can you tell me your opinion on another movie?
+> I hated "Zootopia"
+
+[96mmoviebot> [0mIt's too bad that Zootopia didn't satisfy you. Can you tell me your opinion on another movie?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mWhat other movies do you think someone who enjoyed Tangled Ever After would like?
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mI apologize that Sleeping Beauty wasn't what you hoped for. Would you like to share your thoughts on another film?
+> I liked "Mulan"
+
+[96mmoviebot> [0mI'm glad to hear that you had a good experience with Mulan. Can you share your thoughts on another movie?
+> yes
+
+[96mmoviebot> [0mI'm astonished, you've left me flummoxed! Would you mind simplifying or being more explicit?
+> yes
+
+[96mmoviebot> [0mI'm amazed, you've left me speechless! Could you clarify or provide more detail?
+> yes
+
+[96mmoviebot> [0mI'm impressed, you've got me stuck! Could you simplify or add more details?
+> y
+
+[96mmoviebot> [0mYou've really thrown me for a loop! Could you elaborate or simplify it for me?
+> y
+
+[96mmoviebot> [0mYou've really got me thinking! Would you mind breaking it down or providing more explanation?
+> Yes!
+
+[96mmoviebot> [0mI'm at a loss for words! Can you make it simpler or more clear for me?
+> yeah
+
+[96mmoviebot> [0mI'm astonished, you've left me flummoxed! Would you mind simplifying or being more explicit?
+> no
+
+[96mmoviebot> [0mI'm astonished, you've left me speechless! Can you simplify or provide more information?
+> nah
+
+[96mmoviebot> [0mYou've got me scratching my head! Can you provide more detail or simplify it?
+> :quit
+[96mmoviebot> [0mHave a nice day!

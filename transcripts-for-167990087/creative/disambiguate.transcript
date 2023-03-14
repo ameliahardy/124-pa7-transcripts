@@ -1,0 +1,20 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hello! I will recommend a movie for you that I think you'll like! To get started, tell me about some movies that you've seen!
+[96mJILF_bot> [0mHello. My name is JILF. I'll help you pick a movie today. If you ever want to leave, just type :quit 
+ But now, let's find a movie for you. To do so, tell me about movies and TV shows you have seen before and whether you liked them. 
+ Make sure to put the movie name between quotes. For example, you could say: I hated "Titanic" 
+ Oh, and lastly, just one movie please. Don't say: I loved "Titanic" and "Avatar"
+> I liked "Harry Potter".
+
+[96mJILF_bot> [0mlisten. i understand that you're feeling positive. but, pleaseeeee, tell me about any movie you have watched.
+> Chamber of Secrets
+
+[96mJILF_bot> [0mlisten. i understand that you're feeling negative. but, pleaseeeee, tell me about any movie you have watched.
+> I liked "Harry Potter".
+
+[96mJILF_bot> [0mlisten. i understand that you're feeling positive. but, pleaseeeee, tell me about any movie you have watched.
+> Prisoner of Azkaban
+
+[96mJILF_bot> [0mlisten. i understand that you're feeling negative. but, pleaseeeee, tell me about any movie you have watched.
+> :quit
+[96mJILF_bot> [0mIt was an honor to be of service. Enjoy the movie!

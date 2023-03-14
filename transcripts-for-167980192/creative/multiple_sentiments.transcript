@@ -1,0 +1,43 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to our movie recommender chatbot. Tell us which movies
+        you like, dislike, or have seen, and we'll recommend movies you might
+        find enjoy.
+        
+[96mMovieChatbot> [0mHello, we are going to recommend you movies based on your reviews, type creative to do creative reviews, otherwise just type a review!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+We have recorded that you rated Titanic (1997) [-1.]
+We have recorded that you rated Ex Machina (2015) [-1.]
+[96mMovieChatbot> [0mcreative modeeyou disliked Titanic (1997)you disliked Ex Machina 
+ please tell me more about your movie preferences we need 3 more reviews to recommend
+> I liked "Zootopia" but not "Scream".
+
+We have recorded that you rated Titanic (1997) [-1.]
+We have recorded that you rated Ex Machina (2015) [-1.]
+[96mMovieChatbot> [0mcreative modeeyou feel neutral about Zootopiayou feel neutral about Scream 
+ please tell me more about your movie preferences we need 2 more reviews to recommend
+> I hated "Zootopia" and also "Eat Pray Love".
+
+We have recorded that you rated Titanic (1997) [-1.]
+We have recorded that you rated Eat Pray Love (2010) [-2.]
+We have recorded that you rated Ex Machina (2015) [-1.]
+We have recorded that you rated Zootopia (2016) [-2.]
+[96mMovieChatbot> [0mcreative modeeyou disliked Zootopiayou disliked Eat Pray Love 
+ please tell me more about your movie preferences we need 1 more reviews to recommend
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+We have recorded that you rated Blade Runner (1982) [1.]
+We have recorded that you rated Titanic (1997) [-1.]
+We have recorded that you rated Notebook, The (2004) [1.]
+We have recorded that you rated Eat Pray Love (2010) [-2.]
+We have recorded that you rated Ex Machina (2015) [-1.]
+We have recorded that you rated Zootopia (2016) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Nanny Diaries, The (2007)
+Gnomeo & Juliet (2011)
+Rookie of the Year (1993)
+Ice Princess (2005)
+Must Love Dogs (2005)
+> :quit
+[96mMovieChatbot> [0mHave a nice day! great chatting with you

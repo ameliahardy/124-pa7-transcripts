@@ -1,0 +1,54 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+  Ryan, Josh and Will were the main contributers to the code as well as a lot of collaboration on math and ethics. All work was split relatively evenly.
+
+  We had a teammate Natasha join late and as such did not contribute as much to the final project. 
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chatbot systems could have a number of ramifications, though not all need be negative.One obvious consequence would be the inreased data privacy concerns given that anthropomorphizing the chatbot would lead to a greater sense of connection and more willingness to disclose highly personal information. On the other hand, a more positive byproduct of anthropomorphizing could be the combattance of depression, anxiety, loneliness and a host of other mental health struggles by convincing the client that they are interacting with and being understood by a conscious agent. There are certainly ways that engineers could degrade chatbot repsonses such that they are clearly distinguishable from human reponses, but this would not necessarily be a good thing (for reasons outlined above). We feel that a balanced solution would involve retaining the human-like responses while occasionally interjecting with a comment indicating a lack of consciousness (i.e. "but I am merely a computer, so perhaps you should ask someone else.")
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

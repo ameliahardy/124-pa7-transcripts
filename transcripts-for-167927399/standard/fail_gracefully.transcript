@@ -1,0 +1,42 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi! I'm MovieBot! I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI see that you watched Titanic (1997), but I can't tell if you liked it or not. Can you give more information?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mSorry, I don't recognize Dan Jurafsky and the Ten Dwarfs (2019). Can you give me more information?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mI see that you watched multiple movies. Can you tell me which one you liked the most?
+> I like "Titanic".
+
+[96mmoviebot> [0mI see more than one Titanic. Can you specify which one you're looking for?
+> I like titanic.
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> I like "titanic".
+
+[96mmoviebot> [0mI see more than one titanic. Can you specify which one you're looking for?
+> I like 10 things I hate about you.
+
+1
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> Howdy.
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> ...
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mSorry, I don't recognize Titanic (1220). Can you give me more information?
+> :quit
+[96mmoviebot> [0mHave a nice day!

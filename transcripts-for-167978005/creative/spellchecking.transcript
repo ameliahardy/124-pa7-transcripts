@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            "Yahooo! It's-a me, Mario, and I'm in creative mode, woo hoo! 
+            I'm your movie recommending chat bot, and I'm ready to help you 
+            find some-a great movies! Just give me your opinion, no matter how-a strong,
+            on 5 movies, and I'll-a find you one that I think you'll love! And don't-a 
+            worry, you can keep adding your preferences, more than one at a time too,
+            and I'll keep making recommendations based on previous entries! Movie titles
+            can be with or without-a quotation marks, and you don't-a need to worry about
+            your poor spelling abilities, hahaha! 
+            Let's-a gooooo!"
+            
+[96mMarioMovieBot:)> [0mYahoohoohoo! It's-a me, Mario! Let's find you a movie! Let's-a go!
+> I liked "The Notbook".
+
+[96mMarioMovieBot:)> [0mDo you mean "Notebook, The (2004)"? 
+> Yes.
+
+[96mMarioMovieBot:)> [0mOk! Can you please re-write the name of the movie you've watched. Or, Let's-a go, little guys! Rate a movie you have watched.
+> I did not like "Screm"
+
+[96mMarioMovieBot:)> [0mWhich one did you mean?
+Scream (1996), Scream 2 (1997), Scream 3 (2000), Scum (1979), Score, The (2001), or Cure (1997)
+> No.
+
+[96mMarioMovieBot:)> [0mI don't think I understand you! Can you please re-write the name of the movie you've watched. Or, Let's-a go! Rate a movie you have wacthed before.
+> :quit
+[96mMarioMovieBot:)> [0mSo long, eh Bowser! Yes! I'm the winner! I hope you found a movie! Goodbye!

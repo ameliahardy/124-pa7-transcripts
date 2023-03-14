@@ -1,0 +1,58 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to the Chavo del Ocho Movie Chatbot! This is an engaging chatbot
+        that can mainly help you find your next favorite movie recommendation!
+        Just provide him with a few movies you've seen and tell him what you thought
+        of them and magic will happen. Chavo is smart and can find movies even
+        when you don't write them with the exact name. Exciting!
+        
+        But that's not all, Chavo can handle open ended conversation (you can tell
+        him about your feelings) and many more! 
+        
+[96mChavo del Ocho> [0mHola! I'm Chavo and I can help you find your new favorite movie! Just tell me about a
+movie that you have seen and whether or not you like it. Ah, just make sure to place the movie between
+quotes so I can recognize it, por favor!
+> I liked "Titanic (1997)"
+
+[96mChavo del Ocho> [0mGracias! I see that you liked "Titanic (1997)", not bad taste! Can you tell me about another movie? Gracias
+> I hated "Zootopia"
+
+[96mChavo del Ocho> [0mI see that you didn't liked "Zootopia (2016)" (not my favorite either ha!) Can you tell me about another movie? Gracias
+> I liked "Tangled Ever After"
+
+[96mChavo del Ocho> [0mGreat, so you liked "Tangled Ever After (2012)". I love it too. Can you tell me about another movie? Gracias
+> I hated "Sleeping Beauty"
+
+[96mChavo del Ocho> [0mSo you did not like "Sleeping Beauty (1959)", it was no bueno I know! Can you tell me about another movie? Gracias
+> I liked "Mulan"
+
+[96mChavo del Ocho> [0mGracias! I see that you liked "Mulan (1998)", not bad taste! Excelente, I'm ready to provide you with recommendations! The first thing that comes to mind is that you should watch "The Ridiculous 6 (2015)". Would you want another rec amigo?
+> yes
+
+[96mChavo del Ocho> [0mMy next recommendation is for you to watch "Pixels (2015)"! Muy bueno! Would you want another rec amigo?
+> yes
+
+[96mChavo del Ocho> [0mMy next recommendation is for you to watch "World War Z (2013)"! Muy bueno! Would you want another rec amigo?
+> yes
+
+[96mChavo del Ocho> [0mMy next recommendation is for you to watch "Karate Kid, The (2010)"! Muy bueno! Would you want another rec amigo?
+> y
+
+[96mChavo del Ocho> [0mMy next recommendation is for you to watch "Not Another Teen Movie (2001)"! Muy bueno! Would you want another rec amigo?
+> y
+
+[96mChavo del Ocho> [0mOkay... I have one last recommendation for you: "Damage (Fatale) (1992)". Would you want to go back to the first rec?
+> Yes!
+
+[96mChavo del Ocho> [0mThe first thing that comes to mind is that you should watch "The Ridiculous 6 (2015)". Would you want another rec amigo?
+> yeah
+
+[96mChavo del Ocho> [0mMy next recommendation is for you to watch "Pixels (2015)"! Muy bueno! Would you want another rec amigo?
+> no
+
+[96mChavo del Ocho> [0mOkay! Hope you have a nice day! Adiós!
+> nah
+
+[96mChavo del Ocho> [0mOkay! Hope you have a nice day! Adiós!
+> :quit
+[96mChavo del Ocho> [0mAdiós! Hope have a nice day!

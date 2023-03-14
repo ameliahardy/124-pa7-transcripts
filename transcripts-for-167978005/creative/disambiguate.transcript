@@ -1,0 +1,29 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            "Yahooo! It's-a me, Mario, and I'm in creative mode, woo hoo! 
+            I'm your movie recommending chat bot, and I'm ready to help you 
+            find some-a great movies! Just give me your opinion, no matter how-a strong,
+            on 5 movies, and I'll-a find you one that I think you'll love! And don't-a 
+            worry, you can keep adding your preferences, more than one at a time too,
+            and I'll keep making recommendations based on previous entries! Movie titles
+            can be with or without-a quotation marks, and you don't-a need to worry about
+            your poor spelling abilities, hahaha! 
+            Let's-a gooooo!"
+            
+[96mMarioMovieBot:)> [0mHello, it's-a me, Mario! Let's-a find you the best movie! Yahoohoohoo!
+> I liked "Harry Potter".
+
+[96mMarioMovieBot:)> [0mWhich one did you mean?
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001), Harry Potter and the Chamber of Secrets (2002), Harry Potter and the Prisoner of Azkaban (2004), Harry Potter and the Goblet of Fire (2005), Harry Potter and the Order of the Phoenix (2007), Harry Potter and the Half-Blood Prince (2009), Harry Potter and the Deathly Hallows: Part 1 (2010), or Harry Potter and the Deathly Hallows: Part 2 (2011)
+> Chamber of Secrets
+
+[96mMarioMovieBot:)> [0mMama Mia! Wahoo! I see you like "Harry Potter and the Chamber of Secrets (2002)".Let's-a go! Rate a movie you have wacthed before.
+> I liked "Harry Potter".
+
+[96mMarioMovieBot:)> [0mWhich one did you mean?
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001), Harry Potter and the Chamber of Secrets (2002), Harry Potter and the Prisoner of Azkaban (2004), Harry Potter and the Goblet of Fire (2005), Harry Potter and the Order of the Phoenix (2007), Harry Potter and the Half-Blood Prince (2009), Harry Potter and the Deathly Hallows: Part 1 (2010), or Harry Potter and the Deathly Hallows: Part 2 (2011)
+> Prisoner of Azkaban
+
+[96mMarioMovieBot:)> [0mYiiiiiipeee! I see you like "Harry Potter and the Prisoner of Azkaban (2004)".Oh, come on! Tell me more movies you have watched.
+> :quit
+[96mMarioMovieBot:)> [0mHui hew! Just what I needed! Okey-dokey! Bye-bye! Yeah, ha ha ha!

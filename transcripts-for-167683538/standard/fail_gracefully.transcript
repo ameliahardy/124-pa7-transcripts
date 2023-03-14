@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi, I'm your movie chatbot, MovieGenie. I can talk about movie recommendations, and please ask me about one movie at a time!
+        You can input up to five movies that you like, and I'll find a movie that I think you would like.
+        In starter mode, please put your movie in quotation marks! In creative mode, watch me transform into a Southern chatbot.
+        You don't have to put titles in quotation marks and can only mention parts of a title in quotes. I'll guide you through the selection process!
+        
+[96mMovieGenie> [0mHello! I am MovieGenie, a bot that makes movie recommendations. First I will ask you about your taste in movies. Tell me about a movie that you have seen and whether you liked it.
+> I saw "Titanic (1997)"
+
+[96mMovieGenie> [0mI'm not sure if you were pleased with "Titanic (1997)".
+Tell me more about "Titanic (1997)".
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mMovieGenie> [0mI apologize. I have never heard of "Dan Jurafsky and the Ten Dwarfs (2019)". Please try again.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mMovieGenie> [0mI can only understand one movie at a time. Please answer again.
+> I like "Titanic".
+
+[96mMovieGenie> [0mThere are multiple movies with the title "Titanic". Please clarify.
+> I like titanic.
+
+[96mMovieGenie> [0mIt seems that I cannot understand what you mean. Please tell me about what movies you liked or disliked.
+> I like "titanic".
+
+[96mMovieGenie> [0mI'm sorry, I don't recognize "titanic". Please try again.
+> I like 10 things I hate about you.
+
+[96mMovieGenie> [0mI'm sorry, I do not understand your response. Please tell me about a movie you have seen.
+> Howdy.
+
+[96mMovieGenie> [0mIt seems that I cannot understand what you mean. Please tell me about what movies you liked or disliked.
+> ...
+
+[96mMovieGenie> [0mSorry, I don't think I understood your response. Please tell me about a movie you've recently watched.
+> I saw "Titanic (1220)"
+
+[96mMovieGenie> [0mI don't think I know "Titanic (1220)". Please try again.
+> :quit
+[96mMovieGenie> [0mThank you for your time. Have a nice day!

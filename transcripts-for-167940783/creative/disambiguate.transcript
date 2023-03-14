@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Meowy is a cat chatbot for all your cat-bot waifu dreams! Ask Meowy what you feel about various movies, and they will recommend you a movie!
+        
+[96mMeowMeow> [0mMeow!!! Meow, my name is MeowMeow. Tell me about a movie you like, mew?
+> I liked "Harry Potter".
+
+[96mMeowMeow> [0mOh, so you have liked "Harry Potter"!  However, I found many titles with a similar name. Which one of these is it? Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001), Harry Potter and the Chamber of Secrets (2002), Harry Potter and the Prisoner of Azkaban (2004), Harry Potter and the Goblet of Fire (2005), Harry Potter and the Order of the Phoenix (2007), Harry Potter and the Half-Blood Prince (2009), Harry Potter and the Deathly Hallows: Part 1 (2010), Harry Potter and the Deathly Hallows: Part 2 (2011).
+> Chamber of Secrets
+
+[96mMeowMeow> [0mCoolio meow! You enjoyed "Harry Potter and the Chamber of Secrets (2002)", tell me more about another movie you have seen.
+> I liked "Harry Potter".
+
+[96mMeowMeow> [0mI see you have enjoyed "Harry Potter"!  Still, I'm not sure which of these movies you are talking about. Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001), Harry Potter and the Chamber of Secrets (2002), Harry Potter and the Prisoner of Azkaban (2004), Harry Potter and the Goblet of Fire (2005), Harry Potter and the Order of the Phoenix (2007), Harry Potter and the Half-Blood Prince (2009), Harry Potter and the Deathly Hallows: Part 1 (2010), Harry Potter and the Deathly Hallows: Part 2 (2011).
+> Prisoner of Azkaban
+
+[96mMeowMeow> [0mGot it, you relish "Harry Potter and the Prisoner of Azkaban (2004)", tell me more about another movie you have seen.
+> :quit
+[96mMeowMeow> [0mHave a meowy day! Meow!!!

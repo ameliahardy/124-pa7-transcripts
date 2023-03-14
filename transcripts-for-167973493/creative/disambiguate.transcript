@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Harry Potter".
+
+[96mmoviebot> [0mSorry to interrupt, but I'm not certain which Harry Potter you're talking about. Could you please clarify?
+> Chamber of Secrets
+
+[96mmoviebot> [0mI'm impressed, you've got me stuck! Could you simplify or add more details?
+> I liked "Harry Potter".
+
+[96mmoviebot> [0mJust to be sure, could you specify which Harry Potter you're referring to?
+> Prisoner of Azkaban
+
+[96mmoviebot> [0mYou've really thrown me for a loop! Could you elaborate or simplify it for me?
+> :quit
+[96mmoviebot> [0mHave a nice day!

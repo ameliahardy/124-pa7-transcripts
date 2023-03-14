@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mWatch movies, you must. Learn from them, you will. Mmmmm.
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mMixed your feelings are about Titanic (1997), hmmm? Clarify, you must. Like it, did you? Or like it not?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mNever heard of Dan Jurafsky and the Ten Dwarfs (2019) I have. Other movies, you must give.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mPleased I am, to hear that you enjoyed Titanic (1997), Scream (1996) and 10 Things I Hate About You (1999). More movies, I must hear of.
+> I like "Titanic".
+
+[96mmoviebot> [0mMore than one Titanic there is. Meant you Titanic (1997) or Titanic (1953)?
+> I like titanic.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Titanic (1997) or Titanic (1953)
+> I like "titanic".
+
+[96mmoviebot> [0mMore than one titanic there is. Meant you Titanic (1997) or Titanic (1953)?
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Titanic (1997) or Titanic (1953)
+> Howdy.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Titanic (1997) or Titanic (1953)
+> ...
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Titanic (1997) or Titanic (1953)
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mNever heard of Titanic (1220) I have. Other movies, you must give.
+> :quit
+[96mmoviebot> [0mMay the Force be with you on your movie-watching journey. Mmmmm. Farewell, I must.

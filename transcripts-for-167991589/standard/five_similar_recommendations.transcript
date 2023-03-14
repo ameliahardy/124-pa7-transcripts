@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                Hi! I'm an interactive chatbot named Oscar! I can give you movie recommendations
+                if you tell me 5 movies that you've seen and how you felt about them. This can
+                be anything ranging from "I like this movie" to "I despised this movie" and
+                anything in between. You can also specify how many movie recommendations you
+                would like, and I can tell you that many movies that I think you'll like!
+                
+[96mOscar> [0mHey! My name is Oscar! I'm your personal assistant for giving personalized movie recommendations! Can you tell me about a movie that you liked?
+> I liked "Titanic (1997)"
+
+[96mOscar> [0mGot it. You liked Titanic (1997). What did you think of another movie?
+> I hated "Zootopia"
+
+[96mOscar> [0mI didn't like Zootopia either. What did you think of another movie?
+> I liked "Tangled Ever After"
+
+[96mOscar> [0mYeah! Tangled Ever After is such a good movie. Can you tell me what you thought about another movie?
+> I hated "Sleeping Beauty"
+
+[96mOscar> [0mAhh yeah. I didn't like Sleeping Beauty either. Please tell me what you thought of another movie.
+> I liked "Mulan"
+
+[96mOscar> [0mI see you liked Mulan! Based on what you've told me, I think you would like The Ridiculous 6 (2015). Would you like another recommendation?
+> yes
+
+[96mOscar> [0mOf course! I think you would enjoy Pixels (2015). Would you like another movie recommendation?
+> yes
+
+[96mOscar> [0mOk! Given what you've told me, I think you would like World War Z (2013). Would you like more recommendations?
+> yes
+
+[96mOscar> [0mSure thing! I think you would like Karate Kid, The (2010). Would you like a different recommendation?
+> y
+
+[96mOscar> [0mHmmmm. I'm not sure I caught any movies. Could you tell me what you thought of another movie?
+> y
+
+[96mOscar> [0mSorry, I didn't catch any movies mentioned there. Can you tell me a movie that you liked?
+> Yes!
+
+[96mOscar> [0mI also recommend Not Another Teen Movie (2001). How about another one?
+> yeah
+
+[96mOscar> [0mSorry! I'm all out of recommendations. If you would like another recommendation, tell me about another movie!
+> no
+
+[96mOscar> [0mHmmmm. I'm not sure I caught any movies. Could you tell me what you thought of another movie?
+> nah
+
+[96mOscar> [0mSorry, I didn't catch any movies mentioned there. Can you tell me a movie that you liked?
+> :quit
+[96mOscar> [0mThanks for chatting wtih me! Talk to you soon!

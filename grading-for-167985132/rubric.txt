@@ -1,0 +1,75 @@
+
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Léon: Mostly the find_movies_by_title(title) function and the ethics question
+- Identifying movies without quotation marks and correct capitalization (part 2)
+- Alternate/foreign titles
+- Disambiguation (part 1)
+- ethics question
+
+Sara: Mostly sentiment extraction and spell-correct creative feature
+- Identifying movies without quotation marks and correct capitalization (part 1)
+- Fine-grained sentiment extraction
+- Spell-correcting fallback for find_movies_by_title
+
+Minahil: 
+- I worked on recommend and disambiguation moslty. Also worked slightly on process starter code
+
+Yalcin:
+- Extract Sentiment With Multiple Movie Input
+- Process function(starter and creative)
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chatbot systems may make it impossible for certain users who don't have enough background (for example,
+children or people who don't know about artificial intelligence) to realize that it is not a human who is talking to them.
+Thus, they may share private information to the robot or give a too high level of trust in the robot's responses.
+
+To ensure that users can easily distinguish the chatbot responses from those of a human, engineers could stop giving human
+names to bots and clearly write a warning message saying that it is a bot and not a human behind the screen. For example,
+the first message of a conversation with the robot could be a question asking the user to acknowledge that he understands
+it is a bot and not human that is writing. Furthermore, the bot should be trained at detecting when the user shares too
+much private information so that a human agent can continue the conversation.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!
+
+Note on fine-grained sentiment extration: There was no definition of what "super negative" or "super positive" was
+(e.g. certain words that exude more senitment than others?) so the code makes the assumption that "super" is equivalent to 
+the presence of only one sentiment in the sentence (either positive or negative).

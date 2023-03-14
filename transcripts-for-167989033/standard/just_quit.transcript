@@ -1,0 +1,5 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a movie chat bot that will reccomend movies to you. Movie names must be enclosed in quotations and please include sentiment
+[96mmoviebot> [0mHow can I be of assistance?
+> :quit
+[96mmoviebot> [0mHave a nice day

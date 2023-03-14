@@ -1,0 +1,17 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a movie chat bot that will reccomend movies to you. Movie names must be enclosed in quotations and please include sentiment
+[96mmoviebot> [0mHow we doing fam, how can I help!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mmoviebot> [0mI detected to many things within quotes fam
+> I liked "Zootopia" but not "Scream".
+
+[96mmoviebot> [0mFollow the rules fam so I can do my job 
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mmoviebot> [0mI detected to many things within quotes fam
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mmoviebot> [0mFollow the rules fam so I can do my job 
+> :quit
+[96mmoviebot> [0mGlad I could help bruh!

@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mOk, you like "Titanic (1997)"! Tell me more.
+> I hated "Zootopia"
+
+[96mmoviebot> [0mInteresting, I have not seen "Zootopia" yet. What else have you seen that you do not like?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mNice, I like "Tangled Ever After" too. What else?
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mOk, you did not enjoy "Sleeping Beauty". Are there other movies you have seen?
+> I liked "Mulan"
+
+[96mmoviebot> [0mOk, you like "Mulan"! Tell me more.
+> yes
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like The Ridiculous 6 (2015). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> yes
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like Pixels (2015). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> yes
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like World War Z (2013). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> y
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like Karate Kid, The (2010). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> y
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like Not Another Teen Movie (2001). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> Yes!
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like Damage (Fatale) (1992). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> yeah
+
+[96mmoviebot> [0mGiven what you have told me, I think you would like Knowing (2009). Would you like more recommendations? (enter 'no' to stop and 'yes' to continue)
+> no
+
+[96mmoviebot> [0mGot it. Tell me more above movies you have seen.
+> nah
+
+[96mmoviebot> [0mHmmmm. I am having trouble understanding. Do you mind rephrasing what you are trying to say?
+> :quit
+[96mmoviebot> [0mHave a nice day!

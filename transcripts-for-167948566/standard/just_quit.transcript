@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hey there! I'm here to help you find some movies to watch based
+        on your preferences. Give me some info on your favorite (or not so
+        favorite) movies and I'll give you a couple of recs at the end. If
+        the movie doesn't pop up when you type it, try putting it in quotes
+        to see if I can understand you better. 
+        
+[96mmovie_recommend_chatbot> [0mHow can I help you?
+> :quit
+[96mmovie_recommend_chatbot> [0mHave a nice day!

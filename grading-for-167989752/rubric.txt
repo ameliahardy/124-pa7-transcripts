@@ -1,0 +1,79 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: YES
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+David: Worked on extract_titles, find_movies_by_title, disambiguation
+
+Grace: Worked on most of the implementations for extract_titles, find_movies_by_title, and 
+some of extract_sentiment. Did debugging on all three to get the starter and creative modes
+working for all three of these functions. Also worked on the added tolist() helper function
+which was initially started by Kyle but much more implementation had to be added to get the
+stemming for the sentiment text to work. Also did the entire process function alongside all
+of the referenced self. responses. Debugged Kyle's implementation of recommend and similarity
+to get them working on the autograder. Implemented the recommendation calls and checks in the
+process function. Implemented the greeting and goodbye functions.
+
+Kyle: Worked on similarity, binarize, extract_sentiment_for_movies, and initial code
+for extract_sentiment (including tolist) and recommendations
+
+Brandon Closest title, Debugging extract title and extract sentiment issues
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA.
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice,
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks,
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+
+# OUR RESPONSE:
+One major ramification of anthropomorphizing a chatbot system is that people will think of statements made
+by the chatbot to be a reflection of the chatbot's own opinions, even though a chatbot cannot have opinions
+and is actually just spitting out some text that it determines to be related to the user query in some way.
+This could lead users to trust information that comes from a chatbot because they assume that the chatbot
+is a credible source, when actually the chatbot might be relaying information from an unreliable source.
+One way that engineers could ensure that users distinguish chatbot responses from human responses is to
+make the chatbot frequently remind the user that it has no opinions and is simply relaying information from
+text that it has been trained on. They could make the chatbot itself say this often, or they could simply
+put a disclaimer in a place that the user will easily see any time that they open the chatbot.
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

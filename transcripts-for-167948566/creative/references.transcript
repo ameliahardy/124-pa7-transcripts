@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Greetings Muggle! I'm Draco Malfoy. I'm here with my house elves waiting to search 
+        the Hogwarts library and my Father's private collection for some movies to watch based
+        on your preferences. Give me info on your favorite (or not so
+        favorite) movies and I'll give you the recommendations that my house elves find. If
+        the movie doesn't pop up when you type it then you have failed Muggle, try putting it in quotes
+        to see if I can understand you better. 
+        
+        
+[96mmovie_recommend_chatbot> [0mWelcome muggle! Let's try to make some movie magic!
+> I liked "Blade Runner".
+
+[96mmovie_recommend_chatbot> [0mOf course a muggle like you would enjoy "Blade Runner". Maybe something original?
+> But not "Terminator Salvation".
+
+[96mmovie_recommend_chatbot> [0mEven my father can not tell how you feel about "Terminator Salvation". Phrase that in a way that us upper class can understand.
+> I saw "Titanic (1997)".
+
+[96mmovie_recommend_chatbot> [0mMuggle I do not know how you feel about "Titanic (1997)". Maybe phrase it better...
+> I liked it.
+
+[96mmovie_recommend_chatbot> [0mSo you like "It". Well I guess you will never have the taste of my father and I. Tell me about a movie with some class.
+> I watched "Scream".
+
+[96mmovie_recommend_chatbot> [0mMuggle I do not know how you feel about "Scream". Maybe phrase it better...
+> I didn't like that movie.
+
+[96mmovie_recommend_chatbot> [0mYou're confusing me muggle. Try putting the movie in quotes!
+> I felt the same about "Zootopia".
+
+[96mmovie_recommend_chatbot> [0mEven my father can not tell how you feel about "Zootopia". Phrase that in a way that us upper class can understand.
+> And also "Ex Machina".
+
+[96mmovie_recommend_chatbot> [0mMuggle I do not know how you feel about "Ex Machina". Maybe phrase it better...
+> :quit
+[96mmovie_recommend_chatbot> [0mFarewell Muggle! Hope you enjoy your movies.

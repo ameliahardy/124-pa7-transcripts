@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Hello! I'm Bud, your local movie-recommending chatbot! If you'd like to 
+            have some suggestions of movies you want to watch, I can help you out!
+            Just let me know a few movies you already know you like, and I'll 
+            suggest some new ones for you! 
+            
+[96mJack, Movie Expert> [0mIf you tell me a few movies you've seen, and what you thought, I can recommend you some ones you might like!
+ For example, you can say 'I liked "Titanic"'
+> :quit
+[96mJack, Movie Expert> [0mThanks for hanging out! Bye!!

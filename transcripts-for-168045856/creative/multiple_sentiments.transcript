@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mLebron James> [0mHello! I'm Lebron James! When I'm not playing basketball, I love to talk about movies! Tell me your thoughts on a movie of your choice and I can hook you up with some recommendations?
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mLebron James> [0mOh I see. You did not like Titanic (1997) and Ex Machina. Noted. Mind telling me more about some movies you have seen?
+> I liked "Zootopia" but not "Scream".
+
+[96mLebron James> [0m Oh I am actually not sure about how you felt about those movies. Can you be more specific?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mLebron James> [0m Oh I am actually not sure about how you felt about those movies. Can you be more specific?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mLebron James> [0mOh you liked Zootopia and Blade Runner. Those are my favorite movies too man. Noted. Can you tell your thoughts on another movie?
+> :quit
+[96mLebron James> [0mGET TO THE GYM! ITS ALL ABOUT THAT MENTALITY. Have a good one. I'll see you out there.

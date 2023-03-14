@@ -1,0 +1,75 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Chijioke - extract_titles, find_movies_by_title, binarize, find_movies_by_title(partially), disambiguate
+Kwame - sentiment and emotion functions and functionalities, personality and responses, rubric
+Mohamed - process (bulk)
+Shafin - recommend, find_movies_by_title (partially), process (partially)
+
+The above outlines who wrote significant amounts of/all the code for a given function. However, we all helped each
+other debug, plan out, and fix functions regardless of who wrote what. So each of us ended up working on almost all of 
+functions. 
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Response:
+In the age of social media, we have seen the onslaught of problems associated with the parasocial relationships
+that people feel like they've been creating over the internet, with people they don't know (and who don't know them).
+Some of the most common problems we've seen are a dramatic increase in mental health issues and  an increase in feelings 
+like anxiety and loneliness. Anthropomorphized chatbot systems would greatly worsen this already existing problem, and 
+could lead a plethora of unknown and unforseen social problems. 
+
+
+We believe, that programmers should purposely make the chatbot responses robotic. This would force the people
+interacting with the bot to be actively conscious of the fact that they're talking to a bot. We could also have
+the chatbots respond lines like "I'm not human, I'm a robot", rountinely, especially if the user input is 
+something that might signify attachment like "I love you".
+
+
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

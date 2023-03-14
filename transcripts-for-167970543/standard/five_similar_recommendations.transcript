@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mI'm glad you enjoyed Titanic (1997). Tell me about another movie you've seen.
+> I hated "Zootopia"
+
+[96mmoviebot> [0mGot it, you did not like Zootopia. Tell me about another movie you've seen.
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mGot it, so you liked Tangled Ever After. Tell me about another movie you've seen.
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mThanks for letting me know you didn't like Sleeping Beauty. Tell me about another movie you've seen.
+> I liked "Mulan"
+
+[96mmoviebot> [0mI see that you liked Mulan. I've learned enough about your taste to recommend new movies. Would you like a recommendation?
+> yes
+
+[96mmoviebot> [0mI think you should watch The Ridiculous 6 (2015). Would you like another recommendation?
+> yes
+
+[96mmoviebot> [0mYou should try watching Pixels (2015). Would you like another recommendation?
+> yes
+
+[96mmoviebot> [0mYou should try watching World War Z (2013). Should I give you another recommendation?
+> y
+
+[96mmoviebot> [0mYou should try watching Criminal Lovers (1999). How about another recommendation?
+> y
+
+[96mmoviebot> [0mI think you would also like Barfly (1987). Want another one?
+> Yes!
+
+[96mmoviebot> [0mI would also recommend Jump Tomorrow (2001). Should I give you another recommendation?
+> yeah
+
+[96mmoviebot> [0mI think you would also like New Guy, The (2002). How about another recommendation?
+> no
+
+[96mmoviebot> [0mOkay, I hope you like my recommendations!
+> nah
+
+[96mmoviebot> [0mOkay, I hope you like my recommendations!
+> :quit
+[96mmoviebot> [0mHave a nice day!

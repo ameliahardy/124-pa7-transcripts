@@ -1,0 +1,189 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Bot: JayGatsbyTheBot (Creative Mode)
+            
+            Bot Spec:
+                - Ability to identify movies in quotation marks with/without correct capitalization
+                like "Her (2013)", "Her", or "her".
+                - Ability to extract simple sentiment and give recommendations after >= 5 user valid movie inputs
+                - Ability to keep giving further recommendation and reset the system after having recommended 10 movies
+                to avoid imprecise recommendation
+                - Ability to identify movies with foreign names like "Chaharshanbe-soori"
+                - Ability to identify movies without quotation marks like one within "I thought 10 things i hate about
+                you was great"
+                - Ability to widen the funnel by returning all movies containing the tokens in title as a sublist
+                - Ability to disambiguate movies given the clarification while still keeping track of the sentiment. Note
+                that this ability is insenstive to the case of clarification. The clarification can either be year, some
+                part of the title names like 'part 1', etc.
+                (
+                    JayGatsbyTheBot:  Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > i like twilight
+                    JayGatsbyTheBot> Given the sheer abundance of films which share the same moniker, "Twilight".
+                    Mightst thou grant me an elucidation of which of the choices I offered to thee thou wert alluding:
+                    "The Twilight Saga: Breaking Dawn - Part 1 (2011)", "The Twilight Saga: Eclipse (2010)",
+                    "Twilight Zone: The Movie (1983)", "The Twilight Samurai (2002)", "Twilight (1998)", "Twilight (2008)"
+                    or "The Twilight Saga: New Moon (2009)"?
+                    > part 1
+                    JayGatsbyTheBot> Understood, then. It seems that "The Twilight Saga: Breaking Dawn - Part 1 (2011)"
+                    struck a chord with you. Might one be so kind as to elucidate another motion picture which one has
+                    had the pleasure of viewing?
+                    > ...
+                )
+                - Ability to perform disambiguation in multiple turns
+                (
+                    JayGatsbyTheBot:  Well. Might you relate to me an account of another celluloid presentation you have observed?
+                    > Spider-Man
+                    JayGatsbyTheBot> Given the sheer abundance of films which share the same moniker, "Spider-Man".
+                    Mightst thou grant me an elucidation of which of the choices I offered to thee thou wert alluding:
+                    "Spider-Man 3 (2007)", "Spider-Man 2 (2004)", "The Amazing Spider-Man 2 (2014)", "Spider-Man (2002)"
+                    or "The Amazing Spider-Man (2012)"?
+                    > 20
+                    JayGatsbyTheBot> Which of these is thou speak'st of: "Spider-Man 3 (2007)", "Spider-Man 2 (2004)",
+                    "The Amazing Spider-Man 2 (2014)", "Spider-Man (2002)" or "The Amazing Spider-Man (2012)"? Pray, be
+                    more particular.
+                    > 2004
+                    JayGatsbyTheBot> I am uncertain of your sentiments toward "Spider-Man 2 (2004)".
+                    Might you expound upon your sentiment regarding this topic in a more transparent manner?
+                    > ...
+                )
+                - Ability to find movie closest to title and ask the user to confirm while still keeping track of the
+                sentiment user expresses (as in disambiguation)
+                - Ability to perform sentiment clarification in multiple turns
+                (
+                
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > i saw "titanic (1997)"
+                    JayGatsbyTheBot> I am uncertain of your sentiments toward "titanic (1997)". Might you expound upon
+                    your sentiment regarding this topic in a more transparent manner?
+                    > i watched it
+                    JayGatsbyTheBot> I am uncertain of your sentiments toward "titanic (1997)". Might you elucidate your
+                    sentiments concerning this topic more poignantly?
+                    > ...
+                )
+                - Ability to communicate one sentiment given multiple-movie input
+                (
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > i like "titanic (1997)" and "The Twilight Samurai (2002)"
+                    JayGatsbyTheBot> Understood, you took pleasure in beholding "Titanic (1997)" and "The Twilight
+                    Samurai (2002)". Might one be so kind as to elucidate another motion picture which one has had
+                    the pleasure of viewing?
+                    > ...
+                )
+                - Ability to handle arbitrary inputs of certain forms and emotion and loop back to the previous question
+                it asks the user
+                (
+                    JayGatsbyTheBot> Understood, then. It seems that "Shrek the Third (2007)" and "Shrek (2001)"
+                    struck a chord with you. Thank you kindly, my friend. That shall suffice for me to make a recommendation.
+                    In light of the facts at hand, I recommend that you view the film "After Earth (2013)". Care to
+                    entertain another proposal? (Or type :quit if you're all done.)
+                    > i am angry
+                    JayGatsbyTheBot> My deepest regrets for causing you to feel angry. Care to entertain another proposal?
+                    (Or type :quit if you're all done.)
+                    > can you swim?
+                    JayGatsbyTheBot> My apologies, I'm not as sophisticated a fellow as one might hope. Unfortunately,
+                    I'm not certain if I can swim but I can certainly offer some film recommendations. Care to entertain
+                    another proposal? (Or type :quit if you're all done.)
+                    > ...
+                )
+                - Ability to speak in different ways (e.g. Might you enlighten me as to a different cinematic experience you have beheld?
+                &  Might you relate to me an account of another celluloid presentation you have observed?) using randomization
+                
+            Bot Limitation
+                - Lack of ability to extract multiple movie names in the utterance that contains a mix of titles with quotations
+                and titles without quotations
+                - Lack of ability to perform widening the funnel well when there is no quotation for movie title(s)
+                - Lack of ability to communicate multiple sentiments given multiple-movie input (Our bot can commnicate
+                if there is one sentiment for all movies though.)(We implement extract_sentiment_for_movies but did not
+                use it in the core structure.)
+                
+            Recommended Usage
+                - Use quotation to specify movies for best experience in using various kinds of features (The movie names
+                does not need to be complete.)
+                - Try typing without quotation to explore bot limitation further
+                - When you are curious if some feature works, try putting quotations as examples below.
+                (
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > ace ventura
+                    JayGatsbyTheBot> My apologies, I do not believe I comprehend your query. Pray, do tell me about
+                    another film you've recently viewed, my dear friend.
+                    > ...
+                )
+                (
+                    JayGatsbyTheBot> Well hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance.
+                    Now, before I make any recommendations, let's chat about your preferences in motion pictures.
+                    Can you regale me with a tale about a recent film that caught your eye?
+                    > "ace ventura"
+                    JayGatsbyTheBot> Given the sheer abundance of films which share the same moniker, "ace ventura".
+                    Mightst thou, perchance, elucidate which of these thou wert alluding to: "Ace Ventura: When Nature
+                    Calls (1995)" or "Ace Ventura: Pet Detective (1994)"?
+                    > ...
+                )
+                
+            Developed by:
+                Thanawan (Ly-Ly) Atchariyachanvanit, Riley Carlson, Pawan Wirawarn, & Andrew Wu
+
+            DISCLAIMER!! You are talking with a bot, not a human.
+            
+[96mJayGatsbyTheBot> [0mWell hello there, old sport! I'm Jay Gatsby, pleased to make your acquaintance. Now, before I make any recommendations, let's chat about your preferences in motion pictures. Can you regale me with a tale about a recent film that caught your eye?
+> Hello!
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Pray, do tell me about another film you've recently viewed, my dear friend.
+> I am a robot too.
+
+[96mJayGatsbyTheBot> [0mI beg your pardon, old sport. I find myself struggling to comprehend the subject of your discourse. Pray, do tell me about another film you've recently viewed, my dear friend.
+> What is your name?
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Might you enlighten me as to a different cinematic experience you have beheld?
+> Do you know anything about books?
+
+[96mJayGatsbyTheBot> [0mMy apologies, I am not as astute as a person, so I am not absolutely certain if I can know anything about books. Nonetheless, I can assist you in discovering some films you may take pleasure in. :) Might you enlighten me as to a different cinematic experience you have beheld?
+> I loved Dan Jurafsky's latest lecture.
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Pray, do tell me about another film you've recently viewed, my dear friend.
+> Can you speak French?
+
+[96mJayGatsbyTheBot> [0mMy apologies, I'm not as sophisticated a fellow as one might hope. Unfortunately, I'm not certain if I can speak French but I can certainly offer some film recommendations. Pray, do tell me about another film you've recently viewed, my dear friend.
+> How are you feeling?
+
+[96mJayGatsbyTheBot> [0mMy apologies, I do not believe I comprehend your query. Might you enlighten me as to a different cinematic experience you have beheld?
+> What's up?
+
+[96mJayGatsbyTheBot> [0mGiven the sheer abundance of films which share the same moniker, "Up". Mightst thou, perchance, elucidate which of these thou wert alluding to: "The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It (2010)", "Bringing Up Baby (1938)", "3 Ninjas Knuckle Up (1995)", "From Up on Poppy Hill (2011)", "Prick Up Your Ears (1987)", "The Englishman Who Went Up a Hill But Came Down a Mountain (1995)", "Turn It Up (2000)", "21 Up (1977)", "Shut Up & Sing (2006)", "Stand Up and Cheer! (1934)", "42 Up (1998)", "Denise Calls Up (1995)", "Knocked Up (2007)", "Up at the Villa (2000)", "I Got the Hook Up (1998)", "Cheech and Chong's Up in Smoke (1978)", "28 Up (1985)", "Surf's Up (2007)", "Up (2009)", "Up in the Air (2009)", "Get on Up (2014)", "Fired Up (2009)", "Stand Up Guys (2012)", "I Blew Up the Kid Honey (1992)", "Doc? What's Up (1972)", "Up the Yangtze (2007)", "Hanging Up (2000)", "49 Up (2005)", "35 Up (1991)", "Step Up (2006)", "Tiger Lily? What's Up (1966)", "56 Up (2012)", "Starred Up (2013)", "The Air Up There (1994)", "Step Up 2 the Streets (2008)", "Louis C.K.: Chewed Up (2008)", "Shoot 'Em Up (2007)", "Up the Down Staircase (1967)", "Up Close and Personal (1996)", "Totally F***ed Up (1993)" or "Pump Up the Volume (1990)"?
+> Do you know the muffin man?
+
+[96mJayGatsbyTheBot> [0mMy sincerest apologies, dear chap. I am but a mechanical being and not as sophisticated as you humans. I cannot be certain whether I can know the muffin man or not, but I can offer to assist you in your search for entertainment. Mightst thou, perchance, elucidate which of these thou wert alluding to: "The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It (2010)", "Bringing Up Baby (1938)", "3 Ninjas Knuckle Up (1995)", "From Up on Poppy Hill (2011)", "Prick Up Your Ears (1987)", "The Englishman Who Went Up a Hill But Came Down a Mountain (1995)", "Turn It Up (2000)", "21 Up (1977)", "Shut Up & Sing (2006)", "Stand Up and Cheer! (1934)", "42 Up (1998)", "Denise Calls Up (1995)", "Knocked Up (2007)", "Up at the Villa (2000)", "I Got the Hook Up (1998)", "Cheech and Chong's Up in Smoke (1978)", "28 Up (1985)", "Surf's Up (2007)", "Up (2009)", "Up in the Air (2009)", "Get on Up (2014)", "Fired Up (2009)", "Stand Up Guys (2012)", "I Blew Up the Kid Honey (1992)", "Doc? What's Up (1972)", "Up the Yangtze (2007)", "Hanging Up (2000)", "49 Up (2005)", "35 Up (1991)", "Step Up (2006)", "Tiger Lily? What's Up (1966)", "56 Up (2012)", "Starred Up (2013)", "The Air Up There (1994)", "Step Up 2 the Streets (2008)", "Louis C.K.: Chewed Up (2008)", "Shoot 'Em Up (2007)", "Up the Down Staircase (1967)", "Up Close and Personal (1996)", "Totally F***ed Up (1993)" or "Pump Up the Volume (1990)"?
+> I liked it.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167603454/chatbot.py", line 183, in process
+    ambiguous_indices = self.saved_state['ambiguous_cand_indices']
+KeyError: 'ambiguous_cand_indices'

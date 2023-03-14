@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+SpongeBot is a chatbot that recommends movies to a user based on the user’s input from the MovieLens database. The user can type several movies they liked and disliked. After SpongeBot takes in several inputs, it offers movie recommendations to the user based on his or her likes and dislikes. SpongeBot can account for alternate movie titles, different versions of the same movie (year), and user typos. SpongeBot has a SpongeBob persona!
+[96mSpongeBot> [0mGood morning, Bikini Bottom! It's a beautiful day to talk about movies.
+> I saw "Titanic (1997)"
+
+[96mSpongeBot> [0mI see that you mentioned Titanic (1997), can you tell me a little more about how you feel about it?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mSpongeBot> [0mGlad to know you liked it!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mSpongeBot> [0mBarnacles! That's too many movies for me to handle, maybe go one at a time?
+> I like "Titanic".
+
+[96mSpongeBot> [0mI found more than one movie called Titanic, which year did you mean: 1997 or 1953?
+> I like titanic.
+
+[96mSpongeBot> [0mOh my sandy cheeks! Let's just talk about movies!
+> I like "titanic".
+
+[96mSpongeBot> [0mSorry, I don't have information on titanic. Let's talk about another movie.
+> I like 10 things I hate about you.
+
+[96mSpongeBot> [0mSorry, didn't quite 'catch' that. Let's talk about or 'fish' some movies!
+> Howdy.
+
+[96mSpongeBot> [0mOh my sandy cheeks! Let's just talk about movies!
+> ...
+
+[96mSpongeBot> [0mOh my sandy cheeks! Let's just talk about movies!
+> I saw "Titanic (1220)"
+
+[96mSpongeBot> [0mFish paste! I don't have any information about Titanic (1220). Let's talk about another movie.
+> :quit
+[96mSpongeBot> [0mGoodbye, Gary! Take care of yourself and don't eat too much snail food.

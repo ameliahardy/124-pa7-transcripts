@@ -1,0 +1,36 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Meowy is a cat chatbot for all your cat-bot waifu dreams! Ask Meowy what you feel about various movies, and they will recommend you a movie!
+        
+[96mMeowMeow> [0mMeow!!! Meow, my name is MeowMeow. Tell me about a movie you like, mew?
+> I liked "Blade Runner".
+
+[96mMeowMeow> [0mOh, so you have liked "Blade Runner"! What about other movies? 
+> But not "Terminator Salvation".
+
+[96mMeowMeow> [0mSo, did you like Terminator Salvation? I'm interested.
+> I saw "Titanic (1997)".
+
+[96mMeowMeow> [0mSo what do you think about Titanic (1997)? It sounds intriguing.
+> I liked it.
+
+[96mMeowMeow> [0mOK! Seems like you feel positive about "It"!  But meow! So many pawsibilities. Which movie are you talking about? Dracula: Dead and Loving It (1995), It Takes Two (1995), It Could Happen to You (1994), What's Love Got to Do with It? (1993), Some Folks Call It a Sling Blade (1993), It's My Party (1996), It Happened One Night (1934), Some Like It Hot (1959), It's a Wonderful Life (1946), Set It Off (1996), Amityville 1992: It's About Time (1992), Leave It to Beaver (1997), As Good as It Gets (1997), You Can't Take It with You (1938), Blame It on Rio (1984), Relax... It's Just Sex (1998), It Came from Hollywood (1982), It Came from Outer Space (1953), River Runs Through It, A (1992), Play it to the Bone (1999), She's Gotta Have It (1986), Whatever It Takes (2000), Bring It On (2000), Turn It Up (2000), Pay It Forward (2000), Get Over It (2001), Elvis: That's the Way It Is (1970), Say It Isn't So (2001), Let It Ride (1989), It's a Mad, Mad, Mad, Mad World (1963), What Time Is It There? (Ni neibian jidian) (2001), Life or Something Like It (2002), Thrill of It All, The (1963), Bend It Like Beckham (2002), It's Pat (1994), Play It Again, Sam (1972), That's The Way I Like It (a.k.a. Forever Fever) (1998), Getting It Right (1989), It Had to Be You (2000), It's All About Love (2003), It (1990), Daria: Is It Fall Yet? (2000), Bring It On Again (2004), As it is in Heaven (Så som i himmelen) (2004), Rumor Has It... (2005), Stick It (2006), Let It Be (1970), Boss of It All, The (Direktøren for det hele) (2006), It's a Boy Girl Thing (2006), It's a Very Merry Muppet Christmas Movie (2002), It's a Free World... (2007), It's the Great Pumpkin, Charlie Brown (1966), Daria: Is It College Yet? (2002), It Might Get Loud (2008), Whip It (2009), Michael Jackson's This Is It (2009), It's Complicated (2009), 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010), It's Kind of a Funny Story (2010), Life as We Know It (2010), Just Go with It (2011), Family Guy Presents: It's a Trap (2010), I Don't Know How She Does It (2011), Dylan Moran Live: What It Is (2009), Wreck-It Ralph (2012), It's Such a Beautiful Day (2012), And So It Goes (2014), Playing It Cool (2014), It Follows (2014), George Carlin: It's Bad for Ya! (2008).
+> I watched "Scream".
+
+[96mMeowMeow> [0mWhich one did you mean? As it is in Heaven (Så som i himmelen) (2004), As it is in Heaven (Så som i himmelen) (2004), That's The Way I Like It (a.k.a. Forever Fever) (1998), I Don't Know How She Does It (2011)?
+> I didn't like that movie.
+
+[96mMeowMeow> [0mWhat movie did you mean? That's The Way I Like It (a.k.a. Forever Fever) (1998), That's The Way I Like It (a.k.a. Forever Fever) (1998), Bend It Like Beckham (2002), Life or Something Like It (2002), I Don't Know How She Does It (2011), As it is in Heaven (Så som i himmelen) (2004), Some Like It Hot (1959)?
+> I felt the same about "Zootopia".
+
+[96mMeowMeow> [0mMeow, can you clarify which movie you meant? 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010), 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010), That's The Way I Like It (a.k.a. Forever Fever) (1998), Amityville 1992: It's About Time (1992), I Don't Know How She Does It (2011), As it is in Heaven (Så som i himmelen) (2004), It's All About Love (2003)?
+> And also "Ex Machina".
+
+[96mMeowMeow> [0mAnd what movie is it? Any of these? 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010), 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010), Dracula: Dead and Loving It (1995), And So It Goes (2014)?
+> :quit
+[96mMeowMeow> [0mHave a meowy day! Meow!!!

@@ -1,0 +1,7 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+ 
+        I am a movie chatbot. I gather top intel on the movies and tell you all about it. You can chat with me, and based on your previous tastes, I'll recommend new movies for you to watch. Tell me about your tastes, and I'll listen. Based on our chat, I'll generate some recommendations. I'll try to be friendly.
+        
+[96mMovieRecommenderBot> [0mHow may I assist you today?
+> :quit
+[96mMovieRecommenderBot> [0mHave a nice day!

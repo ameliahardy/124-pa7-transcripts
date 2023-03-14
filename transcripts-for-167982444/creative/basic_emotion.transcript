@@ -1,0 +1,49 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is pirate themed and ready to bring you on board. It passes all
+         of the starter mode tests along with some additional creative functionality. 
+         You can type movies you liked or didn't like, and after 5 movies, the bot 
+         will give you a recommendation. Have fun!" 
+        
+[96mMarauderBot> [0mNice to see you! My name is MarauderBot. How can I help you?
+> Hello!
+
+[96mMarauderBot> [0mI don't reckon that be the topic I want to discuss at the moment. Can we switch back to movies, ye scurvy dog?
+> I am feeling sad.
+
+[96mMarauderBot> [0mI'm not feelin' particularly interested in that topic right now. Let's refocus on movies, ye landlubber.
+> I am feeling angry.
+
+[96mMarauderBot> [0mI don't reckon that be the topic I want to discuss at the moment. Can we switch back to movies, ye scurvy dog?
+> I have been feeling down lately.
+
+[96mMarauderBot> [0mI think we may have gotten a bit off track. Let's redirect our conversation to movies, ye matey.
+> I'm so glad that I finished my exams.
+
+[96mMarauderBot> [0mI appreciate yer input, but let's steer the conversation back to movies, if that be okay with ye.
+> I am very angry.
+
+[96mMarauderBot> [0mI don't reckon that be the topic I want to discuss at the moment. Can we switch back to movies, ye scurvy dog?
+> I am now happy.
+
+[96mMarauderBot> [0mI think we may have gotten a bit off track. Let's redirect our conversation to movies, ye matey.
+> I am ANGERED.
+
+[96mMarauderBot> [0mI appreciate yer input, but let's steer the conversation back to movies, if that be okay with ye.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mMarauderBot> [0mAhoy there! Mea culpa, me matey. I be not aware of Titanic (1997). Could ye enlighten me 'bout another movie ye enjoyed? 
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mMarauderBot> [0mI appreciate yer input, but let's steer the conversation back to movies, if that be okay with ye.
+> I'm anxious about everything.
+
+[96mMarauderBot> [0mI don't reckon that be the topic I want to discuss at the moment. Can we switch back to movies, ye scurvy dog?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mMarauderBot> [0mThat be not quite what I had in mind. Could we circle back to movies instead, me heartie?
+> I HAAAATE movies.
+
+[96mMarauderBot> [0mI'm not feelin' particularly interested in that topic right now. Let's refocus on movies, ye landlubber.
+> :quit
+[96mMarauderBot> [0mOf course. Until we meet again, me mateys!

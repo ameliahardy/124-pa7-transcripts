@@ -1,0 +1,25 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Meet our chatbot, Candace! Candace can help recommend a movie to you. Just
+        tell her about a few movies you've either liked or disliked, and from that,
+        she'll find a movie that you'll hopefully enjoy! A couple tips for talking
+        to Candace: when you mention a movie, put it in quotes, such as "The Notebook"
+        or "Avatar". If you know the year, that's also helpful for Candace to know! Just
+        put it in parentheses after the title in quotes, such as "Titanic (1997)". Hope
+        Candace is helpful to you!
+        
+[96mBritish Candace> [0m'Ello, mate! I'm Candace, originally from Newcastle, England. I'm here to recommend a bloody good movie to you today! Can you tell me about a movie you've seen before?
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mBritish Candace> [0mBlimey, you disliked watching "Ex Machina".  "Titanic (1997)" was pure rubbish. I did not enjoy it too.   Can you tell me about another movie now?
+> I liked "Zootopia" but not "Scream".
+
+[96mBritish Candace> [0mAlrighty, you enjoyed watching "Zootopia".   Blimey, I found multiple movies called "Scream". Could you clarify which one you're talking about bruv? Scream (1996), Scream of Stone (Cerro Torre: Schrei aus Stein) (1991), Scream 2 (1997), or Scream 3 (2000)?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mBritish Candace> [0mSorry, mate. I'm still not sure which movie you're referring to, but it's okay. Why don't you tell me about a different movie?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mBritish Candace> [0mAlrighty, you enjoyed watching "Zootopia".  Alrighty, you enjoyed watching "Blade Runner".  Ah yes, "The Notebook" is a bloody good movie! I liked it too.   Thanks mate, that's enough for me! You absolutely must check out "Doctor Who: The Time of the Doctor (2013)". Would you like to hear another recommendation? Or if you're done, you can enter :quit
+> :quit
+[96mBritish Candace> [0mIt's a wonderful day today, innit? I'll talk to you later, mate — I'm going to go get a cup of tea!

@@ -1,0 +1,91 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: Yes
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+The team consists of Thanawan (Ly-Ly) Atchariyachanvanit, Riley Carlson, Pawan Wirawarn, and Andrew Wu. 
+Ly-Ly was the leader of the group. Her responsibilities include managing the main github branch, extract_title(), 
+find_movies_by_title(), find_movies_closest_to_title(), disambiguate(), and process(). Riley’s responsibilities 
+include implementing recommend(), binarize(), writing the group’s thoughts of the ethics question, and organizing 
+utterances with the .json file. Pawan’s responsibilities include implementing extract_sentiment() and 
+extract_sentiment_for_movies(). Andrew’s responsibilities include creating chatbot persona utterances, identifying 
+and responding to emotions, and responding to arbitrary input. Each group member had their own github branch to 
+implement their code and all members participated in group meetings to go over code, discuss concepts, and test 
+the chatbot. 
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+One possible ramification of anthropomorphizing chatbot systems is that human users may place too much trust 
+in the bot’s advice, especially advice concerning health and finance. This is problematic because the chatbot 
+is not a licensed health care provider or financial planner. Furthermore, chatbots are often trained on online 
+sources like Reddit and Twitter where fakenews could result in the bot giving the user wrong advice. The 
+consequences of humans following unsupported advice could have lasting effects such as not getting proper health 
+care. 
+
+Engineers could ensure that users can easily distinguish the chatbot responses from those of a human firstly 
+by having a disclaimer when the bot is initialized. This disclaimer could include that the bot’s advice is not 
+from a licensed professional and does not come from reliable sources. Similarly, a bot could classify different 
+utterances that it should not answer. For example, if the user asks, “Why am I coughing?”, the bot should classify 
+this as inquiring about sensitive information. Then, the bot should not answer this question, but instead find a 
+credible url that will answer the question. In the context of the aforementioned question, the bot should answer 
+“You can find why you are coughing here, ‘https://www.mayoclinic.org/diseases-conditions/chronic-cough/symptoms-causes/syc-20351575’” 
+This approach of indirectly answering the user’s advice questions will result in the bot giving credible information.
+ 
+Another ramification of anthropomorphizing chatbot systems is related to privacy. When users trust the chatbot, 
+the user may divulge classified information, such as their address or financial information, to the bot. This is 
+problematic for two main reasons. One, the user may not be aware that the bot is collecting this information. Two, 
+the user is now at risk of their classified information being sold or being found in the chatbot system’s database. 
+This problem could also have lasting consequences on users such as getting their identity stolen. 
+
+The problem of privacy could be addressed similar to the advice approach above. The disclaimer presented 
+when the chatbot is initialized could also include that the chatbot so do not include identifying information. 
+This approach will tackle the first problem with privacy that users may not know that their conversation is being 
+recorded. Similarly, there could be a filtering service when the conversation is written to the logs. The filtering 
+service could find information that may be sensitive and redact information. Similar to how government documents 
+have blacked out redactions, the filtering system could change the following, 
+
+“Can you send food to 123 Main St. Stanford California” to  “Can you send food to [ADDRESS]”. The redactions could 
+be accomplished with a variation of NER model, but instead of named entity recognition it could recognize sensitive 
+information including [‘FINANCE’, ‘ADDRESS’, ‘HEALTH’, ‘NAME’]. This approach of redacting sensitive information in 
+the conversation logs results in the database not holding sensitive information that is liable to being hacked or 
+sold without the user’s permission. 
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+Our bot relied on three additional data files: 'deps/utterance.p', 'deps/emotion.p', 'deps/arousal.p'.
+We got this data by using ChatGPT. The prompts we used are as follows:
+- 'deps/utterance': Rephrase our given input to get the utterance containing Jay Gatsby's persona
+- 'deps/emotion.p': Generate top positive/negative emotion adjective words
+- 'deps/arousal.p': Label each word in sentiment.txt as weak/strong pos/neg
+We then processed its outputs so that we can incorporate them into our bot architecture while
+not exceeding 100 KB Gradescope submission limitation.

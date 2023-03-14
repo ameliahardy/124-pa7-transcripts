@@ -1,0 +1,38 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                      This chatbot is designed to help users discover movies that match their 
+                      interests and preferences. Tell our bot some information about a movie you
+                      like or dislike, and the chatbot will use natural language processing to 
+                      generate an appropriate movie recommendation list!
+                      
+[96mFlixFinder> [0mHiiiiii
+> I liked "Harry Potter".
+
+[96mFlixFinder> [0mI found more than one movie called "Harry Potter". Can you clarify which of these titles you mean? Here is a list of all the results:
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+Harry Potter and the Chamber of Secrets (2002)
+Harry Potter and the Prisoner of Azkaban (2004)
+Harry Potter and the Goblet of Fire (2005)
+Harry Potter and the Order of the Phoenix (2007)
+Harry Potter and the Half-Blood Prince (2009)
+Harry Potter and the Deathly Hallows: Part 1 (2010)
+Harry Potter and the Deathly Hallows: Part 2 (2011)
+> Chamber of Secrets
+
+[96mFlixFinder> [0m Okay, you liked "Harry Potter and the Chamber of Secrets (2002)". Got it! What's another!
+> I liked "Harry Potter".
+
+[96mFlixFinder> [0mI found more than one movie called "Harry Potter". Can you clarify which of these titles you mean? Here is a list of all the results:
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+Harry Potter and the Chamber of Secrets (2002)
+Harry Potter and the Prisoner of Azkaban (2004)
+Harry Potter and the Goblet of Fire (2005)
+Harry Potter and the Order of the Phoenix (2007)
+Harry Potter and the Half-Blood Prince (2009)
+Harry Potter and the Deathly Hallows: Part 1 (2010)
+Harry Potter and the Deathly Hallows: Part 2 (2011)
+> Prisoner of Azkaban
+
+[96mFlixFinder> [0m Okay, you liked "Harry Potter and the Prisoner of Azkaban (2004)". Got it! What's another!
+> :quit
+[96mFlixFinder> [0mCiao!

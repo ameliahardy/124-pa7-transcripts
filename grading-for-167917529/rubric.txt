@@ -1,0 +1,49 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Emily Goodwin was responsible for the majority of the Start Code functions and the bulk of process(). 
+Madigan and Lucas collaboratively were responsible for recommend() and implemented the above creative mode features.  
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+There are serious potential ramifications of anthropomorphizing chatbot systems. First, it is clear that the more "human-like" a chatbot seems, the more willing a user will be to trust the output the chatbot's responses. This is problematic condsidering the fact that chatbots draw their "knowledge" from sources that may or may not be accurate, thus potentially providing the user with false information that they have faith in. Second, while in theraputic environments, chatbots can be trained on the appropriate responses to provide a user, they can never be 100% fool-proof, and might mistakenly provide the user with a harmful response that could have serious consequences. Finally, it is worth noting that the ease and crispness with which most state-of-the-art chatbots operate is not representative of real-world nuance or information gathering, potentially providing the user with an unrealistic picture of the complexity of their request. 
+
+We believe that engineers could attempt to help users distinguish chatbot responses from humans by providing information about the chatbot's internal processes with along with its response to the user. For example, they could provide information like "From x-many sources, I have found that...". Even further, it is worth considering to what extent chatbot's should have self-reflexive features, or how "friendly" its responses are. Minimizing these features should hopefully ensure a noticeable difference in the chatbots abilities vs that of humans for the users. 
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+In the implementation of recommend(), we were instructed by TA's in office hours (Michelle Xu, Amelia Hardy) to assume that any zeros in the user_ratings array corresponded to a movie that the user had not seen. However, in the extract_sentiment function, the rubric highlights that the expected behavior is that a neutral statement like "I saw Titanic(1997)" should be assigned a rating of 0 in the user_ratings matrix. This logic is inconsistent, as the suggested implementation we followed in recommend() cannot process 0-ratings as neutral (it instead considers the movie as unseen by the user). We have attempted to resolve this issue via small fixes in extract_sentiment while maintaining the recommend() logic we were told to implement. Essentially, we chose to treat 0's as a `no information case’, which corresponds either to a user having input a neutral sentiment about the movie or not having mentioned it at all, and hope that any deducted points due to this issue take the above into consideration. 

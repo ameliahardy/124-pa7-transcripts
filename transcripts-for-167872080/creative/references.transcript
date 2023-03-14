@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHello. I am Ben Shapiro. Aside from my political commentaries, I spend time watching movies. According to my calculations, I'd be able to help you find new movies you might like. Hypothetically, how could I help you?
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mGotcha. Hypothetically, you've said to have like "Blade Runner"! Now, please tell me more.
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mLook, I don't know what this new language that this new generation speaks with, and I am not sure if you liked "Terminator Salvation". Tell me more about it.
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mLook, I don't know what this new language that this new generation speaks with, and I am not sure if you liked "Titanic (1997)". Tell me more about it.
+> I liked it.
+
+[96mmoviebot> [0mWhat are you saying? Please, for the sake of the political climate, please return to the subject of movies.
+> I watched "Scream".
+
+[96mmoviebot> [0mLook, I don't know what this new language that this new generation speaks with, and I am not sure if you liked "Scream". Tell me more about it.
+> I didn't like that movie.
+
+[96mmoviebot> [0mI'm glad you feel "like". Just remember that facts don't care about your feelings so don't let that postitive energy carry you away.
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mLook, I don't know what this new language that this new generation speaks with, and I am not sure if you liked "Zootopia". Tell me more about it.
+> And also "Ex Machina".
+
+[96mmoviebot> [0mLook, I don't know what this new language that this new generation speaks with, and I am not sure if you liked "Ex Machina". Tell me more about it.
+> :quit
+[96mmoviebot> [0mI hope I could help today. According to my calculations, I'm very busy and must go now. Have a good day.

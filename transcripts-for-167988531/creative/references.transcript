@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+
+        This chatbot takes on the persona of Mario, a video game character, and
+        offers movie recommendations based on knowing what you like. Feel free
+        to chat with him casually, and he'll do his best to find a movie that 
+        you'll enjoy. You can ask for multiple recommendations by continuing to 
+        request more, exit using ":quit" and even discuss your emotions. Disclaimer: 
+        We are doing this purely for an assignment and are not receiving monetary 
+        compensation. Nintendo, if you see this, please don't sue us.
+    
+        
+[96mmoviebot> [0mSalve! Let's-a find a movie!
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mThat's-a a tricky one, but here are the possible movies I think you're-a referring to:Blade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002). Can-a you please clarify?
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mMamma mia! I couldn't-a quite catch which movie you're-a talking about. The possible movies are-a Blade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mMamma mia! I'm-a sorry, I couldn't-a figure out which movie you're-a talking about. The possible movies are-a Blade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> I liked it.
+
+[96mmoviebot> [0mOh boy, it's-a tough to figure out, but here are the possible movies:Blade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> I watched "Scream".
+
+[96mmoviebot> [0mMamma mia! I'm-a sorry, I couldn't-a figure out which movie you're-a talking about. The possible movies are-a Blade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> I didn't like that movie.
+
+[96mmoviebot> [0mThat's-a a tricky one, but here are the possible movies I think you're-a referring to:Blade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mYahoo! I'm-a sorry, I couldn't-a figure out which movie you're-a talking about. The possiblilities are-aBlade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> And also "Ex Machina".
+
+[96mmoviebot> [0mYahoo! I'm-a sorry, I couldn't-a figure out which movie you're-a talking about. The possiblilities are-aBlade Runner (1982), Blade: Trinity (2004), Blades of Glory (2007), Blade (1998), and Blade II (2002).
+> :quit
+[96mmoviebot> [0mArrivederci! Keep-a smiling!

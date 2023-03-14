@@ -1,0 +1,68 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a chatbot that asks the user for user preferences on 5 different movies. It uses item-item collaborative filtering to then generate movie recommendations to the user. To use this chatbot, please input the movie name in parantheses (with the year it was released in case of ambiguity) and whether or not you liked it. Sample input: 'I like "Titanic (1997)".', 'I hated "Jumanji".' 
+
+Note: If you wish to run the chatbot in creative mode, please exit the program and run the following command: python repl.py --creative
+
+[96mtrump_gpt> [0mYour 46th president here - the election was rigged! Tweet me a movie @realDonaldTrump.
+> Hello!
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> I am a robot too.
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> What is your name?
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> Do you know anything about books?
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> I loved Dan Jurafsky's latest lecture.
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> Can you speak French?
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> How are you feeling?
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> What's up?
+
+[96mtrump_gpt> [0mI found more than one movie related to that movie. Please clarify!
+> Do you know the muffin man?
+
+[96mtrump_gpt> [0mDon't have anything for you, folks. Make sure you're talking about a movie. Orelse a bigly no no.
+> I liked it.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167991827/chatbot.py", line 192, in process
+    input_titles = self.extract_titles(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167991827/chatbot.py", line 415, in extract_titles
+    if re.search(r'\b{}\b'.format(re.escape(movie)), sentence.lower()):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 275, in escape
+    return pattern.translate(_special_chars_map)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mHello, may the Force be with you. Find you a great movie, we shall.
+> :quit
+[96mYodaFlix> [0mUntil next time, movie lover. Happy viewing, may you be.

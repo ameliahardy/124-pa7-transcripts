@@ -1,0 +1,43 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Your task is to implement the chatbot as detailed in the PA7
+       instructions.
+       Remember: in the starter mode, movie names will come in quotation marks
+       and expressions of sentiment will be simple!
+       TODO: Write here the description for your own chatbot!
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> I saw "Titanic (1997)"
+
+[96mElmo> [0mElmo's a little unsure about how you feel about Titanic (1997). Can you provide Elmo with more details?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mElmo> [0mElmo loves learning about new movies, but Elmo doesn't know much about Dan Jurafsky and the Ten Dwarfs (2019). Can you tell Elmo about another movie?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mElmo> [0mUh oh, Elmo can only process one movie at a time. Could you please share one movie with Elmo first?
+> I like "Titanic".
+
+[96mElmo> [0mElmo is a little confused! Could you please clarify which Titanic movie you're referring to?
+> I like titanic.
+
+[96mElmo> [0mElmo's confused. Could you provide more details about what you like in movies
+> I like "titanic".
+
+[96mElmo> [0mElmo is a little confused! Could you please clarify which titanic movie you're referring to?
+> I like 10 things I hate about you.
+
+[96mElmo> [0mElmo's not quite sure what you mean. Could you give Elmo some more information about your taste in movies?
+> Howdy.
+
+[96mElmo> [0mOopsie! Elmo didn't catch that. Can you tell Elmo more about your favorite types of movies?
+> ...
+
+[96mElmo> [0mso Elmo can recommend some great ones?
+> I saw "Titanic (1220)"
+
+[96mElmo> [0mUh oh, Elmo's not familiar with Titanic (1220). Could you tell Elmo about a different movie instead?
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

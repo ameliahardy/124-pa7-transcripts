@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi, I'm a movie reccomendation chatbot. To get started please tell me about some movies you've seen.
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI couldn't tell if you liked Titanic (1997). Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mSo you liked Titanic (1997). Tell me about another movie you've seen!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mWoah there, only one movie at a time.
+> I like "Titanic".
+
+[96mmoviebot> [0mI found more than one movie called Titanic. Could you be more specific? The movies I found are Titanic (1997), Titanic (1953).
+> I like titanic.
+
+[96mmoviebot> [0mI found more than one movie called titanic. Could you be more specific? The movies I found are Titanic (1997), Titanic (1953).
+> I like "titanic".
+
+[96mmoviebot> [0mI found more than one movie called titanic. Could you be more specific? The movies I found are Titanic (1997), Titanic (1953).
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mI couldn't tell if you liked 10 things i hate about you. Tell me more about it.
+> Howdy.
+
+[96mmoviebot> [0mI couldn't tell if you liked 10 things i hate about you. Tell me more about it.
+> ...
+
+[96mmoviebot> [0mI couldn't tell if you liked 10 things i hate about you. Tell me more about it.
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mI couldn't tell if you liked 10 things i hate about you. Tell me more about it.
+> :quit
+[96mmoviebot> [0mHave a nice day!

@@ -1,0 +1,54 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mDean> [0mHey there! I'm a Dean, a chatbot whose job it is to recommend you movies. Can you tell me a movie you've seen recently?
+> I liked "Titanic (1997)"
+
+[96mDean> [0mSure, you liked "Titanic (1997)"! Tell me what you think of another movie.
+> I hated "Zootopia"
+
+[96mDean> [0mSure, you didnt enjoy "Zootopia (2016)". Tell me what you think of another movie.
+> I liked "Tangled Ever After"
+
+[96mDean> [0mSo, you liked "Tangled Ever After (2012)". Tell me what you think of another movie.
+> I hated "Sleeping Beauty"
+
+[96mDean> [0mOk, you disliked "Sleeping Beauty (1959)". Tell me what you think of another movie.
+> I liked "Mulan"
+
+[96mDean> [0mSure, you grooved with "Mulan (1998)". Tell me what you think of another movie.
+given what you told me, I think you would like "Jurassic Park (1983)". Would you like more?
+> yes
+
+[96mDean> [0mGiven what you told me, I think you would like "Finding Nemo (2001)". Would you like more?
+> yes
+
+[96mDean> [0mGiven what you told me, I think you would like "The Shawshank Redemption (1985)"! Would you like more?
+> yes
+
+[96mDean> [0mGiven what you told me, I think you would like "The Incredibles (1977)". Would you like more?
+> y
+
+[96mDean> [0mOk sounds good.
+> y
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> Yes!
+
+[96mDean> [0mHm, that's not really what I want to talk about right now, let's go back to movies.
+> yeah
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> no
+
+[96mDean> [0mSorry, I only know how to talk about movies.
+> nah
+
+[96mDean> [0mOk, got it.
+> :quit
+[96mDean> [0mHave a nice day!

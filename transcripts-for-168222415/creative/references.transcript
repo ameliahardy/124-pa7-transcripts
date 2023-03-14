@@ -1,0 +1,99 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Howdy there! My name is Buster Blaze. I am a rootin-tootin cowboy from the 
+        wild wild west. When I'm not riding my horse or fetchin a drink at the saloon, 
+        I'm in my cabin reading up on the most recent films. I bet you a tooth and nail 
+        that I can give you some great movie recommendations.
+        
+        All you have to do is tell me if you liked or disliked movies names!
+        
+[96mBuster Blaze> [0mPlease tell me about a movie, partner:
+> I liked "Blade Runner".
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Blade Runner (1982). Please tell me more about Blade Runner (1982).
+
+> But not "Terminator Salvation".
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Terminator Salvation (2009). Please tell me more about Terminator Salvation (2009).
+
+> I saw "Titanic (1997)".
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Titanic (1997). Please tell me more about Titanic (1997).
+
+> I liked it.
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Dracula: Dead and Loving It (1995). Please tell me more about Dracula: Dead and Loving It (1995).
+Pardon partner, I don't know how you felt about It Takes Two (1995). Please tell me more about It Takes Two (1995).
+Pardon partner, I don't know how you felt about It Could Happen to You (1994). Please tell me more about It Could Happen to You (1994).
+Pardon partner, I don't know how you felt about What's Love Got to Do with It? (1993). Please tell me more about What's Love Got to Do with It? (1993).
+Pardon partner, I don't know how you felt about Some Folks Call It a Sling Blade (1993). Please tell me more about Some Folks Call It a Sling Blade (1993).
+Pardon partner, I don't know how you felt about It Happened One Night (1934). Please tell me more about It Happened One Night (1934).
+Pardon partner, I don't know how you felt about Some Like It Hot (1959). Please tell me more about Some Like It Hot (1959).
+Pardon partner, I don't know how you felt about Set It Off (1996). Please tell me more about Set It Off (1996).
+Pardon partner, I don't know how you felt about Leave It to Beaver (1997). Please tell me more about Leave It to Beaver (1997).
+Pardon partner, I don't know how you felt about As Good as It Gets (1997). Please tell me more about As Good as It Gets (1997).
+Pardon partner, I don't know how you felt about You Can't Take It with You (1938). Please tell me more about You Can't Take It with You (1938).
+Pardon partner, I don't know how you felt about Blame It on Rio (1984). Please tell me more about Blame It on Rio (1984).
+Pardon partner, I don't know how you felt about It Came from Hollywood (1982). Please tell me more about It Came from Hollywood (1982).
+Pardon partner, I don't know how you felt about It Came from Outer Space (1953). Please tell me more about It Came from Outer Space (1953).
+Pardon partner, I don't know how you felt about River Runs Through It, A (1992). Please tell me more about River Runs Through It, A (1992).
+Pardon partner, I don't know how you felt about Play it to the Bone (1999). Please tell me more about Play it to the Bone (1999).
+Pardon partner, I don't know how you felt about She's Gotta Have It (1986). Please tell me more about She's Gotta Have It (1986).
+Pardon partner, I don't know how you felt about Whatever It Takes (2000). Please tell me more about Whatever It Takes (2000).
+Pardon partner, I don't know how you felt about Bring It On (2000). Please tell me more about Bring It On (2000).
+Pardon partner, I don't know how you felt about Turn It Up (2000). Please tell me more about Turn It Up (2000).
+Pardon partner, I don't know how you felt about Pay It Forward (2000). Please tell me more about Pay It Forward (2000).
+Pardon partner, I don't know how you felt about Get Over It (2001). Please tell me more about Get Over It (2001).
+Pardon partner, I don't know how you felt about Elvis: That's the Way It Is (1970). Please tell me more about Elvis: That's the Way It Is (1970).
+Pardon partner, I don't know how you felt about Say It Isn't So (2001). Please tell me more about Say It Isn't So (2001).
+Pardon partner, I don't know how you felt about Let It Ride (1989). Please tell me more about Let It Ride (1989).
+Pardon partner, I don't know how you felt about What Time Is It There? (2001). Please tell me more about What Time Is It There? (2001).
+Pardon partner, I don't know how you felt about Life or Something Like It (2002). Please tell me more about Life or Something Like It (2002).
+Pardon partner, I don't know how you felt about Thrill of It All, The (1963). Please tell me more about Thrill of It All, The (1963).
+Pardon partner, I don't know how you felt about Bend It Like Beckham (2002). Please tell me more about Bend It Like Beckham (2002).
+Pardon partner, I don't know how you felt about Play It Again, Sam (1972). Please tell me more about Play It Again, Sam (1972).
+Pardon partner, I don't know how you felt about That's The Way I Like It (1998). Please tell me more about That's The Way I Like It (1998).
+Pardon partner, I don't know how you felt about Getting It Right (1989). Please tell me more about Getting It Right (1989).
+Pardon partner, I don't know how you felt about It Had to Be You (2000). Please tell me more about It Had to Be You (2000).
+Pardon partner, I don't know how you felt about It (1990). Please tell me more about It (1990).
+Pardon partner, I don't know how you felt about Daria: Is It Fall Yet? (2000). Please tell me more about Daria: Is It Fall Yet? (2000).
+Pardon partner, I don't know how you felt about Bring It On Again (2004). Please tell me more about Bring It On Again (2004).
+Pardon partner, I don't know how you felt about As it is in Heaven (2004). Please tell me more about As it is in Heaven (2004).
+Pardon partner, I don't know how you felt about Rumor Has It... (2005). Please tell me more about Rumor Has It... (2005).
+Pardon partner, I don't know how you felt about Stick It (2006). Please tell me more about Stick It (2006).
+Pardon partner, I don't know how you felt about Let It Be (1970). Please tell me more about Let It Be (1970).
+Pardon partner, I don't know how you felt about Boss of It All, The (2006). Please tell me more about Boss of It All, The (2006).
+Pardon partner, I don't know how you felt about Daria: Is It College Yet? (2002). Please tell me more about Daria: Is It College Yet? (2002).
+Pardon partner, I don't know how you felt about It Might Get Loud (2008). Please tell me more about It Might Get Loud (2008).
+Pardon partner, I don't know how you felt about Whip It (2009). Please tell me more about Whip It (2009).
+Pardon partner, I don't know how you felt about Michael Jackson's This Is It (2009). Please tell me more about Michael Jackson's This Is It (2009).
+Pardon partner, I don't know how you felt about 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010). Please tell me more about 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010).
+Pardon partner, I don't know how you felt about Life as We Know It (2010). Please tell me more about Life as We Know It (2010).
+Pardon partner, I don't know how you felt about Just Go with It (2011). Please tell me more about Just Go with It (2011).
+Pardon partner, I don't know how you felt about I Don't Know How She Does It (2011). Please tell me more about I Don't Know How She Does It (2011).
+Pardon partner, I don't know how you felt about Dylan Moran Live: What It Is (2009). Please tell me more about Dylan Moran Live: What It Is (2009).
+Pardon partner, I don't know how you felt about And So It Goes (2014). Please tell me more about And So It Goes (2014).
+Pardon partner, I don't know how you felt about Playing It Cool (2014). Please tell me more about Playing It Cool (2014).
+Pardon partner, I don't know how you felt about It Follows (2014). Please tell me more about It Follows (2014).
+
+> I watched "Scream".
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Scream of Stone (1991). Please tell me more about Scream of Stone (1991).
+Pardon partner, I don't know how you felt about Scream (1996). Please tell me more about Scream (1996).
+Pardon partner, I don't know how you felt about Scream 2 (1997). Please tell me more about Scream 2 (1997).
+Pardon partner, I don't know how you felt about Scream 3 (2000). Please tell me more about Scream 3 (2000).
+
+> I didn't like that movie.
+
+[96mBuster Blaze> [0mSorry there partner, I ain't ever heard of that movie before.
+
+> I felt the same about "Zootopia".
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Zootopia (2016). Please tell me more about Zootopia (2016).
+
+> And also "Ex Machina".
+
+[96mBuster Blaze> [0mPardon partner, I don't know how you felt about Ex Machina (2015). Please tell me more about Ex Machina (2015).
+
+> :quit
+[96mBuster Blaze> [0mSee you later alligator

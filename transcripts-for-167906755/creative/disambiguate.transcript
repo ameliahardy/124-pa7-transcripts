@@ -1,0 +1,25 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        My name is CASS and I'm a chatbot designed to recommend movies. Tell me about movies you like or dislike and I'll help you find movies that you might enjoy!
+        
+[96mCASS> [0mI will be recommending a movie for you! Please tell me how you felt about a movie you've seen in the past.
+> I liked "Harry Potter".
+
+1. Harry Potter and the Deathly Hallows: Part 2 (2011)
+2. Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+3. Harry Potter and the Chamber of Secrets (2002)
+4. Harry Potter and the Half-Blood Prince (2009)
+5. Harry Potter and the Order of the Phoenix (2007)
+6. Harry Potter and the Goblet of Fire (2005)
+7. Harry Potter and the Prisoner of Azkaban (2004)
+8. Harry Potter and the Deathly Hallows: Part 1 (2010)
+There are multiple movies that match your input. Out of these, which one did you mean?Chamber of Secrets
+
+Is this the movie you are referring to: "Harry Potter and the Chamber of Secrets (2002)"?I liked "Harry Potter".
+
+[96mCASS> [0mOkay, you liked "Harry Potter and the Chamber of Secrets (2002)"! Tell me what you thought of another movie
+> Prisoner of Azkaban
+
+[96mCASS> [0mMy apologies. It seems like there was a mistake in your input. Please try again! Try putting your movie in quotes or make sure your input is spelled correctly!
+> :quit
+[96mCASS> [0mHave a nice day!

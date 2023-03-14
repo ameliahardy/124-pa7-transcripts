@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi, my name is Whistledown. I'd like to recommend a movie to you. First, I need to know about your taste in movies. Please tell me about a movie you have liked.
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mI understand. You enjoyed "Titanic (1997)". Thank you. Would you tell me about another film you've watched?
+> I hated "Zootopia"
+
+[96mmoviebot> [0mI understand. You did not enjoy "Zootopia". Thank you. Would you tell me about another film you've watched?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mI understand. You enjoyed "Tangled Ever After". Thank you. Would you tell me about another film you've watched?
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mI understand. You did not enjoy "Sleeping Beauty". Thank you. Would you tell me about another film you've watched?
+> I liked "Mulan"
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> yes
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> yes
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> yes
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> y
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> y
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> Yes!
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> yeah
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> no
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> nah
+
+[96mmoviebot> [0mNo recommendations. Please provide more information to get new recommendations.
+> :quit
+[96mmoviebot> [0mGoodbye.

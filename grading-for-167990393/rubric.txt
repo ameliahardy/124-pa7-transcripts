@@ -1,0 +1,83 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Please write a short description of what each team member contributed!
+
+Each team member contributed equally to the assignment.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+One social ramification is the increased perception of chatbots as authentic companions, workers, etc., which
+we see happening with chatbots like Replika AI, which calls itself the "world's best AI friend." If people
+begin to feel more comfortable connecting with chatbots than real people, this could increase social disconnection
+in society.
+
+Another ramification is the increased automation of work like writing and customer service support, leading to
+an increase in business productivity but also a potential loss of jobs when employers realize repetitive manual labor
+can be replaced with human-like chatbots. We have already seen an explosion in the usage of ChatGPT for professionals
+and students who use it in their daily work because of how natural the responses are -- they are able to imitate humor,
+sentiment and other human-like features to appear anthropomorphic, thus leading to an increase in productivity. But
+less skilled workers such as call center workers will likely increasingly lose their jobs as chatbots become more
+anthropomorphic.
+
+Particularly with the rise of foundation models that dominate
+downstream applications with many millions of AI developers finetuning on one or two foundation models like ChatGPT,
+another ramification is that chatbots' responses can be biased according to the source data. If the source contains
+a lot of a certain type of expression, this could be propagated and multiplied throughout society as people use the
+chatbot responses in their own work and take it as a "correct answer", potentially creating misinformation or
+amplifying bias.
+
+A way engineers can ensure that users can easily distinguish the chatbot responses from those of a human is by
+incorporating a digital signature into each generated response, whether this is a signoff that cannot be deleted or
+a "secret watermark" like the one OpenAI is trying to engineer.
+
+Another way engineers can ensure this easy distinguishability is to make the chatbot non-resistant to chatbot detectors,
+for instance GPTZero is a tool that distinguishes text generated by GPT from human text via two metrics of perplexity
+and burstiness. OpenAI could collaborate with GPTZero to create new foundation models that can still be easily
+checked by it.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

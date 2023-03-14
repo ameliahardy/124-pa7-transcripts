@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mNetflixer> [0mHello, how can I help you today?
+> I liked "The Notbook".
+
+[96mNetflixer> [0mDamn it! I do not seem to have The Notbook in my database. My apologies, could you tell me about another one?
+> Yes.
+
+[96mNetflixer> [0mUnfortunately I am only able to help with movies. Could you tell me about one you've seen?
+> I did not like "Screm"
+
+[96mNetflixer> [0mI couldn't find the movie Screm. Could you check and try again? Or tell me about another movie?
+> No.
+
+[96mNetflixer> [0mGotcha! Unfortunately I can only help with movies. Tell me about one :)
+> :quit
+[96mNetflixer> [0mHave a nice day!

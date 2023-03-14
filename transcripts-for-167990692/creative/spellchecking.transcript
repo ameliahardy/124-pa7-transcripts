@@ -1,0 +1,48 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi! This is Moovies, your friendly neighborhood mooovie recommendations
+        chatbot! Give Moovies some movies you enjoy (or not so much) and Moovies
+        will take your preferences, extract their sentiment, and then uses collaborative
+        filtering to recommend new flicks to binge! 
+        
+        Place movies in quotation marks (unless in creative mode!) so that Moovies can
+        give the best recommendations! 
+        
+[96mMOOvies> [0m
+                +----------------------------+
+                |      Let me recommend      |
+                |      you a MOOooOvie.      |
+                |  Tell me about one that    |
+                |        you've seen.        |
+                +----------------------------+
+                        \   ^__^
+                         \  (oo)\_______
+                            (__)\       )\/\
+                                ||----w |
+                                ||     ||
+        
+> I liked "The Notbook".
+
+[96mMOOvies> [0mDid you mean Notebook, The (2004)
+> Yes.
+
+[96mMOOvies> [0mdidn't quite get that.
+> I did not like "Screm"
+
+[96mMOOvies> [0mDid you mean Scream (1996)
+> No.
+
+[96mMOOvies> [0mdidn't quite get that.
+> :quit
+[96mMOOvies> [0m
+                +----------------------------+
+                |        I think that        |
+                |   you are like no udder!   |
+                |       See you later...     |
+                +----------------------------+
+                        \   ^__^
+                         \  (oo)\_______
+                            (__)\       )\/\
+                                ||----w |
+                                ||     ||
+        

@@ -1,0 +1,88 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            
+                  |\     /|
+                  |\   //|
+                  | \| |/ |
+                  \ || || /
+                   \||_||/
+                   .'   '.
+                   |o   o|
+                  /=  Y  =\ 
+                  `'-.^.-'`
+                    _| |_
+                  /`     `\             
+                 |  (   )  |
+                 /\  \ /  /\ 
+                |  '._)_.'  |
+                \           /
+                 \ '.___.' /
+              .--'  \---/  '--.
+              `-------' '-------`
+            I can chat about movies!
+            
+[96miHOP> [0mHi! I am iHOP. How can I make your day a little hoppy, my dear friend?
+> Hello!
+
+[96miHOP> [0mAlrighty!
+> I am a robot too.
+
+[96miHOP> [0mDid I make you a robot too? I apologize. Have some carrots! They will make you feel better.
+> What is your name?
+
+[96miHOP> [0mSorry, I don't know your nayou. I know movies...... and CARROTS!
+> Do you know anything about books?
+
+[96miHOP> [0mI only recommend movies and eat carrots.. We could go back to movies or we could have some carrots.
+> I loved Dan Jurafsky's latest lecture.
+
+[96miHOP> [0mAlrighty!
+> Can you speak French?
+
+[96miHOP> [0mI'm sorry, I can't speak French. I can recommend movies and eat carrot.
+> How are you feeling?
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_How'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 294, in _compile
+    return _cache[type(pattern), pattern, flags]
+KeyError: (<class 'str'>, ' (inside\\ llewyn\\ davis)\\W', 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989789/chatbot.py", line 236, in process
+    movie_sentiments = self.extract_sentiment_for_movies(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989789/chatbot.py", line 768, in extract_sentiment_for_movies
+    titles = self.extract_titles(clause)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989789/chatbot.py", line 623, in extract_titles
+    results = re.findall(r" ({})\W".format(escaped_title), input_lower)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/re.py", line 294, in _compile
+    return _cache[type(pattern), pattern, flags]
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

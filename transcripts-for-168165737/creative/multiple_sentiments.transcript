@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+         Our chatbot takes in movies from user input and does the following:
+        
+          - Update user rating based on user input
+          - Look into user rating in order to give recommendations 
+          - Contains a recommendation system that activates when user lists five or more movies in the database
+          - Deals with arbitrary responses / failing gracefully when there is no movie detected.
+          - The chatbot performs multi-movie sentiment analysis
+          - If the user enters a movie that isn't in the database, a clarification message prompts the user.
+          - If the chatbot finds movies with similar titles, it asks to clarify
+          - Returns the movie and sentiment to the user in a naturalistic, human sounding manner
+        
+[96mmoviebot> [0mWassup! 
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mmoviebot> [0mSeems you weren't in favor of Titanic (1997). Sounds like you didn't enjoy Ex Machina. 
+> I liked "Zootopia" but not "Scream".
+
+[96mmoviebot> [0mYou seem to enjoy Zootopia. Appears you like Scream. 
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mmoviebot> [0mAppears you don't like Zootopia. You seem to not enjoy Eat Pray Love. 
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mmoviebot> [0mSeems you were in favor of Zootopia. You seem to enjoy Blade Runner. Seems you were in favor of The Notebook. 
+> :quit
+[96mmoviebot> [0mGoodbye, coding wizard. 

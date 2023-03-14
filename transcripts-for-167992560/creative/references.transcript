@@ -1,0 +1,862 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mDear reader, the social season is upon us. It is I, Lady Whistledown, and today I shall recommend to you a moving picture, a movie as they say nowadays.
+ I must know what movies have pleased you so that I am able to make a most appropriate reccommendation. Would you please write about a movie that you have enjoyed?
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mI understand, dear reader. You enjoyed "Blade Runner". You certainly have an appreciation for the arts. Would you tell me another film that has tickled your fancy?
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mI apologize, I am unsure whether "Terminator Salvation" pleased you. Would you care to tell me more about "Terminator Salvation". 
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mI apologize, I am unsure whether "Titanic (1997)" pleased you. Would you care to tell me more about "Titanic (1997)". 
+> I liked it.
+
+Title in: waiting to exhale
+Title in: dracula: dead and loving it
+Title in: sense and sensibility
+Title in: city of lost children, the
+Title in: cité des enfants perdus, la
+Title in: it takes two
+Title in: mighty aphrodite
+Title in: gazon maudit
+Title in: white balloon, the
+Title in: white squall
+Title in: city hall
+Title in: steal big, steal little
+Title in: flirting with disaster
+Title in: die hard: with a vengeance
+Title in: mute witness
+Title in: under siege 2: dark territory
+Title in: white man's burden
+Title in: babysitter, the
+Title in: exit to eden
+Title in: interview with the vampire: the vampire chronicles
+Title in: little women
+Title in: little princess, a
+Title in: little odessa
+Title in: three colors: white
+Title in: swimming with sharks
+Title in: virtuosity
+Title in: baby-sitters club, the
+Title in: bitter moon
+Title in: it could happen to you
+Title in: little buddha
+Title in: reality bites
+Title in: carlito's way
+Title in: city slickers ii: the legend of curly's gold
+Title in: demolition man
+Title in: with honors
+Title in: fugitive, the
+Title in: getting even with dad
+Title in: house of the spirits, the
+Title in: what's love got to do with it?
+Title in: life with mikey
+Title in: man without a face, the
+Title in: nuits fauves, les
+Title in: terminal velocity
+Title in: little big league
+Title in: little rascals, the
+Title in: café au lait
+Title in: dances with wolves
+Title in: snow white and the seven dwarfs
+Title in: my favorite season
+Title in: faithful
+Title in: bloodsport ii: the next kumite
+Title in: song of the little road
+Title in: some folks call it a sling blade
+Title in: it's my party
+Title in: substitute, the
+Title in: hussard sur le toit, le
+Title in: visitors, the
+Title in: visiteurs, les
+Title in: multiplicity
+Title in: wallace & gromit: the best of aardman animation
+Title in: great white hype, the
+Title in: wallace & gromit: a close shave
+Title in: spirits of the dead
+Title in: my life and times with antonin artaud
+Title in: crow: city of angels, the
+Title in: eyes without a face
+Title in: spitfire grill, the
+Title in: kansas city
+Title in: it happened one night
+Title in: some like it hot
+Title in: little princess, the
+Title in: gone with the wind
+Title in: my favorite year
+Title in: citizen kane
+Title in: it's a wonderful life
+Title in: mr. smith goes to washington
+Title in: little lord fauntleroy
+Title in: set it off
+Title in: escape to witch mountain
+Title in: rebel without a cause
+Title in: hustler white
+Title in: wallace & gromit: the wrong trousers
+Title in: mediterraneo
+Title in: withnail & i
+Title in: grand day out with wallace and gromit, a
+Title in: femme nikita, la
+Title in: nikita
+Title in: room with a view, a
+Title in: mitt liv som hund
+Title in: santa with muscles
+Title in: amityville 1992: it's about time
+Title in: amityville 3-d
+Title in: amityville: dollhouse
+Title in: amityville: a new generation
+Title in: amityville ii: the possession
+Title in: amityville horror, the
+Title in: amityville curse, the
+Title in: citizen ruth
+Title in: evita
+Title in: portrait of a lady, the
+Title in: waiting for guffman
+Title in: city of industry
+Title in: dream with the fishes
+Title in: leave it to beaver
+Title in: switchback
+Title in: mad city
+Title in: witness
+Title in: man who knew too little, the
+Title in: titanic
+Title in: dark city
+Title in: as good as it gets
+Title in: men with guns
+Title in: storefront hitchcock
+Title in: city of angels
+Title in: big hit, the
+Title in: opposite of sex, the
+Title in: can't hardly wait
+Title in: dr. dolittle
+Title in: you can't take it with you
+Title in: from here to eternity
+Title in: metropolitan
+Title in: halloween iii: season of the witch
+Title in: lolita
+Title in: darby o'gill and the little people
+Title in: little mermaid, the
+Title in: return from witch mountain
+Title in: man with two brains, the
+Title in: atlantic city
+Title in: adventures in babysitting
+Title in: doctor dolittle
+Title in: henry: portrait of a serial killer
+Title in: dance with me
+Title in: trouble with harry, the
+Title in: mr. & mrs. smith
+Title in: without limits
+Title in: travolti da un insolito destino nell'azzurro mare d'agosto
+Title in: parasite
+Title in: blame it on rio
+Title in: bandit queen
+Title in: la vita è bella
+Title in: heart condition
+Title in: celebrity
+Title in: money pit, the
+Title in: police academy 4: citizens on patrol
+Title in: police academy 6: city under siege
+Title in: babe: pig in the city
+Title in: little voice
+Title in: extremities
+Title in: tea with mussolini
+Title in: varsity blues
+Title in: my favorite martian
+Title in: relax... it's just sex
+Title in: bandits
+Title in: it came from hollywood
+Title in: it came from outer space
+Title in: eternity and a day
+Title in: mia aoniotita kai mia mera
+Title in: blair witch project, the
+Title in: velocity of gary, the
+Title in: lolita
+Title in: mosquito coast, the
+Title in: little shop of horrors
+Title in: little shop of horrors, the
+Title in: allan quatermain and the lost city of gold
+Title in: detroit rock city
+Title in: heaven can wait
+Title in: pit and the pendulum
+Title in: little nemo: adventures in slumberland
+Title in: black cat, white cat
+Title in: whiteboyz
+Title in: the mating habits of the earthbound human
+Title in: handle with care
+Title in: citizen's band
+Title in: return with honor
+Title in: from russia with love
+Title in: fever pitch
+Title in: time bandits
+Title in: fitzcarraldo
+Title in: who framed roger rabbit?
+Title in: little big man
+Title in: commitments, the
+Title in: river runs through it, a
+Title in: ride with the devil
+Title in: hitch-hiker, the
+Title in: bonfire of the vanities
+Title in: stuart little
+Title in: play it to the bone
+Title in: titus
+Title in: sister act 2: back in the habit
+Title in: twin peaks: fire walk with me
+Title in: white men can't jump
+Title in: man bites dog
+Title in: single white female
+Title in: to sir with love
+Title in: pitch black
+Title in: city lights
+Title in: american graffiti
+Title in: date with an angel
+Title in: titanic
+Title in: she's gotta have it
+Title in: double indemnity
+Title in: whatever it takes
+Title in: inherit the wind
+Title in: high fidelity
+Title in: true grit
+Title in: black and white
+Title in: keeping the faith
+Title in: defying gravity
+Title in: sans toit ni loi
+Title in: man with the golden gun, the
+Title in: quatermass and the pit
+Title in: white christmas
+Title in: man with the golden arm, the
+Title in: prince of the city
+Title in: big trouble in little china
+Title in: titan a.e.
+Title in: white sands
+Title in: bring it on
+Title in: turn it up
+Title in: remember the titans
+Title in: in weiter ferne, so nah!
+Title in: sorority house massacre
+Title in: sorority house massacre ii
+Title in: pay it forward
+Title in: book of shadows: blair witch 2
+Title in: little nicky
+Title in: vertical limit
+Title in: miss congeniality
+Title in: don't tell mom the babysitter's dead
+Title in: antitrust
+Title in: i'm gonna git you sucka
+Title in: with a friend like harry...
+Title in: brave little toaster, the
+Title in: get over it
+Title in: elvis: that's the way it is
+Title in: 4 little girls
+Title in: exit wounds
+Title in: say it isn't so
+Title in: love's a bitch
+Title in: city slickers
+Title in: seven year itch, the
+Title in: dr. dolittle 2
+Title in: x: the man with the x-ray eyes
+Title in: quella villa accanto al cimitero
+Title in: misfits, the
+Title in: written on the wind
+Title in: final fantasy: the spirits within
+Title in: alaska: spirit of the wild
+Title in: appointment with death
+Title in: bright lights, big city
+Title in: critters
+Title in: critters 2: the main course
+Title in: high spirits
+Title in: the lair of the white worm
+Title in: little nikita
+Title in: off limits
+Title in: short circuit 2
+Title in: short circuit
+Title in: switching channels
+Title in: without a clue
+Title in: dream a little dream
+Title in: last exit to brooklyn
+Title in: let it ride
+Title in: little monsters
+Title in: three fugitives
+Title in: glitter
+Title in: endurance: shackleton's legendary antarctic expedition, the
+Title in: little man tate
+Title in: it's a mad, mad, mad, mad world
+Title in: little foxes, the
+Title in: serendipity
+Title in: competition, the
+Title in: bandits
+Title in: siu nin wong fei-hung ji: tit ma lau
+Title in: not without my daughter
+Title in: riding in cars with boys
+Title in: little women
+Title in: white water summer
+Title in: little otik
+Title in: fritz the cat
+Title in: nine lives of fritz the cat, the
+Title in: witness for the prosecution
+Title in: what time is it there?
+Title in: italian for beginners
+Title in: italiensk for begyndere
+Title in: little dieter needs to fly
+Title in: my favorite brunette
+Title in: smokey and the bandit ii
+Title in: smokey and the bandit
+Title in: smokey and the bandit iii
+Title in: sorority boys
+Title in: fraternity vacation
+Title in: bite the bullet
+Title in: rome, open city
+Title in: open city
+Title in: roma, città aperta
+Title in: three men and a little lady
+Title in: life or something like it
+Title in: white fang
+Title in: unfaithful
+Title in: calamity jane
+Title in: spirit: stallion of the cimarron
+Title in: bourne identity, the
+Title in: lilo & stitch
+Title in: minority report
+Title in: rabbit-proof fence
+Title in: road to perdition
+Title in: faustrecht der freiheit
+Title in: stuart little 2
+Title in: clash of the titans
+Title in: man in the white suit, the
+Title in: spirited away
+Title in: white oleander
+Title in: my dinner with andré
+Title in: mil gritos tiene la noche
+Title in: interview with the assassin
+Title in: men with brooms
+Title in: personal velocity
+Title in: i spit on your grave
+Title in: visitor q
+Title in: bizita q
+Title in: zoot suit
+Title in: best little whorehouse in texas, the
+Title in: fat city
+Title in: national security
+Title in: city of god
+Title in: imitation of life
+Title in: little romance, a
+Title in: blind spot: hitler's secretary
+Title in: im toten winkel - hitlers sekretärin
+Title in: recruit, the
+Title in: white dog
+Title in: thrill of it all, the
+Title in: bend it like beckham
+Title in: hitlerjunge salomon
+Title in: sweet charity
+Title in: house with laughing windows, the
+Title in: la nuit américaine
+Title in: wake of the red witch
+Title in: man without a past, the
+Title in: fahrenheit 451
+Title in: identity
+Title in: x2: x-men united
+Title in: down with love
+Title in: italian job, the
+Title in: nevada smith
+Title in: white sheik, the
+Title in: man with the movie camera, the
+Title in: man's favorite sport?
+Title in: start the revolution without me
+Title in: legally blonde 2: red, white & blonde
+Title in: little giants
+Title in: seabiscuit
+Title in: white lightning
+Title in: wait until dark
+Title in: code inconnu: récit incomplet de divers voyages
+Title in: at war with the army
+Title in: once bitten
+Title in: mambo italiano
+Title in: my life without me
+Title in: sleeping with the enemy
+Title in: city heat
+Title in: ballad of little jo, the
+Title in: it's pat
+Title in: hospital, the
+Title in: leap of faith
+Title in: italian job, the
+Title in: aparajito
+Title in: my architect: a son's journey
+Title in: dance with a stranger
+Title in: new jack city
+Title in: jeux interdits
+Title in: housesitter
+Title in: witches, the
+Title in: witches of eastwick, the
+Title in: life with father
+Title in: juliet of the spirits
+Title in: giulietta degli spiriti
+Title in: bullitt
+Title in: play it again, sam
+Title in: girl with a pearl earring
+Title in: chitty chitty bang bang
+Title in: win a date with tad hamilton!
+Title in: hip hop witch, da
+Title in: wit
+Title in: white palace
+Title in: just write
+Title in: witchfinder general
+Title in: that's the way i like it
+Title in: tuesdays with morrie
+Title in: secret life of walter mitty, the
+Title in: getting it right
+Title in: white zombie
+Title in: i walked with a zombie
+Title in: how to succeed in business without really trying
+Title in: gekitotsu! satsujin ken
+Title in: berlin: symphony of a great city
+Title in: summer with monika
+Title in: i am a fugitive from a chain gang
+Title in: pursuit of happiness
+Title in: inheritance, the
+Title in: dolce vita, la
+Title in: educating rita
+Title in: while the city sleeps
+Title in: mitchell
+Title in: napoleon dynamite
+Title in: it had to be you
+Title in: executive suite
+Title in: human condition i, the
+Title in: white heat
+Title in: my little chickadee
+Title in: white chicks
+Title in: littlest rebel, the
+Title in: angels with dirty faces
+Title in: our hospitality
+Title in: johnny guitar
+Title in: fahrenheit 9/11
+Title in: my favorite wife
+Title in: snake pit, the
+Title in: little black book
+Title in: harold and kumar go to white castle
+Title in: without a paddle
+Title in: vanity fair
+Title in: vitelloni, i
+Title in: lilith
+Title in: man with one red shoe, the
+Title in: it's all about love
+Title in: blade: trinity
+Title in: haxan: witchcraft through the ages
+Title in: the witches
+Title in: little caesar
+Title in: otona no miru ehon - umarete wa mita keredo
+Title in: heaven can wait
+Title in: chronicle history of king henry the fift with his battell fought at agincourt in france, the
+Title in: unfaithfully yours
+Title in: nuit et brouillard
+Title in: spirit of st. louis, the
+Title in: titicut follies
+Title in: ma nuit chez maud
+Title in: the tall blond man with one black shoe
+Title in: california split
+Title in: hobbit, the
+Title in: white nights
+Title in: bourne identity, the
+Title in: night and the city
+Title in: positively true adventures of the alleged texas cheerleader-murdering mom, the
+Title in: audition
+Title in: daria: is it fall yet?
+Title in: joint security area
+Title in: bring it on again
+Title in: hitler: the rise of evil
+Title in: as it is in heaven
+Title in: life aquatic with steve zissou, the
+Title in: white noise
+Title in: they came from within
+Title in: white sound, the
+Title in: bitter tears of petra von kant, the
+Title in: bitteren tränen der petra von kant, die
+Title in: hitch
+Title in: night and the city
+Title in: miss congeniality 2: armed and fabulous
+Title in: city of hope
+Title in: sin city
+Title in: fever pitch
+Title in: little girl who lives down the lane, the
+Title in: sorrow and the pity, the
+Title in: le chagrin et la pitié
+Title in: hitchhiker's guide to the galaxy, the
+Title in: dark habits
+Title in: amityville horror, the
+Title in: napola - elite für den führer
+Title in: star wars: episode iii - revenge of the sith
+Title in: uninvited, the
+Title in: mr. & mrs. smith
+Title in: switchblade romance
+Title in: bewitched
+Title in: serenity
+Title in: waiting...
+Title in: wallace & gromit in the curse of the were-rabbit
+Title in: proposition, the
+Title in: amour en fuite, l'
+Title in: chicken little
+Title in: tulitikkutehtaan tyttö
+Title in: dinner with friends
+Title in: chronicles of narnia: the lion, the witch and the wardrobe, the
+Title in: rumor has it...
+Title in: fun with dick and jane
+Title in: cutting edge: the magic of movie editing, the
+Title in: little manhattan
+Title in: tony takitani
+Title in: laitakaupungin valot
+Title in: personal journey with martin scorsese through american movies, a
+Title in: unknown white male
+Title in: slither
+Title in: friends with money
+Title in: united 93
+Title in: stick it
+Title in: let it be
+Title in: career opportunities
+Title in: garfield: a tail of two kitties
+Title in: little miss sunshine
+Title in: strangers with candy
+Title in: little man
+Title in: pursuit of happyness, the
+Title in: blithe spirit
+Title in: borat: cultural learnings of america for make benefit glorious nation of kazakhstan
+Title in: running with scissors
+Title in: little children
+Title in: 10 items or less
+Title in: freedom writers
+Title in: alice in the cities
+Title in: hitcher, the
+Title in: bridge to terabithia
+Title in: waitress
+Title in: norbit
+Title in: boss of it all, the
+Title in: it's a boy girl thing
+Title in: citizen x
+Title in: premonition
+Title in: it's a very merry muppet christmas movie
+Title in: power of nightmares, the: the rise of the politics of fear
+Title in: captivity
+Title in: sydney white
+Title in: evening with kevin smith, an
+Title in: darjeeling limited, the
+Title in: auf der anderen seite
+Title in: city of violence, the
+Title in: elite squad
+Title in: tropa de elite
+Title in: kansas city confidential
+Title in: hitman
+Title in: kite runner, the
+Title in: band's visit, the
+Title in: joe strummer: the future is unwritten
+Title in: it's a free world...
+Title in: definitely, maybe
+Title in: witless protection
+Title in: counterfeiters, the
+Title in: city of men
+Title in: zeitgeist: the movie
+Title in: drillbit taylor
+Title in: visitor, the
+Title in: sex and the city
+Title in: you don't mess with the zohan
+Title in: futurama: the beast with a billion backs
+Title in: it's the great pumpkin, charlie brown
+Title in: in the city of sylvia
+Title in: waltz with bashir
+Title in: traitor
+Title in: spirit, the
+Title in: nick and norah's infinite playlist
+Title in: city of ember
+Title in: wallace and gromit in 'a matter of loaf and death'
+Title in: waiter
+Title in: große ekstase des bildschnitzers steiner, die
+Title in: okuribito
+Title in: duplicity
+Title in: girl with the dragon tattoo, the
+Title in: sita sings the blues
+Title in: land des schweigens und der dunkelheit
+Title in: damned united, the
+Title in: night at the museum: battle of the smithsonian
+Title in: every little step
+Title in: un baiser s'il vous plait
+Title in: shin seiki evangelion gekijô-ban: shito shinsei
+Title in: breakfast with scot
+Title in: limits of control, the
+Title in: daria: is it college yet?
+Title in: race to witch mountain
+Title in: little richard
+Title in: curiosity of chance, the
+Title in: it might get loud
+Title in: chacun son cinéma ou ce petit coup au coeur quand la lumière s'éteint et que le film commence
+Title in: white ribbon, the
+Title in: cloudy with a chance of meatballs
+Title in: paranormal activity
+Title in: not quite hollywood: the wild, untold story of ozploitation!
+Title in: black god, white devil
+Title in: aruitemo aruitemo
+Title in: city island
+Title in: whip it
+Title in: whiteout
+Title in: law abiding citizen
+Title in: michael jackson's this is it
+Title in: black dynamite
+Title in: limit
+Title in: limite
+Title in: it's complicated
+Title in: soul kitchen
+Title in: girl who played with fire, the
+Title in: ghost writer, the
+Title in: la habitación de fermat
+Title in: from paris with love
+Title in: will ferrell: you're welcome america - a final night with george w bush
+Title in: apprenticeship of duddy kravitz, the
+Title in: clash of the titans
+Title in: exit through the gift shop
+Title in: sex and the city 2
+Title in: 41-year-old virgin who knocked up sarah marshall and felt superbad about it, the
+Title in: switch, the
+Title in: it's kind of a funny story
+Title in: life as we know it
+Title in: waiting for 'superman'
+Title in: paranormal activity 2
+Title in: cocaine cowboys ii: hustlin' with the godmother
+Title in: tiny furniture
+Title in: true grit
+Title in: little fockers
+Title in: season of the witch
+Title in: limitless
+Title in: white stripes under great white northern lights, the
+Title in: rite, the
+Title in: sunset limited, the
+Title in: elite squad: the enemy within
+Title in: tropa de elite 2 - o inimigo agora é outro
+Title in: just go with it
+Title in: family guy presents: it's a trap
+Title in: hobo with a shotgun
+Title in: kid with a bike, the
+Title in: to sleep with anger
+Title in: friends with benefits
+Title in: la piel que habito
+Title in: i don't know how she does it
+Title in: killer elite
+Title in: paranormal activity 3
+Title in: my week with marilyn
+Title in: little colonel, the
+Title in: sitter, the
+Title in: girl with the dragon tattoo, the
+Title in: friends with kids
+Title in: suzumiya haruhi no shôshitsu
+Title in: dylan moran live: what it is
+Title in: ghost rider: spirit of vengeance
+Title in: corman's world: exploits of a hollywood rebel
+Title in: wrath of the titans
+Title in: snow white and the huntsman
+Title in: pirates! band of misfits, the
+Title in: to rome with love
+Title in: doragon bôru z 6: gekitotsu! hyakuoku pawâ no senshi
+Title in: adventures of mary-kate and ashley, the: the case of the united states navy adventure
+Title in: doragon bôru z: tatta hitori no saishuu kessen - furiiza ni itonda z senshi kakarotto no chichi
+Title in: sleepwalk with me
+Title in: pitch perfect
+Title in: making of a legend: gone with the wind, the
+Title in: wreck-it ralph
+Title in: capital
+Title in: le capital
+Title in: hitchcock
+Title in: little miss broadway
+Title in: hobbit: an unexpected journey, the
+Title in: fire with fire
+Title in: our little girl
+Title in: poor little rich girl
+Title in: it's such a beautiful day
+Title in: hansel & gretel: witch hunters
+Title in: snow white
+Title in: liability, the
+Title in: identity thief
+Title in: sound city
+Title in: monsters university
+Title in: not suitable for children
+Title in: white house down
+Title in: fruitvale station
+Title in: mortal instruments: city of bones, the
+Title in: gravity
+Title in: inequality for all
+Title in: cloudy with a chance of meatballs 2
+Title in: hobbit: the desolation of smaug, the
+Title in: secret life of walter mitty, the
+Title in: kavkazskaya plennitsa
+Title in: paranormal activity: the marked ones
+Title in: soshite chichi ni naru
+Title in: jack ryan: shadow recruit
+Title in: part 1 of 'the darjeeling limited'
+Title in: date and switch
+Title in: witching and bitching
+Title in: white god
+Title in: life itself
+Title in: and so it goes
+Title in: trip to italy, the
+Title in: jupiter ascending
+Title in: sin city: a dame to kill for
+Title in: deux jours, une nuit
+Title in: dim sum: a little bit of heart
+Title in: white bird in a blizzard
+Title in: rewrite, the
+Title in: olive kitteridge
+Title in: the imitation game
+Title in: dear white people
+Title in: citizenfour
+Title in: mei and the kittenbus
+Title in: the hobbit: the battle of the five armies
+Title in: playing it cool
+Title in: it follows
+Title in: an evening with robin williams
+Title in: reality
+Title in: george carlin: it's bad for ya!
+Title in: the brave little toaster goes to mars
+Title in: the atticus institute
+Title in: kite
+Title in: hitman: agent 47
+Title in: pitch perfect 2
+Title in: hot pursuit
+Title in: the last witch hunter
+Title in: the opposite sex
+Title in: the witch
+Title in: visit, the
+Title in: 10 attitudes
+Title in: the invitation
+Title in: neighbors 2: sorority rising
+[96mmoviebot> [0mMultiple films were found among the queen's crown jewels. Which movie would you refer to: 
+"It Takes Two (1995)"
+"Exit to Eden (1994)"
+"It Could Happen to You (1994)"
+"What's Love Got to Do with It? (1993)"
+"Some Folks Call It a Sling Blade (1993)"
+"It's My Party (1996)"
+"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"
+"Wallace & Gromit: The Best of Aardman Animation (1996)"
+"Wallace & Gromit: A Close Shave (1995)"
+"It Happened One Night (1934)"
+"Some Like It Hot (1959)"
+"It's a Wonderful Life (1946)"
+"Set It Off (1996)"
+"Wallace & Gromit: The Wrong Trousers (1993)"
+"Grand Day Out with Wallace and Gromit, A (1989)"
+"Amityville 1992: It's About Time (1992)"
+"Portrait of a Lady, The (1996)"
+"Leave It to Beaver (1997)"
+"As Good as It Gets (1997)"
+"Big Hit, The (1998)"
+"You Can't Take It with You (1938)"
+"Henry: Portrait of a Serial Killer (1986)"
+"Blame It on Rio (1984)"
+"Bandit Queen (1994)"
+"Money Pit, The (1986)"
+"Relax... It's Just Sex (1998)"
+"It Came from Hollywood (1982)"
+"It Came from Outer Space (1953)"
+"Detroit Rock City (1999)"
+"Pit and the Pendulum (1961)"
+"Who Framed Roger Rabbit? (1988)"
+"River Runs Through It, A (1992)"
+"Play it to the Bone (1999)"
+"Whatever It Takes (2000)"
+"Inherit the Wind (1960)"
+"Vagabond (Sans toit ni loi) (1985)"
+"Bring It On (2000)"
+"Turn It Up (2000)"
+"Pay It Forward (2000)"
+"I'm Gonna Git You Sucka (1988)"
+"Elvis: That's the Way It Is (1970)"
+"Exit Wounds (2001)"
+"Say It Isn't So (2001)"
+"Alaska: Spirit of the Wild (1997)"
+"Short Circuit 2 (1988)"
+"Last Exit to Brooklyn (1989)"
+"Let It Ride (1989)"
+"It's a Mad, Mad, Mad, Mad World (1963)"
+"Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993)"
+"What Time Is It There? (Ni neibian jidian) (2001)"
+"Smokey and the Bandit II (1980)"
+"Smokey and the Bandit III (1983)"
+"Spirit: Stallion of the Cimarron (2002)"
+"Rabbit-Proof Fence (2002)"
+"Man in the White Suit, The (1951)"
+"I Spit on Your Grave (Day of the Woman) (1978)"
+"Recruit, The (2003)"
+"Thrill of It All, The (1963)"
+"Bend It Like Beckham (2002)"
+"Day for Night (La Nuit Américaine) (1973)"
+"Fahrenheit 451 (1966)"
+"Wait Until Dark (1967)"
+"Code Unknown (Code inconnu: Récit incomplet de divers voyages) (2000)"
+"It's Pat (1994)"
+"Play It Again, Sam (1972)"
+"Getting It Right (1989)"
+"Pursuit of Happiness (2001)"
+"It Had to Be You (2000)"
+"Fahrenheit 9/11 (2004)"
+"Snake Pit, The (1948)"
+"It's All About Love (2003)"
+"Night and Fog (Nuit et brouillard) (1955)"
+"Spirit of St. Louis, The (1957)"
+"My Night At Maud's (Ma Nuit Chez Maud) (1969)"
+"Hobbit, The (1977)"
+"It (1990)"
+"Daria: Is It Fall Yet? (2000)"
+"Bring It On Again (2004)"
+"As it is in Heaven (Så som i himmelen) (2004)"
+"Wallace & Gromit in The Curse of the Were-Rabbit (2005)"
+"Rumor Has It... (2005)"
+"Let It Be (1970)"
+"Pursuit of Happyness, The (2006)"
+"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)"
+"Boss of It All, The (Direktøren for det hele) (2006)"
+"It's a Boy Girl Thing (2006)"
+"It's a Very Merry Muppet Christmas Movie (2002)"
+"Band's Visit, The (Bikur Ha-Tizmoret) (2007)"
+"It's a Free World... (2007)"
+"Drillbit Taylor (2008)"
+"It's the Great Pumpkin, Charlie Brown (1966)"
+"Spirit, The (2008)"
+"Wallace and Gromit in 'A Matter of Loaf and Death' (2008)"
+"Daria: Is It College Yet? (2002)"
+"It Might Get Loud (2008)"
+"To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence) (2007)"
+"It's Complicated (2009)"
+"Exit Through the Gift Shop (2010)"
+"41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It, The (2010)"
+"It's Kind of a Funny Story (2010)"
+"Family Guy Presents: It's a Trap (2010)"
+"Dylan Moran Live: What It Is (2009)"
+"Ghost Rider: Spirit of Vengeance (2012)"
+"Wreck-It Ralph (2012)"
+"Hobbit: An Unexpected Journey, The (2012)"
+"It's Such a Beautiful Day (2012)"
+"Hobbit: The Desolation of Smaug, The (2013)"
+"And So It Goes (2014)"
+"Dim Sum: A Little Bit of Heart (1985)"
+"The Hobbit: The Battle of the Five Armies (2014)"
+"Playing It Cool (2014)"
+"It Follows (2014)"
+"George Carlin: It's Bad for Ya! (2008)"
+"Visit, The (2015)"
+> I watched "Scream".
+
+[96mmoviebot> [0mI apologize, I am unsure whether "Scream" pleased you. Would you care to tell me more about "Scream". 
+> I didn't like that movie.
+
+[96mmoviebot> [0mI apologize, I cannot find "i didn't like that movie." among the queen's ever so cherished crown jewels. Please write another title, .
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mI apologize, I am unsure whether "Zootopia" pleased you. Would you care to tell me more about "Zootopia". 
+> And also "Ex Machina".
+
+[96mmoviebot> [0mI apologize, I am unsure whether "Ex Machina" pleased you. Would you care to tell me more about "Ex Machina". 
+> :quit
+[96mmoviebot> [0mI bid you farewell. All if fair in love and war. 
+Yours Truly,
+Lady Whistledown

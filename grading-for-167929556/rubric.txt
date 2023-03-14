@@ -1,0 +1,85 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): NO
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Simone wrote the code for extract_sentiment, as well as the creative elements related to sentiment extraction,
+including fine-grained sentiment analysis and extracting sentiment for multiple movies; she also integrated
+those creative features into process() and gave the chatbot its cowboy persona via introduction/conclusion and
+process() dialogue. 
+
+Avi wrote the code for find_movies_by_title, as well as creative elements related to title extraction,
+including spell-checking and its dialogue. He also wrote binarize(), make_recommendation and the functional
+core of process() and enhanced the cowboy theme with dialogue throughout.
+
+Ujwal wrote the code for extract_title, similarity, and recommend in the starter functions. For creative mode,
+he wrote the code for identifying movies with no quotes and misspellings parts 1 and 2, identifying and responding
+to emotion (anger) and integrated these changes into process() while adding to the cowboy theme.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+We tend to trust human judgement–or at least assign value and validity to it, even if we do not agree. We can 
+make guesses about how another human comes to a conclusion, and prompt them to explain further if they do not 
+provide a satisfactory answer. Especially when it comes to human- and specific group- centered issues, it is 
+imperative that we center the voices, opinions, and answers of those with relevant experiences. The anthropomorphization
+of chatbot systems, especially to the point where they are almost indistinguishable from humans, can lead us
+down a slippery slope: what happens when we begin to turn to chatbot systems (like ChatGPT, for example) for insight about
+and answers to fundamentally human problems? Using these systems is often easier and more convenient than the morally sound
+alternative–actually engaging with the people whose lived experiences include such problems. These systems can "talk" like 
+humans, which may cause us to naively take their outputs as "good enough" or "factual enough" or "close enough" to truth.
+In fact, we might even blindly accept chatbot answers as MORE true than human insights because of the societal association
+between algorithms and mathematical correctness/absolute truth. The truth is, conversations and their nuances will never
+be understood by chatbot systems the way that our brains can understand. Numbers can be infinitely precise, sure, but the 
+algorithms are only as good as the data that they are trained on and the scientists that engineer them. However "human" 
+seeming, chatbots will never (at least not for a long time) comprehensively understand the human experience. 
+
+Engineers might want to think about somehow embedding flags into chatbot responses that tell the reader that those 
+responses were not generated by humans. On a policy level, chatbot developers could be mandated to report this message 
+alongside every chatbot response; this is, however, unwieldy. Developers are already working on tools to detect whether
+text has been AI generated, so this could be another useful tool for maintaining clarity. 
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

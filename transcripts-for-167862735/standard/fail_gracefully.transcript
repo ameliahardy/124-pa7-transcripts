@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Below is a standard chatbot. Be sure to include movie titles in quotes
+[96mRoger> [0mHi there! I'm Roger, a chatbot that loves to talk about movies. What' s your favorite movie?
+> I saw "Titanic (1997)"
+
+[96mRoger> [0mHmm. I'm not sure exactly what you thought of "Titanic (1997)." Tell me a little more about what it made you feel.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mRoger> [0mWow, I'm actually a big fan of "Titanic (1997)" too. What's another movie you've seen recently?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mRoger> [0mI share your love for "Titanic (1997)", "Scream", and "10 Things I Hate About You"! What other movies do you have reviews or ratings for?
+> I like "Titanic".
+
+[96mRoger> [0mI'm not sure I caught that. What movie did you mean by Titanic?
+> I like titanic.
+
+[96mRoger> [0mI'm really sorry but I'm not sure what movie you're referring to. Could you elaborate?
+> I like "titanic".
+
+[96mRoger> [0mBased on what you've told me, I think you would really appreciate RoboCop (1987). Would you like another movie recommendation?
+> I like 10 things I hate about you.
+
+[96mRoger> [0mIt was really great chatting with you. Have a great rest of your day!
+> Howdy.
+
+[96mRoger> [0mHave a good one! We should totally grab lunch or something soon.
+> ...
+
+[96mRoger> [0mI hope you have a good one! It was great chatting today.
+> I saw "Titanic (1220)"
+
+[96mRoger> [0mWell it was delightful learning about your movie tastes. Enjoy your day!
+> :quit
+[96mRoger> [0mHave a nice day!

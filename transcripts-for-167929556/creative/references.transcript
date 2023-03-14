@@ -1,0 +1,36 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to our World-Wide-West themed Chatbot! Once you tell Cowboy Buster
+        how you felt about five movies, he'll politely suggest a few movies that you might like.
+        In creative mode, you should be able to speak about these movies without worrying about
+        perfect spelling, quotations and/or capitalization.
+        
+[96mCowboy Buster Suggester of the World Wide West> [0mHowdy pardner! I'm Cowboy Buster Suggester of the World Wide West. If ya tell me a film you've watched, I'll give ya a suggestion back. Yeehaw!
+> I liked "Blade Runner".
+
+Got it, you took a likin' to Blade Runner.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> But not "Terminator Salvation".
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI ain't too sure how you felt about Terminator Salvation. Did ya like it, or not so much?
+> I saw "Titanic (1997)".
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI ain't too sure how you felt about Titanic (1997). Did ya like it, or not so much?
+> I liked it.
+
+Got it, you took a likin' to It.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I watched "Scream".
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI ain't too sure how you felt about Scream. Did ya like it, or not so much?
+> I didn't like that movie.
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI don't quite yet understand your taste in movies. Tell me 'bout a film you've seen, and don't forget to lasso the title with quotes!
+> I felt the same about "Zootopia".
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI ain't too sure how you felt about Zootopia. Did ya like it, or not so much?
+> And also "Ex Machina".
+
+[96mCowboy Buster Suggester of the World Wide West> [0mI ain't too sure how you felt about Ex Machina. Did ya like it, or not so much?
+> :quit
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, looks like it's time for me to ride off into the sunset. Yippee ki-yay!

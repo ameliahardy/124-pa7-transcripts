@@ -1,0 +1,58 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Meowy is a cat chatbot for all your cat-bot waifu dreams! Ask Meowy what you feel about various movies, and they will recommend you a movie!
+        
+[96mMeowMeow> [0mMeow!!! Meow, my name is MeowMeow. Tell me about a movie you like, mew?
+> I liked "Titanic (1997)"
+
+[96mMeowMeow> [0mOh, so you have liked "Titanic (1997)"! What about other movies? 
+> I hated "Zootopia"
+
+[96mMeowMeow> [0mGot it, you appear to dislike "Zootopia"! So about the other movies you've seen... 
+> I liked "Tangled Ever After"
+
+[96mMeowMeow> [0mI see you have enjoyed "Tangled Ever After"! And so what of the other movies you've watched? 
+> I hated "Sleeping Beauty"
+
+[96mMeowMeow> [0mOK! Seems like you did not enjoy "Sleeping Beauty"! How do you feel about another movie? 
+> I liked "Mulan"
+
+[96mMeowMeow> [0mOh, so you think highly of "Mulan"!  By the way, 
+You'd totally feel positive about The Ridiculous 6 (2015)! Want to hear more?
+> yes
+
+[96mMeowMeow> [0m By the way, 
+I think you would like this movie: Pixels (2015). Would you like to hear more?
+> yes
+
+[96mMeowMeow> [0m By the way, 
+I highly recommend World War Z (2013). Want to hear more?
+> yes
+
+[96mMeowMeow> [0m By the way, 
+You'd totally like Karate Kid, The (2010)! Want to hear more?
+> y
+
+[96mMeowMeow> [0mOK, how about you tell me some other movies then?
+> y
+
+[96mMeowMeow> [0mYah I feel you about that y
+> Yes!
+
+[96mMeowMeow> [0mI totally get you about yes!
+> yeah
+
+[96mMeowMeow> [0mYes, yeah to you too!
+> no
+
+[96mMeowMeow> [0mHaha! no indeed. Nya!
+> nah
+
+[96mMeowMeow> [0mYah I feel you about that nah
+> :quit
+[96mMeowMeow> [0mHave a meowy day! Meow!!!

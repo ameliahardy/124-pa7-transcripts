@@ -1,0 +1,70 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mGood to hear you enjoyed watching "Titanic (1997)". Please share your thoughts on a different film!
+> I hated "Zootopia"
+
+[96mmoviebot> [0mWow, that bad, huh. I'm sorry you didn't enjoy "Zootopia". Let me know your thoughts on another movie.
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mI'm glad you liked "Tangled Ever After". Let me know your thoughts on another movie.
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mWow, that bad, huh. I'm sorry you didn't enjoy "Sleeping Beauty". Please share your thoughts on a different film!
+> I liked "Mulan"
+
+[96mmoviebot> [0mGiven what you told me, I think you would like "The Ridiculous 6 (2015)". Would you like another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[96mmoviebot> [0mFor sure, another good choice would be "World War Z (2013)". How about another one?(Or enter :quit if you're done.)
+> yes
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_yes'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167778288/chatbot.py", line 411, in process
+    self.rec_indices = self.recommend(self.user_ratings, self.ratings, 10, self.creative)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167778288/chatbot.py", line 892, in recommend
+    score = self.weightedAverage(i, user_ratings, ratings_matrix, k) # compute similarity to all other movies they've watch and return averaged sum
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167778288/chatbot.py", line 842, in weightedAverage
+    rated_movies = np.argwhere(user_ratings)
+  File "<__array_function__ internals>", line 5, in argwhere
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/core/numeric.py", line 584, in argwhere
+    return transpose(nonzero(a))
+  File "<__array_function__ internals>", line 5, in nonzero
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 1908, in nonzero
+    return _wrapfunc(a, 'nonzero')
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 58, in _wrapfunc
+    return bound(*args, **kwds)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

@@ -1,0 +1,9 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Normal mode: welcome to the BusterBot. Please rate movies here, 
+        putting movies in quotations. Remember to give your opinion and please
+        avoid giving multiple movies at once!
+        
+[96mbusterbot> [0mHow can I help you?
+> :quit
+[96mbusterbot> [0mHave a nice day!

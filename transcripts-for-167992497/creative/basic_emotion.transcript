@@ -1,0 +1,55 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to the Chavo del Ocho Movie Chatbot! This is an engaging chatbot
+        that can mainly help you find your next favorite movie recommendation!
+        Just provide him with a few movies you've seen and tell him what you thought
+        of them and magic will happen. Chavo is smart and can find movies even
+        when you don't write them with the exact name. Exciting!
+        
+        But that's not all, Chavo can handle open ended conversation (you can tell
+        him about your feelings) and many more! 
+        
+[96mChavo del Ocho> [0mHola! I'm Chavo and I can help you find your new favorite movie! Just tell me about a
+movie that you have seen and whether or not you like it. Ah, just make sure to place the movie between
+quotes so I can recognize it, por favor!
+> Hello!
+
+[96mChavo del Ocho> [0mHola hola!
+> I am feeling sad.
+
+[96mChavo del Ocho> [0mI'm sorry that you're feeling sad. I would give you a hug if I had a body!
+> I am feeling angry.
+
+[96mChavo del Ocho> [0mI'm sorry that you're feeling angry. I would give you a hug if I had a body!
+> I have been feeling down lately.
+
+[96mChavo del Ocho> [0mHmmm, is that a movie? Can you try again?
+> I'm so glad that I finished my exams.
+
+[96mChavo del Ocho> [0mGreat to hear that you're feeling glad! Tadaaa
+> I am very angry.
+
+[96mChavo del Ocho> [0mI'm sorry that you're feeling angry. I would give you a hug if I had a body!
+> I am now happy.
+
+[96mChavo del Ocho> [0mThat's great, I'm also feeling happy myself!!! SIII
+> I am ANGERED.
+
+[96mChavo del Ocho> [0mNot sure I got that. Try writing your movie between quotes!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mChavo del Ocho> [0mI couldn't tell if you liked or not "Titanic (1997)". Can you try again por favor?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mChavo del Ocho> [0mOhhh, sorry to hear that. Hopefully a good movie rec can cheer you up! Yuup
+> I'm anxious about everything.
+
+[96mChavo del Ocho> [0mHeyo! Wanna tell me about movies you've seen?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mChavo del Ocho> [0mNot sure I got that. Try writing your movie between quotes!
+> I HAAAATE movies.
+
+[96mChavo del Ocho> [0mNot sure I got that. Try writing your movie between quotes!
+> :quit
+[96mChavo del Ocho> [0mAdiós! Hope have a nice day!

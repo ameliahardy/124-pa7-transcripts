@@ -1,0 +1,69 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! This is moo-v-bot, your very own personalized moo-vie recommender!
+
+        How to use:
+        On prompt, please tell moo-v-bot about a movie(s) that you've watched! For the purposes
+        of this bot, please surround movie titles with "" to indicate your movie.
+
+        For example:
+            - I really really liked "Zootopia"
+            - I did not like "Head on"
+            - I liked "Zootopia" and "The Sixth Sense"
+        
+        If you type a movie title to matches to other movie titles, moo-v-bot will ask you to clarify
+        your movie selection. You can respond to this with:
+            - Specifying the movie title            : "Monty Python's And Now for Something Completely Different"
+            - Specifying the movie year             : "2016"
+            - Listing the order on the given list   : "1" or "first"
+
+        After collecting five movies, moo-v-bot will recommend up to ten different movies based on your
+        preferences! 
+        
+        Additionally, moo-v-bot may also respond to some non-movie request messages as well! These special commands include:
+            - "hi"
+            - "my name is Dan"
+            - "What is your name?"
+        moo-v-bot may also have some responses to more general communications too:
+            - "i am happy!"
+            - "i feel tired.."
+            
+        Have fun!
+        
+[96mmoo-v-bot> [0mHello I am moo-v-bot! 🐮 Please tell me about some moo-vies that moo've watched!
+> I liked "Harry Potter".
+
+[96mmoo-v-bot> [0m🐮 Did moo mean any of these moo-vies?
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+Harry Potter and the Chamber of Secrets (2002)
+Harry Potter and the Prisoner of Azkaban (2004)
+Harry Potter and the Goblet of Fire (2005)
+Harry Potter and the Order of the Phoenix (2007)
+Harry Potter and the Half-Blood Prince (2009)
+Harry Potter and the Deathly Hallows: Part 1 (2010)
+Harry Potter and the Deathly Hallows: Part 2 (2011)
+ 🐮 Select moovie from above or say no: 
+> Chamber of Secrets
+
+[96mmoo-v-bot> [0m
+🐮 Moo! I see that you like Harry Potter and the Chamber of Secrets (2002).
+🐮 Tell me about another moo-vie that moo've watched!
+> I liked "Harry Potter".
+
+[96mmoo-v-bot> [0m🐮 Did moo mean any of these moo-vies?
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)
+Harry Potter and the Chamber of Secrets (2002)
+Harry Potter and the Prisoner of Azkaban (2004)
+Harry Potter and the Goblet of Fire (2005)
+Harry Potter and the Order of the Phoenix (2007)
+Harry Potter and the Half-Blood Prince (2009)
+Harry Potter and the Deathly Hallows: Part 1 (2010)
+Harry Potter and the Deathly Hallows: Part 2 (2011)
+ 🐮 Select moovie from above or say no: 
+> Prisoner of Azkaban
+
+[96mmoo-v-bot> [0m
+🐮 Moo! I see that you like Harry Potter and the Prisoner of Azkaban (2004).
+🐮 Tell me about another moo-vie that moo've watched!
+> :quit
+[96mmoo-v-bot> [0mThank you! Have a wonder-moo day! 🐮

@@ -1,0 +1,80 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mAlto> [0mHi! I'm Alto I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I liked "Titanic (1997)"
+
+[96mAlto> [0mGlad you enjoyed "Titanic (1997)". Could you talk about a movie that you have seen?
+> I hated "Zootopia"
+
+[96mAlto> [0mOk, you didn't like watching "Zootopia (2016)". Can you describe a movie that you recently watched?
+> I liked "Tangled Ever After"
+
+[96mAlto> [0mSounds like you thought "Tangled Ever After (2012)" was a great movie. Thank you! Can you describe a movie that you recently watched?
+> I hated "Sleeping Beauty"
+
+[96mAlto> [0mYou did not liked "Sleeping Beauty (1959)". Thank you! Have you seen any movies lately? Tell me about one.
+> I liked "Mulan"
+
+[96mAlto> [0mGlad you enjoyed "Mulan (1998)".Your input has given me enough information to suggest a movie. "The Ridiculous 6 (2015)" is a solid new movie choice. Do you want to hear another suggestion?(Or enter :quit if you're done.)
+> yes
+
+[96mAlto> [0mI think you'd like "Pixels (2015)". Would you like to hear another recommendation?(Or enter :quit if you're done.)
+> yes
+
+[96mAlto> [0mYou might want to check out "World War Z (2013)". Would you like to hear another recommendation?(Or enter :quit if you're done.)
+> yes
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_yes'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167977055/chatbot.py", line 573, in process
+    return self.res_cont_rec(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167977055/chatbot.py", line 208, in res_cont_rec
+    response = self.res_make_rec()
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167977055/chatbot.py", line 150, in res_make_rec
+    recs = self.recommend(user_ratings, self.ratings, k=self.rec_k, creative=False)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167977055/chatbot.py", line 1138, in recommend
+    rx = np.apply_along_axis(self.func_a, 1, nonrated_updated, nonzero)
+  File "<__array_function__ internals>", line 5, in apply_along_axis
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/lib/shape_base.py", line 402, in apply_along_axis
+    buff[ind] = asanyarray(func1d(inarr_view[ind], *args, **kwargs))
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167977055/chatbot.py", line 1087, in func_a
+    s = np.apply_along_axis(self.func_b, 1, nonzero, a)
+  File "<__array_function__ internals>", line 5, in apply_along_axis
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/lib/shape_base.py", line 402, in apply_along_axis
+    buff[ind] = asanyarray(func1d(inarr_view[ind], *args, **kwargs))
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167977055/chatbot.py", line 1081, in func_b
+    den = (np.linalg.norm(a[:-1]) * np.linalg.norm(b[:-1]))
+  File "<__array_function__ internals>", line 4, in norm
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 2360, in _norm_dispatcher
+    return (x,)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

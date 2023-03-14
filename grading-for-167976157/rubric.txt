@@ -1,0 +1,62 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): NO //come back to 
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+TODO: Our group divided the labor as follows: 
+
+Spencer: Implemented extract_titles, find_movies_by_title, extract_sentiment for the standard mode. Did fine-grained sentiment extraction and alternative/foreign titles for the creative portion of the assignment.
+Gary: Implemented the recommend() method alongside some assistance from Spencer additionally added binzarize and similarity, implemented disambiguation() and extract_sentiment_for_movies
+Asher: Implemented parts of process() method with Ahekeel. Made a persona and responses to arbitrary/emotional input for creative
+Ahkeel: Implemented parts of process() method with Asher. Used state machine to control chatbot conversation flow. Added functionality for disambiguation of movies and control flow for handling multiple movies per line.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+There are a variety of ramifications that we can run into along the process of anthromorphizing chatbot systems, such as what first occurred with ELIZA, in which we begin to form some sort of emotional connection to the systems, which in hand with potentially developing over reliance upon the system, may cause some to begin to feel real deep attachment. This can cause over trusting, especially when the systems we are built with are not perfect and may have biases built into them or incomplete data that can be incorrect, leading the user astray. Furthermore, it may have some sort of dehumanizing effect from the user's perspective as they may begin to conflate the attributes of the system with those that are naturally occurring among real humans and find that with this, people can not live up to the standards of the machine are therefore some sort of less value. 
+
+Potential ways that engineers can make the distinction more clear is by adding more clear cut reminders that the system they are working with is, in fact a system, through either visual or written cues that clearly indicate the limitations of the machine and may keep users more grounded. Furthermore, engineers can establish limiters upon the system that prevent it from going into some areas that are more considered to be distinctly human or if they do allow this, have explicit disclaimers that are in place to force the user to acknolwedge that the machine is imperfect and non human even if it may attempt to replicate these aspects. 
+
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

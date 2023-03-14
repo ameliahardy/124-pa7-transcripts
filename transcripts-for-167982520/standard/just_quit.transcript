@@ -1,0 +1,10 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Sherlock bot will deduce the best movie for you! Give it your opinion of a movie and it will extract
+        the sentiment. Ask for it to show you interesting movies or give you recommendations and it will 
+        begin returning a list of possible movie recommendations! If you spell something wrong or give a vague title,
+        no worries! Sherlock bot will help you clarify.
+        
+[96mSherlock Bot> [0mHow may I assist you?
+> :quit
+[96mSherlock Bot> [0mThank you, have a great day!

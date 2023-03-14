@@ -1,0 +1,68 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to our World-Wide-West themed Chatbot! Once you tell Cowboy Buster
+        how you felt about five movies, he'll politely suggest a few movies that you might like.
+        In creative mode, you should be able to speak about these movies without worrying about
+        perfect spelling, quotations and/or capitalization.
+        
+[96mCowboy Buster Suggester of the World Wide West> [0mHowdy pardner! I'm Cowboy Buster Suggester of the World Wide West. If ya tell me a film you've watched, I'll give ya a suggestion back. Yeehaw!
+> I liked "Titanic (1997)"
+
+Got it, you took a likin' to Titanic (1997).
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I hated "Zootopia"
+
+Sounds like you didn't much appreciate Zootopia.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I liked "Tangled Ever After"
+
+Got it, you took a likin' to Tangled Ever After.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I hated "Sleeping Beauty"
+
+Sounds like you didn't much appreciate Sleeping Beauty.
+[96mCowboy Buster Suggester of the World Wide West> [0mWhy don't ya tell me the name of one more film ya liked? By hook or by crook I'll find a good suggestion.
+> I liked "Mulan"
+
+Got it, you took a likin' to Mulan.
+Well shucks, I reckon I got all I need to lasso ya up a good recommendation! Giddyup!
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "The Ridiculous 6 (2015)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> yes
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Pixels (2015)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> yes
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "World War Z (2013)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> yes
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Karate Kid, The (2010)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> y
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Not Another Teen Movie (2001)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> y
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Damage (Fatale) (1992)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> Yes!
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Knowing (2009)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> yeah
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Food, Inc. (2008)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> no
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Criminal Lovers (1999)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> nah
+
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, I kindly suggest you watch "Barfly (1987)."
+How 'bout I rustle up another tip for ya partner? You can always ":quit" if not.
+> :quit
+[96mCowboy Buster Suggester of the World Wide West> [0mWell, looks like it's time for me to ride off into the sunset. Yippee ki-yay!

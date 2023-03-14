@@ -1,0 +1,69 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to our movie recommender chatbot. Tell us which movies
+        you like, dislike, or have seen, and we'll recommend movies you might
+        find enjoy.
+        
+[96mMovieChatbot> [0mHello, we are going to recommend you movies based on your reviews, type creative to do creative reviews, otherwise just type a review!
+> I liked "Blade Runner".
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeeyou liked Blade Runner 
+ please tell me more about your movie preferences we need 3 more reviews to recommend
+> But not "Terminator Salvation".
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeeyou feel neutral about Terminator Salvation 
+ please tell me more about your movie preferences we need 2 more reviews to recommend
+> I saw "Titanic (1997)".
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeeyou feel neutral about Titanic (1997) 
+ please tell me more about your movie preferences we need 1 more reviews to recommend
+> I liked it.
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Star Wars: Episode V - The Empire Strikes Back (1980)
+Alien (1979)
+Terminator, The (1984)
+Monty Python and the Holy Grail (1975)
+Back to the Future (1985)
+> I watched "Scream".
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Star Wars: Episode V - The Empire Strikes Back (1980)
+Alien (1979)
+Terminator, The (1984)
+Monty Python and the Holy Grail (1975)
+Back to the Future (1985)
+> I didn't like that movie.
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Star Wars: Episode V - The Empire Strikes Back (1980)
+Alien (1979)
+Terminator, The (1984)
+Monty Python and the Holy Grail (1975)
+Back to the Future (1985)
+> I felt the same about "Zootopia".
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Star Wars: Episode V - The Empire Strikes Back (1980)
+Alien (1979)
+Terminator, The (1984)
+Monty Python and the Holy Grail (1975)
+Back to the Future (1985)
+> And also "Ex Machina".
+
+We have recorded that you rated Blade Runner (1982) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Star Wars: Episode V - The Empire Strikes Back (1980)
+Alien (1979)
+Terminator, The (1984)
+Monty Python and the Holy Grail (1975)
+Back to the Future (1985)
+> :quit
+[96mMovieChatbot> [0mHave a nice day! great chatting with you

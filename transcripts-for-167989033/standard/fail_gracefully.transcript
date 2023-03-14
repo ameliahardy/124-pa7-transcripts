@@ -1,0 +1,36 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a movie chat bot that will reccomend movies to you. Movie names must be enclosed in quotations and please include sentiment
+[96mmoviebot> [0mHow can I help you?
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI found one movie 'Titanic (1997)'
+I can't find any sentiment please tell me more about 'Titanic (1997)'
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mIf you're sure this movie exists please add more details
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mI detected many movies
+> I like "Titanic".
+
+[96mmoviebot> [0mI returned many movies did you mean one of these, 'Titanic (1997)', 'Titanic (1953)'
+> I like titanic.
+
+[96mmoviebot> [0mThis didn't make sense, please try again
+> I like "titanic".
+
+[96mmoviebot> [0mI couldn't find the movie, perhaps you should try with more details
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mThis didn't make sense, please try again
+> Howdy.
+
+[96mmoviebot> [0mPlease try again following my instructions
+> ...
+
+[96mmoviebot> [0mThis didn't make sense, please try again
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mIf you're sure this movie exists please add more details
+> :quit
+[96mmoviebot> [0mI hope I was helpful!

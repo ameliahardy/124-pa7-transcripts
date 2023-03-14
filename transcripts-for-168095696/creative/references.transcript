@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+SpongeBot is a chatbot that recommends movies to a user based on the user’s input from the MovieLens database. The user can type several movies they liked and disliked. After SpongeBot takes in several inputs, it offers movie recommendations to the user based on his or her likes and dislikes. SpongeBot can account for alternate movie titles, different versions of the same movie (year), and user typos. SpongeBot has a SpongeBob persona!
+[96mSpongeBot> [0mHey, Spongebuddy! Let's talk about movies!
+> I liked "Blade Runner".
+
+[96mSpongeBot> [0mGotcha, you're a fan of Blade Runner.  What other movies have you watched?
+> But not "Terminator Salvation".
+
+[96mSpongeBot> [0mI see that you mentioned Terminator Salvation, can you tell me a little more about how you feel about it?
+> I saw "Titanic (1997)".
+
+[96mSpongeBot> [0mDidn't quite get that, sorry! Let's talk about something else What other movies have you watched?
+> I liked it.
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> I watched "Scream".
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> I didn't like that movie.
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> I felt the same about "Zootopia".
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> And also "Ex Machina".
+
+[96mSpongeBot> [0mIt looks like you might not have movies in quotes. Are all your movies in quotes? (Hint: simple yes or no works best)
+> :quit

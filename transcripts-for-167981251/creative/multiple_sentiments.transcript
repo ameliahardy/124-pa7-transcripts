@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                      This chatbot is designed to help users discover movies that match their 
+                      interests and preferences. Tell our bot some information about a movie you
+                      like or dislike, and the chatbot will use natural language processing to 
+                      generate an appropriate movie recommendation list!
+                      
+[96mFlixFinder> [0mHola!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mFlixFinder> [0m I see you didn't like Titanic (1997) and I see you didn't like Ex Machina and
+> I liked "Zootopia" but not "Scream".
+
+[96mFlixFinder> [0m I see you liked Zootopia I see you didn't like Scream and
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mFlixFinder> [0m I'm sorry, I'm not sure if you liked Zootopia. Tell me more about it. I'm sorry, I'm not sure if you liked Eat Pray Love. Tell me more about it.
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mFlixFinder> [0m I see you liked Zootopia I'm sorry, I'm not sure if you liked Blade Runner. Tell me more about it. I'm sorry, I'm not sure if you liked The Notebook. Tell me more about it.
+Given what you told me, I think you would like "Let It Be (1970)" How about another suggestion?
+> :quit
+[96mFlixFinder> [0mThanks for visiting!

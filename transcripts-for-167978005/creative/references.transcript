@@ -1,0 +1,40 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            "Yahooo! It's-a me, Mario, and I'm in creative mode, woo hoo! 
+            I'm your movie recommending chat bot, and I'm ready to help you 
+            find some-a great movies! Just give me your opinion, no matter how-a strong,
+            on 5 movies, and I'll-a find you one that I think you'll love! And don't-a 
+            worry, you can keep adding your preferences, more than one at a time too,
+            and I'll keep making recommendations based on previous entries! Movie titles
+            can be with or without-a quotation marks, and you don't-a need to worry about
+            your poor spelling abilities, hahaha! 
+            Let's-a gooooo!"
+            
+[96mMarioMovieBot:)> [0mYahoohoohoo! It's-a me, Mario! Let's find you a movie! Let's-a go!
+> I liked "Blade Runner".
+
+[96mMarioMovieBot:)> [0mYahoo! I see you like "Blade Runner (1982)".Hey! Come back here, you big-a monkey! Tell me more movies you like.
+> But not "Terminator Salvation".
+
+[96mMarioMovieBot:)> [0mMamma mia, the horror! I see you did not like "Terminator Salvation (2009)".Oh, yeah! Hoho! Wahoo! Tell me more movies you have watched.
+> I saw "Titanic (1997)".
+
+[96mMarioMovieBot:)> [0mI'm sorry, I'm not sure if you liked "Titanic (1997)", tell me more about it.
+> I liked it.
+
+[96mMarioMovieBot:)> [0mWhich one did you mean?
+I Spy (2002), or Spy (2015)
+> I watched "Scream".
+
+[96mMarioMovieBot:)> [0mI don't think I understand you! Can you please re-write the name of the movie you've watched. Or, Oh, yeah! Hoho! Wahoo! Tell me more movies you have watched.
+> I didn't like that movie.
+
+[96mMarioMovieBot:)> [0mAre you referring to this movie, "I'm the One That I Want (2000)"? 
+> I felt the same about "Zootopia".
+
+[96mMarioMovieBot:)> [0mOk! Can you please re-write the name of the movie you've watched. Or, Let's-a go, little guys! Rate a movie you have watched.
+> And also "Ex Machina".
+
+[96mMarioMovieBot:)> [0mI'm sorry, I'm not sure if you liked "Ex Machina (2015)", tell me more about it.
+> :quit
+[96mMarioMovieBot:)> [0mSo long, eh Bowser! Yes! I'm the winner! I hope you found a movie! Goodbye!

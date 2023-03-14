@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hello! I will recommend a movie for you that I think you'll like! To get started, tell me about some movies that you've seen!
+[96mJILF_bot> [0mHello. My name is JILF. I'll help you pick a movie today. If you ever want to leave, just type :quit 
+ But now, let's find a movie for you. To do so, tell me about movies and TV shows you have seen before and whether you liked them. 
+ Make sure to put the movie name between quotes. For example, you could say: I hated "Titanic" 
+ Oh, and lastly, just one movie please. Don't say: I loved "Titanic" and "Avatar"
+> I saw "Titanic (1997)"
+
+[96mJILF_bot> [0mI'm not sure how you feel about that movie, can you tell me more?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mJILF_bot> [0mI have sadly never heard of"Dan Jurafsky and the Ten Dwarfs (2019)"! Please tell me about another movie!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mJILF_bot> [0mPlease tell me one movie at a time!
+> I like "Titanic".
+
+[96mJILF_bot> [0mI found more than one movie with that title, can you please clarify?
+If there are different versions of the movie, please specify which one you have seen by including the year like
+ this: "Movie Title (1247)". Where 1247 would be the year the movie was made. Go ahead!
+> I like titanic.
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> I like "titanic".
+
+[96mJILF_bot> [0mSorry, I do not know of a movie called "titanic"! Please tell me about another movie!
+> I like 10 things I hate about you.
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> Howdy.
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> ...
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> I saw "Titanic (1220)"
+
+[96mJILF_bot> [0mSorry, I do not know of a movie called "Titanic (1220)"! Please tell me about another movie!
+> :quit
+[96mJILF_bot> [0mIt was an honor to be of service. Enjoy the movie!

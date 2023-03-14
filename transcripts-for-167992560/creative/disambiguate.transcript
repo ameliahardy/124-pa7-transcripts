@@ -1,0 +1,271 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mDear reader, the social season is upon us. It is I, Lady Whistledown, and today I shall recommend to you a moving picture, a movie as they say nowadays.
+ I must know what movies have pleased you so that I am able to make a most appropriate reccommendation. Would you please write about a movie that you have enjoyed?
+> I liked "Harry Potter".
+
+[96mmoviebot> [0mI apologize, I cannot find "Harry Potter" among the queen's ever so cherished crown jewels. Please write another title, .
+> Chamber of Secrets
+
+Title in: harry potter and the chamber of secrets
+[96mmoviebot> [0mI apologize, I cannot find "chamber of secrets" among the queen's ever so cherished crown jewels. Please write another title, .
+> I liked "Harry Potter".
+
+[96mmoviebot> [0mI apologize, I cannot find "Harry Potter" among the queen's ever so cherished crown jewels. Please write another title, .
+> Prisoner of Azkaban
+
+Title in: american president, the
+Title in: dead presidents
+Title in: chungking express
+Title in: prophecy, the
+Title in: pred dozhdot
+Title in: little princess, a
+Title in: léon: the professional
+Title in: the professional
+Title in: priest
+Title in: pret-a-porter
+Title in: swan princess, the
+Title in: tales from the crypt presents: demon knight
+Title in: adventures of priscilla, queen of the desert, the
+Title in: clear and present danger
+Title in: hudsucker proxy, the
+Title in: program, the
+Title in: bulletproof heart
+Title in: ciao, professore!
+Title in: princess caraboo
+Title in: pretty woman
+Title in: primal fear
+Title in: promise, the
+Title in: versprechen, das
+Title in: celtic pride
+Title in: heaven's prisoners
+Title in: nutty professor, the
+Title in: tales from the crypt presents: bordello of blood
+Title in: project s
+Title in: bulletproof
+Title in: little princess, the
+Title in: robin hood: prince of thieves
+Title in: manon of the spring
+Title in: private benjamin
+Title in: enchanted april
+Title in: princess bride, the
+Title in: april fool's day
+Title in: preacher's wife, the
+Title in: prefontaine
+Title in: prisoner of the mountains
+Title in: private parts
+Title in: sprung
+Title in: mépris, le
+Title in: my own private idaho
+Title in: prophecy ii, the
+Title in: primary colors
+Title in: spanish prisoner, the
+Title in: prom night
+Title in: prom night ii
+Title in: prom night iii: the last kiss
+Title in: prom night iv: deliver us from evil
+Title in: absent-minded professor, the
+Title in: saving private ryan
+Title in: nutty professor, the
+Title in: pretty in pink
+Title in: under capricorn
+Title in: indecent proposal
+Title in: producers, the
+Title in: practical magic
+Title in: jerry springer: ringmaster
+Title in: prince of egypt, the
+Title in: prancer
+Title in: my science project
+Title in: free enterprise
+Title in: blair witch project, the
+Title in: problem child
+Title in: problem child 2
+Title in: outside providence
+Title in: hairspray
+Title in: princess mononoke
+Title in: experience preferred... but not essential
+Title in: presidio, the
+Title in: c'est arrivé près de chez vous
+Title in: shanghai surprise
+Title in: sesame street presents follow that bird
+Title in: horror express
+Title in: roadside prophets
+Title in: midnight express
+Title in: predator
+Title in: prince of tides, the
+Title in: prick up your ears
+Title in: carnosaur 3: primal species
+Title in: myth of fingerprints, the
+Title in: prizzi's honor
+Title in: private school
+Title in: predator 2
+Title in: assault on precinct 13
+Title in: prince of the city
+Title in: sugarland express, the
+Title in: nutty professor ii: the klumps
+Title in: private eyes, the
+Title in: proof of life
+Title in: all the pretty horses
+Title in: prelude to a kiss
+Title in: extreme prejudice
+Title in: von ryan's express
+Title in: gentlemen prefer blondes
+Title in: princess and the warrior, the
+Title in: rivières pourpres, les
+Title in: princess diaries, the
+Title in: i never promised you a rose garden
+Title in: witness for the prosecution
+Title in: mothman prophecies, the
+Title in: préparez vos mouchoirs
+Title in: richard pryor here and now
+Title in: promises
+Title in: tale of springtime, a
+Title in: conte de printemps
+Title in: impromptu
+Title in: rabbit-proof fence
+Title in: principal, the
+Title in: pride of the yankees, the
+Title in: modern problems
+Title in: professional, the
+Title in: le professionnel
+Title in: richard pryor live on the sunset strip
+Title in: bulletproof monk
+Title in: procès, le
+Title in: dirty pretty things
+Title in: national lampoon presents dorm daze
+Title in: all the president's men
+Title in: pieces of april
+Title in: presumed innocent
+Title in: proof
+Title in: profondo rosso
+Title in: leprechaun
+Title in: spring forward
+Title in: prince & me, the
+Title in: pride and prejudice
+Title in: pride and prejudice
+Title in: prince and the showgirl, the
+Title in: virgin spring, the
+Title in: spring, summer, fall, winter... and spring
+Title in: harry potter and the prisoner of azkaban
+Title in: pretty baby
+Title in: kaena: the prophecy
+Title in: kaena: la prophétie
+Title in: prince valiant
+Title in: bourne supremacy, the
+Title in: unprecedented: the 2000 presidential election
+Title in: prime of miss jean brodie, the
+Title in: princess diaries 2: royal engagement, the
+Title in: avp: alien vs. predator
+Title in: murder on the orient express
+Title in: basket case 3: the progeny
+Title in: primer
+Title in: polar express, the
+Title in: professione: reporter
+Title in: in praise of older women
+Title in: prince of darkness
+Title in: prospero's books
+Title in: lion king ii: simba's pride, the
+Title in: rivières pourpres ii - les anges de l'apocalypse, les
+Title in: festival express
+Title in: interpreter, the
+Title in: assault on precinct 13
+Title in: bride & prejudice
+Title in: ice princess
+Title in: prime cut
+Title in: proof
+Title in: family guy presents stewie griffin: the untold story
+Title in: prize winner of defiance ohio, the
+Title in: proposition, the
+Title in: american pie presents: band camp
+Title in: pride & prejudice
+Title in: producers, the
+Title in: richard pryor: live in concert
+Title in: late spring
+Title in: tini zabutykh predkiv
+Title in: project a
+Title in: on probation
+Title in: leprechaun in the hood
+Title in: lisbela e o prisioneiro
+Title in: lisbela and the prisoner
+Title in: prairie home companion, a
+Title in: protector, the
+Title in: devil wears prada, the
+Title in: you, me and dupree
+Title in: private life of henry viii, the
+Title in: prestige, the
+Title in: american pie presents the naked mile
+Title in: priceless
+Title in: hors de prix
+Title in: premonition
+Title in: paprika
+Title in: hairspray
+Title in: death proof
+Title in: i now pronounce you chuck and larry
+Title in: eastern promises
+Title in: avpr: aliens vs. predator - requiem
+Title in: witless protection
+Title in: semi-pro
+Title in: prom night
+Title in: american pie presents beta house
+Title in: chronicles of narnia: prince caspian, the
+Title in: reprise
+Title in: pineapple express
+Title in: pride and glory
+Title in: fireproof
+Title in: proposal, the
+Title in: prison break: the final break
+Title in: harry potter and the half-blood prince
+Title in: precious
+Title in: princess and the frog, the
+Title in: american pie presents: the book of love
+Title in: luftslottet som sprängdes
+Title in: prophet, a
+Title in: un prophète
+Title in: mr. warmth: the don rickles project
+Title in: le premier jour du reste de ta vie
+Title in: apprenticeship of duddy kravitz, the
+Title in: prince of persia: the sands of time
+Title in: predators
+Title in: sorcerer's apprentice, the
+Title in: eat pray love
+Title in: la prima cosa bella
+Title in: family guy presents: it's a trap
+Title in: priest
+Title in: prom
+Title in: project nim
+Title in: april love
+Title in: mission: impossible - ghost protocol
+Title in: prayers for bobby
+Title in: project x
+Title in: prometheus
+Title in: dragon ball: sleeping princess in devil's castle
+Title in: presto
+Title in: premium rush
+Title in: promised land
+Title in: spring breakers
+Title in: ivan vasilievich menyaet professiyu
+Title in: prisoners
+Title in: jackass presents: bad grandpa
+Title in: whoopi goldberg presents moms mabley
+Title in: springsteen & i
+Title in: premature
+Title in: pride
+Title in: predestination
+Title in: project almanac
+Title in: going clear: scientology and the prison of belief
+Title in: the stanford prison experiment
+Title in: getting go, the go doc project
+Title in: pride and prejudice and zombies
+Title in: approaching the unknown
+Title in: sunspring
+[96mmoviebot> [0mI understand, dear reader. You did not enjoy "pr". You certainly have an appreciation for the arts. Would you tell me another film that has tickled your fancy?
+> :quit
+[96mmoviebot> [0mI bid you farewell. All if fair in love and war. 
+Yours Truly,
+Lady Whistledown

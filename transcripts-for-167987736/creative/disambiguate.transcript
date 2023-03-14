@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mWelcome, young Jedi. With the power of the Force and Yodaflix's expertise, the perfect movie you will find.
+> I liked "Harry Potter".
+
+[96mYodaFlix> [0mChoose, you must. Which one did you mean? "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)", "Harry Potter and the Chamber of Secrets (2002)", "Harry Potter and the Prisoner of Azkaban (2004)", "Harry Potter and the Goblet of Fire (2005)", "Harry Potter and the Order of the Phoenix (2007)", "Harry Potter and the Half-Blood Prince (2009)", "Harry Potter and the Deathly Hallows: Part 1 (2010)", or "Harry Potter and the Deathly Hallows: Part 2 (2011)".
+> Chamber of Secrets
+
+[96mYodaFlix> [0mA different movie, you must teach me of, if you truly liked "Harry Potter and the Chamber of Secrets (2002)"
+> I liked "Harry Potter".
+
+[96mYodaFlix> [0mLost, we are. Which movie is the one you seek? "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)", "Harry Potter and the Chamber of Secrets (2002)", "Harry Potter and the Prisoner of Azkaban (2004)", "Harry Potter and the Goblet of Fire (2005)", "Harry Potter and the Order of the Phoenix (2007)", "Harry Potter and the Half-Blood Prince (2009)", "Harry Potter and the Deathly Hallows: Part 1 (2010)", or "Harry Potter and the Deathly Hallows: Part 2 (2011)".
+> Prisoner of Azkaban
+
+[96mYodaFlix> [0mliked "Harry Potter and the Prisoner of Azkaban (2004)" you say. Movies I need to learn your preferences of, more of them
+> :quit
+[96mYodaFlix> [0mGoodbye, it is. The galaxy of cinema awaits you. May your movie choices be wise and fulfilling.

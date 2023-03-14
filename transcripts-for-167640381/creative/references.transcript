@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is warm and fuzzy and loves movies. Have fun with
+        general version or yoda-version :-)
+        
+[96mDanimuraBot> [0mHi, Yoda Moviebot, I am! About your taste in movies, tell me you will. Recommend a movie for you, I shall! A movie you like, tell me (and please the title in quotation marks put!)
+> I liked "Blade Runner".
+
+[96mDanimuraBot> [0mGlad to hear that you liked, 'Blade Runner' I am. Force I have, but need I must to hear about another movie.
+> But not "Terminator Salvation".
+
+[96mDanimuraBot> [0mOne movie at a time, list, can I. Sorry, I am. Patience you must have, hmmm.
+> I saw "Titanic (1997)".
+
+[96mDanimuraBot> [0mOne movie at a time, list, can I. Sorry, I am. Patience you must have, hmmm.
+> I liked it.
+
+[96mDanimuraBot> [0mSorry, I am! Understand, I do not. About a movie, please tell me -- put the title in quotation marks, you must!
+> I watched "Scream".
+
+[96mDanimuraBot> [0mHmm, found more than one movie called 'Scream' have I. Which one did you mean, I am wondering?
+- Scream of Stone (Cerro Torre: Schrei aus Stein) (1991)
+- Scream (1996)
+- Scream 2 (1997)
+- Scream 3 (2000)
+Clarify the specific version you liked, I am hoping you will.
+> I didn't like that movie.
+
+[96mDanimuraBot> [0mClarification does not seem to match any movies, Yodabot is afraid. Try again I request.
+> I felt the same about "Zootopia".
+
+[96mDanimuraBot> [0mClarification does not seem to match any movies, Yodabot is afraid. Try again I request.
+> And also "Ex Machina".
+
+[96mDanimuraBot> [0mClarification does not seem to match any movies, Yodabot is afraid. Try again I request.
+> :quit
+[96mDanimuraBot> [0mMay the Force be with you!

@@ -1,0 +1,82 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+We split up the starter mode work by working in pairs (Daphne and Ashna, and Nikita and Priti).
+Nikita and Priti implemented extract_titles, extract_sentiment, and binarize.
+Priti implemented recommend.
+Ashna and Daphne implemented find_movies_by_title.
+Daphne and Nikita worked on process.
+
+For creative mode, we each were in charge of one aspect then got help, advice, clarifications, 
+debugging assistance from each other so that coding was distributed in terms of both difficulty
+and workload.
+Nikita and Daphne implemented extract_sentiment_for_movies.
+Ashna implemented extract titles and find movies by title.
+Priti focused on process.
+Priti implemented disambiguation, closest title, and fine-grained sentiment.
+Daphne worked on the ethics question.
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Because many chatbots rely heavily on data collection to provide better reponses, it leaves a lot of information
+in the hands of the creators of those chatbot systems. This could potentially be harmless, but as we continue to
+anthropomorphize chatbots, the technology will likely require more and more complex data to be collected. This is
+concerning because in the case of ELIZA, even Wiesenbaum himself was concerned with people's trust in the
+chatbot system, and felt worried that people could be misled by NLP's power. If technology created by the wrong
+people are put in the wrong hands, there could be loads of information leaked where it should not have, and computers
+that aren't equipped to resolve the information its being told. While a chatbot might be helpful in performing a
+transaction or giving recommendations, it will never be equipped enough to give purposeful, harmless, and detailed
+psychiatric, medical, or any other subjective domain advice.
+
+One way that engineers could ensure that users have easily distinguish chatbot responses from human responses is just
+to paint out the chatbot as a strictly non-human character. This means it must be something that could never be
+interpreted even close to a human. For example, animals and pets could still be seen has having feeling and though, so it
+should be something that isn't alive. If the user doesn't feel like the chatbot acts human, then it won't treat it like one.
+Here, we must remember that good chatbots don't necessarily need to be human-like, they just need to get their job done.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

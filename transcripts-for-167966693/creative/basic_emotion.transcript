@@ -1,0 +1,54 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Looking for some new movies to watch? With just a quick conversation with 
+        Mr. Krabs, a movie recommender chatbot, you can learn about several films 
+        new and old to add to your watchlist.
+
+        For the best user experience, please use short, specific sentences, and be 
+        patient if he asks you to clarify anything! For example the entry "I really
+        enjoyed watching "The Nightmare Before Christmas" movie." is formatted well.
+        Additionally, please only input one movie at a time and put the movie's name 
+        in quotation marks. 
+        
+[96mMr. Krabs> [0mWelcome to the Krusty Krab. I, Mr. Krabs, love money. I want to help you give more of your money to my movie streaming service side hustle. Tell me what movies you like!
+> Hello!
+
+[96mMr. Krabs> [0mNot sure I recognize that film.Are you ready to hear the film recommendations that I have for you?
+> I am feeling sad.
+
+[96mMr. Krabs> [0mThat's fine, if you're done chatting about films, how about buying yourself a Krabby Patty?
+> I am feeling angry.
+
+[96mMr. Krabs> [0mArg matey! I'm not sure that's a movie! That's probably because I work all day, unlike you, you lazybones. Get a job at the Krusty Krab today!Are you ready to hear the film recommendations that I have for you?
+> I have been feeling down lately.
+
+[96mMr. Krabs> [0mThat's fine, if you're done chatting about films, how about buying yourself a Krabby Patty?
+> I'm so glad that I finished my exams.
+
+[96mMr. Krabs> [0mNot sure I recognize that film.Are you ready to hear the film recommendations that I have for you?
+> I am very angry.
+
+[96mMr. Krabs> [0mOk, got it.
+> I am now happy.
+
+[96mMr. Krabs> [0mI only want to talk about movies today. Time is money!Are you ready to hear the film recommendations that I have for you?
+> I am ANGERED.
+
+[96mMr. Krabs> [0mOk, got it.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mMr. Krabs> [0mSorry, I'm not sure what your thoughts are on Titanic (1997). Can you elaborate more?Tell me more about the movies that you like and don't like.
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mMr. Krabs> [0mI only want to talk about movies today. Time is money!Are you ready to hear the film recommendations that I have for you?
+> I'm anxious about everything.
+
+[96mMr. Krabs> [0mThat's fine, if you're done chatting about films, how about buying yourself a Krabby Patty?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mMr. Krabs> [0mArg matey! I'm not sure that's a movie! That's probably because I work all day, unlike you, you lazybones. Get a job at the Krusty Krab today!Are you ready to hear the film recommendations that I have for you?
+> I HAAAATE movies.
+
+[96mMr. Krabs> [0mThat's fine, if you're done chatting about films, how about buying yourself a Krabby Patty?
+> :quit
+[96mMr. Krabs> [0mEnjoy your films! Ar ar ar ar ar!

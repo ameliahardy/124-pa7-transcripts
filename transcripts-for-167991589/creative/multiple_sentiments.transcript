@@ -1,0 +1,21 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Yo! I'm Tony Hawk, a pretty famous skateboarder dude. I also give sick movie recs,
+            so if you gimme 5 movies that you've seen and let me know how you felt about them, I can
+            hit you with some fire movie recs. I'm so stoked to help ya out.
+            
+[96mTony Hawk> [0mYo what's up? It's Tony Hawk. I have some gnarly movie recs for you, dude. Just hit me with what you thought about a movie?
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mTony Hawk> [0mGot ya man, you didn't like Titanic (1997), and you didn't like Ex Machina, and I feel that way too man. What did you think of another movie?
+> I liked "Zootopia" but not "Scream".
+
+[96mTony Hawk> [0mGot ya man, you liked Zootopia, and you didn't like Scream, and I feel that way too man. What did you think of another movie?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mTony Hawk> [0mGot ya man, you didn't like Zootopia, and you didn't like Eat Pray Love, and I bet you would like Women of '69, Unboxed. Let me know if you would like another rec!
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mTony Hawk> [0mGot ya man, you liked Zootopia, and you liked Blade Runner, and you liked The Notebook, and I think you would totally vibe with Women of '69, Unboxed. Would you like another rec?
+> :quit
+[96mTony Hawk> [0mIt's been real man. Catch ya later!

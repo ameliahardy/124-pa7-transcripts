@@ -1,0 +1,65 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): NO
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: NO
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: YES
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Si-Woo Ahn: Implemented Starter code except for recommend() and process(). Implemented creative parts for extract_titles(), find_movies_by_title(), extract_sentiment(), extract_sentiment_for_movies().
+Joseph Ngo: Implemented recommend() and process(). Implemented creative parts for process() and hooking up extract_sentiment_for_movies() to the chatbot.
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+=> ChatBots and non-human tools have different needs, capabilities, responsibilities, and intentions. By anthropomorphizing
+chatbots, we blur what these needs, capabilities, responsibilities, and intentions are. In the example of a chatbot
+for mental health, we cannot assume that the bot has the same understanding of human emotions as we do. By anthropomorphizing 
+it, any mistakes that it might make could have a far greater impact on the patient. Similarly, it can also lead to people 
+becoming emotionally attached to the bot which migh lead to a toxic relationship as the bot cannot reciprocate 
+in a relationship as a human might. Additionally, such relationship might lead the user to be more likely to share 
+sensitive information, which poses a privacy risks. All in all, there are several risks that come with anthropomorphizing 
+such technologies.
+
+=> The esasiest way to ensure that users can distinguish the chatbot's response to that of a human is to explicitly
+state so. This can be seen in current chat gpt technologies that introduce themselves as bots. Additionally, they 
+can limit how much the bots mimick human speech through rigid patterns that don't take away from the functionality,
+but still allows for easy differentiation between human and bot speech. 
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

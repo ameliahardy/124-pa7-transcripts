@@ -1,0 +1,5 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is movie recommending bot. It is able to take in your feelings about movies and recommend you based on your input. Please be clear with what you say and the movie you are referring to. 
+[96mCardi Bot> [0mHi! I'm a simple bot that focuses on one thing and one thing only: to give you movie recommendations! To start off, tell me a movie you watched and how you felt about it. 
+> :quit
+[96mCardi Bot> [0mI hope I've been helpful. Have a nice day!

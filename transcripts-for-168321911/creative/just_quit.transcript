@@ -1,0 +1,13 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Your task is to implement the chatbot as detailed in the PA7
+       instructions.
+       Remember: in the starter mode, movie names will come in quotation marks
+       and expressions of sentiment will be simple!
+       TODO: Write here the description for your own chatbot!
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

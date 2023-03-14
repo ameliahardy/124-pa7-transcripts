@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mmoviebot> [0mAchina (2015) Tell me more about movies you have liked/disliked!
+> I liked "Zootopia" but not "Scream".
+
+[96mmoviebot> [0mAm (1996) Tell me more about movies you have liked/disliked!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mmoviebot> [0mPray Love (2010). Based on your inputs here is a recommendation. I think you should watch Joy (2015). Would you like more recommendations?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mmoviebot> [0mCouldn't understand what you want? Can you say yes or no?
+> :quit
+[96mmoviebot> [0mHave a nice day!

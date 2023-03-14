@@ -1,0 +1,46 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mH-hewwo! It's Chatty here, and I'd love to like, suggest a movie for you, nya~! B-before we get started though, could you t-tell me a little bit about your movie preferences? Maybe, umm, you could tell me about a movie you've seen before, owo? Then I can like, recommend something that I think you'll really enjoy, heheh~!
+> I liked "Blade Runner".
+
+[]
+[96mmoviebot> [0mMeowvelous! Tell me about another movie that left you feline good, nya! I'm ready to listen... (=^･^=)
+> But not "Terminator Salvation".
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "But not Terminator Salvation" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> I saw "Titanic (1997)".
+
+[]
+[96mmoviebot> [0mHey hey! Sorry to bother you again, but I'm not quite sure if you liked or disliked "Titanic (1997)"! Could you please try telling me again, but make sure to include the name of the movie like you just did? Thank you so much! (＾ω＾)
+> I liked it.
+
+[]
+[2557, 5841, 5969]
+[96mmoviebot> [0mAww, hehe! I'm sorry to bother you, but it looks like there's more than one movie with the title "it" in my database, owo! Could you maybe specify which movie you're talking about, nya? 
+ 
+ Include one of these: [Play it to the Bone (1999), It (1990), As it is in Heaven (Så som i himmelen) (2004),]^_^
+> I watched "Scream".
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "I watched Scream" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> I didn't like that movie.
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "that movie" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> I felt the same about "Zootopia".
+
+[]
+[96mmoviebot> [0mOh no, I'm sorry, but I didn't quite understand. It seems like "I felt the same about Zootopia" isn't in my movie database, nya. Could you try again or suggest a different movie, owo?
+> And also "Ex Machina".
+
+[]
+[96mmoviebot> [0mOh no, I'm sorry, but I didn't quite understand. It seems like "And also Ex Machina" isn't in my movie database, nya. Could you try again or suggest a different movie, owo?
+> :quit
+[96mmoviebot> [0mO-oh my goodness, thank you so much for spending time with me, nya~! It was so much fun chatting with you, and I hope we can like, stay in touch and chat some more soon, owo! Goodbye for now, and take care!

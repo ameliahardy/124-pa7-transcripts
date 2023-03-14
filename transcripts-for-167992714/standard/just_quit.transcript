@@ -1,0 +1,9 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is the SUPER MOVIEBOT. This movie bot will ask the user for an input 
+        of movies & the user's opinion on it! After 5 or more data inputs, the moviebot
+        will automatically ask the user if they want a ~JUICY~ recommendation! Enjoy!
+        
+[96mGordon Ramsey Bot> [0mHallo, mate! I'm Gordon Ramsey, your trusty movie chef. Give me some ingredients (opinions on movies), and once I have enough ingredients for the perfect dish, I'll whip you up nicely seasoned suggestions.
+> :quit
+[96mGordon Ramsey Bot> [0mEnjoy your ridiculously good movie dishes!

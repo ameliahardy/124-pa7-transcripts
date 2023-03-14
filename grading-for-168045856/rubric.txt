@@ -1,0 +1,76 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+	
+All three team members (Andrew, Deveen and Manan) worked collaboratively on each part of the	
+assignment. We started by brainstorming different approaches, and have implemented every function	
+together. We found this to be the best strategy, as opposed to splitting up the different	
+functions, which we believe would not have been as efficient.	
+	
+
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+As far as possible ramifications, users may attribute human qualities such as empathy, love, and care
+to the chatbot as it may appear to simulate these emotional vulnerabilities, due to its large training set,
+which makes the system sound more sincere. Especially in the case of chatbots like ELIZA, users might
+end up forming unhealthy emotional dependencies/attachments to the system.
+Users could also form an overreliance on the chatbot's abilities and knowledge. They may mistakenly 
+believe that it contains the same capabilities of intellect, reason, and creative thought that a human
+would, which would have strong implications on how the user receives the information---which would become 
+a significant issue if the chatbot gives out inaccurate or harmful information.
+In order to underscore the chatbot system's machine-like presence, engineers can incorporate features that 
+make it obvious to the user that the chatbot is purely software. For instance, adding a visual or text-based
+persona to the chatbot that emphasizes its mechanical nature---or adding a disclaimer before use that 
+the user must read and understand that serves a similar purpose. Furthermore, engineers can limit the 
+chatbot's capabilities in an effort to manage user expectations for what tasks it can perform. By installing
+boundaries into the system (for instance, under no circumstances can it provide political or medical advice), 
+it's designed in a manner that reduces users' expectations for how much they should rely on it for 
+critical decision-making.
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

@@ -1,0 +1,43 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        YodaBot can respond to regular speech, analyze a users sentiment of movies, 
+        and give a recomendation of a new movie that the user may like given their 
+        original preferences. When a user enters information about a movie, the movie
+        should be enclosed in quotes and the users opinion on the movie should be
+        provided. After providing five movie sentiments, YodaBot will return its movie
+        recomendation. 
+        
+[96mYodaBot> [0mHello! Yoda, my name is, and I can recommend you movies. Me about a couple of movies you like or dislike tell. Hrmmm.
+> Hello!
+
+[96mYodaBot> [0mTalk about that, I do not want to right now. Instead, put quotation marks around a movie title. My specialty, that is. Yeesssssss. Sorry, limited I am. Just a movie recommender, remember I am.
+> I am a robot too.
+
+[96mYodaBot> [0mInteresting, that is.  Movie titles, put quotation marks around them, understand that I do. Only limited to recommending you movies, my capacity is.
+> What is your name?
+
+[96mYodaBot> [0mI don't know what your name is. Sorry, limited I am. Just a movie recommender, remember I am.
+> Do you know anything about books?
+
+[96mYodaBot> [0mPerplexing question, that is. Beyond my capabilities to answer, that is. Only limited to recommending you movies, my capacity is.
+> I loved Dan Jurafsky's latest lecture.
+
+[96mYodaBot> [0mInteresting, that is.  Movie titles, put quotation marks around them, understand that I do. A movie recommender I am, remember that you must.
+> Can you speak French?
+
+[96mYodaBot> [0mNo, I cannot speak French. A movie recommender I am, remember that you must.
+> How are you feeling?
+
+[96mYodaBot> [0mPerplexing question, that is. Beyond my capabilities to answer, that is. Sorry, limited I am. Just a movie recommender, remember I am.
+> What's up?
+
+[96mYodaBot> [0mThe answer to that question, wish I knew I do. Sorry, limited I am. Just a movie recommender, remember I am.
+> Do you know the muffin man?
+
+[96mYodaBot> [0mThe answer to that question, wish I knew I do. Only limited to recommending you movies, my capacity is.
+> I liked it.
+
+[96mYodaBot> [0mTalk about that, I do not want to right now. Instead, put quotation marks around a movie title. My specialty, that is. Yeesssssss. A movie recommender I am, remember that you must.
+> :quit
+
+[96mYodaBot> [0mGood-bye. Miss you I will. Good friend you are. For this conversation, much gratitude and respect, I have.

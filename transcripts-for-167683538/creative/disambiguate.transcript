@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi, I'm your movie chatbot, MovieGenie. I can talk about movie recommendations, and please ask me about one movie at a time!
+        You can input up to five movies that you like, and I'll find a movie that I think you would like.
+        In starter mode, please put your movie in quotation marks! In creative mode, watch me transform into a Southern chatbot.
+        You don't have to put titles in quotation marks and can only mention parts of a title in quotes. I'll guide you through the selection process!
+        
+[96mMovieGenie> [0mHowdy! My name's MovieGenie, a bot that suggests movies. I reckon I should ask you about your movie tastes. Come on, honey, tell me bout a movie you've seen and whether not you had a grand ol time watchin it.
+> I liked "Harry Potter".
+
+[96mMovieGenie> [0mI reckon you outta pick one of these movies: ["Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)", 'Harry Potter and the Chamber of Secrets (2002)', 'Harry Potter and the Prisoner of Azkaban (2004)', 'Harry Potter and the Goblet of Fire (2005)', 'Harry Potter and the Order of the Phoenix (2007)', 'Harry Potter and the Half-Blood Prince (2009)', 'Harry Potter and the Deathly Hallows: Part 1 (2010)', 'Harry Potter and the Deathly Hallows: Part 2 (2011)']
+> Chamber of Secrets
+
+[96mMovieGenie> [0mI reckon thats right. You were dancin like a junebug when watchin "Harry Potter and the Chamber of Secrets (2002)"!
+Aren't you precious? Why don't you tell me about another movie you have watched.
+> I liked "Harry Potter".
+
+[96mMovieGenie> [0mI reckon you outta pick one of these movies: ["Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)", 'Harry Potter and the Chamber of Secrets (2002)', 'Harry Potter and the Prisoner of Azkaban (2004)', 'Harry Potter and the Goblet of Fire (2005)', 'Harry Potter and the Order of the Phoenix (2007)', 'Harry Potter and the Half-Blood Prince (2009)', 'Harry Potter and the Deathly Hallows: Part 1 (2010)', 'Harry Potter and the Deathly Hallows: Part 2 (2011)']
+> Prisoner of Azkaban
+
+[96mMovieGenie> [0mI reckon thats right. You were grinnin like a possum at "Harry Potter and the Prisoner of Azkaban (2004)"!
+Well, I declare you ought ta tell me about another movie.
+> :quit
+[96mMovieGenie> [0mAlright, sugarplum! Take care now!

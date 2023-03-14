@@ -1,0 +1,29 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+CineBotYoda, your personal movie recommendation expert, I am! Whether action, romance, or comedy; recommend movies to you, I will. In "Quotation Marks" type your movie, and let the Force guide you!
+[96mCineBotYoda> [0mA movie you seek, hm...? Help you, YodaCinebot will.
+> I liked "Blade Runner".
+
+[96mCineBotYoda> [0mLiked "Blade Runner", I see. Perhaps another movie, we should dicuss. 
+> But not "Terminator Salvation".
+
+[96mCineBotYoda> [0mUnderstand your feelings toward "Terminator Salvation (2009)", I do not. Specify, you should. 
+> I saw "Titanic (1997)".
+
+[96mCineBotYoda> [0mUnderstand your feelings toward "Titanic (1997)", I do not. Specify, you should. 
+> I liked it.
+
+[96mCineBotYoda> [0mClouded, the future is, but movies, we should discuss. 
+> I watched "Scream".
+
+[96mCineBotYoda> [0mUnderstand your feelings toward "Scream (1996)", I do not. Specify, you should. 
+> I didn't like that movie.
+
+[96mCineBotYoda> [0mClouded, the future is, but movies, we should discuss. 
+> I felt the same about "Zootopia".
+
+[96mCineBotYoda> [0mUnderstand your feelings toward "Zootopia (2016)", I do not. Specify, you should. 
+> And also "Ex Machina".
+
+[96mCineBotYoda> [0mUnderstand your feelings toward "Ex Machina (2015)", I do not. Specify, you should. 
+> :quit
+[96mCineBotYoda> [0mFarewell, and may the Force be with you. 

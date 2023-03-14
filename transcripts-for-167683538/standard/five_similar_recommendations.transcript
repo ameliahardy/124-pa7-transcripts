@@ -1,0 +1,66 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi, I'm your movie chatbot, MovieGenie. I can talk about movie recommendations, and please ask me about one movie at a time!
+        You can input up to five movies that you like, and I'll find a movie that I think you would like.
+        In starter mode, please put your movie in quotation marks! In creative mode, watch me transform into a Southern chatbot.
+        You don't have to put titles in quotation marks and can only mention parts of a title in quotes. I'll guide you through the selection process!
+        
+[96mMovieGenie> [0mHello! I am MovieGenie, a bot that makes movie recommendations. First I will ask you about your taste in movies. Tell me about a movie that you have seen and whether you liked it.
+> I liked "Titanic (1997)"
+
+[96mMovieGenie> [0mAlright. You were pleased with "Titanic (1997)"!
+What about another movie?
+> I hated "Zootopia"
+
+[96mMovieGenie> [0mAh. You didn't enjoy "Zootopia (2016)".
+Please tell me about another movie you have watched.
+> I liked "Tangled Ever After"
+
+[96mMovieGenie> [0mAlright. You appreciated "Tangled Ever After (2012)"!
+Please tell me about another movie you have watched.
+> I hated "Sleeping Beauty"
+
+[96mMovieGenie> [0mI see. You were not delighted with "Sleeping Beauty (1959)".
+Please tell me about another movie you have watched.
+> I liked "Mulan"
+
+[96mMovieGenie> [0mAh. You enjoyed "Mulan (1998)"!
+That's enough for me to make a recommendation.
+You will be pleased with "The Ridiculous 6 (2015)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[96mMovieGenie> [0mI suggest you watch "Pixels (2015)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[96mMovieGenie> [0mI suggest you watch "World War Z (2013)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[96mMovieGenie> [0mYou will be pleased with "Karate Kid, The (2010)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> y
+
+[96mMovieGenie> [0mYou will like "Not Another Teen Movie (2001)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> y
+
+[96mMovieGenie> [0mYou will enjoy "Damage (Fatale) (1992)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> Yes!
+
+[96mMovieGenie> [0mI suggest you watch "Knowing (2009)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> yeah
+
+[96mMovieGenie> [0mYou will enjoy "Food, Inc. (2008)".
+Would you like another recommendation? (Or enter :quit if you're done.)
+> no
+
+[96mMovieGenie> [0mGot it. I hope I was helpful today. Please enter :quit to finish.
+> nah
+
+[96mMovieGenie> [0mOkay. I hope you had fun! Please enter :quit to finish.
+> :quit
+[96mMovieGenie> [0mThank you for your time. Have a nice day!

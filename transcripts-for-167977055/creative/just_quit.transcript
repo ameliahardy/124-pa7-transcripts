@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mAlto> [0mWell, well, well, darling! It's Edna Mode. How lovely to see you again. Now, let's talk about movies, shall we? I'm going to recommend a movie to you, but first, I simply must ask about your taste in films. So, do tell me, darling, about a movie that you have seen and what you thought of it. Remember, darling, honesty is always in style!
+> :quit
+[96mAlto> [0mIt was lovely chatting with you, darling! Have a fabulous day!

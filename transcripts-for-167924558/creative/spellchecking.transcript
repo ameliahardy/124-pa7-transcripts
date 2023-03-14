@@ -1,0 +1,22 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        PIRATE MODE: MATEY WE'VE GOT A CRITICAL MISSION.
+        IN THIS MODE, PUT SOME NICE LOOT (MOVIES) IN QUOTES
+        AHOYYYY ME AND THE MATIES NEED SOME NICE MOVIES AFTER A
+        HARD DAY OF SHIPWORK
+        
+[96mbootybot> [0mMATEY what are we doing today? AHOYYYY
+> I liked "The Notbook".
+
+[96mbootybot> [0mARGHHHH did you mean "Notebook, The (2004)"?
+> Yes.
+
+[96mbootybot> [0mFIRE AWAY! "Notebook, The (2004)" is a great pick for our next post-raid watch. I NEED SOME MORE LOOT, crewmate! GIVE ME SOME MORE!
+> I did not like "Screm"
+
+[96mbootybot> [0mARGHHHH did you mean "Scream (1996)"?
+> No.
+
+[96mbootybot> [0mOkay. I NEED SOME MORE LOOT, crewmate! GIVE ME SOME MORE!
+> :quit
+[96mbootybot> [0mHave a nice day!

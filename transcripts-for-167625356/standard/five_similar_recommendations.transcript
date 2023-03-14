@@ -1,0 +1,60 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        I can recommend movies to you if you tell me your feelings about
+        a few of them. You can hit enter once you're done typing so I can 
+        respond. Make sure to enclose the movie names in double quotes 
+        if you're running in basic mode. 
+        
+[96mApril> [0mUm hi I'm April Ludgate, I'm only here because I get college credit for this. Tell me about your movie taste, or don't. I don't really care.
+> I liked "Titanic (1997)"
+
+[96mApril> [0mOk, you liked "Titanic (1997)" or whatever. Tell me about another movie, or don't. I don't care.
+> I hated "Zootopia"
+
+[96mApril> [0mI get it, you don't like "Zootopia". Tell me about another movie, ugh.
+> I liked "Tangled Ever After"
+
+[96mApril> [0mYou thought "Tangled Ever After" was pretty good? I didn't. Tell me about another movie, ugh.
+> I hated "Sleeping Beauty"
+
+[96mApril> [0mOk you didn't like "Sleeping Beauty" or whatever. Um ok, tell me about another movie.
+> I liked "Mulan"
+
+[96mApril> [0mYou thought "Mulan" was pretty good? I didn't.
+I can make a recommendation, I guess. Jeez, just give me a second ...
+[96mApril> [0mYou might like "The Ridiculous 6 (2015)", or whatever.
+Would you like to hear another recommendation?
+> yes
+
+[96mApril> [0mYou might like "Pixels (2015)", or whatever.
+Would you like to hear another recommendation?
+> yes
+
+[96mApril> [0mYou might like "World War Z (2013)", or whatever.
+Would you like to hear another recommendation?
+> yes
+
+[96mApril> [0mWatch "Karate Kid, The (2010)".
+Would you like to hear another recommendation?
+> y
+
+[96mApril> [0mI didn't catch that because I wasn't listening. Do you want more recommendations?
+> y
+
+[96mApril> [0mI didn't catch that because I wasn't listening. Do you want more recommendations?
+> Yes!
+
+[96mApril> [0mYou might like "Not Another Teen Movie (2001)", or whatever.
+Would you like to hear another recommendation?
+> yeah
+
+[96mApril> [0mYou might like "Damage (Fatale) (1992)", or whatever.
+Would you like to hear another recommendation?
+> no
+
+[96mApril> [0mProvide more movie reviews or just leave already (enter :quit).
+> nah
+
+[96mApril> [0mI don't get what you just said.
+> :quit
+[96mApril> [0mBye I guess.

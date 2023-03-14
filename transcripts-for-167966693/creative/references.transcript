@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Looking for some new movies to watch? With just a quick conversation with 
+        Mr. Krabs, a movie recommender chatbot, you can learn about several films 
+        new and old to add to your watchlist.
+
+        For the best user experience, please use short, specific sentences, and be 
+        patient if he asks you to clarify anything! For example the entry "I really
+        enjoyed watching "The Nightmare Before Christmas" movie." is formatted well.
+        Additionally, please only input one movie at a time and put the movie's name 
+        in quotation marks. 
+        
+[96mMr. Krabs> [0mWelcome to the Krusty Krab. I, Mr. Krabs, love money. I want to help you give more of your money to my movie streaming service side hustle. Tell me what movies you like!
+> I liked "Blade Runner".
+
+[96mMr. Krabs> [0m Interesting choice! I think I saw Plankton watching Blade Runner on Karen the other day, but to each their own, I guess.Tell me more about the movies that you like and don't like.
+> But not "Terminator Salvation".
+
+[96mMr. Krabs> [0mSorry, I'm not sure what your thoughts are on Terminator Salvation. Can you elaborate more?Give me some more to work with! Some ketchup for that burger, some mayo for those fries. Give me an opinion about a movie that you've seen.
+> I saw "Titanic (1997)".
+
+[96mMr. Krabs> [0mSorry, I'm not sure what your thoughts are on Titanic (1997). Can you elaborate more?Tell me more about the movies that you like and don't like.
+> I liked it.
+
+[96mMr. Krabs> [0mNot sure I recognize that film.Are you ready to hear the film recommendations that I have for you?
+> I watched "Scream".
+
+[96mMr. Krabs> [0mSorry, I'm not sure what your thoughts are on Scream. Can you elaborate more?Tell me more about the movies that you like and don't like.
+> I didn't like that movie.
+
+[96mMr. Krabs> [0mOk, got it.
+> I felt the same about "Zootopia".
+
+[96mMr. Krabs> [0mSorry, I'm not sure what your thoughts are on Zootopia. Can you elaborate more?Tell me more about the movies that you like and don't like.
+> And also "Ex Machina".
+
+[96mMr. Krabs> [0mSorry, I'm not sure what your thoughts are on Ex Machina. Can you elaborate more?Tell me more about the movies that you like and don't like.
+> :quit
+[96mMr. Krabs> [0mEnjoy your films! Ar ar ar ar ar!

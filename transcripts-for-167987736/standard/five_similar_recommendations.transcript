@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mGreetings, young Padawan. Watch great movies, you will, with Yodaflix as your guide.
+> I liked "Titanic (1997)"
+
+[96mYodaFlix> [0mfancied "Titanic (1997)" you say. Movies I need to learn your preferences of, more of them
+> I hated "Zootopia"
+
+[96mYodaFlix> [0mdid not fancy "Zootopia", you did. About another movie, tell me.
+> I liked "Tangled Ever After"
+
+[96mYodaFlix> [0mfancied "Tangled Ever After", you did. About another movie, tell me.
+> I hated "Sleeping Beauty"
+
+[96mYodaFlix> [0mHmm, you disliked "Sleeping Beauty". Another movie, I must hear about
+> I liked "Mulan"
+
+[96mYodaFlix> [0mHmm, enjoyed you say about "Mulan". A recommendation, would you like?
+> yes
+
+[96mYodaFlix> [0mI recommend "The Ridiculous 6 (2015)". Would you like another recommendation?
+> yes
+
+[96mYodaFlix> [0mI recommend "Pixels (2015)". Would you like another recommendation?
+> yes
+
+[96mYodaFlix> [0mI recommend "World War Z (2013)". Would you like another recommendation?
+> y
+
+[96mYodaFlix> [0mI wasn't sure if that was a yes or a no. Would you like a movie recommendation?
+> y
+
+[96mYodaFlix> [0mI wasn't sure if that was a yes or a no. Would you like a movie recommendation?
+> Yes!
+
+[96mYodaFlix> [0mI wasn't sure if that was a yes or a no. Would you like a movie recommendation?
+> yeah
+
+[96mYodaFlix> [0mI recommend "Karate Kid, The (2010)". Would you like another recommendation?
+> no
+
+[96mYodaFlix> [0mOkay! Tell me about another movie.
+> nah
+
+[96mYodaFlix> [0mNot want to talk about that, I do. Back to movies, can we get?
+> :quit
+[96mYodaFlix> [0mParting time, it is. Watch more movies, you should. Great happiness, they will bring.

@@ -1,0 +1,56 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        The movie recommender is a chatbot that recommends movie titles to the user based
+        on user's profile. In the basic mode, the chatbot requires 5 datapoints of input from
+        the user to decide what movie to recommend to the user. The inputs from the user are
+        generally strict, such as movies having to be quoted in quotation marks, as well as 
+        the required simplicity of the sentence. In the creative mode, the chatbot is able 
+        to perform more nuanced lingusitic tasks and allows for more verbal freedom from the
+        user. The chatbot is a first attempt to mimick human capacity of natural language 
+        processing and understanding.
+        
+[96mQuentin> [0mNice to meet you! I'm Quentin Tarantino, director of films such as "Pulp Fiction" and "Kill Bill". People think I have a thing for feet, and that's true. Please tell me about a movie that you liked or didn't like and I'll give you some recommendations.
+> I liked "Titanic (1997)"
+
+[96mQuentin> [0mSo you enjoyed "Titanic (1997)". Tell me about another movie you liked or didn't like.
+> I hated "Zootopia"
+
+[96mQuentin> [0m"Zootopia" was so bad I cried. I need to know what other movies gave you strong emotional reactions.
+> I liked "Tangled Ever After"
+
+[96mQuentin> [0mNice, "Tangled Ever After" is one of my guilty pleasures too. Give me another movie, I wanna know if we have anything else in common.
+> I hated "Sleeping Beauty"
+
+[96mQuentin> [0m"Sleeping Beauty" was so bad I cried. I need to know what other movies gave you strong emotional reactions.
+> I liked "Mulan"
+
+[96mQuentin> [0mOk, I have enough information. "The Ridiculous 6 (2015)" might be a pleasant watch. Want another recommendation? (yes/no)
+> yes
+
+[96mQuentin> [0mWatch "Pixels (2015)" and get back to me. I wanna know what you think. Do you have time for another recommendation? (yes/no)
+> yes
+
+[96mQuentin> [0m"World War Z (2013)" might be a pleasant watch. Want another recommendation? (yes/no)
+> yes
+
+[96mQuentin> [0m"Karate Kid, The (2010)" might be a pleasant watch. Want another recommendation? (yes/no)
+> y
+
+[96mQuentin> [0mPlease just say yes or no
+> y
+
+[96mQuentin> [0mPlease just say yes or no
+> Yes!
+
+[96mQuentin> [0mPlease just say yes or no
+> yeah
+
+[96mQuentin> [0mPlease just say yes or no
+> no
+
+[96mQuentin> [0mOk, it's cool. Tell me about movies you've seen.
+> nah
+
+[96mQuentin> [0mI want to hear about movies. Please tell me about a movie you've seen. Hopefully it's something I made.
+> :quit
+[96mQuentin> [0mHave a wonderful day! If you have time, try my film "Once Upon a Time in Hollywood" with Leo DiCaprio, Brad Pitt, and Margot Robbie.

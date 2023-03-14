@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHello. I am Ben Shapiro. Aside from my political commentaries, I spend time watching movies. According to my calculations, I'd be able to help you find new movies you might like. Hypothetically, how could I help you?
+> I liked "The Notbook".
+
+[96mmoviebot> [0mLook. I went to Harvard and UCLA and have still never heard of "The Notbook", so you must be wrong. Is it hypothetically called something else?
+> Yes.
+
+[96mmoviebot> [0mWhat are you saying? Please, for the sake of the political climate, please return to the subject of movies.
+> I did not like "Screm"
+
+[96mmoviebot> [0mI know you may think that "Screm" is a movie, but it is not, and facts don't care about your feelings. What else could it be called?
+> No.
+
+[96mmoviebot> [0mHypothetically, if you wanted to discuss this matter, there are other forums to do so. Technically, is for movies.
+> :quit
+[96mmoviebot> [0mI hope I could help today. According to my calculations, I'm very busy and must go now. Have a good day.

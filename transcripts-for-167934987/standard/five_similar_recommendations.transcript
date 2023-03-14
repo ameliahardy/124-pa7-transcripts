@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is our bot that recommends movies given some ratings! In creative mode, it takes on the persona of Benedict Cumberbatch's Sherlock Holmes, who can be quite arrogant/rude at times.
+        
+[96mADJbot> [0mHi, I'm ADJbot! How can I help?
+> I liked "Titanic (1997)"
+
+[96mADJbot> [0mOk, you liked "Titanic"! Tell me what you thought of another movie.
+> I hated "Zootopia"
+
+[96mADJbot> [0mOk, you didn't like "Zootopia"! Could you give me your opinion on a different movie?
+> I liked "Tangled Ever After"
+
+[96mADJbot> [0mAlright, you enjoyed "Tangled Ever After"! What are your thoughts on a different movie you've seen?
+> I hated "Sleeping Beauty"
+
+[96mADJbot> [0mAlright, you didn't enjoy "Sleeping Beauty"! Can you share your impression of a different movie?
+> I liked "Mulan"
+
+[96mADJbot> [0mOkay, you favored "Mulan"!
+From what I've gathered, I recommend "The Ridiculous 6". Would you like more recommendations?
+> yes
+
+[96mADJbot> [0m
+From what I've gathered, I recommend "Pixels". Would you like me to suggest more movies?
+> yes
+
+[96mADJbot> [0m
+From what I've gathered, I recommend "World War Z". Can I offer you some more recommendations?
+> yes
+
+[96mADJbot> [0m
+From what I've gathered, I recommend "The Karate Kid". Would you like to see more movies that might interest you?
+> y
+
+[96mADJbot> [0mPlease enter a movie rating!
+> y
+
+[96mADJbot> [0mSorry, please try surrounding the title of the movie in question marks.
+> Yes!
+
+[96mADJbot> [0mSorry, please try surrounding the title of the movie in question marks.
+> yeah
+
+[96mADJbot> [0mSorry, please try surrounding the title of the movie in question marks.
+> no
+
+[96mADJbot> [0mSorry, please try surrounding the title of the movie in question marks.
+> nah
+
+[96mADJbot> [0mSorry, please try surrounding the title of the movie in question marks.
+> :quit
+[96mADJbot> [0mThank you for using ADJbot!

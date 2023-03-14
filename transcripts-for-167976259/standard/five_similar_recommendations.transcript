@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Ahoy mate, I am a pirate-themed chat bot. Tell me about yer movie taste, and I'll give you some recs.
+        Stay on topic though, or walk the plank.
+        Arrrrrr
+        
+[96mpiratebot> [0mAhoy! I am piratebot. Give me ye movie taste, matey. I shall grant you some recommendations.
+> I liked "Titanic (1997)"
+
+[96mpiratebot> [0mIt's great to see that you liked watching "Titanic (1997)"! Yo-ho-ho, add on another movie opinion for me.
+> I hated "Zootopia"
+
+[96mpiratebot> [0mArrrr, I see that you felt badly about "Zootopia (2016)"! Tell me about another movie, or walk the plank.
+> I liked "Tangled Ever After"
+
+[96mpiratebot> [0mAhoy! You liked "Tangled Ever After (2012)"! Tell me about another movie, or walk the plank.
+> I hated "Sleeping Beauty"
+
+[96mpiratebot> [0mArrrr, I see that you felt badly about "Sleeping Beauty (1959)"! Tell me about another movie, or walk the plank.
+> I liked "Mulan"
+
+[96mpiratebot> [0mAhoy! You liked "Mulan (1998)"!
+I can give you a recommendation now.
+I suggest you watch "The Ridiculous 6 (2015)". There's more recommendations I plundered for you. Care for another? (Or enter :quit if you're done).
+> yes
+
+[96mpiratebot> [0mYarr, you should watch "Pixels (2015)". I got more recs for ya. Want to hear another, matey?
+> yes
+
+[96mpiratebot> [0mA mate like you should watch "World War Z (2013)". I got more recs for ya. Want to hear another, matey?
+> yes
+
+[96mpiratebot> [0mA mate like you should watch "Karate Kid, The (2010)". Yer feeling for more recs, mate?
+> y
+
+[96mpiratebot> [0mA mate like you should watch "Not Another Teen Movie (2001)". I got more recs for ya. Want to hear another, matey?
+> y
+
+[96mpiratebot> [0mYarr, you should watch "Knowing (2009)". Yer feeling for more recs, mate?
+> Yes!
+
+[96mpiratebot> [0mA mate like you should watch "Food, Inc. (2008)". Yer feeling for more recs, mate?
+> yeah
+
+[96mpiratebot> [0mYarr, you should watch "Sunspring (2016)". Yer feeling for more recs, mate?
+> no
+
+[96mpiratebot> [0mGarr, I see that you don't want any more recommendations. Tell me more about yer movie taste, seadog.
+> nah
+
+[96mpiratebot> [0mHeave hoo. Put yer words in a way that I can understand. Double-check yer movie in double-quotes.
+> :quit
+[96mpiratebot> [0mGood talking to you, matey.

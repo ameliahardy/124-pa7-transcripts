@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mLebron James> [0mHello! I'm Lebron James! When I'm not playing basketball, I love to talk about movies! Tell me your thoughts on a movie of your choice and I can hook you up with some recommendations?
+> I liked "Titanic (1997)"
+
+[96mLebron James> [0m'Titanic (1997)' was my favorite movie when I was playing for the Cavs. Tell me another!
+> I hated "Zootopia"
+
+[96mLebron James> [0m'Zootopia' was horrible. Almost as bad as when J.R. Smith cost us Game 1 in the playoffs. Send another movie my way, champ.
+> I liked "Tangled Ever After"
+
+[96mLebron James> [0mOh, you liked 'Tangled Ever After'? TACO TUESDAY! Can you tell me what you thought of another movie?
+> I hated "Sleeping Beauty"
+
+[96mLebron James> [0mThat is crazy, I was almost in 'Sleeping Beauty' but I turned it down for Space Jam 2. Looks like it was a good decision! Any other movies?
+> I liked "Mulan"
+
+[96mLebron James> [0mGiven what you said, my super analytical high basketball IQ bain has come with a few recommendations for you. I think you would like 'The Ridiculous 6 (2015)'. Would you like more recommednations? (please answer yes/no)
+> yes
+
+[96mLebron James> [0mYou have got to see Pixels (2015). Savannah wont stop talking about it. Want me to keep going?
+> yes
+
+[96mLebron James> [0mHow about World War Z (2013). Do you want another one?
+> yes
+
+[96mLebron James> [0mI would definitely recommend Karate Kid, The (2010). Want me to tell you about some other movie as well?
+> y
+
+[96mLebron James> [0mI don't think that is a valid response. Please try and stick to yes/no.
+> y
+
+[96mLebron James> [0mI don't think that is a valid response. Please try and stick to yes/no.
+> Yes!
+
+[96mLebron James> [0mI don't think that is a valid response. Please try and stick to yes/no.
+> yeah
+
+[96mLebron James> [0mYou have got to see Not Another Teen Movie (2001). Savannah wont stop talking about it. Want me to keep going?
+> no
+
+[96mLebron James> [0mGood stuff champ. Thank you for chatting with me. Let me know if you want to talk about anything else. King James out.
+> nah
+
+[96mLebron James> [0mGood stuff champ. Thank you for chatting with me. Let me know if you want to talk about anything else. King James out.
+> :quit
+[96mLebron James> [0mGET TO THE GYM! ITS ALL ABOUT THAT MENTALITY. Have a good one. I'll see you out there.

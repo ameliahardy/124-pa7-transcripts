@@ -1,0 +1,17 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+CineBotYoda, your personal movie recommendation expert, I am! Whether action, romance, or comedy; recommend movies to you, I will. In "Quotation Marks" type your movie, and let the Force guide you!
+[96mCineBotYoda> [0mA movie you seek, hm...? Help you, YodaCinebot will.
+> I liked "The Notbook".
+
+[96mCineBotYoda> [0mHeard of "The Notbook", I have not. Try another one, you should. 
+> Yes.
+
+[96mCineBotYoda> [0mHmm... Confused I am. Discuss movies, we should. 
+> I did not like "Screm"
+
+[96mCineBotYoda> [0mA misspelling I sense. Intended to say, "Scream (1996)", did you?
+> No.
+
+[96mCineBotYoda> [0mHeard of "Screm", I have not. Try another one, you should. 
+> :quit
+[96mCineBotYoda> [0mFarewell, and may the Force be with you. 

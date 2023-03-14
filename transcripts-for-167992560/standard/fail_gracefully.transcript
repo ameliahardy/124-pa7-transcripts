@@ -1,0 +1,45 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi, my name is Whistledown. I'd like to recommend a movie to you. First, I need to know about your taste in movies. Please tell me about a movie you have liked.
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI apologize, I'm not sure if you liked "Titanic (1997)" Tell me more about "Titanic (1997)". 
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mI apologize, I cannot find "Dan Jurafsky and the Ten Dwarfs (2019)" in my database. Please enter another title.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mPlease tell me about one movie at a time.
+> I like "Titanic".
+
+[96mmoviebot> [0mI found multiple movies that match this movie title. Please clarify which movie you're referring to: 
+"Titanic (1997)"
+"Titanic (1953)"
+> I like titanic.
+
+[96mmoviebot> [0mI apologize dearly, I do not understand which movie you have seen. Would you please type it again?
+> I like "titanic".
+
+[96mmoviebot> [0mI found multiple movies that match this movie title. Please clarify which movie you're referring to: 
+"Titanic (1997)"
+"Titanic (1953)"
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mI apologize dearly, I do not understand which movie you have seen. Would you please type it again?
+> Howdy.
+
+[96mmoviebot> [0mI apologize dearly, I do not understand which movie you have seen. Would you please type it again?
+> ...
+
+[96mmoviebot> [0mI apologize dearly, I do not understand which movie you have seen. Would you please type it again?
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mI apologize, I cannot find "Titanic (1220)" in my database. Please enter another title.
+> :quit
+[96mmoviebot> [0mGoodbye.

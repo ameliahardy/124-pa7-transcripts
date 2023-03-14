@@ -1,0 +1,39 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hi there! I’m a chatbot created by Jackson Domurad, Tycho Svoboda, Karina Li, and Matthew Yekell. I help generate movie recommendations for people. The way I work is, I’ll ask the user to give 5 movies that they liked or disliked in the format, 'I liked "The Notebook"' or 'I hated "Tron"'. From there, I start to get a sense of what kinds of movies a user does and doesn’t like, and can generate a recommendation - or several for that matter. So, after the user feeds me a few data points, I spit out recs! I also take the character of Homer Simpson when I’m live! Along with movie recs, I am able to spit out responses for arbitrary questions. These responses won't be helpful, but I can do it. 
+
+[96mHomer Simpson Recommendations> [0mHomer Simpson Bot, powering on... Since I've seen every movie, I'm the best movie recommendation bot! Give me 5 movies and tell me whether you like or don't like them, and I'll tell you some other movies you'll love! Afterwards, we can all go out for some frosty chocolate milkshakes!
+> I liked "The Notbook".
+
+[96mHomer Simpson Recommendations> [0mI processed 'I liked "The Notbook".' in creative mode!! ARGGGGG! I don't know that movie and now I'm mad!! Can you tell me about another movie? In the meantime, BARTTTT WHERE AREEE YOUUUUU?!?!?!
+> Yes.
+
+[96mHomer Simpson Recommendations> [0mI processed 'Yes.' in creative mode!! Homer Simpson doesn't know that movie? Want to try another?
+> I did not like "Screm"
+
+Did you mean the movie 'Scream (1996)'? No.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167697101/chatbot.py", line 260, in process
+    self.watchedVector[titleIndex[0]] = -1
+IndexError: list index out of range

@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is our bot that recommends movies given some ratings! In creative mode, it takes on the persona of Benedict Cumberbatch's Sherlock Holmes, who can be quite arrogant/rude at times.
+        
+[96mADJbot> [0mHi, I'm ADJbot! How can I help?
+> I liked "Harry Potter".
+
+[96mADJbot> [0mI'm afraid you'll have to be more specific. Which one are you referring to, or are you incapable of providing clear details?
+Harry Potter and the Sorcerer's Stone
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Goblet of Fire
+Harry Potter and the Order of the Phoenix
+Harry Potter and the Half-Blood Prince
+Harry Potter and the Deathly Hallows: Part 1
+Harry Potter and the Deathly Hallows: Part 2
+> Chamber of Secrets
+
+[96mADJbot> [0mBased on my observations, it is clear that you have an affinity for "Harry Potter and the Chamber of Secrets". Your critique of that particular movie was underwhelming, to say the least. Perhaps you could try sharing your impression of a different film?
+> I liked "Harry Potter".
+
+[96mADJbot> [0mYour lack of clarity is hindering our conversation. Please specify which one you mean.
+Harry Potter and the Sorcerer's Stone
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Goblet of Fire
+Harry Potter and the Order of the Phoenix
+Harry Potter and the Half-Blood Prince
+Harry Potter and the Deathly Hallows: Part 1
+Harry Potter and the Deathly Hallows: Part 2
+> Prisoner of Azkaban
+
+[96mADJbot> [0mMy keen powers of observation have led me to conclude that you have a liking for "Harry Potter and the Prisoner of Azkaban". Might I suggest sharing your impression of a different one instead?
+> :quit
+[96mADJbot> [0mThank you for using ADJbot!

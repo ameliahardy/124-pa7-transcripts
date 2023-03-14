@@ -1,0 +1,38 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi! I'm a chatbot created by Maya, Kathryn, and Za. 
+        I can recommend movies for you based on your opinion of 5 movies you've seen in the past. 
+        
+[96mMeganTheeStallion> [0mHi! I'm MovieBot! I'm going to recommend a movie to you. To do this, tell me about a movie that you have seen.
+> I saw "Titanic (1997)"
+
+[96mMeganTheeStallion> [0mI'm not sure if you liked titanic (1997). Tell me more about it.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mMeganTheeStallion> [0mI've never heard of dan jurafsky and the ten dwarfs (2019). Can you specify another movie?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mMeganTheeStallion> [0mI'm sorry, tell me about one movie in particular.
+> I like "Titanic".
+
+[96mMeganTheeStallion> [0mI've heard of more than one movie called titanic, can you specify which one?
+> I like titanic.
+
+[96mMeganTheeStallion> [0mI've heard of more than one movie called titanic, can you specify which one?
+> I like "titanic".
+
+[96mMeganTheeStallion> [0mI've heard of more than one movie called titanic, can you specify which one?
+> I like 10 things I hate about you.
+
+[96mMeganTheeStallion> [0mOkay, you liked 10 things i hate about you. Tell me what you thought about another movie
+> Howdy.
+
+[96mMeganTheeStallion> [0mI'm sorry, can you please specify a movie within quotes?
+> ...
+
+[96mMeganTheeStallion> [0mI'm sorry, can you please specify a movie within quotes?
+> I saw "Titanic (1220)"
+
+[96mMeganTheeStallion> [0mI've never heard of titanic (1220). Can you specify another movie?
+> :quit
+[96mMeganTheeStallion> [0mGoodbye! Have a nice day!

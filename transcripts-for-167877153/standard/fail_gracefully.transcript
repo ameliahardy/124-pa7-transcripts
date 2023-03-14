@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hi! I'm MovieBot! I'm going to recommend a movie to you. First I will ask you about your taste in movies, and once you have provided five, I can recommend you some movies!.
+[96mThe Movie Man> [0mTell me about a movie that you have seen.
+> I saw "Titanic (1997)"
+
+[96mThe Movie Man> [0mI apologize, but I'm unsure whether you have a positive or negative view of "Titanic (1997)". Could you please try again?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mThe Movie Man> [0mI'm sorry, but I'm not familiar with "Dan Jurafsky and the Ten Dwarfs (2019)". Please double-check the spelling or try another movie.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mThe Movie Man> [0mI'm sorry, I'm only able to handle one movie at a time. Could you please give me your opinions one at a time?
+> I like "Titanic".
+
+[96mThe Movie Man> [0mI'm sorry, can you be more specific about your request?
+> I like titanic.
+
+[96mThe Movie Man> [0mHmm, I didn't detect any movie titles in your sentence. Could you please try again? Make sure your movies appear with proper capitalization and quotation marks, like: "Shrek 2 (2004)" or "Shrek 2".
+> I like "titanic".
+
+[96mThe Movie Man> [0mI'm sorry, I'm not familiar with "titanic". Please make sure the spelling is accurate or recommend a different movie.
+> I like 10 things I hate about you.
+
+[96mThe Movie Man> [0mHmm, I didn't detect any movie titles in your sentence. Could you please try again? Make sure your movies appear with proper capitalization and quotation marks, like: "Shrek 2 (2004)" or "Shrek 2".
+> Howdy.
+
+[96mThe Movie Man> [0mHmm, I didn't detect any movie titles in your sentence. Could you please try again? Make sure your movies appear with proper capitalization and quotation marks, like: "Shrek 2 (2004)" or "Shrek 2".
+> ...
+
+[96mThe Movie Man> [0mHmm, I didn't detect any movie titles in your sentence. Could you please try again? Make sure your movies appear with proper capitalization and quotation marks, like: "Shrek 2 (2004)" or "Shrek 2".
+> I saw "Titanic (1220)"
+
+[96mThe Movie Man> [0mI'm sorry, I'm not familiar with "Titanic (1220)". Perhaps you could verify the spelling or suggest another movie?
+> :quit
+[96mThe Movie Man> [0mHave a nice day!

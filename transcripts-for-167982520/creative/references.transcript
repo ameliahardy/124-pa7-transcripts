@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Sherlock bot will deduce the best movie for you! Give it your opinion of a movie and it will extract
+        the sentiment. Ask for it to show you interesting movies or give you recommendations and it will 
+        begin returning a list of possible movie recommendations! If you spell something wrong or give a vague title,
+        no worries! Sherlock bot will help you clarify.
+        
+[96mSherlock Bot> [0mGreetings! How may I be of service!
+> I liked "Blade Runner".
+
+[96mSherlock Bot> [0mI deduce that you appreciated "Blade Runner (1982)", is that right? Elementary!
+> But not "Terminator Salvation".
+
+[96mSherlock Bot> [0mUnfortunately, I am unable to discern your opinion on "Terminator Salvation (2009)" What have you deduced about your enjoyment of it? Elementary!
+> I saw "Titanic (1997)".
+
+[96mSherlock Bot> [0mI regret that I am unsure of how you feel about "Titanic (1997)"I would appreciate a more detailed account of your feelings on this matter, if you please. Splendid!
+> I liked it.
+
+[96mSherlock Bot> [0mI fail to see the relevance of that. Can we perhaps discuss movies instead?
+> I watched "Scream".
+
+[96mSherlock Bot> [0mApologies, there seems to be more than one movie named "Scream".  
+Might I trouble you to specify which of these you had in mind? Scream of Stone (Cerro Torre: Schrei aus Stein) (1991), Scream (1996), Scream 2 (1997), Scream 3 (2000)?
+> I didn't like that movie.
+
+[96mSherlock Bot> [0mMight I trouble you to specify which of these you had in mind? Scream of Stone (Cerro Torre: Schrei aus Stein) (1991), Scream (1996), Scream 2 (1997), Scream 3 (2000)?
+> I felt the same about "Zootopia".
+
+[96mSherlock Bot> [0mI must ask for further elucidation. Which of these did you have in mind? Scream of Stone (Cerro Torre: Schrei aus Stein) (1991), Scream (1996), Scream 2 (1997), Scream 3 (2000)?
+> And also "Ex Machina".
+
+[96mSherlock Bot> [0mI must ask for further elucidation. Which of these did you have in mind? Scream of Stone (Cerro Torre: Schrei aus Stein) (1991), Scream (1996), Scream 2 (1997), Scream 3 (2000)?
+> :quit
+[96mSherlock Bot> [0mWonderful, we shall meet again!

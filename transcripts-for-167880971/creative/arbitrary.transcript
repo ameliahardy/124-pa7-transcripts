@@ -1,0 +1,45 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+        Walley is a movie recommending chatbot! Tell him about some movies you have seen and he can give you some 
+        recommendations on what to watch next!"
+        
+[96mWalley> [0mHiya I'm Walley! What can I do for ya?
+> Hello!
+
+[96mWalley> [0mWhat do you mean by Hello!
+> I am a robot too.
+
+[96mWalley> [0mI'm sorry, but that doesn't seem to relate to our conversation. Can you bring us back on track?
+> What is your name?
+
+[96mWalley> [0mThat's an interesting point, but could you please bring the conversation back to movies?
+> Do you know anything about books?
+
+[96mWalley> [0mI'm sorry, I didn't quite understand what you meant. Could you please rephrase your response?
+> I loved Dan Jurafsky's latest lecture.
+
+[96mWalley> [0mI'm sorry, but that doesn't seem to relate to our conversation. Can you bring us back on track?
+> Can you speak French?
+
+[96mWalley> [0mI'm sorry, I didn't quite understand what you meant. Could you please rephrase your response?
+> How are you feeling?
+
+[96mWalley> [0mThat's an interesting point, but could you please bring the conversation back to movies?
+> What's up?
+
+[96mWalley> [0mCan you give a bit more information aboutWhat's up?
+> Do you know the muffin man?
+
+[96mWalley> [0mI'm sorry, I didn't quite understand what you meant. Could you please rephrase your response?
+> I liked it.
+
+[96mWalley> [0mWhat do you mean by I liked it.
+> :quit
+
+[96mWalley> [0mWalley out!

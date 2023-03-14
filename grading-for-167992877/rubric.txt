@@ -1,0 +1,75 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: NO
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: NO
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Krishnan - starter version of extract_titles, find_movies_by_title, extract_sentiment, binarize, similarity and recommend, ethics
+         - creative side: foreign language recognition, find_movies_by_title without correct capitalization, disambiguate part 1 and 2
+Casey    - init, starter version of extract_sentiment, extract_sentiment_for_movies, testing chatbot behavior
+         - creative side: disambiguate part 2, extract_titles (debugging), find_movies_by_title (debugging), process (debugging), troubleshooted complex disambiguate, testing chatbot behavior, chatbot/project description, custom ASCII art
+Abhinav  - starter version of process
+         - creative side: extract_titles, find_movies_closest_to_title(), extract_sentiment_for_movies()
+Gaya     - starter version: disambiguate, process
+         - creative side: processing arbitrary inputs, adapting the character to Yoda, helper functions for emotion
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Some possible ramifications are that people will begin to trust these chatbot systems similarly to humans. We also know that 
+these chatbot systems are capable of making mistakes. If a person accidentally received a misguided message or something that will trigger
+their emotions in a negative way, we can cause harm to the users. Of course the engineers can be careful about the types of responses
+that the chatbot will generate. However, this doesn't address the emotional dependence that some may develop on chatbots, acting
+almost as a substitute for human interaction. In Japan, romance games are a rising industry that allow users to fall in love with avatars
+that have conversations with users using NLP as a way to generate responses. As a result, we may see further isolation in these populations 
+and the development of unhealthy attachment styles. 
+
+Another issue that arrises with the anthropomorphism of chatbots is that it allows malicious engineers to abuse the trust
+that these chatbots establish, allowing them to manipulate the users. For example, a chatbot could guide someone to download malicious
+software. 
+One thing that engineers could do to ensure that users can easily distinguish chatbot resopnses from those of a human are to have a specific
+signature symbolizes that a response is not human generated. This is similar ot the sent from my iphone message that is sent at the end of
+outlook emails when sent through your phone. This simple labeling might take away the personal connection people have to chatbots, thus 
+lowering trust, but it also attaches people to reality and reminds them that this chatbot isn't capable of making complex decisions like a 
+human. 
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

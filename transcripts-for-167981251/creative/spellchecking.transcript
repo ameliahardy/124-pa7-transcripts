@@ -1,0 +1,22 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                      This chatbot is designed to help users discover movies that match their 
+                      interests and preferences. Tell our bot some information about a movie you
+                      like or dislike, and the chatbot will use natural language processing to 
+                      generate an appropriate movie recommendation list!
+                      
+[96mFlixFinder> [0mHello!
+> I liked "The Notbook".
+
+[96mFlixFinder> [0mDid you mean Notebook, The (2004)?
+> Yes.
+
+[96mFlixFinder> [0m Okay, you liked "Notebook, The (2004)". Got it! Tell me another one!
+> I did not like "Screm"
+
+[96mFlixFinder> [0mDid you mean Scream (1996)?
+> No.
+
+[96mFlixFinder> [0m Sorry then. Try to tell me again how you feel about this movie. Spell carefully pls
+> :quit
+[96mFlixFinder> [0mCiao!

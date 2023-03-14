@@ -1,0 +1,82 @@
+#########################################################################################                                                                                   #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): NO
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Rishi:
+Worked on the extract_sentiment(), find_movies_closest_to_title(), Identifying and responding to emotions,
+and integrating multiple functions together in process().
+
+Pann:
+Worked on extract_titles(), find_movies_by_title(), disambiguation parts 1 and 2, and recommend().
+Contributed to the integration of functions into process() and wrote a lot of the chatbot responses.
+
+Campbell:
+Worked on dialogue for implementing dialogue for disambiguating, dialogue for spellchecking, 
+responding to arbitrary inputs and answering the ethics questions.
+
+
+#########################################################################################
+# Ethics Question                                                                       #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Anthropomorphizing chatbots presents many concerns and ramifications. For one, imitating human-like conversation
+could induce those who are speaking to chatbots to reveal personal information and data since they are so convinced
+they are talking to another human being. Additonally, if chatbots become so adept at mimicing human interaction,
+people can misinterpret the chatbot's true abilities and expertise, beliving that the chatbot has more knowledge on
+certain topics than it actually does. This is especially concerning when you imagine someone believing in a chatbot's
+abilities so much that they begin to take medical advice from one instead of seeking real medical help.
+Far into the future, I am conerned that if chatbot conversations become 
+nearly indistinguishable from human conversation, human-to-human interaction could begin to decline as people come to
+rely and prefer chatbot interaction as opposed to true human interaction; this will not have positive effects on 
+people's mental health, as I believe it is essential that humans develop deep meaningful relationships in their life
+in order to derive true fulfillment and happiness.
+What ultimately separates a chatbot from a real human being is that humans can have empathy, emotional intelligence
+and are very perceptive and adept at distuniguishing the tone of those they they are conversing with; a chatbot
+does not possess those qualities. Enigneers and chatbot desingers need to embed into the chatbots certain attributes
+which highlight those differences stated above. This could be beginning every line or every conversation with a statement 
+from the bot reminding the user that the chatbot is only a machine and not a real human. Or, when being asked about
+potentially conerning topics such as medical advice as I mentioned above, the chatbot should make sure to remind the user
+of its limitations and when they should seeks answers from a real person.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+
+For the alternate/foreign titles requirement, we only did the partial credeit (4 points) portion. That is,
+the bot is be able to respond to alternate titles in foreign languages (no article handling) and English
+language (with article handling).

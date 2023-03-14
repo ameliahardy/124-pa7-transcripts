@@ -1,0 +1,57 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions:.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        Ask me some movies, tell me a joke, do something to fill the void in your life.
+        
+[96mmoviebot> [0mHi! I'm MovieBot! I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mYou were a fan of Titanic (1997). I'll keep that in mind! 
+Tell me about 4 more movies!
+> I hated "Zootopia"
+
+[96mmoviebot> [0mYou didn't like Zootopia. Thanks for letting me know. 
+Tell me about 3 more movies!
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mYou enjoyed Tangled Ever After. Got it! 
+Tell me about 2 more movies!
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mYou weren't super into Sleeping Beauty. Thanks for letting me know. 
+Tell me about 1 more movie to get a recommendation! 
+> I liked "Mulan"
+
+[96mmoviebot> [0mSorry, I'm not sure which movie you mean. Make sure to specify which year it came out.
+> yes
+
+[96mmoviebot> [0mMy apologies, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> yes
+
+[96mmoviebot> [0mMy apologies, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> yes
+
+[96mmoviebot> [0mI'm sorry, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> y
+
+[96mmoviebot> [0mSorry, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> y
+
+[96mmoviebot> [0mMy apologies, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> Yes!
+
+[96mmoviebot> [0mI apologize, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> yeah
+
+[96mmoviebot> [0mI apologize, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> no
+
+[96mmoviebot> [0mI apologize, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> nah
+
+[96mmoviebot> [0mI apologize, I'm not sure what you mean. Tell me what you thought of a movie you saw. Make sure the title is in quotation marks.
+> :quit
+[96mmoviebot> [0mThanks for chatting! Have a nice day.

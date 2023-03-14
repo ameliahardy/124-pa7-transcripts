@@ -1,0 +1,31 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        This chatbot has two modes, standard and creative. It will ask you for 5 movie,
+        and if you are in creative mode, you can specify many of those movies together!
+        Once you tell chatbot how you feel about those movies, it will start recommending them.
+        I hope you enjoy using it and get some great movie recommendations!
+        
+[96mCERTain bot> [0mHowdy! They call me CERTain bot. I created by Claire, Emily, Rachel, and Thomas. Tell me about a movie you do or don't like!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mCERTain bot> [0mY'all didn't like "Titanic (1997)"? I'll remember that like I remember the 1999 wheat harvest. It doesn't seem like "Ex Machina." was your cup of tea, sweet tea. Sorry to hear that. What's another movie you've seen sweetie boo thang?
+> I liked "Zootopia" but not "Scream".
+
+[96mCERTain bot> [0mI found more than one movie called "Scream". I narrowed it down to the following options: 
+- Scream of Stone (Cerro Torre: Schrei aus Stein) (1991)
+- Scream (1996)
+- Scream 2 (1997)
+- Scream 3 (2000)
+Could you clarify?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mCERTain bot> [0mI couldn't quite understand what movie you're specifying? Could you clarify?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mCERTain bot> [0mI couldn't quite understand what movie you're specifying? Could you clarify?
+> :quit
+[96mCERTain bot> [0mHope you got some good new movie recommendations! Im CERTain you'll enjoy them!

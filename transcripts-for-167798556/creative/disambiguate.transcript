@@ -1,0 +1,19 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        A Peter Griffin core chatbot for CS124. Hehehehehehehe.
+        
+[96mpeterbot> [0mHehehe I am peterbot. This reminds me of the time Quagmire asked me for movie suggestions...
+> I liked "Harry Potter".
+
+[96mpeterbot> [0mDid you mean Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) or Harry Potter and the Chamber of Secrets (2002) or Harry Potter and the Prisoner of Azkaban (2004) or Harry Potter and the Goblet of Fire (2005) or Harry Potter and the Order of the Phoenix (2007) or Harry Potter and the Half-Blood Prince (2009) or Harry Potter and the Deathly Hallows: Part 1 (2010) or Harry Potter and the Deathly Hallows: Part 2 (2011)?
+> Chamber of Secrets
+
+[96mpeterbot> [0mSo you've seen "Harry Potter and the Chamber of Secrets (2002)" and liked it? Me and the boys love a good Adventure movie too!
+> I liked "Harry Potter".
+
+[96mpeterbot> [0mDid you mean Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) or Harry Potter and the Chamber of Secrets (2002) or Harry Potter and the Prisoner of Azkaban (2004) or Harry Potter and the Goblet of Fire (2005) or Harry Potter and the Order of the Phoenix (2007) or Harry Potter and the Half-Blood Prince (2009) or Harry Potter and the Deathly Hallows: Part 1 (2010) or Harry Potter and the Deathly Hallows: Part 2 (2011)?
+> Prisoner of Azkaban
+
+[96mpeterbot> [0mSo you've seen "Harry Potter and the Prisoner of Azkaban (2004)" and liked it? Me and the boys love a good Adventure movie too!
+> :quit
+[96mpeterbot> [0mSee you at the Clam some time?

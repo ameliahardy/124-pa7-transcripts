@@ -1,0 +1,61 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+        Walley is a movie recommending chatbot! Tell him about some movies you have seen and he can give you some 
+        recommendations on what to watch next!"
+        
+[96mWalley> [0mHiya I'm Walley! What can I do for ya?
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mWalley> [0mAppreciate you giving me the details of not liking Titanic (1997)!Not every movie is a winner. I guess you didn't like Ex Machina!
+> I liked "Zootopia" but not "Scream".
+
+[96mWalley> [0mIsn't it great to find a movie you like. Glad you enjoyed Zootopia!Another great movie! And such a cool name! Scream!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mWalley> [0mHate that you spent time watching a bad movie like Zootopia!Appreciate you giving me the details of not liking Eat Pray Love!
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167880971/chatbot.py", line 257, in process
+    recommended = self.recommend(self.user_ratings, self.ratings, k=1)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167880971/chatbot.py", line 794, in recommend
+    num = self.similarity(ratings_matrix[i], ratings_matrix[j])*user_ratings[j]
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167880971/chatbot.py", line 734, in similarity
+    denom = np.sqrt((np.sum(np.square(u)) * np.sum(np.square(v))))
+  File "<__array_function__ internals>", line 5, in sum
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 2241, in sum
+    return _wrapreduction(a, np.add, 'sum', axis, dtype, out, keepdims=keepdims,
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 87, in _wrapreduction
+    return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

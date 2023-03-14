@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96myodabot> [0mGreetings, young padawan. For you what can Yoda do, hmm?
+> Hello!
+
+[96myodabot> [0mNot talking of movies you are. To talk of movies I want.
+> I am feeling sad.
+
+[96myodabot> [0mSorry you are sad, Yoda is.
+> I am feeling angry.
+
+[96myodabot> [0mA path to the dark side, anger is.
+> I have been feeling down lately.
+
+[96myodabot> [0mNot talking of movies you are. To talk of movies I want.
+> I'm so glad that I finished my exams.
+
+[96myodabot> [0mLike that you are happy, I do.
+> I am very angry.
+
+[96myodabot> [0mControl your anger, you must.
+> I am now happy.
+
+[96myodabot> [0mGlad you are happy, Yoda is.
+> I am ANGERED.
+
+[96myodabot> [0mMore interesting, movies are. About movies I want to hear.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96myodabot> [0mSure if you liked "Titanic (1997)", I am not. More about it could you tell me?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96myodabot> [0mMore interesting, movies are. About movies I want to hear.
+> I'm anxious about everything.
+
+[96myodabot> [0mOf movies, you speak not. Speak only of movies, I must.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96myodabot> [0mNot talking of movies you are. To talk of movies I want.
+> I HAAAATE movies.
+
+[96myodabot> [0mOf movies, you speak not. Speak only of movies, I must.
+> :quit
+[96myodabot> [0mNo more help do you require. Already know you, that which you need.

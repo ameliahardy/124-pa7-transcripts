@@ -1,0 +1,70 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            "Yahooo! It's-a me, Mario, and I'm in creative mode, woo hoo! 
+            I'm your movie recommending chat bot, and I'm ready to help you 
+            find some-a great movies! Just give me your opinion, no matter how-a strong,
+            on 5 movies, and I'll-a find you one that I think you'll love! And don't-a 
+            worry, you can keep adding your preferences, more than one at a time too,
+            and I'll keep making recommendations based on previous entries! Movie titles
+            can be with or without-a quotation marks, and you don't-a need to worry about
+            your poor spelling abilities, hahaha! 
+            Let's-a gooooo!"
+            
+[96mMarioMovieBot:)> [0mHello, it's-a me, Mario! It's Mario time! Let's find you a movie!
+> Hello!
+
+[96mMarioMovieBot:)> [0mAre you referring to this movie, "Hello, Dolly! (1969)"? 
+> I am feeling sad.
+
+[96mMarioMovieBot:)> [0mOk! Can you please re-write the name of the movie you've watched. Or, Hey! Come back here, you big-a monkey! Tell me more movies you like.
+> I am feeling angry.
+
+[96mMarioMovieBot:)> [0mAre you referring to this movie, "Feeling Minnesota (1996)"? 
+> I have been feeling down lately.
+
+[96mMarioMovieBot:)> [0mOk! Can you please re-write the name of the movie you've watched. Or, Let's-a go! Rate a movie you have wacthed before.
+> I'm so glad that I finished my exams.
+
+[96mMarioMovieBot:)> [0mAre you referring to this movie, "I'm the One That I Want (2000)"? 
+> I am very angry.
+
+[96mMarioMovieBot:)> [0mOk! Can you please re-write the name of the movie you've watched. Or, Oh, yeah! Hoho! Wahoo! Tell me more movies you have watched.
+> I am now happy.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167978005/chatbot.py", line 370, in process
+    response = self.process_creative(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167978005/chatbot.py", line 285, in process_creative
+    movies_extracted = self.find_movies_closest_to_title(titles[0])
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167978005/chatbot.py", line 717, in find_movies_closest_to_title
+    distances = np.array([self.min_edit_distance(title_no_date, self.remove_date(movie)) for movie in self.movies])
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167978005/chatbot.py", line 717, in <listcomp>
+    distances = np.array([self.min_edit_distance(title_no_date, self.remove_date(movie)) for movie in self.movies])
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167978005/chatbot.py", line 798, in min_edit_distance
+    D[i][0] = i
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 69, in handler
+    _raise_exception(timeout_exception, exception_message)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'

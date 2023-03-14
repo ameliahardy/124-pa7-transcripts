@@ -1,0 +1,11 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSlick 'Flick' Rick> [0mHowdy, partner! Name's Slick Flick Rick -- how might this cowpoke round up sum flicks fer you today?
+> :quit
+[96mSlick 'Flick' Rick> [0mAnd with that, I bid you adieu, buckaroo.

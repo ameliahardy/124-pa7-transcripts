@@ -1,0 +1,69 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Michael and Alex built out the starter mode functionality. Michael also implemented movies without 
+capitalization, alternate/foreign titles, and dialogues for spell-correcting/disambiguation. Alex
+also implemented fine-grained sentiment extraction, and emotion responses. Gaurav and Hamzah 
+worked on disambiguation and spell-correcting.
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+  An anthropomorphized chatbot system could lead to significant job loss in many industries reliant on
+human-human contact and personalized feedback; customer support and education are two that immediately come to mind. 
+With anthropomorphized bots, the function of "live chat" can effectively be replaced, and tutoring/teaching as well. 
+Moreover, broadly speaking, the world would become much more isolated in the sense that interactions are not as focused on
+direct human contact. Reliance on chatbots would mean person-person interactions can be achieved online, and this may
+lead to more isolation and thus issues such as slower behavioral growth and maturity in children.
+  
+  Engineers could ensure that chatbots using anthropomorphized characteristics are tagged with a special code and 
+clear disclaimer. There may have to be some government legislation involved to make this a reality. Furthermore, 
+anthropomorphization could be avoided entirely by engineers; chatbots could be required to pass a sentiment test where their 
+language is different enough away from a human's before they can be rolled out. Engineers could ensure that their chatbots 
+pass these marks before a bot is rolled out.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

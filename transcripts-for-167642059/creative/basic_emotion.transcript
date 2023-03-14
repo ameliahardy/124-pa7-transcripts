@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        YodaBot can respond to regular speech, analyze a users sentiment of movies, 
+        and give a recomendation of a new movie that the user may like given their 
+        original preferences. When a user enters information about a movie, the movie
+        should be enclosed in quotes and the users opinion on the movie should be
+        provided. After providing five movie sentiments, YodaBot will return its movie
+        recomendation. 
+        
+[96mYodaBot> [0mHi there, Yoda I am! Movies I recommend based on your movie preferences. Me about a movie you like or dislike, start by telling.
+> Hello!
+
+[96mYodaBot> [0mOn the topic of movies, stay we must. Sorry, I don't understand. Happy to give movie recommendations, I am, if quotations marks around titles, you put. Sorry, limited I am. Just a movie recommender, remember I am.
+> I am feeling sad.
+
+[96mYodaBot> [0mYour sadness, feel it I do. Sorry, limited I am. Just a movie recommender, remember I am.
+> I am feeling angry.
+
+[96mYodaBot> [0mYour anger, feel it I do. A movie recommender I am, remember that you must.
+> I have been feeling down lately.
+
+[96mYodaBot> [0mInteresting, that is.  Sorry, I don't understand. Happy to give movie recommendations, I am, if quotations marks around titles, you put. Only limited to recommending you movies, my capacity is.
+> I'm so glad that I finished my exams.
+
+[96mYodaBot> [0mYour happiness, feel it I do. Only limited to recommending you movies, my capacity is.
+> I am very angry.
+
+[96mYodaBot> [0mYour anger, feel it I do. Sorry, limited I am. Just a movie recommender, remember I am.
+> I am now happy.
+
+[96mYodaBot> [0mYour happiness, feel it I do. A movie recommender I am, remember that you must.
+> I am ANGERED.
+
+[96mYodaBot> [0mYour anger, feel it I do. A movie recommender I am, remember that you must.
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mYodaBot> [0mI'm sorry, I'm not sure if you liked Titanic (1997). Tell me more about it.
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mYodaBot> [0mInteresting, that is.  Movie titles, put quotation marks around them, understand that I do. A movie recommender I am, remember that you must.
+> I'm anxious about everything.
+
+[96mYodaBot> [0mTalk about that, I do not want to right now. Sorry, I don't understand. Happy to give movie recommendations, I am, if quotations marks around titles, you put. Sorry, limited I am. Just a movie recommender, remember I am.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mYodaBot> [0mTalk about that, I do not want to right now. Movie titles, put quotation marks around them, understand that I do. Sorry, limited I am. Just a movie recommender, remember I am.
+> I HAAAATE movies.
+
+[96mYodaBot> [0mInteresting, that is.  Instead, put quotation marks around a movie title. My specialty, that is. Yeesssssss. Only limited to recommending you movies, my capacity is.
+> :quit
+[96mYodaBot> [0mGood-bye. Miss you I will. Good friend you are. For this conversation, much gratitude and respect, I have.

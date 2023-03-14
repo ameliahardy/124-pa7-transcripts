@@ -1,0 +1,29 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is movie recommending bot that embodies the persona of Cardi B. It is able to take in your feelings about movies and recommend you based on your input. 
+[96mCardi Bot> [0mHiiii bestie!! This is your girl Cardi Bot. I'm a regular shmegular bot that gives people movie recommendations cuz you know, I LOOOVE movies. To start off, tell me a movie you watched and how you felt.
+> I liked "Blade Runner".
+
+[96mCardi Bot> [0m So you liked Blade Runner. Ooh, girl, you can't leave me hanging like that. Tell me another one, don't hold back! 
+> But not "Terminator Salvation".
+
+[96mCardi Bot> [0mWait, hold up. I'm not sure if I'm reading the room right. How do you feel about Terminator Salvation.  Are you vibing with this or nah? Pls answer with movie titles cuz I'm forgetful
+> I saw "Titanic (1997)".
+
+[96mCardi Bot> [0mWait, hold up. I'm not sure if I'm reading the room right. How do you feel about Titanic (1997).  Are you vibing with this or nah? Pls answer with movie titles cuz I'm forgetful
+> I liked it.
+
+[96mCardi Bot> [0mGirrl I found more than one movie called it. They are Dracula: Dead and Loving It (1995),It Takes Two (1995),Exit to Eden (1994),It Could Happen to You (1994),Some Folks Call It a Sling Blade (1993),It Happened One Night (1934),Some Like It Hot (1959),Set It Off (1996),My Life as a Dog (Mitt liv som hund) (1985),Portrait of a Lady, The (1996),Leave It to Beaver (1997),As Good as It Gets (1997),Can't Hardly Wait (1998),You Can't Take It with You (1938),Henry: Portrait of a Serial Killer (1986),Blame It on Rio (1984),Bandit Queen (1994),It Came from Hollywood (1982),It Came from Outer Space (1953),Detroit Rock City (1999),Heaven Can Wait (1978),Pit and the Pendulum (1961),Play it to the Bone (1999),Sister Act 2: Back in the Habit (1993),She's Gotta Have It (1986),Whatever It Takes (2000),Inherit the Wind (1960),True Grit (1969),Vagabond (Sans toit ni loi) (1985),Quatermass and the Pit (1967),Bring It On (2000),Turn It Up (2000),Pay It Forward (2000),Vertical Limit (2000),I'm Gonna Git You Sucka (1988),Get Over It (2001),Elvis: That's the Way It Is (1970),Exit Wounds (2001),Say It Isn't So (2001),Alaska: Spirit of the Wild (1997),Short Circuit 2 (1988),Short Circuit (1986),Last Exit to Brooklyn (1989),Let It Ride (1989),Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993),What Time Is It There? (Ni neibian jidian) (2001),Smokey and the Bandit II (1980),Smokey and the Bandit (1977),Smokey and the Bandit III (1983),Life or Something Like It (2002),I Spit on Your Grave (Day of the Woman) (1978),Zoot Suit (1981),Thrill of It All, The (1963),Bend It Like Beckham (2002),Day for Night (La Nuit Américaine) (1973),Fahrenheit 451 (1966),Seabiscuit (2003),Wait Until Dark (1967),Code Unknown (Code inconnu: Récit incomplet de divers voyages) (2000),Bullitt (1968),Play It Again, Sam (1972),Wit (2001),That's The Way I Like It (a.k.a. Forever Fever) (1998),Getting It Right (1989),Pursuit of Happiness (2001),It Had to Be You (2000),Fahrenheit 9/11 (2004),Heaven Can Wait (1943),Night and Fog (Nuit et brouillard) (1955),Spirit of St. Louis, The (1957),My Night At Maud's (Ma Nuit Chez Maud) (1969),California Split (1974),It (1990),Daria: Is It Fall Yet? (2000),Bring It On Again (2004),As it is in Heaven (Så som i himmelen) (2004),Wallace & Gromit in The Curse of the Were-Rabbit (2005),Stick It (2006),Let It Be (1970),Pursuit of Happyness, The (2006),Blithe Spirit (1945),Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Norbit (2007),Boss of It All, The (Direktøren for det hele) (2006),Drillbit Taylor (2008),Wallace and Gromit in 'A Matter of Loaf and Death' (2008),Daria: Is It College Yet? (2002),It Might Get Loud (2008),To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence) (2007),Whip It (2009),Michael Jackson's This Is It (2009),Limit (Limite) (1931),Exit Through the Gift Shop (2010),Life as We Know It (2010),True Grit (2010),Just Go with It (2011),I Don't Know How She Does It (2011),Dylan Moran Live: What It Is (2009),Ghost Rider: Spirit of Vengeance (2012),Wreck-It Ralph (2012),Jack Ryan: Shadow Recruit (2014),And So It Goes (2014),Dim Sum: A Little Bit of Heart (1985),Playing It Cool (2014),It Follows (2014),Hot Pursuit (2015). Which one do you mean???
+> I watched "Scream".
+
+[96mCardi Bot> [0mSay what? I'm not picking up what you're putting down.
+> I didn't like that movie.
+
+[96mCardi Bot> [0mHuh? What you talkin' 'bout? I don't understand, can you say that again?
+> I felt the same about "Zootopia".
+
+[96mCardi Bot> [0mWait, hold up. I'm not sure if I'm reading the room right. How do you feel about Zootopia.  Are you vibing with this or nah? Pls answer with movie titles cuz I'm forgetful
+> And also "Ex Machina".
+
+[96mCardi Bot> [0mWait, hold up. I'm not sure if I'm reading the room right. How do you feel about Ex Machina.  Are you vibing with this or nah? Pls answer with movie titles cuz I'm forgetful
+> :quit
+[96mCardi Bot> [0mOkurrr, bye! Catch you later!

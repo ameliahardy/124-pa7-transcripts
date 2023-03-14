@@ -1,0 +1,55 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! This is moo-v-bot, your very own personalized moo-vie recommender!
+
+        How to use:
+        On prompt, please tell moo-v-bot about a movie(s) that you've watched! For the purposes
+        of this bot, please surround movie titles with "" to indicate your movie.
+
+        For example:
+            - I really really liked "Zootopia"
+            - I did not like "Head on"
+            - I liked "Zootopia" and "The Sixth Sense"
+        
+        If you type a movie title to matches to other movie titles, moo-v-bot will ask you to clarify
+        your movie selection. You can respond to this with:
+            - Specifying the movie title            : "Monty Python's And Now for Something Completely Different"
+            - Specifying the movie year             : "2016"
+            - Listing the order on the given list   : "1" or "first"
+
+        After collecting five movies, moo-v-bot will recommend up to ten different movies based on your
+        preferences! 
+        
+        Additionally, moo-v-bot may also respond to some non-movie request messages as well! These special commands include:
+            - "hi"
+            - "my name is Dan"
+            - "What is your name?"
+        moo-v-bot may also have some responses to more general communications too:
+            - "i am happy!"
+            - "i feel tired.."
+            
+        Have fun!
+        
+[96mmoo-v-bot> [0mHello I am moo-v-bot! 🐮 Please tell me about some moo-vies that moo've watched!
+> I liked "The Notbook".
+
+[96mmoo-v-bot> [0m🐮 There's more than one moo-vie called " The Notbook".
+Notebook, The (2004)
+🐮 Select moovie from above or say no: 
+> Yes.
+
+[96mmoo-v-bot> [0m
+🐮 Moo! I see that you like Notebook, The (2004).
+🐮 Tell me about another moo-vie that moo've watched!
+> I did not like "Screm"
+
+[96mmoo-v-bot> [0m🐮 There's more than one moo-vie called " Screm".
+Scream (1996)
+🐮 Select moovie from above or say no: 
+> No.
+
+[96mmoo-v-bot> [0m
+🐮 Moo! I see that you dislike Scream (1996).
+🐮 Tell me about another moo-vie that moo've watched!
+> :quit
+[96mmoo-v-bot> [0mThank you! Have a wonder-moo day! 🐮

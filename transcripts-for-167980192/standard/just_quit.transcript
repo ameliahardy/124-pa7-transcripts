@@ -1,0 +1,9 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to our movie recommender chatbot. Tell us which movies
+        you like, dislike, or have seen, and we'll recommend movies you might
+        find enjoy.
+        
+[96mMovieChatbot> [0mHello, we are going to recommend you movies based on your reviews, type creative to do creative reviews, otherwise just type a review!
+> :quit
+[96mMovieChatbot> [0mHave a nice day! great chatting with you

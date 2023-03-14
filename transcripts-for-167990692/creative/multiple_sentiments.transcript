@@ -1,0 +1,64 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi! This is Moovies, your friendly neighborhood mooovie recommendations
+        chatbot! Give Moovies some movies you enjoy (or not so much) and Moovies
+        will take your preferences, extract their sentiment, and then uses collaborative
+        filtering to recommend new flicks to binge! 
+        
+        Place movies in quotation marks (unless in creative mode!) so that Moovies can
+        give the best recommendations! 
+        
+[96mMOOvies> [0m
+                +----------------------------+
+                |      Let me recommend      |
+                |      you a MOOooOvie.      |
+                |  Tell me about one that    |
+                |        you've seen.        |
+                +----------------------------+
+                        \   ^__^
+                         \  (oo)\_______
+                            (__)\       )\/\
+                                ||----w |
+                                ||     ||
+        
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mMOOvies> [0mThere were multiple MOOooOovies with that title in my database: 
+ Ex Machina (2015) 
+ Titanic (1997) 
+ Can you please specify which movie?
+> I liked "Zootopia" but not "Scream".
+
+[96mMOOvies> [0mThere were multiple MOOooOovies with that title in my database: 
+ Scream of Stone (Cerro Torre: Schrei aus Stein) (1991) 
+ Scream 3 (2000) 
+ Scream 2 (1997) 
+ Zootopia (2016) 
+ Scream (1996) 
+ Can you please specify which movie?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mMOOvies> [0mThere were multiple MOOooOovies with that title in my database: 
+ Eat Pray Love (2010) 
+ Zootopia (2016) 
+ Can you please specify which movie?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mMOOvies> [0mThere were multiple MOOooOovies with that title in my database: 
+ Notebook, The (2004) 
+ Blade Runner (1982) 
+ Zootopia (2016) 
+ Can you please specify which movie?
+> :quit
+[96mMOOvies> [0m
+                +----------------------------+
+                |        I think that        |
+                |   you are like no udder!   |
+                |       See you later...     |
+                +----------------------------+
+                        \   ^__^
+                         \  (oo)\_______
+                            (__)\       )\/\
+                                ||----w |
+                                ||     ||
+        

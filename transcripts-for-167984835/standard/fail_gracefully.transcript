@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is movie recommending bot. It is able to take in your feelings about movies and recommend you based on your input. Please be clear with what you say and the movie you are referring to. 
+[96mCardi Bot> [0mHi! I'm a simple bot that focuses on one thing and one thing only: to give you movie recommendations! To start off, tell me a movie you watched and how you felt about it. 
+> I saw "Titanic (1997)"
+
+[96mCardi Bot> [0mSorry, I'm not sure how you feel about Titanic (1997). Can you clarify whether you liked the movie or not?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mCardi Bot> [0mSorry, I could not find this movie. Can you tell me once more? Make sure you use quotation marks and correct capitalization please.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mCardi Bot> [0mPurr, you liked Titanic (1997) and you liked Scream and you liked 10 Things I Hate About You. Tell your bestie Cardi more!
+> I like "Titanic".
+
+[96mCardi Bot> [0mHold up, what does that mean? Can you break it down for me?
+> I like titanic.
+
+[96mCardi Bot> [0mHuh? What you talkin' 'bout? I don't understand, can you say that again?
+> I like "titanic".
+
+[96mCardi Bot> [0mHuh? What you talkin' 'bout? I don't understand, can you say that again?
+> I like 10 things I hate about you.
+
+[96mCardi Bot> [0mPurr,  Tell your bestie Cardi more!
+> Howdy.
+
+[96mCardi Bot> [0mSorry, I don't know what you're talking about... we are but just an undergrad-level bot. If you want movie recs, tell me about movies you liked or disliked with correct capitalization, spelling, and within quotation marks!
+> ...
+
+[96mCardi Bot> [0mSorry, I don't know what you're talking about... we are but just an undergrad-level bot. If you want movie recs, tell me about movies you liked or disliked with correct capitalization, spelling, and within quotation marks!
+> I saw "Titanic (1220)"
+
+[96mCardi Bot> [0mSorry, I'm not sure how you feel about Titanic (1220). Can you clarify whether you liked the movie or not?
+> :quit
+[96mCardi Bot> [0mI hope I've been helpful. Have a nice day!

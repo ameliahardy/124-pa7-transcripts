@@ -1,0 +1,45 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a movie chat bot that will reccomend movies to you. Movie names must be enclosed in quotations and please include sentiment
+[96mmoviebot> [0mWhat's good! Let's get started!
+> Hello!
+
+[96mmoviebot> [0mNah, bro, not feeling that convo. Let's hit up some movies instead!
+> I am feeling sad.
+
+[96mmoviebot> [0mYo, that's a bummer that you're sad
+> I am feeling angry.
+
+[96mmoviebot> [0mDude, that sucks that you're feeling angry
+> I have been feeling down lately.
+
+[96mmoviebot> [0mBro, sorry to hear you're down
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mNah, bro, not feeling that convo. Let's hit up some movies instead!
+> I am very angry.
+
+[96mmoviebot> [0mYo, that's a bummer that you're angry
+> I am now happy.
+
+[96mmoviebot> [0mBruh, it's great to hear that you're happy
+> I am ANGERED.
+
+[96mmoviebot> [0mEh, not really vibing with that topic. Wanna chat about some movies instead?
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mSorry, man, not getting any vibes. Give me more info, dude! 'Titanic (1997)'
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mBruh, I'm not feeling any sentiment from you. Tell me more about what's up with 'Titanic (1997)'
+> I'm anxious about everything.
+
+[96mmoviebot> [0mBruh, it was pretty clear that you didn't like 'Titanic (1997)'
+Bro, give me the scoop on a sick movie you've watched. I need something to check out.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mNah, bro, not feeling that convo. Let's hit up some movies instead!
+> I HAAAATE movies.
+
+[96mmoviebot> [0mNah, bro, not feeling that convo. Let's hit up some movies instead!
+> :quit
+[96mmoviebot> [0mHave a nice day fam!

@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96myodabot> [0mGreetings, young padawan. For you what can Yoda do, hmm?
+> I liked "Harry Potter".
+
+[96myodabot> [0mMore than one movie titled "Harry Potter", I found. You mean which one? Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001), Harry Potter and the Chamber of Secrets (2002), Harry Potter and the Prisoner of Azkaban (2004), Harry Potter and the Goblet of Fire (2005), Harry Potter and the Order of the Phoenix (2007), Harry Potter and the Half-Blood Prince (2009), Harry Potter and the Deathly Hallows: Part 1 (2010), or Harry Potter and the Deathly Hallows: Part 2 (2011)?
+> Chamber of Secrets
+
+[96myodabot> [0mHarry Potter and the Chamber of Secrets (2002), hrmmm? Like this movie you did, yes. About another movie, you must tell me.
+> I liked "Harry Potter".
+
+[96myodabot> [0mMore than one movie titled "Harry Potter", I found. You mean which one? Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001), Harry Potter and the Chamber of Secrets (2002), Harry Potter and the Prisoner of Azkaban (2004), Harry Potter and the Goblet of Fire (2005), Harry Potter and the Order of the Phoenix (2007), Harry Potter and the Half-Blood Prince (2009), Harry Potter and the Deathly Hallows: Part 1 (2010), or Harry Potter and the Deathly Hallows: Part 2 (2011)?
+> Prisoner of Azkaban
+
+[96myodabot> [0mHarry Potter and the Prisoner of Azkaban (2004), you liked. Happy to hear this, Yoda is. About another movie, you must tell me.
+> :quit
+[96myodabot> [0mNo more help do you require. Already know you, that which you need.

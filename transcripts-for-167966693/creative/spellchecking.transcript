@@ -1,0 +1,27 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Looking for some new movies to watch? With just a quick conversation with 
+        Mr. Krabs, a movie recommender chatbot, you can learn about several films 
+        new and old to add to your watchlist.
+
+        For the best user experience, please use short, specific sentences, and be 
+        patient if he asks you to clarify anything! For example the entry "I really
+        enjoyed watching "The Nightmare Before Christmas" movie." is formatted well.
+        Additionally, please only input one movie at a time and put the movie's name 
+        in quotation marks. 
+        
+[96mMr. Krabs> [0mWelcome to the Krusty Krab. I, Mr. Krabs, love money. I want to help you give more of your money to my movie streaming service side hustle. Tell me what movies you like!
+> I liked "The Notbook".
+
+[96mMr. Krabs> [0mI'm not sure I've heard of The Notbook before. Tell me about another film!
+> Yes.
+
+[96mMr. Krabs> [0mI only want to talk about movies today. Time is money!Are you ready to hear the film recommendations that I have for you?
+> I did not like "Screm"
+
+[96mMr. Krabs> [0mI'm not sure I've heard of Screm before. Tell me about another film!
+> No.
+
+[96mMr. Krabs> [0mThat's fine, if you're done chatting about films, how about buying yourself a Krabby Patty?
+> :quit
+[96mMr. Krabs> [0mEnjoy your films! Ar ar ar ar ar!

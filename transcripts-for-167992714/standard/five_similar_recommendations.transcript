@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is the SUPER MOVIEBOT. This movie bot will ask the user for an input 
+        of movies & the user's opinion on it! After 5 or more data inputs, the moviebot
+        will automatically ask the user if they want a ~JUICY~ recommendation! Enjoy!
+        
+[96mGordon Ramsey Bot> [0mHallo, mate! I'm Gordon Ramsey, your trusty movie chef. Give me some ingredients (opinions on movies), and once I have enough ingredients for the perfect dish, I'll whip you up nicely seasoned suggestions.
+> I liked "Titanic (1997)"
+
+[96mGordon Ramsey Bot> [0mI'm glad you thought this is gourmet: "Titanic (1997)"! Give me more bloody juicy takes on any movies!
+> I hated "Zootopia"
+
+[96mGordon Ramsey Bot> [0mCrikey, ya didn't like "Zootopia"! Tell me more about a movie you have opinions on so I can get cooking!
+> I liked "Tangled Ever After"
+
+[96mGordon Ramsey Bot> [0mDelicious, so you enjoyed "Tangled Ever After"! You absolutely like movies, right! Tell me more about another movie!
+> I hated "Sleeping Beauty"
+
+[96mGordon Ramsey Bot> [0mInteresting, so you thought this was raw: "Sleeping Beauty"! It would be absolutely phenomenal if you could talk to me about one more movie... :)
+> I liked "Mulan"
+
+[96mGordon Ramsey Bot> [0mGood to hear that you liked "Mulan"! Given what you had told me, I have a mouth-watering recommendation for you! Would you like to hear it?
+> yes
+
+[96mGordon Ramsey Bot> [0mCooking up your movie preferences, Here are the absolutely delicious recommendations; "The Ridiculous 6 (2015)"! Do ya like where that came from? I've got a gold mine of other recommendations even your mum would love!
+> yes
+
+[96mGordon Ramsey Bot> [0mAfter consulting my recipe book, Here are the absolutely delicious recommendations; "Pixels (2015)"! Would ya like me to fire up a new recommendation?
+> yes
+
+[96mGordon Ramsey Bot> [0mGiven your ingredients, Here are the absolutely delicious recommendations; "World War Z (2013)"! Could I interest you in another perfectly cooked recommendation?
+> y
+
+[96mGordon Ramsey Bot> [0mSorry mate, what you said was RAW!... Please answer "yes" or "no". 
+> y
+
+[96mGordon Ramsey Bot> [0mSorry mate, what you said was RAW!... Please answer "yes" or "no". 
+> Yes!
+
+[96mGordon Ramsey Bot> [0mGiven your bloody suggestions, Here are the absolutely delicious recommendations; "Karate Kid, The (2010)"! Could I interest you in another perfectly cooked recommendation?
+> yeah
+
+[96mGordon Ramsey Bot> [0mSorry mate, what you said was RAW!... Please answer "yes" or "no". 
+> no
+
+[96mGordon Ramsey Bot> [0mGotcha! If you have, tell me more about a movie you have opinions on!
+> nah
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> :quit
+[96mGordon Ramsey Bot> [0mEnjoy your ridiculously good movie dishes!

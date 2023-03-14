@@ -1,0 +1,65 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: NO
+FEATURE - Disambiguation (part 2): NO
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Emma: starter (extract titles, sentiment, processing, varied response generation) and creative functions (alternate/foreign titles)
+Alex: both starter functions (find titles, recommend, gather taste) and creative functions (disambiguate, find closest titles)
+Liv: creative implementation (fine grained sentiment, chatbot persona, emotions, arbitrary input) and ethics question
+Shree: creative - emotions, emotion responses, arbitrary
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+One ramification of anthropomorphizing chatbot systems is that users may place blind trust the chatbot. This can be especially dangerous for children, who are still developing their ability to make decisions for themselves, as well as their intuition to trust or not trust new people. Overall, too much trust in the chatbot likely leads to overuse, and potentially poor decision making if the chatbot is not accurate or prompted correctly. 
+
+Another ramification is a loss in creativity. Chatbots with human-like intelligence make it easier for people to ask for help/ideas because there is no longer the guilt of asking a human person. However, asking a 3rd party for ideas harms an individual’s ability to think for themselves. The chatbot will retrieve ideas from an existing dataset that although is large, won’t be great for innovation or challenging norms. 
+
+A third ramification is that chatbots can be weaponized to cause real-world harm. For example, chatbots make it really easy for impersonation to occur and thus identities to be stolen.
+
+A fourth ramification is that it is heavily biased (based on training data) and users have no way to see how the response fits into a specific perspective. While a user can contextualize a response from a real human based on the human’s background, a user has nothing to contextualize a chatbot’s response with because a chatbot has no single identity. 
+
+One way to distinguish chatbot response from a human is to have warnings that notify/remind users they are not talking to a human. Another strategy is to acknowledge when the chatbot has data limitations and may be providing an inaccurate response. Potentially, as tech gets more advanced, each response should be matched with a reliability score based on the quality and bias of data. One last way is to place restrictions on the usage of a chatbot system: for example, restrict use to only adults or restrict usage for less than 30 minutes (to prevent overuse).
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+Our persona is a valley girl / gen z girl stereotype. It isn't meant to be offensive :) 

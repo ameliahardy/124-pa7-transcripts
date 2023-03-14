@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mNetflixer> [0mHello, how can I help you today?
+> I saw "Titanic (1997)"
+
+[96mNetflixer> [0mI am afraid I am not certain as to whether or not you enjoyed Titanic (1997). Tell me :)
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mNetflixer> [0mDamn it! I do not seem to have Dan Jurafsky and the Ten Dwarfs (2019) in my database. My apologies, could you tell me about another one?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mNetflixer> [0mPlease tell me about one movie at a time if you would.
+> I like "Titanic".
+
+[96mNetflixer> [0mI can see several movies with the title Titanic. Could you please give me more information?
+> I like titanic.
+
+[96mNetflixer> [0mI don't quite get that. Please tell me about some movies you have seen
+> I like "titanic".
+
+[96mNetflixer> [0mDamn it! I do not seem to have titanic in my database. My apologies, could you tell me about another one?
+> I like 10 things I hate about you.
+
+[96mNetflixer> [0mGotcha! Unfortunately I can only help with movies. Tell me about one :)
+> Howdy.
+
+[96mNetflixer> [0mUnfortunately I am only able to help with movies. Could you tell me about one you've seen?
+> ...
+
+[96mNetflixer> [0mHm, that's not really what I want to talk about right now, let's go back to movies
+> I saw "Titanic (1220)"
+
+[96mNetflixer> [0mI couldn't find the movie Titanic (1220). Could you check and try again? Or tell me about another movie?
+> :quit
+[96mNetflixer> [0mHave a nice day!

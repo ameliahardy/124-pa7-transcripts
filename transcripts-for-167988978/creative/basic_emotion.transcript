@@ -1,0 +1,46 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+ 
+        I am a movie chatbot. I gather top intel on the movies and tell you all about it. You can chat with me, and based on your previous tastes, I'll recommend new movies for you to watch. Tell me about your tastes, and I'll listen. Based on our chat, I'll generate some recommendations. I'll try to be friendly.
+        
+[96mMovieRecommenderBot> [0mHow may I assist you today?
+> Hello!
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> I am feeling sad.
+
+[96mMovieRecommenderBot> [0mOh! Did I make you sad? I'm sorry! Meow!
+> I am feeling angry.
+
+[96mMovieRecommenderBot> [0mOh! Did I make you angry? I'm sorry! Meow!
+> I have been feeling down lately.
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> I'm so glad that I finished my exams.
+
+[96mMovieRecommenderBot> [0mOh! I made you glad? I'm glad! Meow!
+> I am very angry.
+
+[96mMovieRecommenderBot> [0mOh! Did I make you angry? I'm sorry! Meow!
+> I am now happy.
+
+[96mMovieRecommenderBot> [0mOh! I made you happy? I'm glad! Meow!
+> I am ANGERED.
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mMovieRecommenderBot> [0mI'm sorry, I'm not sure if you liked Titanic (1997). Please tell me more about it. Meow!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> I'm anxious about everything.
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> I HAAAATE movies.
+
+[96mMovieRecommenderBot> [0mSorry, I don't think this is a movie. Let's chat about movies. Meow!
+> :quit
+[96mMovieRecommenderBot> [0mHave a nice day!

@@ -1,0 +1,70 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: NO
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+
+Kohi: extract_sentiment(), extract_sentiment_for_movies(), helper functions for extracting sentiment. 
+Mhar: find_movies_by_title(), levenshtein(), find_movies_closest_to_title(), extract_titles(), Ethics question
+Sadorian: process(), clarify(), extract_titles(), disambiguate()
+Sam: recommend(), reshape_indices(), similarity(), process(), binarize(), disambiguate(), disam2_find_movies_closest_to_title()
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Answer:
+The anthropomorphization of these chatbots can lead to users being more likely to form closer relationships to these chatbots. 
+This idea has been explored in pieces of pop culture, such as the movie Her (2013), where a lonely man falls in love with a 
+human-like chatbot. We also have seen early examples of this with ELIZA, where users have formed emotional attachments to the program.
+However, as stated here data that these chatbots are trained on can be infiltrated with harmful and offensive content.
+Let's consider Microsoft Tay, for example, which trained on data provided for users. Hours after its launch, it started 
+returning offensive and discriminatory messages. If a user is more likely to form these bonds with a chatbot who is advanced
+enough to seem human, then the user can be influenced by the chatbot. If a chatbot can be trained to return harmful content,
+then it has the ability to pass upon the user these damaging ideas, which a user might then apply in real life contexts.
+
+One way we can ensure that users can easily distinguish the chatbot responses from those of a human is to occasionally return
+an explicit reminder (in a seamless manner) to the user that this response is coming from a chatbot. For example, we can see an 
+attempt to do this in ChatGPT, who sometimes starts off its response with "As an AI language model, ..." This is important especially
+when a user tries to make a chatbot do an ethically questionable prompt, which upon then the chatbot can return a statement that they 
+are a chatbot who does not have the ability to do the prompt (which can offer a solution to the ethical problems described above).
+We can also give this reminder when a user starts to deeply emotionally confide in the bot. Perhaps the chatbot can end their responses 
+that reminds them to perhaps seek support from human beings around them and that they can only offer limited support or advice as a 
+chatbot. By demolishing the idea that they can respond as well as human beings through these explicit reminders, we can help break a 
+user's possible unhealthy anthromorphization of chatbots. 

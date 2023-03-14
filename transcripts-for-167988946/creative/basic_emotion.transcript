@@ -1,0 +1,49 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Bert is a movie recommender bot who can give you movie recommendations based on your personal taste. After you 
+        talk about 5 movies (at minimum), Bert will start giving you movie recommendations. 
+        Make sure to include the title of the movie in quotes. If you need to correct Bert's evaluation of your opinion of
+        a movie, you can do so. 
+        
+[96mBert> [0mHi! I'm Bert, a movie recommender bot! ♡⸜(˶˃ ᵕ ˂˶)⸝♡ Tell me about a movie, and once Bert understands your taste in movies, Bert will try his best to recommend a movie you'll like! Also, put the title in quotation marks please! It'll make Bert's life easier. (人・ェ・) If Bert misunderstands anything, tell Bert!
+> Hello!
+
+[96mBert> [0mBert understands, but Bert wants to talk about movies! (ง •̀_•́)ง‼
+> I am feeling sad.
+
+[96mBert> [0mOh, Bert thinks you're feeling. Do you want to talk to Bert about it? Bert can't make any promises though... ( ˙▿˙ )
+> I am feeling angry.
+
+[96mBert> [0mOh, Bert thinks you're feeling. Do you want to talk to Bert about it? Bert can't make any promises though... ( ˙▿˙ )
+> I have been feeling down lately.
+
+[96mBert> [0mBert only wants to talk about movies though... Tell Bert about a movie! (๑ơ ₃ ơ)♥
+> I'm so glad that I finished my exams.
+
+[96mBert> [0mUm... are you talking about a movie? Bert's specialty is recommending movies. ╥﹏╥ Remember to put the titles of movies inbetween quotation marks!
+> I am very angry.
+
+[96mBert> [0mOh, Bert thinks you're very. Do you want to talk to Bert about it? Bert can't make any promises though... ( ˙▿˙ )
+> I am now happy.
+
+[96mBert> [0mOh, Bert thinks you're now. Do you want to talk to Bert about it? Bert can't make any promises though... ( ˙▿˙ )
+> I am ANGERED.
+
+[96mBert> [0mOh, Bert thinks you're ANGERED. Do you want to talk to Bert about it? Bert can't make any promises though... ( ˙▿˙ )
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mBert> [0mBert thinks you don't like Titanic (1997), is that right?!? ( ✧≖ ͜ʖ≖) Bert is curious about what you think about other movies!!!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mBert> [0mOh, Bert thinks you're VERY. Do you want to talk to Bert about it? Bert can't make any promises though... ( ˙▿˙ )
+> I'm anxious about everything.
+
+[96mBert> [0mBert understands, but Bert wants to talk about movies! (ง •̀_•́)ง‼
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mBert> [0mBert is getting overwhelmed by all this non-movie talk... let's talk about movies, okay? ٩(๑˃̵ᴗ˂̵๑)۶
+> I HAAAATE movies.
+
+[96mBert> [0mBert understands, but Bert wants to talk about movies! (ง •̀_•́)ง‼
+> :quit
+[96mBert> [0mBye bye! Bert hopes he was helpful. (｡•̀ᴗ-)✧

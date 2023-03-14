@@ -1,0 +1,10 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                      This chatbot is designed to help users discover movies that match their 
+                      interests and preferences. Tell our bot some information about a movie you
+                      like or dislike, and the chatbot will use natural language processing to 
+                      generate an appropriate movie recommendation list!
+                      
+[96mFlixFinder> [0mBonjour!
+> :quit
+[96mFlixFinder> [0mSee you later!!

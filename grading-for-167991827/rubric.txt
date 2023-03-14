@@ -1,0 +1,72 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): YES
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): YES
+FEATURE - Fine-grained sentiment extraction: NO
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): NO
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: NO
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: NO
+FEATURE - Responding to arbitrary input: NO
+FEATURE - Identifying and responding to emotions: NO
+# FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Kris: setting up chatbot responses (pt 1,5), movie recommendation (pt 3), extract_titles, ethics, binarize, disambiguate
+JB: extract_titles (creative), find_movies_by_title (starter and creative), extract_sentiment, find_movies_closest_to_title, 
+Sean: process for both starter and creative, Chatbot theme/persona
+
+We all contributed to the project overall.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+Response: One of the biggest problems that may come from anthropomorphizing chatbot systems stem from the fact 
+that it may "trick" humans into believing that it too is "human" enough. Many studies show that humans are quick to
+personify things and form connections with nonhuman items; as ELIZA showed, humans are quick to subconsciously accept
+conversations with chatbots as conversations with a real human. This could lead to users giving an unwarranted amount 
+of trust in the chatbot, and blindly trusting its advice (e.g. taking what ELIZA says as advice from a real therapist).
+This could be particularly harmful when paired with the fact that chatbots trained on massive amounts of data can yield
+harmful or incorrect information (e.g. suicidal patient asks chatbot to weigh the pros and cons of suicide, chatbot 
+gives objective response, patient driven to suicide). There are also privacy concerns as well as exposure to harmful 
+contents as chatbots are trained on more and more human-generated data online in order to become more human-like in its 
+conversations.
+
+One way that engineers could distinguish between chatbot responses and human responses is by asking the chatbot questions 
+that it couldn't answer if it weren't human: such as questions about its personal identity, its emotions, current events, 
+the date or time (ChatGPT can't answer these). Of course, there is the probability that once the creators of the chatbot 
+stop regulating it, the chatbot can simply train on data and give back incorrect but believable information (such as a bogus
+human persona). However, as of now, this seems like a decent way to mark content that AI generates.
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

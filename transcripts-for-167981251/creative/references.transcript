@@ -1,0 +1,36 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+                      This chatbot is designed to help users discover movies that match their 
+                      interests and preferences. Tell our bot some information about a movie you
+                      like or dislike, and the chatbot will use natural language processing to 
+                      generate an appropriate movie recommendation list!
+                      
+[96mFlixFinder> [0mпривет!
+> I liked "Blade Runner".
+
+[96mFlixFinder> [0m Great, you liked "Blade Runner"! Tell me what you thought about another movie.
+> But not "Terminator Salvation".
+
+[96mFlixFinder> [0mI'm sorry, I'm not sure if you liked Terminator Salvation. Tell me more about it.
+> I saw "Titanic (1997)".
+
+[96mFlixFinder> [0mI found more than one movie called "Titanic (1997)". Can you clarify which of these titles you mean? Here is a list of all the results:
+Titanic (1997)
+Titanic (1997)
+> I liked it.
+
+[96mFlixFinder> [0mI'm still not sure which you mean. Do you know the year it came out? Or the full title? That will help!
+> I watched "Scream".
+
+[96mFlixFinder> [0mOkay sorry I didn't get that. Tell me about another movie to continue :)
+> I didn't like that movie.
+
+[96mFlixFinder> [0mAnd I'm so sorry to hear that :( When you're ready, please tell me about a film to get started.
+> I felt the same about "Zootopia".
+
+[96mFlixFinder> [0mI'm sorry, I'm not sure if you liked Zootopia. Tell me more about it.
+> And also "Ex Machina".
+
+[96mFlixFinder> [0mI'm sorry, I'm not sure if you liked Ex Machina. Tell me more about it.
+> :quit
+[96mFlixFinder> [0mGoodbye!

@@ -1,0 +1,21 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Yo, what's good homie? Welcome to MovieBot! 
+            This dope bot is gonna hook you up with some tight movie recommendations based on your likes and dislikes. 
+            So why don't you lay down your thoughts on some flicks and let this bot work its magic. Fo shizzle!
+            
+[96mmoviebot> [0mWhat up, what up! This is MovieBot in the house! I gotchu covered with some lit movie recommendations, but first let me get a feel for your vibe. Can you tell me about a movie you've seen and what you thought of it? That way I can get a sense of your taste in flicks.
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mmoviebot> [0mYo, slow down for a minute, my homie! Let's take it one flick at a time, so we can make sure we're on the same page.
+> I liked "Zootopia" but not "Scream".
+
+[96mmoviebot> [0mYo, slow down for a minute, my homie! Let's take it one flick at a time, so we can make sure we're on the same page.
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mmoviebot> [0mYo, slow down for a minute, my homie! Let's take it one flick at a time, so we can make sure we're on the same page.
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mmoviebot> [0mYo, slow down for a minute, my homie! Let's take it one flick at a time, so we can make sure we're on the same page.
+> :quit
+[96mmoviebot> [0mHave a nice day!

@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a chatbot that asks the user for user preferences on 5 different movies. It uses item-item collaborative filtering to then generate movie recommendations to the user. To use this chatbot, please input the movie name in parantheses (with the year it was released in case of ambiguity) and whether or not you liked it. Sample input: 'I like "Titanic (1997)".', 'I hated "Jumanji".' 
+
+Note: If you wish to run the chatbot in creative mode, please exit the program and run the following command: python repl.py --creative
+
+[96mtrump_gpt> [0mLovely to meet you! How may I help you today?
+> I liked "Titanic (1997)"
+
+[96mtrump_gpt> [0mYou like Titanic (1997)? Thanks for letting me know. Now tell me another one
+> I hated "Zootopia"
+
+[96mtrump_gpt> [0mOh no! You disliked Zootopia (2016):( Another one?
+> I liked "Tangled Ever After"
+
+[96mtrump_gpt> [0mYou like Tangled Ever After (2012)? Thanks for letting me know. Now tell me another one
+> I hated "Sleeping Beauty"
+
+[96mtrump_gpt> [0mYou disliked Sleeping Beauty (1959)? OK. Each to their own. Do you have any other movie you like/dislike?
+> I liked "Mulan"
+
+Yay, you liked Mulan (1998)! Tell me what you think of another movie
+[96mtrump_gpt> [0mThen check out The Ridiculous 6 (2015)! My fav, too. Type 'Yes' for more recommendation. ':quit' for restart
+> yes
+
+[96mtrump_gpt> [0mThen check out Pixels (2015)! My fav, too. Type 'Yes' for more recommendation. ':quit' for restart
+> yes
+
+[96mtrump_gpt> [0mThen check out World War Z (2013)! My fav, too. Type 'Yes' for more recommendation. ':quit' for restart
+> yes
+
+[96mtrump_gpt> [0mI recommend Karate Kid, The (2010)! It's a good one. Want more recommendation? Type 'Yes' or ':quit' to end session
+> y
+
+[96mtrump_gpt> [0mPlease enter Yes for more recommendations and :quit to end this session
+> y
+
+[96mtrump_gpt> [0mPlease enter Yes for more recommendations and :quit to end this session
+> Yes!
+
+[96mtrump_gpt> [0mThen check out Not Another Teen Movie (2001)! My fav, too. Type 'Yes' for more recommendation. ':quit' for restart
+> yeah
+
+[96mtrump_gpt> [0mYou should watch Damage (Fatale) (1992) then. Hope you like it. Type 'Yes' for more recommendation or ':quit' to end and restart
+> no
+
+[96mtrump_gpt> [0mTo end this session, type ':quit'
+> nah
+
+[96mtrump_gpt> [0mTo end this session, type ':quit'
+> :quit
+[96mtrump_gpt> [0mThanks for dropping by; have a nice day!

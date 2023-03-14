@@ -1,0 +1,47 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Heyyy!! I guess I'm a movie recommendation chatbot, but like, I'm also
+            totally not a weird creepy robot. I don't say 'beep boop bop' or anything
+            like that. Don't worry.
+
+            So tell me about some movies you've watched and if you totally loved them
+            or really hated them. Then I'll give you some movies you def should watch.
+
+            It helps me if you put the movie in quotes, though, like:
+
+            I thought "Toy Story" was super rad. 
+            
+[96mgirlybot> [0mOh my gosh, hey girl! So like...what's up? I am - like - SO excited you're here. I can totally recommend some movies if you tell me what movies you've liked or disliked!
+> Hello!
+
+[96mgirlybot> [0mI don’t really want to talk about anything but movies right now... so please, a movie. 
+> I am a robot too.
+
+[96mgirlybot> [0mI don’t really want to talk about anything but movies right now... so please, a movie. 
+> What is your name?
+
+[96mgirlybot> [0mWell, what do you think?? Let's just talk about movies please...
+> Do you know anything about books?
+
+[96mgirlybot> [0m Let's just talk about movies please...
+> I loved Dan Jurafsky's latest lecture.
+
+[96mgirlybot> [0mNot to be rude… but you’re being really boring. Let’s talk about movies please. 
+> Can you speak French?
+
+[96mgirlybot> [0mI don't know if that's something I can do, I'm just a chatbot. Let's just talk about movies please...
+> How are you feeling?
+
+[96mgirlybot> [0mHow you'd come to believe I'd know such a thing is crazy. Let's just talk about movies please...
+> What's up?
+
+[96mgirlybot> [0m Let's just talk about movies please...
+> Do you know the muffin man?
+
+[96mgirlybot> [0m Let's just talk about movies please...
+> I liked it.
+
+[96mgirlybot> [0mI don’t really want to talk about anything but movies right now... so please, a movie. 
+> :quit
+
+[96mgirlybot> [0mSO good chatting and feel free to hit me up again, like, if you need another rec. Like, any rec. Byeee!

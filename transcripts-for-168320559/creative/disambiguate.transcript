@@ -1,0 +1,25 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSherlock HomieBot> [0mWell hello there! My name is Sherlock Holmes. It is my business to know what other people don't know. I'm here to deduce the best movie recommendations for you! Let's get straight to business. Tell me about a movie. Spare no details!
+> I liked "Harry Potter".
+
+[96mSherlock HomieBot> [0mSeems like you may be talking about a couple of different movies here. Which one do you mean?
+> Chamber of Secrets
+
+[96mSherlock HomieBot> [0mI processed Chamber of Secrets in creative mode!! 
+ After careful examination, there appear to be no movies in the clue you've given me. Why don't you tell me something about a movie?
+> I liked "Harry Potter".
+
+[96mSherlock HomieBot> [0mSeems like you may be talking about a couple of different movies here. Which one do you mean?
+> Prisoner of Azkaban
+
+[96mSherlock HomieBot> [0mI processed Prisoner of Azkaban in creative mode!! 
+ After careful examination, there appear to be no movies in the clue you've given me. Why don't you tell me something about a movie?
+> :quit
+[96mSherlock HomieBot> [0mIt's been a pleasure solving your case. Now I must depart for yet another case. The game is afoot!

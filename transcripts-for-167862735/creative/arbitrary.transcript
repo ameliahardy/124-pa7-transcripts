@@ -1,0 +1,36 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Below is an experimental Dr. Seuss chatbot. It understands movie titles in quotes, but you'll probably have to work a bit to understand its responses. That's the joy of Dr. Seuss!
+[96mDr. Seuss> [0mOh me, oh my! What wonderful day! I'm a Dr. Seuss chatbot and I would like to say: do you have a dearest flick, a cinematic pic?
+> Hello!
+
+[96mDr. Seuss> [0mSorry, can't guess the show you mean. Could you expand on it, dear, or intervene?
+> I am a robot too.
+
+[96mDr. Seuss> [0mOh dear, my ears must be deceiving! Which movie, my friend, were you speaking?
+> What is your name?
+
+[96mDr. Seuss> [0mPardon me, my memory's hazy, which movie was it, my dear daisy?
+> Do you know anything about books?
+
+[96mDr. Seuss> [0mSorry, can't guess the show you mean. Could you expand on it, dear, or intervene?
+> I loved Dan Jurafsky's latest lecture.
+
+[96mDr. Seuss> [0mOh dear, my ears must be deceiving! Which movie, my friend, were you speaking?
+> Can you speak French?
+
+[96mDr. Seuss> [0mPardon me, my memory's hazy, which movie was it, my dear daisy?
+> How are you feeling?
+
+[96mDr. Seuss> [0mSorry, can't guess the show you mean. Could you expand on it, dear, or intervene?
+> What's up?
+
+[96mDr. Seuss> [0mOh dear, my ears must be deceiving! Which movie, my friend, were you speaking?
+> Do you know the muffin man?
+
+[96mDr. Seuss> [0mPardon me, my memory's hazy, which movie was it, my dear daisy?
+> I liked it.
+
+[96mDr. Seuss> [0mOh dear, my ears must be deceiving! Which movie, my friend, were you speaking?
+> :quit
+
+[96mDr. Seuss> [0mHave a nice day!

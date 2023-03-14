@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi there! Give me a movie you like
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mNice, you enjoyed Blade Runner. How about another flick?
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mYou watched Terminator Salvation, but not sure if you liked it? Give me more deets, please!
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mYou watched Titanic (1997), but not sure if you liked it? Give me more deets, please!
+> I liked it.
+
+[96mmoviebot> [0mBoring.
+> I watched "Scream".
+
+[96mmoviebot> [0mWhoa, more than one Scream? Can you tell me which one you're into?
+> I didn't like that movie.
+
+[96mmoviebot> [0mBoring.
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mYou watched Zootopia, but not sure if you liked it? Give me more deets, please!
+> And also "Ex Machina".
+
+[96mmoviebot> [0mHmm... how about Toy Story 2 (1999)? Want another rec? Reply "yes" or "no".
+> :quit
+[96mmoviebot> [0mLater

@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Ahoy mate, I am a pirate-themed chat bot. Tell me about yer movie taste, and I'll give you some recs.
+        Stay on topic though, or walk the plank.
+        Arrrrrr
+        
+[96mpiratebot> [0mAhoy! I am piratebot. Give me ye movie taste, matey. I shall grant you some recommendations.
+> I liked "Harry Potter".
+
+[96mpiratebot> [0mShiver me timbers, there are more than one movies called "harry potter". Can you clarify which movie you mean, mate?
+"Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)"
+"Harry Potter and the Chamber of Secrets (2002)"
+"Harry Potter and the Prisoner of Azkaban (2004)"
+"Harry Potter and the Goblet of Fire (2005)"
+"Harry Potter and the Order of the Phoenix (2007)"
+"Harry Potter and the Half-Blood Prince (2009)"
+"Harry Potter and the Deathly Hallows: Part 1 (2010)"
+"Harry Potter and the Deathly Hallows: Part 2 (2011)"
+> Chamber of Secrets
+
+[96mpiratebot> [0mIt's great to see that you liked watching "Harry Potter and the Chamber of Secrets (2002)"! Tell me about another movie, mate.
+> I liked "Harry Potter".
+
+[96mpiratebot> [0mShiver me timbers, there are more than one movies called "harry potter". Clarify yerself.
+"Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)"
+"Harry Potter and the Chamber of Secrets (2002)"
+"Harry Potter and the Prisoner of Azkaban (2004)"
+"Harry Potter and the Goblet of Fire (2005)"
+"Harry Potter and the Order of the Phoenix (2007)"
+"Harry Potter and the Half-Blood Prince (2009)"
+"Harry Potter and the Deathly Hallows: Part 1 (2010)"
+"Harry Potter and the Deathly Hallows: Part 2 (2011)"
+> Prisoner of Azkaban
+
+[96mpiratebot> [0mIt's great to see that you liked watching "Harry Potter and the Prisoner of Azkaban (2004)"! Tell me about another movie, or walk the plank.
+> :quit
+[96mpiratebot> [0mGood talking to you, matey.

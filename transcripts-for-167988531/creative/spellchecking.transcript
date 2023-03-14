@@ -1,0 +1,27 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+
+        This chatbot takes on the persona of Mario, a video game character, and
+        offers movie recommendations based on knowing what you like. Feel free
+        to chat with him casually, and he'll do his best to find a movie that 
+        you'll enjoy. You can ask for multiple recommendations by continuing to 
+        request more, exit using ":quit" and even discuss your emotions. Disclaimer: 
+        We are doing this purely for an assignment and are not receiving monetary 
+        compensation. Nintendo, if you see this, please don't sue us.
+    
+        
+[96mmoviebot> [0mSalve a tutti! Ready for-a some movies?
+> I liked "The Notbook".
+
+[96mmoviebot> [0mI'm-a sorry, I don't-a recognize "The Notbook.". Can you-a share another movie you enjoyed?
+> Yes.
+
+[96mmoviebot> [0mMany thanks! Oh boy, it seems like I'm-a not following you. Can-a you share with me a movie you enjoyed or didn't enjoy?
+> I did not like "Screm"
+
+[96mmoviebot> [0mWhoa! "Screm" is-a not a movie I know. But don't-a worry, let's-a hear about another one you liked.
+> No.
+
+[96mmoviebot> [0mThank you kindly! Mamma mia, it looks like we're not on the same page. Can-a you tell-a me about a movie you liked or didn't like?
+> :quit
+[96mmoviebot> [0mLater gator! Or should I say-a, later-a crocodile!

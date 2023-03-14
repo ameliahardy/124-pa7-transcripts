@@ -1,0 +1,42 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mWatch movies, you must. From them, learn you will. Good taste in movies, have you? Hmmmm. Recommend great movies, I can.
+> Hello!
+
+[96mmoviebot> [0mMore than one hello there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)?
+> I am a robot too.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> What is your name?
+
+[96mmoviebot> [0mMmmm.  my name I know not Movies, our main focus should be. Return to them, we must. Seen many movies, have you? Which ones, can you recall?
+> Do you know anything about books?
+
+[96mmoviebot> [0mAnswer your question, I cannot. Movies, our main focus should be. Return to them, we must. Seen many movies, have you? Which ones, can you recall?
+> I loved Dan Jurafsky's latest lecture.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> Can you speak French?
+
+[96mmoviebot> [0mMmmm.  speak french. I cannot do. Off topic, we have wandered. Return to movies, we must. Seen many movies, have you? Which ones, can you recall?
+> How are you feeling?
+
+[96mmoviebot> [0mAnswer your question, I cannot. Tangents, we must resist. Return to the main topic of movies, we shall. Seen many movies, have you? Which ones, can you recall?
+> What's up?
+
+[96mmoviebot> [0mAnswer your question, I cannot. Discussion of movies, let us not stray from. Return to it, we must. Seen many movies, have you? Which ones, can you recall?
+> Do you know the muffin man?
+
+[96mmoviebot> [0mAnswer your question, I cannot. Movies, our focus should remain. Return to them, we must. Seen many movies, have you? Which ones, can you recall?
+> I liked it.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> :quit
+
+[96mmoviebot> [0mWatch great movies, you shall. Wisdom from them, you will gain. Mmmmm. Farewell, young friend.

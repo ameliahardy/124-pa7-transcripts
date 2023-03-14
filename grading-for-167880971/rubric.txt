@@ -1,0 +1,69 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: NO
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Tessa and Caroline worked collaboratively on the starter mode.
+Will and Walker worked collaboratively on the creative section.
+Everyone was ethical and collaborated on the ethics section.
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+TODO: Please answer the following question:
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice,
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+A possible ramification of anthropomorphizing chatbot systems is that some people who suffer from poor mental health
+may start to view chatbots as a real person and could lead to further instability in their lives if they are confiding
+in a computer as they would a friend. This would be a problem because the chatbot is not in fact a person or friend.
+The computer may not be able to call for help if the person is unwell, and someone reliant on talking to chatbots may
+not be able to connect with people in real life, leading to bad outcomes for people with poor mental health. Another
+consequence is that people may trust what chatbots say as much as they trust what a person in real life says, when oftentimes, chatbots are good at phrasing things authoritatively, but
+may be misleading.
+A chatbot like ELIZA works by reflecting the user's statements back to the user, which is can be
+helpful therapy, but does not work to be proactive in correcting potential wrong modes of thinking or provide more
+substantial care if needed. This leads to the possibility of misinformation and mistrust.
+
+In order to ensure that users can easily distinguish chatbot responses from those of a human, engineers could stop
+focusing as much on the responses being delivered in a humanlike way. Keeping sentence structures rigid may remind
+users that they are talking to a robot and not a person. Additionally, like ChatGPT, we could ensure that all responses
+include some disclaiming like "as a chatbot," so users are continually reminded that they are not talking to a person.
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!

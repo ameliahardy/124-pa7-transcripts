@@ -1,0 +1,52 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Howdy, partner! We are gonna have a hog-killin' time figuring out the next movie you are going to watch. 
+        Please tell me about 5 movies you have seen that were either an ace in the hole or a snake in your boot. 
+        Make sure to include only one movie name per line and ensure the name of the movie is in quotes along with 
+        the year of the movie in parentheses (if you don't do this you might end up swimming with the fishes). Once 
+        I have the names of the movies you have watched, I will make you recommendations. Feel free to say yes if 
+        you want to hear more recommendations or no if have had enough. Enough dilly dallying. Let's get to talking!
+        
+[96mCowboy Cap> [0mHowdy, I'm Cowboy Cap! After we speak, movies won't feel like the wild west anymore. Tell me the name and year of a movie you have seen.
+> I liked "Blade Runner".
+
+[96mCowboy Cap> [0mI'm glad "Blade Runner" is one of your favorite movies. What is another movie you have watched?
+> But not "Terminator Salvation".
+
+[96mCowboy Cap> [0mI'm sorry, I'm not sure if you liked "Terminator Salvation". Tell me more about it.
+> I saw "Titanic (1997)".
+
+[96mCowboy Cap> [0mI can't tell if you liked or disliked "Titanic (1997)". Can you tell me more about it please?
+> I liked it.
+
+[96mCowboy Cap> [0mThat's interesting, but I don't think you have given me a movie. Make sure you have placed a movie title in quotes!
+> I watched "Scream".
+
+[96mCowboy Cap> [0mWhich one did you mean? Scream of Stone (Cerro Torre: Schrei aus Stein) (1991) or Scream (1996) or Scream 2 (1997) or Scream 3 (2000)?
+> I didn't like that movie.
+
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
+    func = getattr(self, 'do_' + cmd)
+AttributeError: 'REPL' object has no attribute 'do_I'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "repl.py", line 189, in <module>
+    repl.cmdloop()
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
+    return function(*args, **kwargs)
+  File "repl.py", line 77, in cmdloop
+    return super().cmdloop(intro)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
+    stop = self.onecmd(line)
+  File "repl.py", line 90, in onecmd
+    return super().onecmd(s)
+  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
+    return self.default(line)
+  File "repl.py", line 104, in default
+    response = self.chatbot.process(line)
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167522002/chatbot.py", line 206, in process
+    title = self.titles[movie_option[0]][0]
+IndexError: list index out of range

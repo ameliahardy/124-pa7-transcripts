@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        A Peter Griffin core chatbot for CS124. Hehehehehehehe.
+        
+[96mpeterbot> [0mHehehe I am peterbot. This reminds me of the time Quagmire asked me for movie suggestions...
+> I saw "Titanic (1997)"
+
+[96mpeterbot> [0mSo you've seen "Titanic (1997)" ? And what did you think?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mpeterbot> [0mI couldn't find a movie with that title. Can you recommend a movie that's a little less artsy and a little more like the kind of movie Lois would watch on girls' night?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mpeterbot> [0mOkay, hold on a sec. You gave me a list of movies. What are you talkin' about'?
+> I like "Titanic".
+
+[96mpeterbot> [0mDid you mean Titanic (1953) or Titanic (1997)?
+> I like titanic.
+
+[96mpeterbot> [0mUhhhhhhhhhhm, so that didn't help... can you just clarify which movie you meant?
+> I like "titanic".
+
+[96mpeterbot> [0mUhhhhhhhhhhm, so that didn't help... can you just clarify which movie you meant?
+> I like 10 things I hate about you.
+
+[96mpeterbot> [0mUhhhhhhhhhhm, so that didn't help... can you just clarify which movie you meant?
+> Howdy.
+
+[96mpeterbot> [0mUhhhhhhhhhhm, so that didn't help... can you just clarify which movie you meant?
+> ...
+
+[96mpeterbot> [0mWhich one? Titanic (1953) or Titanic (1997) or... oh wait, that's it, hehehehehe
+> I saw "Titanic (1220)"
+
+[96mpeterbot> [0mUhhhhhhhhhhm, so that didn't help... can you just clarify which movie you meant?
+> :quit
+[96mpeterbot> [0mSee you at the Clam some time?

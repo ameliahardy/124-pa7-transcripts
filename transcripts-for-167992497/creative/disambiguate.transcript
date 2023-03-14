@@ -1,0 +1,28 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Welcome to the Chavo del Ocho Movie Chatbot! This is an engaging chatbot
+        that can mainly help you find your next favorite movie recommendation!
+        Just provide him with a few movies you've seen and tell him what you thought
+        of them and magic will happen. Chavo is smart and can find movies even
+        when you don't write them with the exact name. Exciting!
+        
+        But that's not all, Chavo can handle open ended conversation (you can tell
+        him about your feelings) and many more! 
+        
+[96mChavo del Ocho> [0mHola! I'm Chavo and I can help you find your new favorite movie! Just tell me about a
+movie that you have seen and whether or not you like it. Ah, just make sure to place the movie between
+quotes so I can recognize it, por favor!
+> I liked "Harry Potter".
+
+[96mChavo del Ocho> [0mCouldn't match any movie with the title "Harry Potter". Can you try again por favor?
+> Chamber of Secrets
+
+[96mChavo del Ocho> [0mNot sure I got that. Try writing your movie between quotes!
+> I liked "Harry Potter".
+
+[96mChavo del Ocho> [0mCouldn't match any movie with the title "Harry Potter". Can you try again por favor?
+> Prisoner of Azkaban
+
+[96mChavo del Ocho> [0mHmmm, is that a movie? Can you try again?
+> :quit
+[96mChavo del Ocho> [0mAdiós! Hope have a nice day!
